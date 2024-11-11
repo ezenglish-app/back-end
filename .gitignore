@@ -1,4 +1,6 @@
 .env
 .env.test
 
+.vscode
+
 coverage/git
