@@ -1,0 +1,41 @@
+{
+  "scriptId": "557",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/create_collection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4410, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4409, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4345, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CreateCollectionOperation",
+      "ranges": [{ "startOffset": 1298, "endOffset": 1449, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 1454, "endOffset": 1504, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 1509, "endOffset": 3526, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "executeWithoutEncryptedFieldsCheck",
+      "ranges": [{ "startOffset": 3531, "endOffset": 4135, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

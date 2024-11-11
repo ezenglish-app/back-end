@@ -1,0 +1,35 @@
+{
+  "scriptId": "630",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@mongodb-js/saslprep/1.1.9/dist/node.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 954, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 953, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 889, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 2 },
+        { "startOffset": 358, "endOffset": 363, "count": 1 },
+        { "startOffset": 364, "endOffset": 384, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "saslprep",
+      "ranges": [{ "startOffset": 676, "endOffset": 768, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "446",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/sameDay.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 326, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sameDay",
+      "ranges": [{ "startOffset": 53, "endOffset": 267, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

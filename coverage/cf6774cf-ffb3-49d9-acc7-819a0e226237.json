@@ -1,0 +1,278 @@
+{
+  "scriptId": "519",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/collection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 29146, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 29145, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 29081, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Collection",
+      "ranges": [
+        { "startOffset": 2778, "endOffset": 3407, "count": 2 },
+        { "startOffset": 3024, "endOffset": 3053, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get dbName",
+      "ranges": [{ "startOffset": 3487, "endOffset": 3543, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get collectionName",
+      "ranges": [{ "startOffset": 3599, "endOffset": 3671, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get namespace",
+      "ranges": [{ "startOffset": 3787, "endOffset": 3856, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get fullNamespace",
+      "ranges": [{ "startOffset": 3952, "endOffset": 4012, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get readConcern",
+      "ranges": [
+        { "startOffset": 4174, "endOffset": 4328, "count": 4 },
+        { "startOffset": 4287, "endOffset": 4327, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get readPreference",
+      "ranges": [
+        { "startOffset": 4493, "endOffset": 4659, "count": 4 },
+        { "startOffset": 4559, "endOffset": 4615, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get bsonOptions",
+      "ranges": [{ "startOffset": 4664, "endOffset": 4724, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get writeConcern",
+      "ranges": [
+        { "startOffset": 4887, "endOffset": 5045, "count": 4 },
+        { "startOffset": 4949, "endOffset": 5003, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get hint",
+      "ranges": [{ "startOffset": 5103, "endOffset": 5159, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set hint",
+      "ranges": [{ "startOffset": 5164, "endOffset": 5251, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "insertOne",
+      "ranges": [{ "startOffset": 5667, "endOffset": 5869, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insertMany",
+      "ranges": [{ "startOffset": 6291, "endOffset": 6518, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bulkWrite",
+      "ranges": [{ "startOffset": 7201, "endOffset": 7606, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateOne",
+      "ranges": [{ "startOffset": 8047, "endOffset": 8271, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "replaceOne",
+      "ranges": [{ "startOffset": 8571, "endOffset": 8807, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateMany",
+      "ranges": [{ "startOffset": 9249, "endOffset": 9475, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteOne",
+      "ranges": [{ "startOffset": 9676, "endOffset": 9894, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteMany",
+      "ranges": [{ "startOffset": 10104, "endOffset": 10324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rename",
+      "ranges": [{ "startOffset": 10593, "endOffset": 10943, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "drop",
+      "ranges": [{ "startOffset": 11143, "endOffset": 11324, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findOne",
+      "ranges": [{ "startOffset": 11329, "endOffset": 11542, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "find",
+      "ranges": [{ "startOffset": 11547, "endOffset": 11714, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "options",
+      "ranges": [{ "startOffset": 11846, "endOffset": 12045, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isCapped",
+      "ranges": [{ "startOffset": 12187, "endOffset": 12380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createIndex",
+      "ranges": [{ "startOffset": 13332, "endOffset": 13629, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createIndexes",
+      "ranges": [{ "startOffset": 14692, "endOffset": 14989, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dropIndex",
+      "ranges": [{ "startOffset": 15172, "endOffset": 15484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dropIndexes",
+      "ranges": [{ "startOffset": 15617, "endOffset": 15915, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listIndexes",
+      "ranges": [{ "startOffset": 16068, "endOffset": 16206, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "indexExists",
+      "ranges": [{ "startOffset": 16446, "endOffset": 16754, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "indexInformation",
+      "ranges": [{ "startOffset": 16759, "endOffset": 16911, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "estimatedDocumentCount",
+      "ranges": [{ "startOffset": 17651, "endOffset": 17887, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "countDocuments",
+      "ranges": [{ "startOffset": 19374, "endOffset": 19944, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "distinct",
+      "ranges": [{ "startOffset": 19949, "endOffset": 20177, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "indexes",
+      "ranges": [{ "startOffset": 20182, "endOffset": 20508, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findOneAndDelete",
+      "ranges": [{ "startOffset": 20513, "endOffset": 20744, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findOneAndReplace",
+      "ranges": [{ "startOffset": 20749, "endOffset": 21008, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findOneAndUpdate",
+      "ranges": [{ "startOffset": 21013, "endOffset": 21260, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "aggregate",
+      "ranges": [{ "startOffset": 21511, "endOffset": 21865, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "watch",
+      "ranges": [{ "startOffset": 24076, "endOffset": 24390, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "initializeUnorderedBulkOp",
+      "ranges": [{ "startOffset": 24858, "endOffset": 25005, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "initializeOrderedBulkOp",
+      "ranges": [{ "startOffset": 25495, "endOffset": 25636, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "count",
+      "ranges": [{ "startOffset": 26399, "endOffset": 26622, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listSearchIndexes",
+      "ranges": [{ "startOffset": 26627, "endOffset": 27090, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSearchIndex",
+      "ranges": [{ "startOffset": 27406, "endOffset": 27543, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSearchIndexes",
+      "ranges": [{ "startOffset": 27920, "endOffset": 28107, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dropSearchIndex",
+      "ranges": [{ "startOffset": 28323, "endOffset": 28484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateSearchIndex",
+      "ranges": [{ "startOffset": 28814, "endOffset": 29005, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "451",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/sameYear.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 266, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sameYear",
+      "ranges": [{ "startOffset": 54, "endOffset": 205, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

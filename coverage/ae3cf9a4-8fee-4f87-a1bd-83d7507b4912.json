@@ -1,0 +1,82 @@
+{
+  "scriptId": "639",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/srv_polling.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3488, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3423, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SrvPollingEvent",
+      "ranges": [{ "startOffset": 622, "endOffset": 691, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hostnames",
+      "ranges": [{ "startOffset": 696, "endOffset": 814, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SrvPoller",
+      "ranges": [
+        { "startOffset": 939, "endOffset": 1513, "count": 1 },
+        { "startOffset": 1021, "endOffset": 1137, "count": 0 },
+        { "startOffset": 1225, "endOffset": 1229, "count": 0 },
+        { "startOffset": 1284, "endOffset": 1296, "count": 0 },
+        { "startOffset": 1405, "endOffset": 1413, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get srvAddress",
+      "ranges": [{ "startOffset": 1518, "endOffset": 1605, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get intervalMS",
+      "ranges": [{ "startOffset": 1610, "endOffset": 1717, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "start",
+      "ranges": [{ "startOffset": 1722, "endOffset": 1806, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stop",
+      "ranges": [{ "startOffset": 1811, "endOffset": 1992, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "schedule",
+      "ranges": [{ "startOffset": 2072, "endOffset": 2333, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "success",
+      "ranges": [{ "startOffset": 2338, "endOffset": 2503, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "failure",
+      "ranges": [{ "startOffset": 2508, "endOffset": 2578, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_poll",
+      "ranges": [{ "startOffset": 2583, "endOffset": 3279, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

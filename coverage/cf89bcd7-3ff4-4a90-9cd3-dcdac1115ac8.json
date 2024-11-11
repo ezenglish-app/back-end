@@ -1,0 +1,46 @@
+{
+  "scriptId": "530",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/wire_protocol/shared.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1963, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1962, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1898, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getReadPreference",
+      "ranges": [
+        { "startOffset": 613, "endOffset": 1161, "count": 20 },
+        { "startOffset": 757, "endOffset": 800, "count": 6 },
+        { "startOffset": 846, "endOffset": 939, "count": 0 },
+        { "startOffset": 1011, "endOffset": 1132, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSharded",
+      "ranges": [
+        { "startOffset": 1162, "endOffset": 1861, "count": 40 },
+        { "startOffset": 1235, "endOffset": 1264, "count": 0 },
+        { "startOffset": 1371, "endOffset": 1399, "count": 0 },
+        { "startOffset": 1666, "endOffset": 1841, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1779, "endOffset": 1833, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

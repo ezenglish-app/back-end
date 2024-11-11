@@ -1,0 +1,76 @@
+{
+  "scriptId": "595",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/errors.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4800, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4799, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4735, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MongoCryptError",
+      "ranges": [{ "startOffset": 1102, "endOffset": 1177, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 1182, "endOffset": 1234, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoCryptInvalidArgumentError",
+      "ranges": [{ "startOffset": 1776, "endOffset": 1828, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 1833, "endOffset": 1900, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoCryptCreateDataKeyError",
+      "ranges": [{ "startOffset": 2491, "endOffset": 2671, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 2676, "endOffset": 2741, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoCryptCreateEncryptedCollectionError",
+      "ranges": [{ "startOffset": 3343, "endOffset": 3513, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 3518, "endOffset": 3595, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoCryptAzureKMSRequestError",
+      "ranges": [{ "startOffset": 4206, "endOffset": 4290, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 4295, "endOffset": 4362, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 4529, "endOffset": 4605, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

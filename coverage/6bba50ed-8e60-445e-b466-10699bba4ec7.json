@@ -1,0 +1,16 @@
+{
+  "scriptId": "440",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/monthStart.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 235, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "monthStart",
+      "ranges": [{ "startOffset": 56, "endOffset": 170, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

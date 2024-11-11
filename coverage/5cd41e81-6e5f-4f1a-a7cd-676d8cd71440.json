@@ -1,0 +1,35 @@
+{
+  "scriptId": "430",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/format.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1425, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [
+        { "startOffset": 327, "endOffset": 1368, "count": 1 },
+        { "startOffset": 542, "endOffset": 701, "count": 0 },
+        { "startOffset": 735, "endOffset": 781, "count": 0 },
+        { "startOffset": 792, "endOffset": 880, "count": 0 },
+        { "startOffset": 894, "endOffset": 898, "count": 0 },
+        { "startOffset": 936, "endOffset": 944, "count": 0 },
+        { "startOffset": 1136, "endOffset": 1170, "count": 0 },
+        { "startOffset": 1263, "endOffset": 1275, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1278, "endOffset": 1288, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1341, "endOffset": 1355, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

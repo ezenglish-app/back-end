@@ -1,0 +1,626 @@
+[
+  {
+    "uuid": "c1231071-00b0-4333-8307-12d534b2093d",
+    "english": "accountant",
+    "spanish": "contador",
+    "pronunciation": "/əˈkaʊntənt/"
+  },
+  {
+    "uuid": "dbfd5bd4-8f2a-466c-ac18-186d6c6f4c5d",
+    "english": "actor",
+    "spanish": "actor",
+    "pronunciation": "/ˈæktər/"
+  },
+  {
+    "uuid": "70171774-5053-4e95-b720-81af1f771a6c",
+    "english": "actress",
+    "spanish": "actriz",
+    "pronunciation": "/ˈæktrɪs/"
+  },
+  {
+    "uuid": "ae315084-cd6c-4843-88f0-6322c58feb71",
+    "english": "administrator",
+    "spanish": "administrador",
+    "pronunciation": "/ədˈmɪnɪstreɪtər/"
+  },
+  {
+    "uuid": "e2bf0707-8c9e-4273-a363-2ff236ca1301",
+    "english": "advertising executive",
+    "spanish": "ejecutivo de publicidad",
+    "pronunciation": "/ˈædvərˌtaɪzɪŋ ɪɡˈzɛkjətɪv/"
+  },
+  {
+    "uuid": "4c945a9b-5ebd-44fc-9809-d5574e40602c",
+    "english": "analyst",
+    "spanish": "analista",
+    "pronunciation": "/ˈænəlɪst/"
+  },
+  {
+    "uuid": "fb06cd2f-a611-4e2d-abcd-d67de048d956",
+    "english": "architect",
+    "spanish": "arquitecto",
+    "pronunciation": "/ˈɑːrkɪtekt/"
+  },
+  {
+    "uuid": "3b2c8071-32df-41ea-b58d-d3bcb75b39e2",
+    "english": "artist",
+    "spanish": "artista",
+    "pronunciation": "/ˈɑːrtɪst/"
+  },
+  {
+    "uuid": "33e46506-f180-4b43-bda8-ac0d4f0eb236",
+    "english": "athlete",
+    "spanish": "atleta",
+    "pronunciation": "/ˈæθliːt/"
+  },
+  {
+    "uuid": "446216e8-3b5c-4c77-8d2a-0deca07552bd",
+    "english": "baker",
+    "spanish": "panadero",
+    "pronunciation": "/ˈbeɪkər/"
+  },
+  {
+    "uuid": "88315d93-d440-46b5-944d-c4ba30e23d3e",
+    "english": "barber",
+    "spanish": "barbero",
+    "pronunciation": "/ˈbɑːrbər/"
+  },
+  {
+    "uuid": "36ab59a5-e497-40fd-843d-016e07361200",
+    "english": "barista",
+    "spanish": "barista",
+    "pronunciation": "/bəˈrɪstə/"
+  },
+  {
+    "uuid": "844540cf-aa7d-428d-a7c0-f9083d322b1b",
+    "english": "bartender",
+    "spanish": "barman",
+    "pronunciation": "/ˈbɑːrtɛndər/"
+  },
+  {
+    "uuid": "8be4246f-0c6a-4d3e-85c1-4a9f54bf9272",
+    "english": "beautician",
+    "spanish": "esteticista",
+    "pronunciation": "/bjuːˈtɪʃən/"
+  },
+  {
+    "uuid": "8f7e7534-3c1c-4ab3-a565-b2d94728e85b",
+    "english": "bellhop",
+    "spanish": "botones",
+    "pronunciation": "/ˈbɛlhɒp/"
+  },
+  {
+    "uuid": "ab0e3b9a-c2dd-402e-a6e2-6a2d625cc91d",
+    "english": "blacksmith",
+    "spanish": "herrero",
+    "pronunciation": "/ˈblæksmɪθ/"
+  },
+  {
+    "uuid": "2041a56a-04dd-44c4-add6-4e33d22588e9",
+    "english": "bricklayer",
+    "spanish": "albañil",
+    "pronunciation": "/ˈbrɪkˌleɪər/"
+  },
+  {
+    "uuid": "6e7bf804-199e-4c41-8e1d-b5aa0d121e3c",
+    "english": "builder",
+    "spanish": "constructor",
+    "pronunciation": "/ˈbɪldər/"
+  },
+  {
+    "uuid": "dcc4f539-e447-4bdb-a98f-e54ae2d581d8",
+    "english": "bus driver",
+    "spanish": "conductor de autobús",
+    "pronunciation": "/bʌs ˈdraɪvər/"
+  },
+  {
+    "uuid": "296f3f08-e11b-44f5-a10d-c8b66fa71088",
+    "english": "butcher",
+    "spanish": "carnicero",
+    "pronunciation": "/ˈbʊtʃər/"
+  },
+  {
+    "uuid": "2c779fdc-67f3-429b-b376-65c116738756",
+    "english": "carpenter",
+    "spanish": "carpintero",
+    "pronunciation": "/ˈkɑːrpəntər/"
+  },
+  {
+    "uuid": "265b60ff-5056-46d4-966d-cc3e552e65ef",
+    "english": "cashier",
+    "spanish": "cajero",
+    "pronunciation": "/kæˈʃɪər/"
+  },
+  {
+    "uuid": "01170a72-2264-48cf-9948-8bc247bbd7d7",
+    "english": "caterer",
+    "spanish": "proveedor de alimentos",
+    "pronunciation": "/ˈkeɪtərər/"
+  },
+  {
+    "uuid": "44aebfa6-8ed4-4041-83bc-43bcf70b5e89",
+    "english": "chef",
+    "spanish": "chef",
+    "pronunciation": "/ʃɛf/"
+  },
+  {
+    "uuid": "1433cf5a-80e5-4d82-9d34-dc6388c42df9",
+    "english": "choreographer",
+    "spanish": "coreógrafo",
+    "pronunciation": "/ˌkɔːriˈɒɡrəfər/"
+  },
+  {
+    "uuid": "ff62b3a7-b31e-43aa-8113-80f2f59571f8",
+    "english": "cleaner",
+    "spanish": "limpiador",
+    "pronunciation": "/ˈkliːnər/"
+  },
+  {
+    "uuid": "f7b9f5f3-3de6-4075-b83f-80760f5528e7",
+    "english": "clerk",
+    "spanish": "empleado",
+    "pronunciation": "/klɜːrk/"
+  },
+  {
+    "uuid": "5611d376-e693-460f-b3d0-cfa1e9d72d31",
+    "english": "coach",
+    "spanish": "entrenador",
+    "pronunciation": "/koʊtʃ/"
+  },
+  {
+    "uuid": "3a792f9a-16c2-4d85-b5fe-3d4f088a9188",
+    "english": "coach driver",
+    "spanish": "conductor de autobús",
+    "pronunciation": "/koʊtʃ ˈdraɪvər/"
+  },
+  {
+    "uuid": "124779e5-9d3f-4e67-a847-2420faaeb76c",
+    "english": "concierge",
+    "spanish": "conserje",
+    "pronunciation": "/kɒnˈsjɛərʒ/"
+  },
+  {
+    "uuid": "a42cf42f-c10e-47a1-b2d3-0d6ab7feaf0c",
+    "english": "consultant",
+    "spanish": "consultor",
+    "pronunciation": "/kənˈsʌltənt/"
+  },
+  {
+    "uuid": "f653c979-270e-4d2b-9dca-d8439369c302",
+    "english": "courier",
+    "spanish": "mensajero",
+    "pronunciation": "/ˈkʊriər/"
+  },
+  {
+    "uuid": "02c605da-8f06-416b-b1cc-a7253da46d26",
+    "english": "dancer",
+    "spanish": "bailarín",
+    "pronunciation": "/ˈdænsər/"
+  },
+  {
+    "uuid": "62fff4ad-cbd8-450a-a66f-9b1e76f11a93",
+    "english": "delivery person",
+    "spanish": "repartidor",
+    "pronunciation": "/dɪˈlɪvəri ˈpɜːrsən/"
+  },
+  {
+    "uuid": "534158b0-94e3-4fe5-8a47-f3ba2a997669",
+    "english": "dentist",
+    "spanish": "dentista",
+    "pronunciation": "/ˈdɛntɪst/"
+  },
+  {
+    "uuid": "f03dfc80-b0fe-4ccf-afd5-6396329c4b49",
+    "english": "designer",
+    "spanish": "diseñador",
+    "pronunciation": "/dɪˈzaɪnər/"
+  },
+  {
+    "uuid": "cf6f9664-dcc6-4fc6-b7e6-b2d58f967275",
+    "english": "developer",
+    "spanish": "desarrollador",
+    "pronunciation": "/dɪˈvɛləpər/"
+  },
+  {
+    "uuid": "b79d3967-f32d-44f8-8b81-bb5225c49888",
+    "english": "director",
+    "spanish": "director",
+    "pronunciation": "/dɪˈrɛktər/"
+  },
+  {
+    "uuid": "0e20f0b3-bfd6-44e8-b9f0-fbc107acc642",
+    "english": "doctor",
+    "spanish": "doctor",
+    "pronunciation": "/ˈdɒktər/"
+  },
+  {
+    "uuid": "73d32deb-7cba-4064-bc1f-45a028d69adb",
+    "english": "doorman",
+    "spanish": "portero",
+    "pronunciation": "/ˈdɔːrmæn/"
+  },
+  {
+    "uuid": "2e92e70e-6fcd-446b-a3a0-aa31a89b9ad6",
+    "english": "driver",
+    "spanish": "conductor",
+    "pronunciation": "/ˈdraɪvər/"
+  },
+  {
+    "uuid": "68bfcd3c-0660-4822-a4af-f8f8f2408408",
+    "english": "electrician",
+    "spanish": "electricista",
+    "pronunciation": "/ɪˌlɛkˈtrɪʃən/"
+  },
+  {
+    "uuid": "dcc4966b-4c82-40b0-b233-b9f3bd24e45b",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "pronunciation": "/ˌɛn.dʒɪˈnɪər/"
+  },
+  {
+    "uuid": "4f69021b-6961-4952-a07c-6656c4bb0d45",
+    "english": "event coordinator",
+    "spanish": "coordinador de eventos",
+    "pronunciation": "/ɪˈvɛnt koʊˈɔːrdɪneɪtər/"
+  },
+  {
+    "uuid": "9e5e53e0-8ba8-4d5d-b341-7b94ed96efbc",
+    "english": "event planner",
+    "spanish": "planificador de eventos",
+    "pronunciation": "/ɪˈvɛnt ˈplænər/"
+  },
+  {
+    "uuid": "dc05b41c-fdad-484a-a58b-c9a2928e7889",
+    "english": "executive",
+    "spanish": "ejecutivo",
+    "pronunciation": "/ɪɡˈzɛkjətɪv/"
+  },
+  {
+    "uuid": "352a9d99-4c38-48dc-9042-45c203f9f0da",
+    "english": "farmer",
+    "spanish": "granjero",
+    "pronunciation": "/ˈfɑːrmər/"
+  },
+  {
+    "uuid": "fb37d7f3-82e9-471d-8ae0-2286a2fa750c",
+    "english": "fashion designer",
+    "spanish": "diseñador de moda",
+    "pronunciation": "/ˈfæʃən dɪˈzaɪnər/"
+  },
+  {
+    "uuid": "57ab6838-9901-4017-893c-7d723c35f56f",
+    "english": "firefighter",
+    "spanish": "bombero",
+    "pronunciation": "/ˈfaɪərˌfaɪtər/"
+  },
+  {
+    "uuid": "c23531be-40ce-4724-ab98-8e8feda465aa",
+    "english": "fisherman",
+    "spanish": "pescador",
+    "pronunciation": "/ˈfɪʃərmən/"
+  },
+  {
+    "uuid": "79225094-7fc4-4909-91a4-24bfdfcab7c6",
+    "english": "flight attendant",
+    "spanish": "auxiliar de vuelo",
+    "pronunciation": "/flaɪt əˈtɛndənt/"
+  },
+  {
+    "uuid": "58462ffe-e37e-4feb-9e4f-eb89b513c578",
+    "english": "florist",
+    "spanish": "florista",
+    "pronunciation": "/ˈflɔːrɪst/"
+  },
+  {
+    "uuid": "763af98b-4ed8-4dca-ba0f-eba3a0b8e58f",
+    "english": "gardener",
+    "spanish": "jardinero",
+    "pronunciation": "/ˈɡɑːrdənər/"
+  },
+  {
+    "uuid": "48d9dc1f-033c-4dfa-9a20-ac3399930537",
+    "english": "gymnast",
+    "spanish": "gimnasta",
+    "pronunciation": "/ˈdʒɪmnæst/"
+  },
+  {
+    "uuid": "e9fa2912-3a86-4d61-b17f-a09fcfa71d2b",
+    "english": "hairdresser",
+    "spanish": "peluquero",
+    "pronunciation": "/ˈhɛərˌdrɛsər/"
+  },
+  {
+    "uuid": "6af4c4be-bf2c-409e-a168-71a250df4654",
+    "english": "hotel manager",
+    "spanish": "gerente de hotel",
+    "pronunciation": "/hoʊˈtɛl ˈmænɪdʒər/"
+  },
+  {
+    "uuid": "1bf52591-9fa6-48b4-9d09-25f63c3db595",
+    "english": "housekeeper",
+    "spanish": "ama de llaves",
+    "pronunciation": "/ˈhaʊsˌkiːpər/"
+  },
+  {
+    "uuid": "b50d5a9b-fb83-486a-afff-6fcb83fb638e",
+    "english": "interpreter",
+    "spanish": "intérprete",
+    "pronunciation": "/ɪnˈtɜːrprɪtər/"
+  },
+  {
+    "uuid": "96ae37cd-204a-4e99-bcd5-df14bf5ff616",
+    "english": "janitor",
+    "spanish": "portero",
+    "pronunciation": "/ˈdʒænɪtər/"
+  },
+  {
+    "uuid": "cde7a718-06bd-46cb-8600-0cdc53688585",
+    "english": "jeweler",
+    "spanish": "joyero",
+    "pronunciation": "/ˈdʒuːələr/"
+  },
+  {
+    "uuid": "4afe6bb8-d378-497f-87b8-38b2b7d356e6",
+    "english": "journalist",
+    "spanish": "periodista",
+    "pronunciation": "/ˈdʒɜːrnəlɪst/"
+  },
+  {
+    "uuid": "54018a88-b3d3-4891-bd36-8f7bbbcc75a8",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "pronunciation": "/ˈlɔːjər/"
+  },
+  {
+    "uuid": "df01cfb6-cb0f-4655-972f-ed80298e7046",
+    "english": "librarian",
+    "spanish": "bibliotecario",
+    "pronunciation": "/laɪˈbrɛəriən/"
+  },
+  {
+    "uuid": "2f89d3b9-8e9c-4237-9ab4-90e6860121c2",
+    "english": "lifeguard",
+    "spanish": "salvavidas",
+    "pronunciation": "/ˈlaɪfɡɑːrd/"
+  },
+  {
+    "uuid": "a954f30c-87c5-45ae-84c2-1c034a0dfcf9",
+    "english": "mail carrier",
+    "spanish": "cartero",
+    "pronunciation": "/meɪl ˈkæriər/"
+  },
+  {
+    "uuid": "f0bb5ca8-b527-4058-b9c1-0f246e012974",
+    "english": "makeup artist",
+    "spanish": "maquillador",
+    "pronunciation": "/ˈmeɪkʌp ˈɑːrtɪst/"
+  },
+  {
+    "uuid": "69b43bc2-87b8-42f0-9ccc-14b3d5a835a4",
+    "english": "manager",
+    "spanish": "gerente",
+    "pronunciation": "/ˈmænɪdʒər/"
+  },
+  {
+    "uuid": "72cc14ff-4697-4343-ad4f-f8cab353000b",
+    "english": "marketing manager",
+    "spanish": "gerente de marketing",
+    "pronunciation": "/ˈmɑːrkɪtɪŋ ˈmænɪdʒər/"
+  },
+  {
+    "uuid": "e1657bc3-962a-45dd-9d82-f07cb4c22b73",
+    "english": "mechanic",
+    "spanish": "mecánico",
+    "pronunciation": "/məˈkænɪk/"
+  },
+  {
+    "uuid": "f647fbcc-d255-4c16-a3f9-ec83c8728771",
+    "english": "musician",
+    "spanish": "músico",
+    "pronunciation": "/mjuˈzɪʃən/"
+  },
+  {
+    "uuid": "6016bd60-5575-411f-bb5a-655c1700dd9a",
+    "english": "nurse",
+    "spanish": "enfermera",
+    "pronunciation": "/nɜːrs/"
+  },
+  {
+    "uuid": "f3c3dfc7-da3b-48db-98e3-4d3acd50fa45",
+    "english": "painter",
+    "spanish": "pintor",
+    "pronunciation": "/ˈpeɪntər/"
+  },
+  {
+    "uuid": "d744d2cc-46e8-4a16-b2bc-f45484af97ac",
+    "english": "personal trainer",
+    "spanish": "entrenador personal",
+    "pronunciation": "/ˈpɜːrsənəl ˈtreɪnər/"
+  },
+  {
+    "uuid": "dfecbcb4-cbe1-4c74-a09d-cf527a030be1",
+    "english": "pharmacist",
+    "spanish": "farmacéutico",
+    "pronunciation": "/ˈfɑːrməsɪst/"
+  },
+  {
+    "uuid": "91609d24-f9b0-48e4-90cc-4bb20780a467",
+    "english": "photographer",
+    "spanish": "fotógrafo",
+    "pronunciation": "/fəˈtɒɡrəfər/"
+  },
+  {
+    "uuid": "01ec889c-ae47-4cf8-abf4-c5a731fa9b43",
+    "english": "pilot",
+    "spanish": "piloto",
+    "pronunciation": "/ˈpaɪlət/"
+  },
+  {
+    "uuid": "96a3add6-0add-43ec-b1a1-589ab216d150",
+    "english": "plasterer",
+    "spanish": "yesero",
+    "pronunciation": "/ˈplæstərər/"
+  },
+  {
+    "uuid": "d349f2f7-4ae4-4ca6-af35-fcb91447febb",
+    "english": "plumber",
+    "spanish": "plomero",
+    "pronunciation": "/ˈplʌmər/"
+  },
+  {
+    "uuid": "0385b05a-a345-402e-92bb-fbb7432be0b8",
+    "english": "police officer",
+    "spanish": "oficial de policía",
+    "pronunciation": "/pəˈliːs ˈɒfɪsər/"
+  },
+  {
+    "uuid": "123e17d1-51cd-4087-a7e1-ffef04f25cbc",
+    "english": "programmer",
+    "spanish": "programador",
+    "pronunciation": "/ˈprəʊɡræmər/"
+  },
+  {
+    "uuid": "245744c5-3f00-46e9-a38d-d187bbf214c6",
+    "english": "public relations specialist",
+    "spanish": "especialista en relaciones públicas",
+    "pronunciation": "/ˈpʌblɪk rɪˈleɪʃənz ˈspɛʃəlɪst/"
+  },
+  {
+    "uuid": "542b29ce-b1d3-4c98-b2ae-01b3edc299e4",
+    "english": "receptionist",
+    "spanish": "recepcionista",
+    "pronunciation": "/rɪˈsɛpʃənɪst/"
+  },
+  {
+    "uuid": "205f5d91-9287-4368-b66b-6dcfa5aae620",
+    "english": "roofer",
+    "spanish": "techador",
+    "pronunciation": "/ˈruːfər/"
+  },
+  {
+    "uuid": "dfb99870-c180-459f-9050-d9178e477587",
+    "english": "salesperson",
+    "spanish": "vendedor",
+    "pronunciation": "/ˈseɪlzˌpɜːrsən/"
+  },
+  {
+    "uuid": "7d49a22f-3aee-4c17-a3f7-0a79a7b73521",
+    "english": "scientist",
+    "spanish": "científico",
+    "pronunciation": "/ˈsaɪəntɪst/"
+  },
+  {
+    "uuid": "80353439-5d7b-43ee-b18c-dafb818b885d",
+    "english": "sculptor",
+    "spanish": "escultor",
+    "pronunciation": "/ˈskʌlptər/"
+  },
+  {
+    "uuid": "eccfe3a4-a7d8-4a81-a9e2-46e5a1f2934b",
+    "english": "seamstress",
+    "spanish": "costurera",
+    "pronunciation": "/ˈsiːmstrɪs/"
+  },
+  {
+    "uuid": "6a9313b4-b8c9-4443-a659-f401bc4c30cf",
+    "english": "secretary",
+    "spanish": "secretario",
+    "pronunciation": "/ˈsɛkrəˌtɛri/"
+  },
+  {
+    "uuid": "cd870b92-ac8a-4d19-8f95-e9c1c6bffd3a",
+    "english": "soldier",
+    "spanish": "soldado",
+    "pronunciation": "/ˈsəʊldʒər/"
+  },
+  {
+    "uuid": "3fe692b4-dfdf-4c02-b461-4189bf1a5e9f",
+    "english": "swimmer",
+    "spanish": "nadador",
+    "pronunciation": "/ˈswɪmər/"
+  },
+  {
+    "uuid": "12690e4b-9174-47c6-9af2-dc6ca30fe256",
+    "english": "tailor",
+    "spanish": "sastre",
+    "pronunciation": "/ˈteɪlər/"
+  },
+  {
+    "uuid": "5002e886-cb54-48cb-8bde-9d75adc969c9",
+    "english": "taxi driver",
+    "spanish": "taxista",
+    "pronunciation": "/ˈtæksi ˈdraɪvər/"
+  },
+  {
+    "uuid": "1f422402-d2ea-4b64-9e9b-8fcde45b459e",
+    "english": "teacher",
+    "spanish": "maestro",
+    "pronunciation": "/ˈtiːtʃər/"
+  },
+  {
+    "uuid": "c01fb926-4725-4593-94f4-2b389ff0a053",
+    "english": "tour guide",
+    "spanish": "guía turístico",
+    "pronunciation": "/tʊr ɡaɪd/"
+  },
+  {
+    "uuid": "cb472a18-e3f8-43d5-bacd-fa66a223a012",
+    "english": "translator",
+    "spanish": "traductor",
+    "pronunciation": "/trænzˈleɪtər/"
+  },
+  {
+    "uuid": "9e4ce313-a7b3-4885-8fac-6a344313c493",
+    "english": "travel agent",
+    "spanish": "agente de viajes",
+    "pronunciation": "/ˈtrævəl ˈeɪdʒənt/"
+  },
+  {
+    "uuid": "09984679-bd47-4c3c-811b-c8e16bdc1f48",
+    "english": "truck driver",
+    "spanish": "camionero",
+    "pronunciation": "/trʌk ˈdraɪvər/"
+  },
+  {
+    "uuid": "a6846f3d-ecb1-4744-9100-b47606659308",
+    "english": "valet",
+    "spanish": "valet",
+    "pronunciation": "/ˈvæleɪ/"
+  },
+  {
+    "uuid": "92a9e844-2d71-4951-8a20-43d91144494b",
+    "english": "veterinarian",
+    "spanish": "veterinario",
+    "pronunciation": "/ˌvɛtərɪˈnɛəriən/"
+  },
+  {
+    "uuid": "b5781adc-30e1-4e44-a14b-829739a9dd4e",
+    "english": "waiter",
+    "spanish": "camarero",
+    "pronunciation": "/ˈweɪtər/"
+  },
+  {
+    "uuid": "2aac4f1a-56d9-48be-8d56-87a53923835c",
+    "english": "waitress",
+    "spanish": "camarera",
+    "pronunciation": "/ˈweɪtrɪs/"
+  },
+  {
+    "uuid": "18170333-9a85-4dda-8004-457458c41c52",
+    "english": "wedding planner",
+    "spanish": "planificador de bodas",
+    "pronunciation": "/ˈwɛdɪŋ ˈplænər/"
+  },
+  {
+    "uuid": "7bb1f5c8-db04-48f8-a632-b537b5f59744",
+    "english": "welder",
+    "spanish": "soldador",
+    "pronunciation": "/ˈwɛldər/"
+  },
+  {
+    "uuid": "856eeb70-d1de-41e1-8bd2-27b29d957631",
+    "english": "writer",
+    "spanish": "escritor",
+    "pronunciation": "/ˈraɪtər/"
+  }
+]

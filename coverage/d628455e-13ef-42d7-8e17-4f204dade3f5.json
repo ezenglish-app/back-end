@@ -1,0 +1,61 @@
+{
+  "scriptId": "626",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc/callback_workflow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6372, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6371, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 6307, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CallbackWorkflow",
+      "ranges": [{ "startOffset": 1263, "endOffset": 1435, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "speculativeAuth",
+      "ranges": [{ "startOffset": 1589, "endOffset": 2259, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reauthenticate",
+      "ranges": [{ "startOffset": 2472, "endOffset": 3316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "startAuthentication",
+      "ranges": [{ "startOffset": 3573, "endOffset": 3977, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finishAuthentication",
+      "ranges": [{ "startOffset": 4051, "endOffset": 4285, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "executeAndValidateCallback",
+      "ranges": [{ "startOffset": 4361, "endOffset": 4771, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withLock",
+      "ranges": [{ "startOffset": 4897, "endOffset": 5692, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isCallbackResultInvalid",
+      "ranges": [{ "startOffset": 5962, "endOffset": 6259, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

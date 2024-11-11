@@ -1,0 +1,339 @@
+{
+  "scriptId": "637",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/topology.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 31915, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 31914, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 31850, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Topology",
+      "ranges": [
+        { "startOffset": 2042, "endOffset": 5633, "count": 1 },
+        { "startOffset": 2252, "endOffset": 2499, "count": 0 },
+        { "startOffset": 2540, "endOffset": 2612, "count": 0 },
+        { "startOffset": 2653, "endOffset": 2693, "count": 0 },
+        { "startOffset": 2757, "endOffset": 3225, "count": 3 },
+        { "startOffset": 2801, "endOffset": 2885, "count": 0 },
+        { "startOffset": 2996, "endOffset": 3215, "count": 0 },
+        { "startOffset": 3440, "endOffset": 3493, "count": 0 },
+        { "startOffset": 3529, "endOffset": 3582, "count": 0 },
+        { "startOffset": 3679, "endOffset": 3807, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "detectShardedTopology",
+      "ranges": [{ "startOffset": 4848, "endOffset": 4884, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "detectSrvRecords",
+      "ranges": [{ "startOffset": 4916, "endOffset": 4947, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "detectShardedTopology",
+      "ranges": [
+        { "startOffset": 5638, "endOffset": 6323, "count": 6 },
+        { "startOffset": 6135, "endOffset": 6160, "count": 0 },
+        { "startOffset": 6162, "endOffset": 6317, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "detectSrvRecords",
+      "ranges": [{ "startOffset": 6328, "endOffset": 6864, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get description",
+      "ranges": [{ "startOffset": 6943, "endOffset": 7003, "count": 147 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get loadBalanced",
+      "ranges": [{ "startOffset": 7008, "endOffset": 7078, "count": 13 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get serverApi",
+      "ranges": [{ "startOffset": 7083, "endOffset": 7147, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get capabilities",
+      "ranges": [{ "startOffset": 7152, "endOffset": 7235, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connect",
+      "ranges": [
+        { "startOffset": 7275, "endOffset": 7543, "count": 1 },
+        { "startOffset": 7516, "endOffset": 7542, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_connect",
+      "ranges": [
+        { "startOffset": 7548, "endOffset": 10162, "count": 1 },
+        { "startOffset": 7600, "endOffset": 7605, "count": 0 },
+        { "startOffset": 7662, "endOffset": 7698, "count": 0 },
+        { "startOffset": 8743, "endOffset": 9088, "count": 0 },
+        { "startOffset": 9143, "endOffset": 9186, "count": 0 },
+        { "startOffset": 9884, "endOffset": 10156, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8419, "endOffset": 8550, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 10198, "endOffset": 11158, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "selectServer",
+      "ranges": [
+        { "startOffset": 11612, "endOffset": 15390, "count": 8 },
+        { "startOffset": 11724, "endOffset": 12471, "count": 7 },
+        { "startOffset": 11772, "endOffset": 11929, "count": 0 },
+        { "startOffset": 12125, "endOffset": 12344, "count": 0 },
+        { "startOffset": 12471, "endOffset": 12535, "count": 1 },
+        { "startOffset": 12664, "endOffset": 12673, "count": 0 },
+        { "startOffset": 12767, "endOffset": 12988, "count": 0 },
+        { "startOffset": 13149, "endOffset": 13171, "count": 7 },
+        { "startOffset": 13195, "endOffset": 13209, "count": 0 },
+        { "startOffset": 13210, "endOffset": 13231, "count": 0 },
+        { "startOffset": 13233, "endOffset": 13690, "count": 0 },
+        { "startOffset": 13871, "endOffset": 13875, "count": 0 },
+        { "startOffset": 14510, "endOffset": 15384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serverUpdateHandler",
+      "ranges": [
+        { "startOffset": 15589, "endOffset": 18461, "count": 5 },
+        { "startOffset": 15700, "endOffset": 15731, "count": 0 },
+        { "startOffset": 15886, "endOffset": 15917, "count": 0 },
+        { "startOffset": 16181, "endOffset": 16212, "count": 0 },
+        { "startOffset": 17401, "endOffset": 17547, "count": 0 },
+        { "startOffset": 17758, "endOffset": 17962, "count": 3 },
+        { "startOffset": 18190, "endOffset": 18237, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "auth",
+      "ranges": [{ "startOffset": 18466, "endOffset": 18696, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get clientMetadata",
+      "ranges": [{ "startOffset": 18701, "endOffset": 18769, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isConnected",
+      "ranges": [{ "startOffset": 18774, "endOffset": 18853, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDestroyed",
+      "ranges": [{ "startOffset": 18858, "endOffset": 18934, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lastHello",
+      "ranges": [{ "startOffset": 19193, "endOffset": 19568, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commonWireVersion",
+      "ranges": [{ "startOffset": 19573, "endOffset": 19655, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get logicalSessionTimeoutMinutes",
+      "ranges": [{ "startOffset": 19660, "endOffset": 19764, "count": 14 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get clusterTime",
+      "ranges": [{ "startOffset": 19769, "endOffset": 19829, "count": 9 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "set clusterTime",
+      "ranges": [{ "startOffset": 19834, "endOffset": 19912, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "destroyServer",
+      "ranges": [
+        { "startOffset": 20740, "endOffset": 21144, "count": 3 },
+        { "startOffset": 20840, "endOffset": 20889, "count": 12 },
+        { "startOffset": 21093, "endOffset": 21142, "count": 51 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "topologyTypeFromOptions",
+      "ranges": [
+        { "startOffset": 21191, "endOffset": 21551, "count": 1 },
+        { "startOffset": 21270, "endOffset": 21322, "count": 0 },
+        { "startOffset": 21417, "endOffset": 21447, "count": 0 },
+        { "startOffset": 21449, "endOffset": 21550, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createAndConnectServer",
+      "ranges": [
+        { "startOffset": 21776, "endOffset": 22329, "count": 6 },
+        { "startOffset": 22110, "endOffset": 22175, "count": 102 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 22137, "endOffset": 22167, "count": 54 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 22228, "endOffset": 22284, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateServers",
+      "ranges": [
+        { "startOffset": 22441, "endOffset": 24734, "count": 5 },
+        { "startOffset": 22893, "endOffset": 22992, "count": 0 },
+        { "startOffset": 22994, "endOffset": 23223, "count": 0 },
+        { "startOffset": 23441, "endOffset": 23604, "count": 0 },
+        { "startOffset": 23895, "endOffset": 24129, "count": 17 },
+        { "startOffset": 23961, "endOffset": 24123, "count": 3 },
+        { "startOffset": 24268, "endOffset": 24732, "count": 20 },
+        { "startOffset": 24369, "endOffset": 24402, "count": 17 },
+        { "startOffset": 24402, "endOffset": 24455, "count": 3 },
+        { "startOffset": 24455, "endOffset": 24488, "count": 0 },
+        { "startOffset": 24488, "endOffset": 24726, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "drainWaitQueue",
+      "ranges": [{ "startOffset": 24735, "endOffset": 25508, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processWaitQueue",
+      "ranges": [
+        { "startOffset": 25509, "endOffset": 30453, "count": 12 },
+        { "startOffset": 25599, "endOffset": 25708, "count": 0 },
+        { "startOffset": 26073, "endOffset": 26106, "count": 0 },
+        { "startOffset": 26148, "endOffset": 26181, "count": 0 },
+        { "startOffset": 26504, "endOffset": 26522, "count": 0 },
+        { "startOffset": 26545, "endOffset": 26565, "count": 0 },
+        { "startOffset": 26585, "endOffset": 27164, "count": 0 },
+        { "startOffset": 27240, "endOffset": 28067, "count": 4 },
+        { "startOffset": 27290, "endOffset": 27979, "count": 1 },
+        { "startOffset": 27339, "endOffset": 27348, "count": 0 },
+        { "startOffset": 27450, "endOffset": 27911, "count": 0 },
+        { "startOffset": 28067, "endOffset": 28656, "count": 8 },
+        { "startOffset": 28217, "endOffset": 28656, "count": 0 },
+        { "startOffset": 28656, "endOffset": 28686, "count": 8 },
+        { "startOffset": 28686, "endOffset": 29407, "count": 0 },
+        { "startOffset": 29407, "endOffset": 29487, "count": 8 },
+        { "startOffset": 29487, "endOffset": 29501, "count": 0 },
+        { "startOffset": 29502, "endOffset": 29525, "count": 0 },
+        { "startOffset": 29526, "endOffset": 29543, "count": 0 },
+        { "startOffset": 29545, "endOffset": 29607, "count": 0 },
+        { "startOffset": 29607, "endOffset": 29688, "count": 8 },
+        { "startOffset": 29688, "endOffset": 29697, "count": 0 },
+        { "startOffset": 29791, "endOffset": 30096, "count": 0 },
+        { "startOffset": 30096, "endOffset": 30151, "count": 8 },
+        { "startOffset": 30193, "endOffset": 30451, "count": 4 },
+        { "startOffset": 30310, "endOffset": 30445, "count": 14 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "scheduleServerCheck",
+      "ranges": [{ "startOffset": 30341, "endOffset": 30433, "count": 14 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isStaleServerDescription",
+      "ranges": [{ "startOffset": 30454, "endOffset": 30856, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerCapabilities",
+      "ranges": [{ "startOffset": 30903, "endOffset": 31043, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasAggregationCursor",
+      "ranges": [{ "startOffset": 31048, "endOffset": 31123, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasWriteCommands",
+      "ranges": [{ "startOffset": 31128, "endOffset": 31199, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasTextSearch",
+      "ranges": [{ "startOffset": 31204, "endOffset": 31272, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasAuthCommands",
+      "ranges": [{ "startOffset": 31277, "endOffset": 31347, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasListCollectionsCommand",
+      "ranges": [{ "startOffset": 31352, "endOffset": 31432, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasListIndexesCommand",
+      "ranges": [{ "startOffset": 31437, "endOffset": 31513, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get supportsSnapshotReads",
+      "ranges": [{ "startOffset": 31518, "endOffset": 31595, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandsTakeWriteConcern",
+      "ranges": [{ "startOffset": 31600, "endOffset": 31679, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandsTakeCollation",
+      "ranges": [{ "startOffset": 31684, "endOffset": 31760, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

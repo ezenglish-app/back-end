@@ -1,0 +1,16 @@
+{
+  "scriptId": "419",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/addYear.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 510, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addYear",
+      "ranges": [{ "startOffset": 98, "endOffset": 451, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

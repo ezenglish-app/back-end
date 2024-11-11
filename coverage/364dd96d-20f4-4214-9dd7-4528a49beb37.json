@@ -1,0 +1,16 @@
+{
+  "scriptId": "434",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/hourEnd.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 213, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hourEnd",
+      "ranges": [{ "startOffset": 53, "endOffset": 154, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

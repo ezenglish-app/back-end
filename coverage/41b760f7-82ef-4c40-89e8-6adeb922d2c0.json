@@ -1,0 +1,62 @@
+{
+  "scriptId": "583",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/urlencoded.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3063, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3062, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2998, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "p",
+      "ranges": [{ "startOffset": 433, "endOffset": 483, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseUrlencoded",
+      "ranges": [
+        { "startOffset": 543, "endOffset": 1334, "count": 1 },
+        { "startOffset": 693, "endOffset": 1315, "count": 3 },
+        { "startOffset": 723, "endOffset": 746, "count": 0 },
+        { "startOffset": 940, "endOffset": 1006, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseUrlencodedString",
+      "ranges": [{ "startOffset": 1401, "endOffset": 1487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serializeUrlencoded",
+      "ranges": [{ "startOffset": 1551, "endOffset": 2455, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "strictlySplitByteSequence",
+      "ranges": [
+        { "startOffset": 2457, "endOffset": 2753, "count": 1 },
+        { "startOffset": 2582, "endOffset": 2671, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "replaceByteInByteSequence",
+      "ranges": [
+        { "startOffset": 2755, "endOffset": 2925, "count": 6 },
+        { "startOffset": 2853, "endOffset": 2909, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

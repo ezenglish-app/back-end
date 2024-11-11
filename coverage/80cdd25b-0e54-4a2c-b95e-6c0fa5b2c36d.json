@@ -1,0 +1,96 @@
+{
+  "scriptId": "539",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/indexes.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7301, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 7300, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 7236, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isIndexDirection",
+      "ranges": [{ "startOffset": 1167, "endOffset": 1308, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isSingleIndexTuple",
+      "ranges": [{ "startOffset": 1309, "endOffset": 1416, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructIndexDescriptionMap",
+      "ranges": [{ "startOffset": 1559, "endOffset": 2376, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveIndexDescription",
+      "ranges": [{ "startOffset": 2576, "endOffset": 2980, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "CreateIndexesOperation",
+      "ranges": [{ "startOffset": 3068, "endOffset": 3757, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromIndexDescriptionArray",
+      "ranges": [{ "startOffset": 3769, "endOffset": 3929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromIndexSpecification",
+      "ranges": [{ "startOffset": 3941, "endOffset": 4221, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 4226, "endOffset": 4283, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 4288, "endOffset": 5115, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DropIndexOperation",
+      "ranges": [{ "startOffset": 5258, "endOffset": 5457, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 5462, "endOffset": 5517, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 5522, "endOffset": 5717, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ListIndexesOperation",
+      "ranges": [{ "startOffset": 5854, "endOffset": 6070, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 6075, "endOffset": 6130, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 6135, "endOffset": 6788, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

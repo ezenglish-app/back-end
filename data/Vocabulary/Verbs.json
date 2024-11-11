@@ -1,0 +1,1922 @@
+[
+  {
+    "uuid": "3a548bbb-ff13-4245-b245-02c4bd6abb33",
+    "english": "Accept and Accepted",
+    "spanish": "aceptar",
+    "pronunciation": "/əkˈsept/ - /əkˈseptɪd/"
+  },
+  {
+    "uuid": "3cef60e9-268f-4baa-aa7f-579b76772f90",
+    "english": "Achieve and Achieved",
+    "spanish": "conseguir",
+    "pronunciation": "/əˈtʃiːv/ - /əˈtʃiːvd/"
+  },
+  {
+    "uuid": "69fe5e1e-ae58-4ecd-a112-9f24de76fdf2",
+    "english": "Admire and Admired",
+    "spanish": "admirar",
+    "pronunciation": "/ədˈmaɪər/ - /ədˈmaɪərd/"
+  },
+  {
+    "uuid": "deea90fa-c73f-49e6-8cf8-edcb774a41a4",
+    "english": "Affect and Affected",
+    "spanish": "afectar, comprometer, conmover",
+    "pronunciation": "/əˈfekt/ - /əˈfektɪd/"
+  },
+  {
+    "uuid": "03b32ab8-d272-4b58-bc86-b8baed4c8ea2",
+    "english": "Agree and Agreed",
+    "spanish": "estar de acuerdo, ponerse de acuerdo",
+    "pronunciation": "/əˈɡriː/ - /əˈɡriːd/"
+  },
+  {
+    "uuid": "fb1b3c22-9bab-47b8-958a-ea7a7037b110",
+    "english": "Amuse and Amused",
+    "spanish": "divertir, hacer reír",
+    "pronunciation": "/əˈmjuːz/ - /əˈmjuːzd/"
+  },
+  {
+    "uuid": "17ea5853-b8cc-4b27-a07a-6624b6ede30c",
+    "english": "Answer and Answered",
+    "spanish": "contestar",
+    "pronunciation": "/ˈæn.sər/ - /ˈæn.sərd/"
+  },
+  {
+    "uuid": "6e7a349d-4f48-4c1c-aefc-ddf244610d95",
+    "english": "Appear and Appeared",
+    "spanish": "aparecer",
+    "pronunciation": "/əˈpɪər/ - /əˈpɪərd/"
+  },
+  {
+    "uuid": "50bde0c4-c25b-48dd-b010-248391dfb140",
+    "english": "Arrive and Arrived",
+    "spanish": "llegar",
+    "pronunciation": "/əˈraɪv/ - /əˈraɪvd/"
+  },
+  {
+    "uuid": "317bb649-3e38-491e-abdc-dcc93308e1be",
+    "english": "Ask and Asked",
+    "spanish": "preguntar",
+    "pronunciation": "/æsk/ - /æskt/"
+  },
+  {
+    "uuid": "48a4a3c9-d7b7-48e6-977c-9b5e3dcf0df9",
+    "english": "Attack and Attacked",
+    "spanish": "agredir, atacar",
+    "pronunciation": "/əˈtæk/ - /əˈtækt/"
+  },
+  {
+    "uuid": "ce1b390f-9cb4-4219-9fc3-370b942efc1a",
+    "english": "Bake and Baked",
+    "spanish": "hornear",
+    "pronunciation": "/beɪk/ - /beɪkt/"
+  },
+  {
+    "uuid": "94fa4c1a-777f-4202-a373-871f09e2f21a",
+    "english": "Behave and Behaved",
+    "spanish": "comportarse",
+    "pronunciation": "/bɪˈheɪv/ - /bɪˈheɪvd/"
+  },
+  {
+    "uuid": "428fca8f-f14b-4e07-8af4-ab955f21137a",
+    "english": "Believe and Believed",
+    "spanish": "creer en algo",
+    "pronunciation": "/bɪˈliːv/ - /bɪˈliːvd/"
+  },
+  {
+    "uuid": "8a523005-86ca-41f1-9cdd-c4038abba728",
+    "english": "Belong and Belonged",
+    "spanish": "pertenecer",
+    "pronunciation": "/bɪˈlɔːŋ/ - /bɪˈlɔːŋd/"
+  },
+  {
+    "uuid": "076a9d75-8f31-4946-a9f7-7e4bb2b307ba",
+    "english": "Blame and Blamed",
+    "spanish": "culpar a alguien",
+    "pronunciation": "/bleɪm/ - /bleɪmd/"
+  },
+  {
+    "uuid": "f23990f8-f1b5-491c-9aa7-999af0746b59",
+    "english": "Borrow and Borrowed",
+    "spanish": "pedir prestado",
+    "pronunciation": "/ˈbɒr.oʊ/ - /ˈbɒr.oʊd/"
+  },
+  {
+    "uuid": "51d0de57-c6af-4f19-9204-d6235d972358",
+    "english": "Bother and Bothered",
+    "spanish": "molestar",
+    "pronunciation": "/ˈbɒð.ər/ - /ˈbɒð.ərd/"
+  },
+  {
+    "uuid": "f3159a98-0229-443f-9fb9-7379b2122721",
+    "english": "Call and Called",
+    "spanish": "llamar",
+    "pronunciation": "/kɔːl/ - /kɔːld/"
+  },
+  {
+    "uuid": "35bd6438-04d2-4f8c-8d91-e50cc4cd843f",
+    "english": "Cancel and Canceled",
+    "spanish": "cancelar",
+    "pronunciation": "/ˈkæn.səl/ - /ˈkæn.səld/"
+  },
+  {
+    "uuid": "821ba37d-3e4a-4dab-b1b8-b2747cb94d79",
+    "english": "Carry and Carried",
+    "spanish": "llevar algo",
+    "pronunciation": "/ˈkær.i/ - /ˈkær.id/"
+  },
+  {
+    "uuid": "c0be238e-f58c-4d4a-936e-728891cd749f",
+    "english": "Cause and Caused",
+    "spanish": "causar algo",
+    "pronunciation": "/kɔːz/ - /kɔːzd/"
+  },
+  {
+    "uuid": "1dbfd742-ac46-4754-bf35-c7018028d88e",
+    "english": "Celebrate and Celebrated",
+    "spanish": "celebrar",
+    "pronunciation": "/ˈsɛl.ɪ.breɪt/ - /ˈsɛl.ɪ.breɪtɪd/"
+  },
+  {
+    "uuid": "a46f5f84-6f21-4948-8ec5-c11d7a0da257",
+    "english": "Clean and Cleaned",
+    "spanish": "limpiar",
+    "pronunciation": "/kliːn/ - /kliːnd/"
+  },
+  {
+    "uuid": "074b6c01-a60d-4e5a-9393-c91ecf39d5ca",
+    "english": "Climb and Climbed",
+    "spanish": "escalar, trepar",
+    "pronunciation": "/klaɪm/ - /klaɪmd/"
+  },
+  {
+    "uuid": "f25d65b5-2e5a-46dc-8903-42e921a03a55",
+    "english": "Close and Closed",
+    "spanish": "cerrar",
+    "pronunciation": "/kloʊz/ - /kloʊzd/"
+  },
+  {
+    "uuid": "7046d704-9543-4590-9fdc-a4607ff2a26c",
+    "english": "Compare and Compared",
+    "spanish": "comparar",
+    "pronunciation": "/kəmˈpɛər/ - /kəmˈpɛərd/"
+  },
+  {
+    "uuid": "34dba42e-281d-4b82-8562-a6b3f0a5e5d2",
+    "english": "Complete and Completed",
+    "spanish": "completar",
+    "pronunciation": "/kəmˈpliːt/ - /kəmˈpliːtɪd/"
+  },
+  {
+    "uuid": "fe091aba-8399-417d-acb0-14229b0a1450",
+    "english": "Contain and Contained",
+    "spanish": "contener",
+    "pronunciation": "/kənˈteɪn/ - /kənˈteɪnd/"
+  },
+  {
+    "uuid": "05844b2d-98cc-4ed9-807f-6eb0491c4951",
+    "english": "Continue and Continued",
+    "spanish": "continuar",
+    "pronunciation": "/kənˈtɪn.juː/ - /kənˈtɪn.juːd/"
+  },
+  {
+    "uuid": "67ddb561-f069-4e93-ae01-80d6a4fe37ee",
+    "english": "Cough and Coughed",
+    "spanish": "toser",
+    "pronunciation": "/kɒf/ - /kɒft/"
+  },
+  {
+    "uuid": "da54d003-88e9-40c0-b22e-8822b9d4682e",
+    "english": "Count and Counted",
+    "spanish": "contar",
+    "pronunciation": "/kaʊnt/ - /kaʊntɪd/"
+  },
+  {
+    "uuid": "be804fd3-a6eb-4add-8940-3cf447a02d40",
+    "english": "Crash and Crashed",
+    "spanish": "chocar con algo, tener un accidente",
+    "pronunciation": "/kræʃ/ - /kræʃt/"
+  },
+  {
+    "uuid": "541d86c8-98b9-4c5d-a5cb-72a9e8f838c6",
+    "english": "Create and Created",
+    "spanish": "crear algo",
+    "pronunciation": "/kriˈeɪt/ - /kriˈeɪtɪd/"
+  },
+  {
+    "uuid": "dacb6383-402b-430d-bd32-b06da20bdb11",
+    "english": "Cross and Crossed",
+    "spanish": "cruzar",
+    "pronunciation": "/krɒs/ - /krɒst/"
+  },
+  {
+    "uuid": "208df13a-0c1d-4ddc-a68d-c69400a32d95",
+    "english": "Curse and Cursed",
+    "spanish": "maldecir a alguien",
+    "pronunciation": "/kɜːs/ - /kɜːst/"
+  },
+  {
+    "uuid": "de780888-2961-40f2-907c-4067ef835427",
+    "english": "Change and Changed",
+    "spanish": "cambiar",
+    "pronunciation": "/tʃeɪndʒ/ - /tʃeɪndʒd/"
+  },
+  {
+    "uuid": "22095811-1227-4e86-bf2f-f48a533a2d85",
+    "english": "Chase and Chased",
+    "spanish": "perseguir a algo, alguien",
+    "pronunciation": "/tʃeɪs/ - /tʃeɪst/"
+  },
+  {
+    "uuid": "490c04c2-d4c2-42f1-8dbe-a127a6383dd1",
+    "english": "Chat and Chatted",
+    "spanish": "chatear",
+    "pronunciation": "/tʃæt/ - /ˈtʃætɪd/"
+  },
+  {
+    "uuid": "7bc443d4-6a18-49d5-91d8-18866a806165",
+    "english": "Check and Checked",
+    "spanish": "comprobar, verificar",
+    "pronunciation": "/tʃɛk/ - /tʃɛkt/"
+  },
+  {
+    "uuid": "5ec7890d-b3b9-438b-854d-f9b71248c3a2",
+    "english": "Damage and Damaged",
+    "spanish": "dañar algo",
+    "pronunciation": "/ˈdæm.ɪdʒ/ - /ˈdæm.ɪdʒd/"
+  },
+  {
+    "uuid": "82976244-6910-4329-bd93-4922496ba95d",
+    "english": "Decide and Decided",
+    "spanish": "decidir",
+    "pronunciation": "/dɪˈsaɪd/ - /dɪˈsaɪdɪd/"
+  },
+  {
+    "uuid": "c2cb136a-a324-4ec6-a44b-0f377b3e79e5",
+    "english": "Deliver and Delivered",
+    "spanish": "entregar, repartir",
+    "pronunciation": "/dɪˈlɪvər/ - /dɪˈlɪvərd/"
+  },
+  {
+    "uuid": "2e8e8577-804f-4ebd-af47-e8b17b3b4ea6",
+    "english": "Depend and Depended",
+    "spanish": "depender",
+    "pronunciation": "/dɪˈpɛnd/ - /dɪˈpɛndɪd/"
+  },
+  {
+    "uuid": "b5e04af3-9a98-4515-8c0c-d1b5b8b81068",
+    "english": "Describe and Described",
+    "spanish": "describir algo, alguien",
+    "pronunciation": "/dɪˈskraɪb/ - /dɪˈskraɪbd/"
+  },
+  {
+    "uuid": "a84f2d4f-fc72-425a-b400-be577e252e88",
+    "english": "Design and Designed",
+    "spanish": "diseñar",
+    "pronunciation": "/dɪˈzaɪn/ - /dɪˈzaɪnd/"
+  },
+  {
+    "uuid": "a90abdec-15f5-4a29-829b-47ba498806c6",
+    "english": "Destroy and Destroyed",
+    "spanish": "destruir",
+    "pronunciation": "/dɪˈstrɔɪ/ - /dɪˈstrɔɪd/"
+  },
+  {
+    "uuid": "f0bfd678-3840-47be-b7a0-33de758123ea",
+    "english": "Decrease and Decreased",
+    "spanish": "disminuir",
+    "pronunciation": "/dɪˈkriːs/ - /dɪˈkriːst/"
+  },
+  {
+    "uuid": "b1d8e93c-312b-4e06-b41e-44a929f7930f",
+    "english": "Die and Died",
+    "spanish": "morir",
+    "pronunciation": "/daɪ/ - /daɪd/"
+  },
+  {
+    "uuid": "f5f0d2e4-4976-4811-b48a-d5f349b13e33",
+    "english": "Disagree and Disagreed",
+    "spanish": "discrepar",
+    "pronunciation": "/ˌdɪsəˈɡriː/ - /ˌdɪsəˈɡriːd/"
+  },
+  {
+    "uuid": "eb7689f7-3fee-4169-ac8a-4dee5f30dfe3",
+    "english": "Discover and Discovered",
+    "spanish": "descubrir",
+    "pronunciation": "/dɪˈskʌvər/ - /dɪˈskʌvərd/"
+  },
+  {
+    "uuid": "9094e644-aaa0-4db6-a0b0-74d94cbe5af2",
+    "english": "Discuss and Discussed",
+    "spanish": "discutir, hablar sobre",
+    "pronunciation": "/dɪˈskʌs/ - /dɪˈskʌst/"
+  },
+  {
+    "uuid": "0f1378e1-db36-49ca-a117-e8343fd7c6f8",
+    "english": "Disturb and Disturbed",
+    "spanish": "molestar",
+    "pronunciation": "/dɪˈstɜːrb/ - /dɪˈstɜːrbd/"
+  },
+  {
+    "uuid": "39afe230-f00e-4b0c-965f-4d01255c224e",
+    "english": "Dress and Dressed",
+    "spanish": "vestir, vestirse",
+    "pronunciation": "/drɛs/ - /drɛst/"
+  },
+  {
+    "uuid": "226b3045-f8bc-4f17-a271-53a66bbcc0ec",
+    "english": "Dry and Dried",
+    "spanish": "secar",
+    "pronunciation": "/draɪ/ - /draɪd/"
+  },
+  {
+    "uuid": "246bf904-c03a-420c-b14e-8bff70aa8a27",
+    "english": "End and Ended",
+    "spanish": "terminar",
+    "pronunciation": "/ɛnd/ - /ˈɛndɪd/"
+  },
+  {
+    "uuid": "97d11fd6-3c1d-4773-bc53-a8f40f1a1054",
+    "english": "Enjoy and Enjoyed",
+    "spanish": "disfrutar",
+    "pronunciation": "/ɪnˈdʒɔɪ/ - /ɪnˈdʒɔɪd/"
+  },
+  {
+    "uuid": "2c1de9e4-64f3-491e-85fb-2ce3eed45837",
+    "english": "Entertain and Entertained",
+    "spanish": "entretener",
+    "pronunciation": "/ˌɛn.təˈteɪn/ - /ˌɛn.təˈteɪnd/"
+  },
+  {
+    "uuid": "aadaecb0-a0f2-4840-8fc7-8f23210541d7",
+    "english": "Exhibit and Exhibited",
+    "spanish": "exponer",
+    "pronunciation": "/ɪɡˈzɪbɪt/ - /ɪɡˈzɪbɪtɪd/"
+  },
+  {
+    "uuid": "85275a12-6690-42fe-9950-3bc4777baded",
+    "english": "Expect and Expected",
+    "spanish": "esperar que suceda algo",
+    "pronunciation": "/ɪkˈspɛkt/ - /ɪkˈspɛktɪd/"
+  },
+  {
+    "uuid": "537e8474-ae90-470f-b789-58ada94f658c",
+    "english": "Express and Expressed",
+    "spanish": "expresar",
+    "pronunciation": "/ɪkˈsprɛs/ - /ɪkˈsprɛst/"
+  },
+  {
+    "uuid": "196882c4-af55-4b91-b838-d694ddf1c379",
+    "english": "Fix and Fixed",
+    "spanish": "arreglar algo",
+    "pronunciation": "/fɪks/ - /fɪkst/"
+  },
+  {
+    "uuid": "3fc913aa-bd0f-46d1-b462-4313add135bb",
+    "english": "Follow and Followed",
+    "spanish": "seguir",
+    "pronunciation": "/ˈfɒləʊ/ - /ˈfɒləʊd/"
+  },
+  {
+    "uuid": "e16c5bc0-382f-48d5-94ce-8e657a57d0e3",
+    "english": "Freeze and Freezed",
+    "spanish": "congelar",
+    "pronunciation": "/friːz/ - /friːzd/"
+  },
+  {
+    "uuid": "9225fc37-6130-4775-a583-b1a4c1b0b81b",
+    "english": "Fry and Fried",
+    "spanish": "freír",
+    "pronunciation": "/fraɪ/ - /fraɪd/"
+  },
+  {
+    "uuid": "20d266bf-4b43-4948-9b7a-5db082df2757",
+    "english": "Greet and Greeted",
+    "spanish": "saludar, recibir",
+    "pronunciation": "/ɡriːt/ - /ˈɡriːtɪd/"
+  },
+  {
+    "uuid": "b2fad9fc-8efb-4f27-8161-928fcd555f61",
+    "english": "Handle and Handled",
+    "spanish": "lidiar una situación o con alguien",
+    "pronunciation": "/ˈhændl/ - /ˈhændld/"
+  },
+  {
+    "uuid": "4da800fd-0369-4651-a432-2f5d5113f864",
+    "english": "Happen and Happened",
+    "spanish": "suceder",
+    "pronunciation": "/ˈhæpən/ - /ˈhæpənd/"
+  },
+  {
+    "uuid": "7103e316-ae47-4acb-a942-f61bdfed5282",
+    "english": "Hate and Hated",
+    "spanish": "odiar",
+    "pronunciation": "/heɪt/ - /ˈheɪtɪd/"
+  },
+  {
+    "uuid": "81d0a6aa-6701-40e6-bbc1-8c21300828ea",
+    "english": "Help and Helped",
+    "spanish": "ayudar",
+    "pronunciation": "/hɛlp/ - /hɛlpt/"
+  },
+  {
+    "uuid": "a47d8567-4a0f-418f-b0ea-e71891bb6bbf",
+    "english": "Identify and Identified",
+    "spanish": "identificar",
+    "pronunciation": "/aɪˈdɛntɪfaɪ/ - /aɪˈdɛntɪfaɪd/"
+  },
+  {
+    "uuid": "1ba29931-64ea-4f2e-a682-e00f25e0ebe3",
+    "english": "Ignore and Ignored",
+    "spanish": "ignorar",
+    "pronunciation": "/ɪɡˈnɔːr/ - /ɪɡˈnɔːrd/"
+  },
+  {
+    "uuid": "5024c06d-a25e-4545-9f99-2fcc6bf15d9c",
+    "english": "Imagine and Imagined",
+    "spanish": "imaginar",
+    "pronunciation": "/ɪˈmædʒɪn/ - /ɪˈmædʒɪnd/"
+  },
+  {
+    "uuid": "3a271b37-af0a-4dc2-b1df-c7696c8964ee",
+    "english": "Impress and Impressed",
+    "spanish": "impresionar",
+    "pronunciation": "/ɪmˈprɛs/ - /ɪmˈprɛst/"
+  },
+  {
+    "uuid": "492a5a73-3845-4669-ad04-0ddf2fc56cf0",
+    "english": "Improve and Improved",
+    "spanish": "mejorar",
+    "pronunciation": "/ɪmˈpruːv/ - /ɪmˈpruːvd/"
+  },
+  {
+    "uuid": "52c5c4b1-311d-4392-8fe7-56398474c2dd",
+    "english": "Include and Included",
+    "spanish": "incluir",
+    "pronunciation": "/ɪnˈkluːd/ - /ɪnˈkluːdɪd/"
+  },
+  {
+    "uuid": "1c404626-8e34-4863-9550-da7fd9825b07",
+    "english": "Increase and Increased",
+    "spanish": "aumentar",
+    "pronunciation": "/ɪnˈkriːs/ - /ɪnˈkriːst/"
+  },
+  {
+    "uuid": "ecdd2802-66c0-4bcc-a5a9-7fa47d341a67",
+    "english": "Introduce and Introduced",
+    "spanish": "presentar a alguien, algo",
+    "pronunciation": "/ˌɪntrəˈdjuːs/ - /ˌɪntrəˈdjuːst/"
+  },
+  {
+    "uuid": "8ec4b6aa-0795-49ac-ada4-4401661d39af",
+    "english": "Invite and Invited",
+    "spanish": "invitar",
+    "pronunciation": "/ɪnˈvaɪt/ - /ɪnˈvaɪtɪd/"
+  },
+  {
+    "uuid": "3be922d4-505a-4a0f-bb8e-94bf4905cf47",
+    "english": "Join and Joined",
+    "spanish": "unir, unirse a algo, acompañar",
+    "pronunciation": "/dʒɔɪn/ - /dʒɔɪnd/"
+  },
+  {
+    "uuid": "cba192fa-7800-498c-aff2-5b64cc91300a",
+    "english": "Jump and Jumped",
+    "spanish": "saltar",
+    "pronunciation": "/dʒʌmp/ - /dʒʌmpt/"
+  },
+  {
+    "uuid": "8310f1d0-e91d-4f63-aa05-0318a471d405",
+    "english": "Knock and Knocked",
+    "spanish": "golpear",
+    "pronunciation": "/nɒk/ - /nɒkt/"
+  },
+  {
+    "uuid": "a710886c-e926-4a92-88b5-cc56ff1ce43f",
+    "english": "Label and Labeled",
+    "spanish": "etiquetar algo/alguien",
+    "pronunciation": "/ˈleɪbəl/ - /ˈleɪbəld/"
+  },
+  {
+    "uuid": "2072a73f-90ec-401d-8192-b67ac3a3d056",
+    "english": "Land and Landed",
+    "spanish": "aterrizar",
+    "pronunciation": "/lænd/ - /ˈlændɪd/"
+  },
+  {
+    "uuid": "8a7e5ef7-c76f-4240-a3c4-0dfcfd22d422",
+    "english": "Last and Lasted",
+    "spanish": "duración de algo",
+    "pronunciation": "/læst/ - /ˈlæstɪd/"
+  },
+  {
+    "uuid": "d3f99e98-196e-4748-bad0-f0cb0fc6573f",
+    "english": "Like and Liked",
+    "spanish": "gustar",
+    "pronunciation": "/laɪk/ - /laɪkt/"
+  },
+  {
+    "uuid": "d7d0e1ed-605a-4466-8c24-7ee27ca2819b",
+    "english": "Link and Linked",
+    "spanish": "unir, vincular",
+    "pronunciation": "/lɪŋk/ - /lɪŋkt/"
+  },
+  {
+    "uuid": "dcebca61-ffd3-40d3-a48e-92dc7e82b37c",
+    "english": "List and Listed",
+    "spanish": "hacer una lista, listar",
+    "pronunciation": "/lɪst/ - /ˈlɪstɪd/"
+  },
+  {
+    "uuid": "21aaf819-0bb5-49fc-aeab-b8b0c4ccf049",
+    "english": "Listen and Listened",
+    "spanish": "escuchar",
+    "pronunciation": "/ˈlɪsən/ - /ˈlɪsənd/"
+  },
+  {
+    "uuid": "d5e2f359-1c73-46e9-bc3f-57567723fb07",
+    "english": "Live and Lived",
+    "spanish": "vivir",
+    "pronunciation": "/lɪv/ - /lɪvd/"
+  },
+  {
+    "uuid": "6f579cf5-3f73-4bd7-a052-214020486660",
+    "english": "Locate and Located",
+    "spanish": "ubicar",
+    "pronunciation": "/loʊˈkeɪt/ - /loʊˈkeɪtɪd/"
+  },
+  {
+    "uuid": "6ce87626-824d-4128-8fc1-b776d76fc4f2",
+    "english": "Look and Looked",
+    "spanish": "mirar, parecer, buscar",
+    "pronunciation": "/lʊk/ - /lʊkt/"
+  },
+  {
+    "uuid": "d7034095-dbae-49f5-9af4-1fcb18815621",
+    "english": "Love and Loved",
+    "spanish": "amar",
+    "pronunciation": "/lʌv/ - /lʌvd/"
+  },
+  {
+    "uuid": "dbdb630c-6f24-4c5c-80c2-76a5dc34ed0e",
+    "english": "Match and Matched",
+    "spanish": "unir, aparejar",
+    "pronunciation": "/mætʃ/ - /mætʃt/"
+  },
+  {
+    "uuid": "ef539e82-644c-4e94-86e9-321a91645946",
+    "english": "Measure and Measured",
+    "spanish": "medir",
+    "pronunciation": "/ˈmɛʒər/ - /ˈmɛʒərd/"
+  },
+  {
+    "uuid": "61fa3fd4-dbd5-45f0-bf73-037c0a78d523",
+    "english": "Mention and Mentioned",
+    "spanish": "mencionar",
+    "pronunciation": "/ˈmɛnʃən/ - /ˈmɛnʃənd/"
+  },
+  {
+    "uuid": "7ce8b198-1c48-4470-a30a-a9fb419933ba",
+    "english": "Miss and Missed",
+    "spanish": "echar de menos, perder algo",
+    "pronunciation": "/mɪs/ - /mɪst/"
+  },
+  {
+    "uuid": "03693f61-c6a4-4c9d-8990-83489d796b70",
+    "english": "Move and Moved",
+    "spanish": "trasladarse, mover algo",
+    "pronunciation": "/muːv/ - /muːvd/"
+  },
+  {
+    "uuid": "b751ec1d-da44-422e-b192-0f240b7584a8",
+    "english": "Name and Named",
+    "spanish": "nombrar",
+    "pronunciation": "/neɪm/ - /neɪmd/"
+  },
+  {
+    "uuid": "b6a13cc4-69d1-4b07-a792-3c3ceef43041",
+    "english": "Need and Needed",
+    "spanish": "necesitar",
+    "pronunciation": "/niːd/ - /niːdɪd/"
+  },
+  {
+    "uuid": "895fe4c3-2976-4588-973d-c0ff374d9829",
+    "english": "Note and Noted",
+    "spanish": "anotar algo",
+    "pronunciation": "/noʊt/ - /noʊtɪd/"
+  },
+  {
+    "uuid": "673781a8-0310-4697-b3b9-dfabaf43bdee",
+    "english": "Notice and Noticed",
+    "spanish": "notar algo, fijarse",
+    "pronunciation": "/ˈnoʊtɪs/ - /ˈnoʊtɪst/"
+  },
+  {
+    "uuid": "c4f1500f-f011-42b8-a2f4-5ceb38f0b588",
+    "english": "Number and Numbered",
+    "spanish": "numerar",
+    "pronunciation": "/ˈnʌmbər/ - /ˈnʌmbərd/"
+  },
+  {
+    "uuid": "d58a3c97-2af5-41bf-85f3-691403dd6259",
+    "english": "Offer and Offered",
+    "spanish": "ofrecer",
+    "pronunciation": "/ˈɔfər/ - /ˈɔfərd/"
+  },
+  {
+    "uuid": "4428d8b1-4df0-4be2-b8af-0cbb3581ede9",
+    "english": "Order and Ordered",
+    "spanish": "ordenar",
+    "pronunciation": "/ˈɔrdər/ - /ˈɔrdərd/"
+  },
+  {
+    "uuid": "be8c11f0-d9aa-4577-9c30-a1ae0e6607b7",
+    "english": "Organize and Organized",
+    "spanish": "organizar",
+    "pronunciation": "/ˈɔrɡənaɪz/ - /ˈɔrɡənaɪzd/"
+  },
+  {
+    "uuid": "c36391b5-1378-4c35-878a-95cc7283a264",
+    "english": "Paint and Painted",
+    "spanish": "pintar",
+    "pronunciation": "/peɪnt/ - /peɪntɪd/"
+  },
+  {
+    "uuid": "7881690a-05ef-4972-a336-8947ad386d85",
+    "english": "Park and Parked",
+    "spanish": "aparcar",
+    "pronunciation": "/pɑrk/ - /pɑrkt/"
+  },
+  {
+    "uuid": "8f6b1947-c217-4e59-8d91-642a153d49f7",
+    "english": "Participate and Participated",
+    "spanish": "participar",
+    "pronunciation": "/pɑːrˈtɪsɪpeɪt/ - /pɑːrˈtɪsɪpeɪtɪd/"
+  },
+  {
+    "uuid": "6b7f9bd4-8282-4acd-8647-3be0d9415bf2",
+    "english": "Pass and Passed",
+    "spanish": "pasar, aprobar",
+    "pronunciation": "/pæs/ - /pæst/"
+  },
+  {
+    "uuid": "b71de6ce-d36c-4777-80e8-0ebaea64acbc",
+    "english": "Perform and Performed",
+    "spanish": "realizar, ejecutar",
+    "pronunciation": "/pərˈfɔrm/ - /pərˈfɔrmd/"
+  },
+  {
+    "uuid": "756641a8-3416-47aa-acdd-89e3d5de0dc4",
+    "english": "Persuade and Persuaded",
+    "spanish": "persuadir",
+    "pronunciation": "/pərˈsweɪd/ - /pərˈsweɪdɪd/"
+  },
+  {
+    "uuid": "5666852f-def1-47e1-90b2-0754146db180",
+    "english": "Plan and Planned",
+    "spanish": "planear",
+    "pronunciation": "/plæn/ - /plænd/"
+  },
+  {
+    "uuid": "97497031-983b-49a6-92ac-fc737a67b937",
+    "english": "Play and Played",
+    "spanish": "jugar, tocar un instrumento",
+    "pronunciation": "/pleɪ/ - /pleɪd/"
+  },
+  {
+    "uuid": "29cb1617-5ef1-4043-8474-8827ec15e285",
+    "english": "Please and Pleased",
+    "spanish": "complacer",
+    "pronunciation": "/pliz/ - /plizd/"
+  },
+  {
+    "uuid": "ee1a44d2-b070-41ec-8c81-aa285012510b",
+    "english": "Practice and Practiced",
+    "spanish": "practicar",
+    "pronunciation": "/ˈpræktɪs/ - /ˈpræktɪst/"
+  },
+  {
+    "uuid": "462d0324-0ece-46b9-a2ce-60d7bfab34d0",
+    "english": "Predict and Predicted",
+    "spanish": "predecir",
+    "pronunciation": "/prɪˈdɪkt/ - /prɪˈdɪktɪd/"
+  },
+  {
+    "uuid": "0c893487-b643-4c59-b9e0-7a024d7a29eb",
+    "english": "Prefer and Preferred",
+    "spanish": "preferir",
+    "pronunciation": "/prɪˈfɜr/ - /prɪˈfɜrd/"
+  },
+  {
+    "uuid": "77b7db36-97aa-45ea-b143-381f235746c0",
+    "english": "Program and Programmed",
+    "spanish": "programar",
+    "pronunciation": "/ˈproʊɡræm/ - /ˈproʊɡræmd/"
+  },
+  {
+    "uuid": "a31afe29-6618-45bc-a086-952e32021284",
+    "english": "Protect and Protected",
+    "spanish": "proteger",
+    "pronunciation": "/prəˈtɛkt/ - /prəˈtɛktɪd/"
+  },
+  {
+    "uuid": "d58da7e8-3b28-487a-b8b7-1a2727a6a759",
+    "english": "Provide and Provided",
+    "spanish": "proporcionar",
+    "pronunciation": "/prəˈvaɪd/ - /prəˈvaɪdɪd/"
+  },
+  {
+    "uuid": "76554272-84b5-450d-afbf-54f07ec9f6bc",
+    "english": "Purchase and Purchased",
+    "spanish": "comprar",
+    "pronunciation": "/ˈpɜrʧəs/ - /ˈpɜrʧəst/"
+  },
+  {
+    "uuid": "104c9300-6a91-4301-9b62-3d1a6a85ab0b",
+    "english": "Receive and Received",
+    "spanish": "recibir",
+    "pronunciation": "/rɪˈsiːv/ - /rɪˈsiːvd/"
+  },
+  {
+    "uuid": "c82ee4f6-fb73-47f8-8d52-90ef15e810b6",
+    "english": "Recommend and Recommended",
+    "spanish": "recomendar",
+    "pronunciation": "/ˌrɛkəˈmɛnd/ - /ˌrɛkəˈmɛndɪd/"
+  },
+  {
+    "uuid": "bf693646-7e2b-40cf-bbec-cc4dd8db562d",
+    "english": "Relate and Related",
+    "spanish": "narrar, relacionar",
+    "pronunciation": "/rɪˈleɪt/ - /rɪˈleɪtɪd/"
+  },
+  {
+    "uuid": "1decbf7b-6674-4c7a-86c8-a13fff67ba4c",
+    "english": "Relax and Relaxed",
+    "spanish": "descansar",
+    "pronunciation": "/rɪˈlæks/ - /rɪˈlækst/"
+  },
+  {
+    "uuid": "3a844f5c-b4de-4247-a9a6-d82727589ad0",
+    "english": "Remember and Remembered",
+    "spanish": "recordar",
+    "pronunciation": "/rɪˈmɛmbər/ - /rɪˈmɛmbərd/"
+  },
+  {
+    "uuid": "e9ecbcb3-adda-4377-93a1-16e9226f50c9",
+    "english": "Repair and Repaired",
+    "spanish": "reparar",
+    "pronunciation": "/rɪˈpɛr/ - /rɪˈpɛrɪd/"
+  },
+  {
+    "uuid": "f36ede79-a487-427e-a003-9db6e1c9dc56",
+    "english": "Repeat and Repeated",
+    "spanish": "repetir",
+    "pronunciation": "/rɪˈpiːt/ - /rɪˈpiːtɪd/"
+  },
+  {
+    "uuid": "cdf4abd5-6cce-480c-be76-46d2b8b5c0a0",
+    "english": "Resist and Resisted",
+    "spanish": "resistir",
+    "pronunciation": "/rɪˈzɪst/ - /rɪˈzɪstɪd/"
+  },
+  {
+    "uuid": "847e9953-b980-4a24-953a-e0af58751d02",
+    "english": "Rest and Rested",
+    "spanish": "descansar",
+    "pronunciation": "/rɛst/ - /rɛstɪd/"
+  },
+  {
+    "uuid": "07807c1f-9508-4e85-b88a-10ae677a3520",
+    "english": "Return and Returned",
+    "spanish": "volver",
+    "pronunciation": "/rɪˈtɜrn/ - /rɪˈtɜrnd/"
+  },
+  {
+    "uuid": "c849ec0b-17b5-445c-a3fd-606a457e1541",
+    "english": "Sail and Sailed",
+    "spanish": "navegar",
+    "pronunciation": "/seɪl/ - /seɪld/"
+  },
+  {
+    "uuid": "83771360-b792-4f2c-a946-a3be7cdf61bb",
+    "english": "Save and Saved",
+    "spanish": "ahorrar, guardar",
+    "pronunciation": "/seɪv/ - /seɪvd/"
+  },
+  {
+    "uuid": "52efafff-eeff-4bd8-8719-40444f34ecd5",
+    "english": "Scan and Scanned",
+    "spanish": "escanear, examinar",
+    "pronunciation": "/skæn/ - /skænd/"
+  },
+  {
+    "uuid": "35a48d5a-0462-4375-921b-f90de580a130",
+    "english": "Scare and Scared",
+    "spanish": "asustar",
+    "pronunciation": "/skɛr/ - /skɛrd/"
+  },
+  {
+    "uuid": "0b0468b6-0fae-4a47-bc83-96b8e4156af1",
+    "english": "Share and Shared",
+    "spanish": "compartir",
+    "pronunciation": "/ʃɛr/ - /ʃɛrd/"
+  },
+  {
+    "uuid": "37c9945a-1906-4dd0-9c77-4913c3a9279d",
+    "english": "Shout and Shouted",
+    "spanish": "gritar",
+    "pronunciation": "/ʃaʊt/ - /ʃaʊtɪd/"
+  },
+  {
+    "uuid": "7cfa6068-42aa-408b-a1f7-01cdd180fd55",
+    "english": "Ski and Skied",
+    "spanish": "esquiar",
+    "pronunciation": "/skiː/ - /skiːd/"
+  },
+  {
+    "uuid": "fc622de7-2b7c-4561-aa43-b04c57da5b1b",
+    "english": "Slow and Slowed",
+    "spanish": "reducir la velocidad",
+    "pronunciation": "/sloʊ/ - /sloʊd/"
+  },
+  {
+    "uuid": "77297420-0c31-4779-9c70-7e669e5d80ed",
+    "english": "Sneeze and Sneezed",
+    "spanish": "estornudar",
+    "pronunciation": "/sniːz/ - /sniːzd/"
+  },
+  {
+    "uuid": "18b8566d-b3b7-4204-8969-07fe164b2cb1",
+    "english": "Snow and Snowed",
+    "spanish": "nevar",
+    "pronunciation": "/snoʊ/ - /snoʊd/"
+  },
+  {
+    "uuid": "62962f64-a0c8-4ae4-a0c8-998e5548548e",
+    "english": "Solve and Solved",
+    "spanish": "resolver",
+    "pronunciation": "/sɒlv/ - /sɒlvd/"
+  },
+  {
+    "uuid": "8da5fb42-0c96-429b-9e61-d98b6860c167",
+    "english": "Start and Started",
+    "spanish": "empezar",
+    "pronunciation": "/stɑrt/ - /ˈstɑrtɪd/"
+  },
+  {
+    "uuid": "5fa527ba-d7e7-4f26-9c83-6a7244a22f87",
+    "english": "Step and Stepped",
+    "spanish": "pisar",
+    "pronunciation": "/stɛp/ - /stɛpt/"
+  },
+  {
+    "uuid": "584ed523-875c-4dec-a168-4c4823d93206",
+    "english": "Stop and Stopped",
+    "spanish": "detener",
+    "pronunciation": "/stɒp/ - /stɒpt/"
+  },
+  {
+    "uuid": "792f0ef3-3a4e-4f23-be25-020b2c3f647e",
+    "english": "Stress and Stressed",
+    "spanish": "recalcar, acentuar",
+    "pronunciation": "/strɛs/ - /strɛst/"
+  },
+  {
+    "uuid": "5639dce1-48a1-46fa-afd9-af3b4bef1a20",
+    "english": "Study and Studied",
+    "spanish": "estudiar",
+    "pronunciation": "/ˈstʌdi/ - /ˈstʌdid/"
+  },
+  {
+    "uuid": "0e0f754a-4a3e-45c7-89ce-271a2ed823f5",
+    "english": "Substitute and Substituted",
+    "spanish": "sustituir",
+    "pronunciation": "/ˈsʌbstɪtuːt/ - /ˈsʌbstɪtjuːtɪd/"
+  },
+  {
+    "uuid": "66ac523f-4ca2-421d-a21b-4c51dda52f1f",
+    "english": "Suggest and Suggested",
+    "spanish": "sugerir",
+    "pronunciation": "/səˈdʒɛst/ - /səˈdʒɛstɪd/"
+  },
+  {
+    "uuid": "251e3d43-5ed5-48b3-ab05-818af0afa932",
+    "english": "Surprise and Surprised",
+    "spanish": "sorprender",
+    "pronunciation": "/sərˈpraɪz/ - /sərˈpraɪzd/"
+  },
+  {
+    "uuid": "29780a64-f99d-4b6b-b584-006c27bd5a1b",
+    "english": "Talk and Talked",
+    "spanish": "hablar, conversar",
+    "pronunciation": "/tɔk/ - /tɔkt/"
+  },
+  {
+    "uuid": "a123d233-8851-443f-a81c-17d696f166e5",
+    "english": "Taste and Tasted",
+    "spanish": "probar",
+    "pronunciation": "/teɪst/ - /teɪstɪd/"
+  },
+  {
+    "uuid": "caf1b534-23f9-4c72-a270-56cef7bfa998",
+    "english": "Terrorize and Terrorized",
+    "spanish": "aterrorizar",
+    "pronunciation": "/ˈtɛrəraɪz/ - /ˈtɛrəraɪzd/"
+  },
+  {
+    "uuid": "980daa84-0119-4a11-b5fe-685fbafb36a1",
+    "english": "Thank and Thanked",
+    "spanish": "agradecer",
+    "pronunciation": "/θæŋk/ - /θæŋkt/"
+  },
+  {
+    "uuid": "fbaa91a8-c26d-41f3-bdcf-e93c833a222a",
+    "english": "Touch and Touched",
+    "spanish": "tocar",
+    "pronunciation": "/tʌtʃ/ - /tʌtʃt/"
+  },
+  {
+    "uuid": "32f8e550-74b9-44c2-a6ed-722bb7e96488",
+    "english": "Travel and Traveled",
+    "spanish": "viajar",
+    "pronunciation": "/ˈtrævəl/ - /ˈtrævəld/"
+  },
+  {
+    "uuid": "3bfb572c-8aca-4c11-be9e-3a886632b12f",
+    "english": "Try and Tried",
+    "spanish": "intentar",
+    "pronunciation": "/traɪ/ - /traɪd/"
+  },
+  {
+    "uuid": "2d64de7a-2922-4c6a-831f-e17082f503b8",
+    "english": "Turn and Turned",
+    "spanish": "girar",
+    "pronunciation": "/tɜrn/ - /tɜrnd/"
+  },
+  {
+    "uuid": "37fdbd31-40cb-4a1d-8c09-2e1b2df2e232",
+    "english": "Use and Used",
+    "spanish": "usar, utilizar",
+    "pronunciation": "/juːz/ - /juːzd/"
+  },
+  {
+    "uuid": "bae2a427-6668-4991-8b69-2cb3cbce415a",
+    "english": "Vary and Varied",
+    "spanish": "variar",
+    "pronunciation": "/ˈvɛəri/ - /ˈvɛəriəd/"
+  },
+  {
+    "uuid": "0ce4fcf6-fe5c-43ca-a97a-5093144c77bc",
+    "english": "Wait and Waited",
+    "spanish": "esperar",
+    "pronunciation": "/weɪt/ - /ˈweɪtɪd/"
+  },
+  {
+    "uuid": "af8033ee-e730-454a-9cb3-95c0ea415660",
+    "english": "Walk and Walked",
+    "spanish": "Caminar",
+    "pronunciation": "/wɔk/ - /wɔkt/"
+  },
+  {
+    "uuid": "82527058-6142-413c-9bdc-41280ce45ae0",
+    "english": "Want and Wanted",
+    "spanish": "querer, necesitar",
+    "pronunciation": "/wɑnt/ - /ˈwɑntɪd/"
+  },
+  {
+    "uuid": "95e9cf18-05d1-416b-bdcd-0bc748c92c11",
+    "english": "Warn and Warned",
+    "spanish": "advertir",
+    "pronunciation": "/wɔrn/ - /wɔrnd/"
+  },
+  {
+    "uuid": "64638ae5-9d5c-4eb4-9c42-42d50b15f71c",
+    "english": "Wash and Washed",
+    "spanish": "lavar",
+    "pronunciation": "/wɒʃ/ - /wɒʃt/"
+  },
+  {
+    "uuid": "8964c0b2-2bfc-466a-98f5-e57a2c5bd840",
+    "english": "Watch and Watched",
+    "spanish": "ver, vigilar",
+    "pronunciation": "/wɒtʃ/ - /wɒtʃt/"
+  },
+  {
+    "uuid": "555bbbc7-032f-4f12-96de-df195dd1aa5b",
+    "english": "Water and Watered",
+    "spanish": "regar",
+    "pronunciation": "/ˈwɔːtər/ - /ˈwɔːtərd/"
+  },
+  {
+    "uuid": "290455f7-3a27-4288-a790-5a83eb557a89",
+    "english": "Welcome and Welcomed",
+    "spanish": "dar la bienvenida, recibir a alguien",
+    "pronunciation": "/ˈwɛlkəm/ - /ˈwɛlkəmd/"
+  },
+  {
+    "uuid": "2e64d514-b1ec-4c27-b8fa-193e48bd5b70",
+    "english": "Wish and Wished",
+    "spanish": "desear, querer",
+    "pronunciation": "/wɪʃ/ - /wɪʃt/"
+  },
+  {
+    "uuid": "a4702544-cc4d-4843-98be-16818c9d64a0",
+    "english": "Work and Worked",
+    "spanish": "trabajar, funcionar",
+    "pronunciation": "/wɜrk/ - /wɜrkt/"
+  },
+  {
+    "uuid": "1a58edbd-c78b-4f00-a220-7c7ba52143b3",
+    "english": "Worry and Worried",
+    "spanish": "preocuparse",
+    "pronunciation": "/ˈwʌri/ - /ˈwʌrid/"
+  },
+  {
+    "uuid": "5aed3ab4-7e68-4ddb-8ed2-dde436e4b35f",
+    "english": "arise, arose and arisen",
+    "spanish": "surgir",
+    "pronunciation": "/əˈraɪz/ - /əˈroʊz/ - /əˈrɪzən/"
+  },
+  {
+    "uuid": "0a1de50c-4008-4a18-be11-3c4b738905eb",
+    "english": "awake, awoke and awoken",
+    "spanish": "despertarse",
+    "pronunciation": "/əˈweɪk/ - /əˈwoʊk/ - /əˈwoʊkən/"
+  },
+  {
+    "uuid": "c2588ddc-d7a7-4f0f-9965-3d50c641503f",
+    "english": "be, was / were and been",
+    "spanish": "ser o estar",
+    "pronunciation": "/biː/ - /wəz/ - /wɜr/"
+  },
+  {
+    "uuid": "7b623750-c45f-4f46-817e-08d2e77afed6",
+    "english": "beat, beat and beaten",
+    "spanish": "vencer o hacer algo mejor",
+    "pronunciation": "/biːt/ - /biːt/ - /ˈbiːtən/"
+  },
+  {
+    "uuid": "7d4274f3-0bda-4a48-986c-323e249b213a",
+    "english": "bear, bore and borne / born",
+    "spanish": "soportar, nacer",
+    "pronunciation": "/bɛr/ - /bɔr/ - /bɔrn/"
+  },
+  {
+    "uuid": "dc69c787-9dc5-4778-9775-4361b6524871",
+    "english": "become, became and become",
+    "spanish": "convertirse en",
+    "pronunciation": "/bɪˈkʌm/ - /bɪˈkeɪm/ - /bɪˈkʌm/"
+  },
+  {
+    "uuid": "93596354-5635-4e44-abf5-f24241436137",
+    "english": "begin, began and begun",
+    "spanish": "comenzar",
+    "pronunciation": "/bɪˈɡɪn/ - /bɪˈɡæn/ - /bɪˈɡʌn/"
+  },
+  {
+    "uuid": "aff0e290-413d-4229-b505-ac77c764e91c",
+    "english": "bend, bent and bent",
+    "spanish": "doblar",
+    "pronunciation": "/bɛnd/ - /bɛnt/ - /bɛnt/"
+  },
+  {
+    "uuid": "dee35b85-b1db-4485-bc5d-050bb1d64c65",
+    "english": "bet, bet/betted and bet/betted",
+    "spanish": "apostar",
+    "pronunciation": "/bɛt/ - /bɛt/ - /bɛt/"
+  },
+  {
+    "uuid": "3162b8a4-feea-46f1-b4e5-cd8d2bb5457b",
+    "english": "bite, bit and bitten",
+    "spanish": "morder",
+    "pronunciation": "/baɪt/ - /bɪt/ - /ˈbɪtən/"
+  },
+  {
+    "uuid": "b40ad080-afed-46d1-afff-7362cd3b5e2f",
+    "english": "bid, bid and bid",
+    "spanish": "pujar",
+    "pronunciation": "/bɪd/ - /bɪd/ - /bɪd/"
+  },
+  {
+    "uuid": "397e4e08-0c69-4028-a0f8-33600381ef76",
+    "english": "bind, bound and bound",
+    "spanish": "atar",
+    "pronunciation": "/baɪnd/ - /baʊnd/ - /baʊnd/"
+  },
+  {
+    "uuid": "c5525106-7e64-498b-a778-e84f10161ef3",
+    "english": "bleed, bled and bled",
+    "spanish": "sangrar",
+    "pronunciation": "/bliːd/ - /blɛd/ - /blɛd/"
+  },
+  {
+    "uuid": "8dcd4a27-eea3-42fa-9182-e3a6b974d3d1",
+    "english": "blow, blew and blown",
+    "spanish": "soplar",
+    "pronunciation": "/bloʊ/ - /bluː/ - /bloʊn/"
+  },
+  {
+    "uuid": "3ddf62fe-9b19-4fd7-a0f9-f4db57e8de2e",
+    "english": "break, broke and broken",
+    "spanish": "romper",
+    "pronunciation": "/breɪk/ - /broʊk/ - /ˈbroʊkən/"
+  },
+  {
+    "uuid": "86760f85-00bb-4157-970c-a8b88ec5a041",
+    "english": "breed, bred and bred",
+    "spanish": "criar",
+    "pronunciation": "/briːd/ - /brɛd/ - /brɛd/"
+  },
+  {
+    "uuid": "db4077ea-6f33-4682-8224-104cb4883ff2",
+    "english": "bring, brought and brought",
+    "spanish": "traer",
+    "pronunciation": "/brɪŋ/ - /brɔt/ - /brɔt/"
+  },
+  {
+    "uuid": "dfb1499c-a926-4b3b-b7f1-641cbbd35f2f",
+    "english": "broadcast, broadcast and broadcast",
+    "spanish": "radiar algo",
+    "pronunciation": "/ˈbrɔdkæst/ - /ˈbrɔdkæst/ - /ˈbrɔdkæst/"
+  },
+  {
+    "uuid": "97ed9b60-cf1d-4db3-9799-76a7b03e3ed4",
+    "english": "build, built and built",
+    "spanish": "construir",
+    "pronunciation": "/bɪld/ - /bɪlt/ - /bɪlt/"
+  },
+  {
+    "uuid": "5feb8249-c06c-42ff-b51a-583c188a564f",
+    "english": "burn, burnt / burned and burnt / burned",
+    "spanish": "quemar",
+    "pronunciation": "/bɜrn/ - /bɜrnt/ - /bɜrnt/"
+  },
+  {
+    "uuid": "6d5b840c-264c-40e7-bf28-dfcfc42aa4d1",
+    "english": "burst, burst and burst",
+    "spanish": "reventar",
+    "pronunciation": "/bɜrst/ - /bɜrst/ - /bɜrst/"
+  },
+  {
+    "uuid": "77e902d6-6889-4141-a498-eac35a832b71",
+    "english": "buy, bought and bought",
+    "spanish": "comprar",
+    "pronunciation": "/baɪ/ - /bɔt/ - /bɔt/"
+  },
+  {
+    "uuid": "5e28379b-fe97-46ab-a652-65926dd5378c",
+    "english": "catch, caught and caught",
+    "spanish": "atrapar",
+    "pronunciation": "/kæʧ/ - /kɔt/ - /kɔt/"
+  },
+  {
+    "uuid": "34385aa3-d155-4ddc-8566-2e236d8ddec2",
+    "english": "cast, cast and cast",
+    "spanish": "emitir, lanzar",
+    "pronunciation": "/kæst/ - /kæst/ - /kæst/"
+  },
+  {
+    "uuid": "b3e74b65-71ec-44e5-994e-23be8be72c21",
+    "english": "choose, chose and chosen",
+    "spanish": "elegir",
+    "pronunciation": "/ʧuːz/ - /ʧoʊz/ - /ˈʧoʊzən/"
+  },
+  {
+    "uuid": "cf528c31-183c-4fba-bc6f-21310a48cc87",
+    "english": "come, came and come",
+    "spanish": "venir",
+    "pronunciation": "/kʌm/ - /keɪm/ - /kʌm/"
+  },
+  {
+    "uuid": "4446df35-eb0f-403c-87e8-34fc72d90176",
+    "english": "cost, cost and cost",
+    "spanish": "costar",
+    "pronunciation": "/kɔst/ - /kɔst/ - /kɔst/"
+  },
+  {
+    "uuid": "3cc20386-e0f9-404f-ba68-dc7e160d5102",
+    "english": "creep, crept and crept",
+    "spanish": "arrastrarse, moverse lento",
+    "pronunciation": "/kriːp/ - /krɛpt/ - /krɛpt/"
+  },
+  {
+    "uuid": "665ae82b-c2bf-4b31-ba1a-9d366d9e30c9",
+    "english": "cut, cut and cut",
+    "spanish": "cortar",
+    "pronunciation": "/kʌt/ - /kʌt/ - /kʌt/"
+  },
+  {
+    "uuid": "5345ebb5-27ff-47f4-bfd9-ddbf68e1e0ac",
+    "english": "cling, clung and clung",
+    "spanish": "agarrarse",
+    "pronunciation": "/klɪŋ/ - /klʌŋ/ - /klʌŋ/"
+  },
+  {
+    "uuid": "2481651f-0a40-4be8-8c84-3ddffba8c25f",
+    "english": "deal, dealt and dealt",
+    "spanish": "dar, repartir, hacer trato",
+    "pronunciation": "/diːl/ - /dɛlt/ - /dɛlt/"
+  },
+  {
+    "uuid": "c382c985-141e-4248-ba34-9328894c4231",
+    "english": "do, did and done",
+    "spanish": "hacer",
+    "pronunciation": "/duː/ - /dɪd/ - /dʌn/"
+  },
+  {
+    "uuid": "fef588a1-5460-4374-bd2c-103e6c69e057",
+    "english": "dig, dug and dug",
+    "spanish": "cavar",
+    "pronunciation": "/dɪg/ - /dʌg/ - /dʌg/"
+  },
+  {
+    "uuid": "3a900ef0-c93d-4c8e-ab9d-c38a73aa6fb4",
+    "english": "draw, drew and drawn",
+    "spanish": "dibujar",
+    "pronunciation": "/drɔː/ - /druː/ - /drɔːn/"
+  },
+  {
+    "uuid": "21715acb-5bc8-4ea0-9da9-49b5b52d72a5",
+    "english": "dream, dreamt/dreamed and dreamt/dreamed",
+    "spanish": "soñar",
+    "pronunciation": "/driːm/ - /drɛm/ - /drɛm/"
+  },
+  {
+    "uuid": "eeb10eb0-13f3-4026-9114-54ef921d38d4",
+    "english": "drink, drank and drunk",
+    "spanish": "beber",
+    "pronunciation": "/drɪŋk/ - /dræŋk/ - /drʌŋk/"
+  },
+  {
+    "uuid": "bba0ae00-ee48-4e77-bf4d-9eabfa2b2a0c",
+    "english": "drive, drove and driven",
+    "spanish": "conducir",
+    "pronunciation": "/draɪv/ - /droʊv/ - /ˈdrɪvən/"
+  },
+  {
+    "uuid": "0151c4b4-0138-4c2b-8a69-a2d20a2edc3f",
+    "english": "eat, ate and eaten",
+    "spanish": "comer",
+    "pronunciation": "/iːt/ - /eɪt/ - /ˈiːtən/"
+  },
+  {
+    "uuid": "bf48fd74-abb0-4232-8dab-ec259eb4ab3d",
+    "english": "fall, fell and fallen",
+    "spanish": "caer",
+    "pronunciation": "/fɔːl/ - /fɛl/ - /ˈfɔːlən/"
+  },
+  {
+    "uuid": "42b94c37-366e-4521-a776-2bac3a2b38d6",
+    "english": "feed, fed and fed",
+    "spanish": "alimentar",
+    "pronunciation": "/fiːd/ - /fɛd/ - /fɛd/"
+  },
+  {
+    "uuid": "748af2d2-7a88-46bf-b7aa-6c62782821da",
+    "english": "feel, felt and felt",
+    "spanish": "sentir",
+    "pronunciation": "/fiːl/ - /fɛlt/ - /fɛlt/"
+  },
+  {
+    "uuid": "e564b0f5-55f5-445a-b4b1-de5175d486da",
+    "english": "fight, fought and fought",
+    "spanish": "pelear",
+    "pronunciation": "/faɪt/ - /fɔt/ - /fɔt/"
+  },
+  {
+    "uuid": "6038cfe6-5c18-47ea-8177-4b835f6f7201",
+    "english": "find, found and found",
+    "spanish": "encontrar",
+    "pronunciation": "/faɪnd/ - /faʊnd/ - /faʊnd/"
+  },
+  {
+    "uuid": "bbaea247-4f53-4f8f-9f16-b73e5571a3fb",
+    "english": "flee, fled and fled",
+    "spanish": "huir",
+    "pronunciation": "/fliː/ - /flɛd/ - /flɛd/"
+  },
+  {
+    "uuid": "6707b549-8b23-4047-bc02-de7ac8cec747",
+    "english": "fly, flew and flown",
+    "spanish": "volar",
+    "pronunciation": "/flaɪ/ - /fluː/ - /floʊn/"
+  },
+  {
+    "uuid": "7817bab7-6cf8-4aa2-b055-de543cbde0bd",
+    "english": "forget, forgot and forgotten",
+    "spanish": "olvidar",
+    "pronunciation": "/fərˈɡɛt/ - /fərˈɡɑt/ - /fərˈɡɒtən/"
+  },
+  {
+    "uuid": "8b68c353-6085-4d3b-90ab-19892bd17487",
+    "english": "forbid, forbade and forbidden",
+    "spanish": "prohibir",
+    "pronunciation": "/fərˈbɪd/ - /fərˈbeɪd/ - /fərˈbɪdən/"
+  },
+  {
+    "uuid": "988bedd7-5896-43c6-a1ae-ad51b5c7bb71",
+    "english": "forgive, forgave and forgiven",
+    "spanish": "perdonar",
+    "pronunciation": "/fərˈɡɪv/ - /fərˈɡeɪv/ - /fərˈɡɪvən/"
+  },
+  {
+    "uuid": "cc038b68-0122-4d74-b008-d557383fbb35",
+    "english": "forsake, forsook and forsaken",
+    "spanish": "abandonar alguien",
+    "pronunciation": "/fərˈseɪk/ - /fərˈsʊk/ - /fərˈseɪkən/"
+  },
+  {
+    "uuid": "b2dd6884-62fb-46b5-89d5-23022aca7edf",
+    "english": "freeze, froze and frozen",
+    "spanish": "congelar",
+    "pronunciation": "/friːz/ - /froʊz/ - /ˈfroʊzən/"
+  },
+  {
+    "uuid": "51e4de51-783e-49ab-94f3-1e0f769648f4",
+    "english": "get, got and got",
+    "spanish": "tener, obtener",
+    "pronunciation": "/ɡɛt/ - /ɡɒt/ - /ɡɒt/"
+  },
+  {
+    "uuid": "78d748e8-0291-41f3-b9e3-eb68c462f5ef",
+    "english": "give, gave and given",
+    "spanish": "dar",
+    "pronunciation": "/ɡɪv/ - /ɡeɪv/ - /ˈɡɪvən/"
+  },
+  {
+    "uuid": "9f29ef5b-a60d-47ae-9997-3c9157cd625c",
+    "english": "go, went and gone",
+    "spanish": "ir",
+    "pronunciation": "/ɡoʊ/ - /wɛnt/ - /ɡɒn/"
+  },
+  {
+    "uuid": "a3bf71c4-d007-412b-81fb-8fdea65da6c3",
+    "english": "grind, ground and ground",
+    "spanish": "moler",
+    "pronunciation": "/ɡraɪnd/ - /ɡraʊnd/ - /ɡraʊnd/"
+  },
+  {
+    "uuid": "0d8f0a81-ca97-43b7-8f0b-a0bb66c4056b",
+    "english": "grow, grew and grown",
+    "spanish": "crecer",
+    "pronunciation": "/ɡroʊ/ - /ɡruː/ - /ɡroʊn/"
+  },
+  {
+    "uuid": "80445358-3710-4ae3-9265-4b0977718602",
+    "english": "hang, hung and hung",
+    "spanish": "colgar",
+    "pronunciation": "/hæŋ/ - /hʌŋ/ - /hʌŋ/"
+  },
+  {
+    "uuid": "2fc08d85-65d8-4bd1-b461-55f619ad9d34",
+    "english": "have, had and had",
+    "spanish": "tener",
+    "pronunciation": "/hæv/ - /hæd/ - /hæd/"
+  },
+  {
+    "uuid": "b4adc344-6c14-4f47-82b1-81a43a9c3021",
+    "english": "hear, heard and heard",
+    "spanish": "oír",
+    "pronunciation": "/hɪr/ - /hɜrd/ - /hɜrd/"
+  },
+  {
+    "uuid": "df3a9c49-080b-4de1-b2ac-cba448314636",
+    "english": "hide, hid and hidden",
+    "spanish": "esconderse",
+    "pronunciation": "/haɪd/ - /hɪd/ - /ˈhɪdən/"
+  },
+  {
+    "uuid": "8cbdd15c-e715-4da4-844f-e874a720cf6f",
+    "english": "hit, hit and hit",
+    "spanish": "golpear",
+    "pronunciation": "/hɪt/ - /hɪt/ - /hɪt/"
+  },
+  {
+    "uuid": "933ddf08-09e4-4f13-b2f4-0edb5830063b",
+    "english": "hold, held and held",
+    "spanish": "aguantar algo",
+    "pronunciation": "/hoʊld/ - /hɛld/ - /hɛld/"
+  },
+  {
+    "uuid": "c38b0eac-bfb2-4568-9542-52af988b9404",
+    "english": "hurt, hurt and hurt",
+    "spanish": "herir, doler",
+    "pronunciation": "/hɜrt/ - /hɜrt/ - /hɜrt/"
+  },
+  {
+    "uuid": "8fe2169e-6854-438f-b84e-5b32b5397ee9",
+    "english": "keep, kept and kept",
+    "spanish": "mantener en posesion",
+    "pronunciation": "/kiːp/ - /kɛpt/ - /kɛpt/"
+  },
+  {
+    "uuid": "2be6f860-21ee-4d2e-845a-f0223531f331",
+    "english": "kneel, knelt and knelt",
+    "spanish": "arrodillarse",
+    "pronunciation": "/niːl/ - /nɛlt/ - /nɛlt/"
+  },
+  {
+    "uuid": "8c4ef251-ea81-4810-a6f3-ec6c72a0c877",
+    "english": "know, knew and known",
+    "spanish": "saber",
+    "pronunciation": "/noʊ/ - /njuː/ - /noʊn/"
+  },
+  {
+    "uuid": "4ee5a9ad-5bcf-4dc8-8ad8-feefca1a03e4",
+    "english": "lead, led and led",
+    "spanish": "liderar",
+    "pronunciation": "/liːd/ - /lɛd/ - /lɛd/"
+  },
+  {
+    "uuid": "8699684c-0b4a-4d1b-80c3-e261654c3016",
+    "english": "lay, laid and laid",
+    "spanish": "poner horizontal, preparar metodo, tumbarse, yacer",
+    "pronunciation": "/leɪ/ - /leɪd/ - /leɪd/"
+  },
+  {
+    "uuid": "8463fdce-b846-4011-be5c-8f77504f191f",
+    "english": "learn, learnt/learned and learnt/learned",
+    "spanish": "aprender",
+    "pronunciation": "/lɜrn/ - /lɜrnt/ - /lɜrnt/"
+  },
+  {
+    "uuid": "690ea143-1588-43f2-b11f-ad2e801c0458",
+    "english": "lean, leant and leant",
+    "spanish": "inclinarse",
+    "pronunciation": "/liːn/ - /lɛnt/ - /lɛnt/"
+  },
+  {
+    "uuid": "7767fd14-d919-4d4f-b8db-ef391b2bcade",
+    "english": "leap, leapt and leapt",
+    "spanish": "salto de ayuda,fama, defensa alguien",
+    "pronunciation": "/liːp/ - /lɛpt/ - /lɛpt/"
+  },
+  {
+    "uuid": "a73331a4-f19d-4ffa-929b-52f581bbe02a",
+    "english": "leave, left and left",
+    "spanish": "dejar",
+    "pronunciation": "/liːv/ - /lɛft/ - /lɛft/"
+  },
+  {
+    "uuid": "1757faf8-5854-4a8f-8490-f3a053200728",
+    "english": "lend, lent and lent",
+    "spanish": "prestar",
+    "pronunciation": "/lɛnd/ - /lɛnt/ - /lɛnt/"
+  },
+  {
+    "uuid": "7f5c6cf7-38c3-45ef-9360-2e5f48791ffa",
+    "english": "let, let and let",
+    "spanish": "permitir",
+    "pronunciation": "/lɛt/ - /lɛt/ - /lɛt/"
+  },
+  {
+    "uuid": "b1336edd-4ac5-43cd-a302-8e737727c5b2",
+    "english": "lose, lost and lost",
+    "spanish": "perder",
+    "pronunciation": "/luːz/ - /lɔst/ - /lɔst/"
+  },
+  {
+    "uuid": "5db7dd57-baf4-4f02-86da-d8ec7c118d0f",
+    "english": "light, lit and lit",
+    "spanish": "encender",
+    "pronunciation": "/laɪt/ - /lɪt/ - /lɪt/"
+  },
+  {
+    "uuid": "3cfa099a-1bd2-46b5-9178-776a65d44e09",
+    "english": "make, made and made",
+    "spanish": "producir o fabricar",
+    "pronunciation": "/meɪk/ - /meɪd/ - /meɪd/"
+  },
+  {
+    "uuid": "2b4e3083-42d5-4dca-9f17-1fd3bf67ec36",
+    "english": "mean, meant and meant",
+    "spanish": "significar",
+    "pronunciation": "/miːn/ - /mɛnt/ - /mɛnt/"
+  },
+  {
+    "uuid": "4e25bde7-a77d-486f-b1a9-ca6f602c2d5a",
+    "english": "meet, met and met",
+    "spanish": "conocer, encontrar",
+    "pronunciation": "/miːt/ - /mɛt/ - /mɛt/"
+  },
+  {
+    "uuid": "c8f9b43f-9236-4c53-9d9d-d25febe9d388",
+    "english": "mistake, mistook and mistaken",
+    "spanish": "equivocar",
+    "pronunciation": "/mɪsˈteɪk/ - /mɪsˈtʊk/ - /mɪsˈteɪkən/"
+  },
+  {
+    "uuid": "f63903a4-7547-490f-ae27-96e1bd919d4a",
+    "english": "overcome, overcame and overcome",
+    "spanish": "vencer o superar",
+    "pronunciation": "/ˌoʊvərˈkʌm/ - /ˌoʊvərˈkeɪm/ - /ˌoʊvərˈkʌm/"
+  },
+  {
+    "uuid": "85f8664a-9031-4753-b91e-b7b6d105b093",
+    "english": "pay, paid and paid",
+    "spanish": "pagar",
+    "pronunciation": "/peɪ/ - /peɪd/ - /peɪd/"
+  },
+  {
+    "uuid": "50eaeefa-d4fc-4bee-9c4d-ce00f412dcbc",
+    "english": "put, put and put",
+    "spanish": "poner, mover algo a su lugar",
+    "pronunciation": "/pʊt/ - /pʊt/ - /pʊt/"
+  },
+  {
+    "uuid": "8e087f4d-50a8-4f6f-8eb8-cf32e3e051a7",
+    "english": "quit, quit/quitted and quit/quitted",
+    "spanish": "abandonar",
+    "pronunciation": "/kwɪt/ - /kwɪt/ - /kwɪt/"
+  },
+  {
+    "uuid": "c486d160-b162-4143-9901-74a7d5264d39",
+    "english": "read, read and read",
+    "spanish": "leer",
+    "pronunciation": "/rɛd/ - /rɛd/ - /rɛd/"
+  },
+  {
+    "uuid": "2f87cb53-e2c2-4083-a58b-28326e535963",
+    "english": "ride, rode and ridden",
+    "spanish": "montar, ir",
+    "pronunciation": "/raɪd/ - /roʊd/ - /ˈrɪdən/"
+  },
+  {
+    "uuid": "0f3e5731-502b-43e4-8d2c-8d379381e74a",
+    "english": "ring, rang and rung",
+    "spanish": "llamar por teléfono",
+    "pronunciation": "/rɪŋ/ - /ræŋ/ - /rʌŋ/"
+  },
+  {
+    "uuid": "fe22258f-3b6a-4ebd-a264-ffb9ea42ac0a",
+    "english": "rise, rose and risen",
+    "spanish": "elevar",
+    "pronunciation": "/raɪz/ - /roʊz/ - /ˈrɪzən/"
+  },
+  {
+    "uuid": "d233a55c-199b-44ab-8e3e-041af341b9ad",
+    "english": "run, ran and run",
+    "spanish": "correr",
+    "pronunciation": "/rʌn/ - /ræn/ - /rʌn/"
+  },
+  {
+    "uuid": "1ad28ffa-0842-41e3-bd0d-82cd63ca5f6a",
+    "english": "say, said and said",
+    "spanish": "decir",
+    "pronunciation": "/seɪ/ - /sɛd/ - /sɛd/"
+  },
+  {
+    "uuid": "6c53ec90-2c6e-4c2c-9d08-7bd67ffd3383",
+    "english": "see, saw and seen",
+    "spanish": "ver",
+    "pronunciation": "/siː/ - /sɔː/ - /siːn/"
+  },
+  {
+    "uuid": "efb8deb1-00c7-43ef-9131-a673bce97a47",
+    "english": "seek, sought and sought",
+    "spanish": "buscar",
+    "pronunciation": "/siːk/ - /sɔt/ - /sɔt/"
+  },
+  {
+    "uuid": "a9def9bd-8ea0-420e-93dc-f2037e50d7cf",
+    "english": "sell, sold and sold",
+    "spanish": "vender",
+    "pronunciation": "/sɛl/ - /soʊld/ - /soʊld/"
+  },
+  {
+    "uuid": "11fe7c38-5d77-41f3-94bf-064d78ca6604",
+    "english": "send, sent and sent",
+    "spanish": "enviar",
+    "pronunciation": "/sɛnd/ - /sɛnt/ - /sɛnt/"
+  },
+  {
+    "uuid": "774d1a05-0af4-4c5f-ac64-a3f13204c11c",
+    "english": "set, set and set",
+    "spanish": "fijar",
+    "pronunciation": "/sɛt/ - /sɛt/ - /sɛt/"
+  },
+  {
+    "uuid": "cc74c82f-3495-48a0-af6d-dadf31ffe320",
+    "english": "shake, shook and shaken",
+    "spanish": "sacudir",
+    "pronunciation": "/ʃeɪk/ - /ʃʊk/ - /ˈʃeɪkən/"
+  },
+  {
+    "uuid": "788e0643-2621-416b-9768-7a1e242f62b6",
+    "english": "shine, shone and shone",
+    "spanish": "brillar",
+    "pronunciation": "/ʃaɪn/ - /ʃoʊn/ - /ʃoʊn/"
+  },
+  {
+    "uuid": "f63567ec-1657-4b88-a711-c77332a1e3f4",
+    "english": "shoot, shot and shot",
+    "spanish": "disparar",
+    "pronunciation": "/ʃuːt/ - /ʃɒt/ - /ʃɒt/"
+  },
+  {
+    "uuid": "5b5a1c2b-30aa-4694-9315-fef5ccd76d18",
+    "english": "show, showed and shown/showed",
+    "spanish": "mostrar",
+    "pronunciation": "/ʃoʊ/ - /ʃoʊd/ - /ʃoʊn/"
+  },
+  {
+    "uuid": "500816bd-038d-4480-832c-3086b838c965",
+    "english": "shrink, shrank/shrunk and shrunk",
+    "spanish": "encoger",
+    "pronunciation": "/ʃrɪŋk/ - /ʃræŋk/ - /ʃrʌŋk/"
+  },
+  {
+    "uuid": "6fa6d8f9-1b62-4603-adba-89d2f4ee29e1",
+    "english": "shut, shut and shut",
+    "spanish": "hacer que algo cierre",
+    "pronunciation": "/ʃʌt/ - /ʃʌt/ - /ʃʌt/"
+  },
+  {
+    "uuid": "f04880a4-3e44-4de7-b1c3-3a861bddd470",
+    "english": "sing, sang and sung",
+    "spanish": "cantar",
+    "pronunciation": "/sɪŋ/ - /sæŋ/ - /sʌŋ/"
+  },
+  {
+    "uuid": "41b782bb-dd59-4e04-9f85-99b0fac898a8",
+    "english": "sink, sank and sunk",
+    "spanish": "hundir",
+    "pronunciation": "/sɪŋk/ - /sæŋk/ - /sʌŋk/"
+  },
+  {
+    "uuid": "6551aecd-15df-4723-92c7-96c15a6d3910",
+    "english": "sit, sat and sat",
+    "spanish": "sentarse",
+    "pronunciation": "/sɪt/ - /sæt/ - /sæt/"
+  },
+  {
+    "uuid": "dba1b950-a53f-4cd4-815b-02ed661a219f",
+    "english": "sleep, slept and slept",
+    "spanish": "dormir",
+    "pronunciation": "/sliːp/ - /slɛpt/ - /slɛpt/"
+  },
+  {
+    "uuid": "020079ae-2c50-4a3c-9a3b-2a9a3b928055",
+    "english": "slide, slid and slid",
+    "spanish": "deslizar",
+    "pronunciation": "/slaɪd/ - /slɪd/ - /slɪd/"
+  },
+  {
+    "uuid": "1181d3b5-e725-4d02-a05f-769abd6ab0bc",
+    "english": "smell, smelt and smelt",
+    "spanish": "oler",
+    "pronunciation": "/smɛl/ - /smɛlt/ - /smɛlt/"
+  },
+  {
+    "uuid": "993ccc79-a14d-481f-9b0b-e2c653da5a80",
+    "english": "sow, sowed and sown / sowed",
+    "spanish": "sembrar",
+    "pronunciation": "/soʊ/ - /soʊd/ - /soʊn/"
+  },
+  {
+    "uuid": "dc602e42-e2a0-48ec-b6fb-244abe2744ad",
+    "english": "speak, spoke and spoken",
+    "spanish": "hablar",
+    "pronunciation": "/spiːk/ - /spoʊk/ - /ˈspoʊkən/"
+  },
+  {
+    "uuid": "e004efff-c6d7-4c59-8ef6-631a6a43c05f",
+    "english": "speed, sped and sped",
+    "spanish": "acelerar",
+    "pronunciation": "/spiːd/ - /spɛd/ - /spɛd/"
+  },
+  {
+    "uuid": "e91ea5ab-4fdc-414c-8b58-d0dda8f4324d",
+    "english": "spell, spelt/spelled and spelt/spelled",
+    "spanish": "deletrear",
+    "pronunciation": "/spɛl/ - /spɛlt/ - /spɛlt/"
+  },
+  {
+    "uuid": "c1a9a0e7-80ab-4c83-80b2-5378d711de0f",
+    "english": "spend, spent and spent",
+    "spanish": "gastar",
+    "pronunciation": "/spɛnd/ - /spɛnt/ - /spɛnt/"
+  },
+  {
+    "uuid": "42485bbc-66e7-4c09-b3ad-d823ee61f056",
+    "english": "spill, spilt/spilled and spilt/spilled",
+    "spanish": "derramar",
+    "pronunciation": "/spɪl/ - /spɪlt/ - /spɪlt/"
+  },
+  {
+    "uuid": "3fd9991c-f41f-495a-9cf1-eb195c12f6e8",
+    "english": "spin, spun and spun",
+    "spanish": "hacer dar vueltas",
+    "pronunciation": "/spɪn/ - /spʌn/ - /spʌn/"
+  },
+  {
+    "uuid": "27b7ecb5-3bda-48b6-bb76-97ba0b1c0f9f",
+    "english": "spit, spat and spat",
+    "spanish": "escupir",
+    "pronunciation": "/spɪt/ - /spæt/ - /spæt/"
+  },
+  {
+    "uuid": "e1e09dbc-b9ec-47ee-ac06-98467b1d4901",
+    "english": "split, split and split",
+    "spanish": "dividir",
+    "pronunciation": "/splɪt/ - /splɪt/ - /splɪt/"
+  },
+  {
+    "uuid": "59067f58-ea56-46cb-ae92-1208df4eae02",
+    "english": "spoil, spoilt/spoiled and spoilt/spoiled",
+    "spanish": "estropear",
+    "pronunciation": "/spɔɪl/ - /spɔɪlt/ - /spɔɪlt/"
+  },
+  {
+    "uuid": "18e22786-bf4b-4da1-b6a8-8447daa1b929",
+    "english": "spread, spread and spread",
+    "spanish": "extender",
+    "pronunciation": "/sprɛd/ - /sprɛd/ - /sprɛd/"
+  },
+  {
+    "uuid": "a765e2bb-d0dd-4014-8a3a-6763183ebab4",
+    "english": "spring, sprang and sprung",
+    "spanish": "moverse rapido hacia un lugar",
+    "pronunciation": "/sprɪŋ/ - /spræŋ/ - /sprʌŋ/"
+  },
+  {
+    "uuid": "0d5bc613-d093-4b70-a921-a3a2aa105475",
+    "english": "stand, stood and stood",
+    "spanish": "estar de pie",
+    "pronunciation": "/stænd/ - /stʊd/ - /stʊd/"
+  },
+  {
+    "uuid": "b658c231-5d5e-4d02-bcd6-c710fa3453fd",
+    "english": "steal, stole and stolen",
+    "spanish": "robar",
+    "pronunciation": "/stiːl/ - /stoʊl/ - /ˈstoʊlən/"
+  },
+  {
+    "uuid": "a129076f-aa0c-4a5d-8bf6-86f78c44b4f6",
+    "english": "stick, stuck and stuck",
+    "spanish": "fijar algo con pegamento",
+    "pronunciation": "/stɪk/ - /stʌk/ - /stʌk/"
+  },
+  {
+    "uuid": "158f3a73-5cd6-4862-ad92-21ac5a33e604",
+    "english": "sting, stung and stung",
+    "spanish": "picar insecto",
+    "pronunciation": "/stɪŋ/ - /stʌŋ/ - /stʌŋ/"
+  },
+  {
+    "uuid": "c39db106-d095-462a-a474-f73c14976f59",
+    "english": "stink, stank/stunk and stunk",
+    "spanish": "apestar",
+    "pronunciation": "/stɪŋk/ - /stæŋk/ - /stʌŋk/"
+  },
+  {
+    "uuid": "66fe7a93-d624-4faf-991c-8a2766a94872",
+    "english": "stride, strode and stridden",
+    "spanish": "dar zancadas",
+    "pronunciation": "/straɪd/ - /stroʊd/ - /ˈstrɪdən/"
+  },
+  {
+    "uuid": "6640b8c7-7f16-4036-9c1e-9e9da7104eb5",
+    "english": "swear, swore and sworn",
+    "spanish": "jurar",
+    "pronunciation": "/swɛr/ - /swɔr/ - /swɔrn/"
+  },
+  {
+    "uuid": "140176d0-4e96-40ee-9c5e-33dc2bd59fea",
+    "english": "sweat, sweat and sweat",
+    "spanish": "sudar",
+    "pronunciation": "/swɛt/ - /swɛt/ - /swɛt/"
+  },
+  {
+    "uuid": "f8e39a40-5d9f-40d7-9b82-5d10ac7e86f1",
+    "english": "sweep, swept and swept",
+    "spanish": "barrer",
+    "pronunciation": "/swiːp/ - /swɛpt/ - /swɛpt/"
+  },
+  {
+    "uuid": "dd29cc9f-d8fe-4bbf-9914-2b6e0cd5c566",
+    "english": "swell, swelled and swollen",
+    "spanish": "hinchar",
+    "pronunciation": "/swɛl/ - /swɛld/ - /ˈswoʊlən/"
+  },
+  {
+    "uuid": "e5e9d922-98c2-4260-891c-046d20e4ff2c",
+    "english": "swim, swam and swum",
+    "spanish": "nadar",
+    "pronunciation": "/swɪm/ - /swæm/ - /swʌm/"
+  },
+  {
+    "uuid": "0b21b664-c955-49f5-8091-6b21477310b7",
+    "english": "swing, swung and swung",
+    "spanish": "columpiarse",
+    "pronunciation": "/swɪŋ/ - /swʌŋ/ - /swʌŋ/"
+  },
+  {
+    "uuid": "1c3553fb-530f-4850-8c0f-0bfa785c6f44",
+    "english": "take, took and taken",
+    "spanish": "tomar",
+    "pronunciation": "/teɪk/ - /tʊk/ - /ˈteɪkən/"
+  },
+  {
+    "uuid": "ba5344ca-01cf-4dfc-8fb3-bb4d9b63b5fb",
+    "english": "teach, taught and taught",
+    "spanish": "enseñar",
+    "pronunciation": "/tiːtʃ/ - /tɔt/ - /tɔt/"
+  },
+  {
+    "uuid": "fb84352e-f527-4067-9631-5059aa9adcac",
+    "english": "tear, tore and torn",
+    "spanish": "rasgar",
+    "pronunciation": "/tɛr/ - /tɔr/ - /tɔrn/"
+  },
+  {
+    "uuid": "ecbe3f15-222f-4d26-8dda-c5a938009c8a",
+    "english": "tell, told and told",
+    "spanish": "decir",
+    "pronunciation": "/tɛl/ - /toʊld/ - /toʊld/"
+  },
+  {
+    "uuid": "b34975ff-9670-4540-a1e1-6b034e687ed4",
+    "english": "think, thought and thought",
+    "spanish": "pensar",
+    "pronunciation": "/θɪŋk/ - /θɔt/ - /θɔt/"
+  },
+  {
+    "uuid": "db2271a1-335f-4a00-9455-73bb3fc6e9a8",
+    "english": "throw, threw and thrown",
+    "spanish": "lanzar",
+    "pronunciation": "/θroʊ/ - /θruː/ - /θroʊn/"
+  },
+  {
+    "uuid": "98f2c571-1e33-4ed8-81fb-06fb45ed734d",
+    "english": "thrust, thrust and thrust",
+    "spanish": "empujar",
+    "pronunciation": "/θrʌst/ - /θrʌst/ - /θrʌst/"
+  },
+  {
+    "uuid": "4e81c60d-5c3c-4113-9cb2-aff91159ac8b",
+    "english": "tread, trod and trodden/trod",
+    "spanish": "pisar",
+    "pronunciation": "/trɛd/ - /trɒd/ - /ˈtrɒdən/"
+  },
+  {
+    "uuid": "d68f2979-06ee-4713-bba2-9b13b306fb92",
+    "english": "understand, understood and understood",
+    "spanish": "entender",
+    "pronunciation": "/ˌʌndərˈstænd/ - /ˌʌndərˈstʊd/ - /ˌʌndərˈstʊd/"
+  },
+  {
+    "uuid": "4d549fa5-4d06-463d-8fda-b2699fa84b9f",
+    "english": "undergo, underwent and undergone",
+    "spanish": "sufrir",
+    "pronunciation": "/ˌʌndərˈɡoʊ/ - /ˌʌndərˈwɛnt/ - /ˌʌndərˈɡɔːn/"
+  },
+  {
+    "uuid": "9d43dd67-0fbe-49c7-81ed-f19b162a4df8",
+    "english": "undertake, undertook and undertaken",
+    "spanish": "emprender algo",
+    "pronunciation": "/ˌʌndərˈteɪk/ - /ˌʌndərˈtʊk/ - /ˌʌndərˈteɪkən/"
+  },
+  {
+    "uuid": "81f46ff2-4d23-4864-9502-12d85fc0d450",
+    "english": "wake, woke and woken",
+    "spanish": "despertarse",
+    "pronunciation": "/weɪk/ - /woʊk/ - /ˈwoʊkən/"
+  },
+  {
+    "uuid": "e2be88b0-2a2f-4842-a8f8-c4600da97684",
+    "english": "wear, wore and worn",
+    "spanish": "llevar puesto",
+    "pronunciation": "/wɛr/ - /wɔr/ - /wɔrn/"
+  },
+  {
+    "uuid": "649f9f46-4933-43fa-a1d4-c3551e1c78c9",
+    "english": "weep, wept and wept",
+    "spanish": "llorar",
+    "pronunciation": "/wiːp/ - /wɛpt/ - /wɛpt/"
+  },
+  {
+    "uuid": "d7348220-de20-4e91-a860-b92cae9966a6",
+    "english": "wet, wet and wet",
+    "spanish": "mojar",
+    "pronunciation": "/wɛt/ - /wɛt/ - /wɛt/"
+  },
+  {
+    "uuid": "8c87286f-c2fb-49dd-9c7f-73ccb7f39484",
+    "english": "win, won and won",
+    "spanish": "ganar",
+    "pronunciation": "/wɪn/ - /wʌn/ - /wʌn/"
+  },
+  {
+    "uuid": "03853ae0-827e-4920-b0fd-4f9c7d4fb67d",
+    "english": "wring, wrung and wrung",
+    "spanish": "retorcer",
+    "pronunciation": "/rɪŋ/ - /rʌŋ/ - /rʌŋ/"
+  },
+  {
+    "uuid": "7fd9b472-d9df-4ec8-8829-0dd64e243eba",
+    "english": "write, wrote and written",
+    "spanish": "escribir",
+    "pronunciation": "/raɪt/ - /roʊt/ - /ˈrɪtən/"
+  }
+]

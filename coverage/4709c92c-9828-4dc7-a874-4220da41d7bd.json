@@ -1,0 +1,93 @@
+{
+  "scriptId": "586",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/URLSearchParams-impl.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3389, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3388, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3324, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "URLSearchParamsImpl",
+      "ranges": [
+        { "startOffset": 350, "endOffset": 1243, "count": 1 },
+        { "startOffset": 528, "endOffset": 555, "count": 0 },
+        { "startOffset": 556, "endOffset": 574, "count": 0 },
+        { "startOffset": 576, "endOffset": 611, "count": 0 },
+        { "startOffset": 642, "endOffset": 956, "count": 0 },
+        { "startOffset": 991, "endOffset": 1030, "count": 0 },
+        { "startOffset": 1032, "endOffset": 1167, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_updateSteps",
+      "ranges": [{ "startOffset": 1247, "endOffset": 1614, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get size",
+      "ranges": [{ "startOffset": 1618, "endOffset": 1664, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "append",
+      "ranges": [{ "startOffset": 1668, "endOffset": 1754, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [{ "startOffset": 1758, "endOffset": 2028, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2032, "endOffset": 2172, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAll",
+      "ranges": [
+        { "startOffset": 2176, "endOffset": 2350, "count": 3 },
+        { "startOffset": 2250, "endOffset": 2327, "count": 9 },
+        { "startOffset": 2281, "endOffset": 2321, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "has",
+      "ranges": [{ "startOffset": 2354, "endOffset": 2545, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [{ "startOffset": 2549, "endOffset": 2971, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sort",
+      "ranges": [{ "startOffset": 2975, "endOffset": 3172, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.implementation",
+      "ranges": [{ "startOffset": 3176, "endOffset": 3243, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toString",
+      "ranges": [{ "startOffset": 3247, "endOffset": 3318, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

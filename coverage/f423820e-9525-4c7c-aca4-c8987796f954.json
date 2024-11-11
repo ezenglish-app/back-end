@@ -1,0 +1,61 @@
+{
+  "scriptId": "614",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/errors.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3809, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3808, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3744, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "PoolClosedError",
+      "ranges": [{ "startOffset": 947, "endOffset": 1091, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 1096, "endOffset": 1153, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "PoolClearedError",
+      "ranges": [{ "startOffset": 1679, "endOffset": 2104, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 2109, "endOffset": 2167, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "PoolClearedOnNetworkError",
+      "ranges": [{ "startOffset": 2742, "endOffset": 2863, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 2868, "endOffset": 2930, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "WaitQueueTimeoutError",
+      "ranges": [{ "startOffset": 3489, "endOffset": 3582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 3587, "endOffset": 3650, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "scriptId": "576",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/tr46/4.1.1/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7857, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 7856, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 7792, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "containsNonASCII",
+      "ranges": [{ "startOffset": 455, "endOffset": 525, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findStatus",
+      "ranges": [{ "startOffset": 527, "endOffset": 1547, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapChars",
+      "ranges": [{ "startOffset": 1549, "endOffset": 2374, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateLabel",
+      "ranges": [{ "startOffset": 2376, "endOffset": 4820, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isBidiDomain",
+      "ranges": [{ "startOffset": 4822, "endOffset": 5125, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processing",
+      "ranges": [{ "startOffset": 5127, "endOffset": 6192, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toASCII",
+      "ranges": [{ "startOffset": 6194, "endOffset": 7349, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toUnicode",
+      "ranges": [{ "startOffset": 7351, "endOffset": 7743, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

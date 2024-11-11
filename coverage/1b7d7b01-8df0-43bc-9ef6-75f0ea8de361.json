@@ -1,0 +1,16 @@
+{
+  "scriptId": "453",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/weekEnd.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 291, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "weekEnd",
+      "ranges": [{ "startOffset": 63, "endOffset": 232, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

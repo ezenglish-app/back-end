@@ -1,0 +1,21 @@
+{
+  "scriptId": "389",
+  "url": "file:///home/juanca/Projects/english-api/src/response/response.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 187, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "newSuccessResponse",
+      "ranges": [{ "startOffset": 34, "endOffset": 86, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "newErrorResponse",
+      "ranges": [{ "startOffset": 120, "endOffset": 185, "count": 7 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

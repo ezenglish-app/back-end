@@ -1,0 +1,108 @@
+{
+  "scriptId": "582",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/percent-encoding.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5190, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5189, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5125, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "p",
+      "ranges": [{ "startOffset": 340, "endOffset": 390, "count": 34 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "percentEncode",
+      "ranges": [{ "startOffset": 439, "endOffset": 582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "percentDecodeBytes",
+      "ranges": [
+        { "startOffset": 631, "endOffset": 1212, "count": 6 },
+        { "startOffset": 787, "endOffset": 1170, "count": 43 },
+        { "startOffset": 882, "endOffset": 1166, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "percentDecodeString",
+      "ranges": [{ "startOffset": 1268, "endOffset": 1378, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isC0ControlPercentEncode",
+      "ranges": [{ "startOffset": 1442, "endOffset": 1514, "count": 91 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isFragmentPercentEncode",
+      "ranges": [{ "startOffset": 1666, "endOffset": 1783, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isQueryPercentEncode",
+      "ranges": [{ "startOffset": 1929, "endOffset": 2040, "count": 66 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSpecialQueryPercentEncode",
+      "ranges": [{ "startOffset": 2107, "endOffset": 2200, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPathPercentEncode",
+      "ranges": [{ "startOffset": 2335, "endOffset": 2440, "count": 18 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isUserinfoPercentEncode",
+      "ranges": [{ "startOffset": 2634, "endOffset": 2746, "count": 18 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isComponentPercentEncode",
+      "ranges": [{ "startOffset": 2899, "endOffset": 3017, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isURLEncodedPercentEncode",
+      "ranges": [{ "startOffset": 3195, "endOffset": 3316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "utf8PercentEncodeCodePointInternal",
+      "ranges": [
+        { "startOffset": 3719, "endOffset": 4166, "count": 91 },
+        { "startOffset": 4092, "endOffset": 4142, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "utf8PercentEncodeCodePoint",
+      "ranges": [{ "startOffset": 4168, "endOffset": 4344, "count": 18 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "utf8PercentEncodeString",
+      "ranges": [
+        { "startOffset": 4475, "endOffset": 4809, "count": 2 },
+        { "startOffset": 4614, "endOffset": 4790, "count": 73 },
+        { "startOffset": 4636, "endOffset": 4656, "count": 0 },
+        { "startOffset": 4658, "endOffset": 4686, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

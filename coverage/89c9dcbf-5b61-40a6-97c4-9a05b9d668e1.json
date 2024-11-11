@@ -1,0 +1,36 @@
+{
+  "scriptId": "627",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc/human_callback_workflow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6141, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6140, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 6076, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "HumanCallbackWorkflow",
+      "ranges": [{ "startOffset": 819, "endOffset": 887, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 957, "endOffset": 4883, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchAccessToken",
+      "ranges": [{ "startOffset": 4955, "endOffset": 5965, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

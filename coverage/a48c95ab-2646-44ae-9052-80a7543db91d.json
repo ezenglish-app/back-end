@@ -1,0 +1,11 @@
+{
+  "scriptId": "357",
+  "url": "file:///home/juanca/Projects/english-api/src/pkg/auth/handler/index.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 87, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

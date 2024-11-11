@@ -1,0 +1,20 @@
+{
+  "scriptId": "377",
+  "url": "file:///home/juanca/Projects/english-api/src/middleware/authValidation.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 455, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "authValidationMiddleware",
+      "ranges": [
+        { "startOffset": 213, "endOffset": 453, "count": 7 },
+        { "startOffset": 320, "endOffset": 399, "count": 4 },
+        { "startOffset": 399, "endOffset": 452, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

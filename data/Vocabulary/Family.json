@@ -1,0 +1,236 @@
+[
+  {
+    "uuid": "004dfe1a-90f2-4173-acb7-1e87ebe07186",
+    "english": "adopted child",
+    "spanish": "hijo/hija adoptivo/a",
+    "pronunciation": "/əˈdɒptɪd tʃaɪld/"
+  },
+  {
+    "uuid": "6065ba06-dc40-46dd-85db-ba0e704e6671",
+    "english": "ancestor",
+    "spanish": "ancestro",
+    "pronunciation": "/ˈænsɛstər/"
+  },
+  {
+    "uuid": "9531eee2-d4ff-49bf-abd5-c960c9bd86d0",
+    "english": "aunt",
+    "spanish": "tía",
+    "pronunciation": "/ænt/"
+  },
+  {
+    "uuid": "fe8a96bb-ced8-489b-8206-7dbed9f3718b",
+    "english": "brother",
+    "spanish": "hermano",
+    "pronunciation": "/ˈbrʌðər/"
+  },
+  {
+    "uuid": "a8d129a7-43fa-414f-9861-a2e9efa1929a",
+    "english": "child",
+    "spanish": "hijo/hija",
+    "pronunciation": "/tʃaɪld/"
+  },
+  {
+    "uuid": "e070a29c-e437-4370-8911-d37a647540fd",
+    "english": "cousin",
+    "spanish": "primo/a",
+    "pronunciation": "/ˈkʌzən/"
+  },
+  {
+    "uuid": "882b30f7-bd5f-4220-86d8-3a4241072a7e",
+    "english": "dad or father",
+    "spanish": "padre",
+    "pronunciation": "/dæd/ - /ˈfɑðər/"
+  },
+  {
+    "uuid": "499abb1c-be3f-427c-8849-af382e31c4b1",
+    "english": "daughter",
+    "spanish": "hija",
+    "pronunciation": "/ˈdɔːtər/"
+  },
+  {
+    "uuid": "67eb08a6-5345-4f4f-b318-8a6c29acc876",
+    "english": "descendant",
+    "spanish": "descendiente",
+    "pronunciation": "/dɪˈsɛndənt/"
+  },
+  {
+    "uuid": "6836ed90-cb04-462d-a016-fe924af1df9a",
+    "english": "family",
+    "spanish": "familia",
+    "pronunciation": "/ˈfæməli/"
+  },
+  {
+    "uuid": "cb384652-3761-4ccb-b3cd-30aa512ac94f",
+    "english": "family name",
+    "spanish": "apellido",
+    "pronunciation": "/ˈfæməli neɪm/"
+  },
+  {
+    "uuid": "82cd26ed-5e99-43e9-bae2-c3ea287d968f",
+    "english": "family reunion",
+    "spanish": "reunión familiar",
+    "pronunciation": "/ˈfæməli riːˈjuːnjən/"
+  },
+  {
+    "uuid": "6de5ceda-6ac4-4d7d-b9f0-b2062b04e3d6",
+    "english": "family tree",
+    "spanish": "árbol genealógico",
+    "pronunciation": "/ˈfæməli triː/"
+  },
+  {
+    "uuid": "88d51a04-e2ec-4d73-a16d-585f5c9b01b7",
+    "english": "foster child",
+    "spanish": "hijo/hija adoptivo/a",
+    "pronunciation": "/ˈfɔstər tʃaɪld/"
+  },
+  {
+    "uuid": "d56ac742-720c-4e72-9148-d51db3cfb85e",
+    "english": "foster parent",
+    "spanish": "padre/madre adoptivo/a",
+    "pronunciation": "/ˈfɔstər ˈpɛərənt/"
+  },
+  {
+    "uuid": "360f9a5c-b76d-49b9-a8bc-eda3801993f2",
+    "english": "godchild",
+    "spanish": "ahijado/ahijada",
+    "pronunciation": "/ˈɡɒdtʃaɪld/"
+  },
+  {
+    "uuid": "026d506d-26a5-487c-897b-58dad46da2f6",
+    "english": "godparent",
+    "spanish": "padrino/madrina",
+    "pronunciation": "/ˈɡɒdpɛərənt/"
+  },
+  {
+    "uuid": "515e4d3f-fb83-4a90-8be5-a9483508bd65",
+    "english": "granddaughter",
+    "spanish": "nieta",
+    "pronunciation": "/ˈɡrænddɔːtər/"
+  },
+  {
+    "uuid": "4e90aba2-81c0-486a-85f5-2848458622c9",
+    "english": "grandfather",
+    "spanish": "abuelo",
+    "pronunciation": "/ˈɡrænfɑðər/"
+  },
+  {
+    "uuid": "e9e766a8-0ec6-4b24-8fe5-c4a126601340",
+    "english": "grandmother",
+    "spanish": "abuela",
+    "pronunciation": "/ˈɡrænmʌðər/"
+  },
+  {
+    "uuid": "70624ad7-fd18-429c-854b-cbb6732511e4",
+    "english": "grandparent",
+    "spanish": "abuelo/a",
+    "pronunciation": "/ˈɡrændpɛərənt/"
+  },
+  {
+    "uuid": "7d4ff5d1-8b11-4f6b-a5c8-0ed2a2aa5b74",
+    "english": "grandson",
+    "spanish": "nieto",
+    "pronunciation": "/ˈɡrændsʌn/"
+  },
+  {
+    "uuid": "cd85e5d0-a628-477c-82be-9ce9f764cec3",
+    "english": "husband",
+    "spanish": "esposo",
+    "pronunciation": "/ˈhʌzbənd/"
+  },
+  {
+    "uuid": "9d63ef6f-09eb-4b03-b50c-e8ee074c1666",
+    "english": "mom or mother",
+    "spanish": "madre",
+    "pronunciation": "/mɑm/ - /ˈmʌðər/"
+  },
+  {
+    "uuid": "b9b5d97a-8376-4688-a5c7-695430325376",
+    "english": "nephew",
+    "spanish": "sobrino",
+    "pronunciation": "/ˈnɛfjuː/"
+  },
+  {
+    "uuid": "38c2a454-3ba8-46a7-a65b-3068b7d3ea98",
+    "english": "niece",
+    "spanish": "sobrina",
+    "pronunciation": "/niːs/"
+  },
+  {
+    "uuid": "9d1f80fb-6128-4693-b8b9-ab45b8d951bc",
+    "english": "parent",
+    "spanish": "padre/madre",
+    "pronunciation": "/ˈpɛərənt/"
+  },
+  {
+    "uuid": "24e82c26-b710-420a-bbfe-ffa78b44a883",
+    "english": "partner",
+    "spanish": "pareja",
+    "pronunciation": "/ˈpɑrtnər/"
+  },
+  {
+    "uuid": "acbef4ad-2769-4d43-862d-4f3fcdff09ed",
+    "english": "relative",
+    "spanish": "pariente",
+    "pronunciation": "/ˈrɛlətɪv/"
+  },
+  {
+    "uuid": "c7ff3361-c5f0-4a14-8be5-f37d078bb5e4",
+    "english": "sibling",
+    "spanish": "hermano/hermana",
+    "pronunciation": "/ˈsɪblɪŋ/"
+  },
+  {
+    "uuid": "cbe2d874-6eb0-41ff-8cbc-0c07b4231862",
+    "english": "sister",
+    "spanish": "hermana",
+    "pronunciation": "/ˈsɪstər/"
+  },
+  {
+    "uuid": "5e1e3e69-9296-429b-8080-205b7ff99334",
+    "english": "son",
+    "spanish": "hijo",
+    "pronunciation": "/sʌn/"
+  },
+  {
+    "uuid": "1a0d6bac-abfa-4273-a0bd-57a7b1ec1e69",
+    "english": "stepbrother",
+    "spanish": "hermanastro",
+    "pronunciation": "/ˈstɛpbrʌðər/"
+  },
+  {
+    "uuid": "16d7eee3-20e7-4387-a950-d0ec7d727046",
+    "english": "stepchild",
+    "spanish": "hijastro/hijastra",
+    "pronunciation": "/ˈstɛptʃaɪld/"
+  },
+  {
+    "uuid": "12158984-d27e-4f19-ba15-a2be96a27313",
+    "english": "stepfather",
+    "spanish": "padrastro",
+    "pronunciation": "/ˈstɛpfɑðər/"
+  },
+  {
+    "uuid": "9093136f-e527-44d4-b481-68fd74c2a729",
+    "english": "stepmother",
+    "spanish": "madrastra",
+    "pronunciation": "/ˈstɛpmʌðər/"
+  },
+  {
+    "uuid": "d763dc8b-19ae-4e19-b114-385f03b5bb29",
+    "english": "stepsister",
+    "spanish": "hermanastra",
+    "pronunciation": "/ˈstɛpsɪstər/"
+  },
+  {
+    "uuid": "f157d8e2-e725-49a5-ac4f-8518b446c64e",
+    "english": "uncle",
+    "spanish": "tío",
+    "pronunciation": "/ˈʌŋkəl/"
+  },
+  {
+    "uuid": "e70ee62e-d149-470a-a9df-687b2ee5b4af",
+    "english": "wife",
+    "spanish": "esposa",
+    "pronunciation": "/waɪf/"
+  }
+]

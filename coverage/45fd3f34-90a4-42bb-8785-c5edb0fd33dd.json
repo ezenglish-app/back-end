@@ -1,0 +1,36 @@
+{
+  "scriptId": "508",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/remove_user.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1109, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1108, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1044, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RemoveUserOperation",
+      "ranges": [{ "startOffset": 519, "endOffset": 655, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 660, "endOffset": 712, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 717, "endOffset": 858, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "436",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/minuteStart.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 219, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "minuteStart",
+      "ranges": [{ "startOffset": 57, "endOffset": 152, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

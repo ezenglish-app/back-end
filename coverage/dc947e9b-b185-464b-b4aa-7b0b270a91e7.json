@@ -1,0 +1,36 @@
+{
+  "scriptId": "565",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/auth_provider.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1779, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1778, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1714, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AuthContext",
+      "ranges": [{ "startOffset": 489, "endOffset": 746, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "prepare",
+      "ranges": [{ "startOffset": 1110, "endOffset": 1188, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reauth",
+      "ranges": [{ "startOffset": 1281, "endOffset": 1631, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scriptId": "622",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc/gcp_machine_workflow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2114, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2113, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2049, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "GCPMachineWorkflow",
+      "ranges": [{ "startOffset": 1041, "endOffset": 1089, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getToken",
+      "ranges": [{ "startOffset": 1153, "endOffset": 1435, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getGcpTokenData",
+      "ranges": [{ "startOffset": 1542, "endOffset": 1998, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

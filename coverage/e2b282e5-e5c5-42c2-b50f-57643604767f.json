@@ -1,0 +1,71 @@
+{
+  "scriptId": "514",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/insert.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4572, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4571, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4507, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "InsertOperation",
+      "ranges": [{ "startOffset": 743, "endOffset": 957, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 962, "endOffset": 1012, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        { "startOffset": 1017, "endOffset": 1784, "count": 1 },
+        { "startOffset": 1087, "endOffset": 1092, "count": 0 },
+        { "startOffset": 1155, "endOffset": 1172, "count": 0 },
+        { "startOffset": 1384, "endOffset": 1476, "count": 0 },
+        { "startOffset": 1651, "endOffset": 1709, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "InsertOneOperation",
+      "ranges": [{ "startOffset": 1885, "endOffset": 2042, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        { "startOffset": 2047, "endOffset": 2552, "count": 1 },
+        { "startOffset": 2172, "endOffset": 2212, "count": 0 },
+        { "startOffset": 2242, "endOffset": 2418, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "InsertManyOperation",
+      "ranges": [{ "startOffset": 2691, "endOffset": 3009, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 3014, "endOffset": 3064, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 3069, "endOffset": 4089, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "scriptId": "378",
+  "url": "file:///home/juanca/Projects/english-api/src/middleware/jwt.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 560, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "jwtMiddleware",
+      "ranges": [
+        { "startOffset": 160, "endOffset": 558, "count": 3 },
+        { "startOffset": 224, "endOffset": 231, "count": 2 },
+        { "startOffset": 255, "endOffset": 313, "count": 1 },
+        { "startOffset": 313, "endOffset": 374, "count": 2 },
+        { "startOffset": 374, "endOffset": 556, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

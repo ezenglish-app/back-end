@@ -1,0 +1,56 @@
+{
+  "scriptId": "618",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3096, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3095, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3031, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1072, "endOffset": 1159, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1198, "endOffset": 1285, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1322, "endOffset": 1405, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoDBOIDC",
+      "ranges": [{ "startOffset": 1554, "endOffset": 1777, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "auth",
+      "ranges": [{ "startOffset": 1829, "endOffset": 2290, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prepare",
+      "ranges": [{ "startOffset": 2370, "endOffset": 2651, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCredentials",
+      "ranges": [{ "startOffset": 2770, "endOffset": 2988, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "scriptId": "641",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/gridfs/download.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10886, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 10885, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 10821, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "GridFSBucketReadStream",
+      "ranges": [{ "startOffset": 916, "endOffset": 1410, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_read",
+      "ranges": [{ "startOffset": 1545, "endOffset": 1655, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "start",
+      "ranges": [{ "startOffset": 1933, "endOffset": 2050, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "end",
+      "ranges": [{ "startOffset": 2313, "endOffset": 2422, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abort",
+      "ranges": [{ "startOffset": 2659, "endOffset": 2767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwIfInitialized",
+      "ranges": [{ "startOffset": 2967, "endOffset": 3148, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "doRead",
+      "ranges": [{ "startOffset": 3149, "endOffset": 5817, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "init",
+      "ranges": [{ "startOffset": 5818, "endOffset": 8680, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "waitForFile",
+      "ranges": [{ "startOffset": 8681, "endOffset": 8925, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleStartOption",
+      "ranges": [{ "startOffset": 8926, "endOffset": 9901, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleEndOption",
+      "ranges": [{ "startOffset": 9902, "endOffset": 10782, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

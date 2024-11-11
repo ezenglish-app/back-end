@@ -1,0 +1,174 @@
+{
+  "scriptId": "524",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/mongo_logger.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 24450, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 24449, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 24385, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SeverityLevelMap",
+      "ranges": [
+        { "startOffset": 1220, "endOffset": 1446, "count": 1 },
+        { "startOffset": 1320, "endOffset": 1376, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getNumericSeverityLevel",
+      "ranges": [{ "startOffset": 1451, "endOffset": 1527, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSeverityLevelName",
+      "ranges": [{ "startOffset": 1532, "endOffset": 1599, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseSeverityFromString",
+      "ranges": [
+        { "startOffset": 2474, "endOffset": 2752, "count": 12 },
+        { "startOffset": 2605, "endOffset": 2618, "count": 0 },
+        { "startOffset": 2652, "endOffset": 2694, "count": 0 },
+        { "startOffset": 2696, "endOffset": 2733, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createStdioLogger",
+      "ranges": [{ "startOffset": 2770, "endOffset": 3062, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2857, "endOffset": 3052, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveLogPath",
+      "ranges": [
+        { "startOffset": 3435, "endOffset": 4503, "count": 1 },
+        { "startOffset": 3546, "endOffset": 3581, "count": 0 },
+        { "startOffset": 3583, "endOffset": 3690, "count": 0 },
+        { "startOffset": 3734, "endOffset": 3769, "count": 0 },
+        { "startOffset": 3771, "endOffset": 3879, "count": 0 },
+        { "startOffset": 3923, "endOffset": 3969, "count": 0 },
+        { "startOffset": 3971, "endOffset": 4060, "count": 0 },
+        { "startOffset": 4086, "endOffset": 4123, "count": 0 },
+        { "startOffset": 4125, "endOffset": 4232, "count": 0 },
+        { "startOffset": 4258, "endOffset": 4295, "count": 0 },
+        { "startOffset": 4297, "endOffset": 4405, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveSeverityConfiguration",
+      "ranges": [{ "startOffset": 4504, "endOffset": 4728, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareSeverity",
+      "ranges": [{ "startOffset": 4729, "endOffset": 4968, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringifyWithMaxLen",
+      "ranges": [{ "startOffset": 4986, "endOffset": 6028, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isLogConvertible",
+      "ranges": [{ "startOffset": 6029, "endOffset": 6256, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "attachServerSelectionFields",
+      "ranges": [{ "startOffset": 6257, "endOffset": 6703, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "attachCommandFields",
+      "ranges": [{ "startOffset": 6704, "endOffset": 7282, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "attachConnectionFields",
+      "ranges": [{ "startOffset": 7283, "endOffset": 7487, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "attachSDAMFields",
+      "ranges": [{ "startOffset": 7488, "endOffset": 7592, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "attachServerHeartbeatFields",
+      "ranges": [{ "startOffset": 7593, "endOffset": 7967, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "defaultLogTransform",
+      "ranges": [{ "startOffset": 7985, "endOffset": 17045, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoLogger",
+      "ranges": [{ "startOffset": 17087, "endOffset": 18626, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createLoggingSeverities",
+      "ranges": [{ "startOffset": 18631, "endOffset": 19102, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "turnOffSeverities",
+      "ranges": [{ "startOffset": 19107, "endOffset": 19463, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "logWriteFailureHandler",
+      "ranges": [{ "startOffset": 19468, "endOffset": 20160, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clearPendingLog",
+      "ranges": [{ "startOffset": 20165, "endOffset": 20222, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "willLog",
+      "ranges": [{ "startOffset": 20227, "endOffset": 20394, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 20399, "endOffset": 21664, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveOptions",
+      "ranges": [
+        { "startOffset": 22392, "endOffset": 24305, "count": 1 },
+        { "startOffset": 22913, "endOffset": 22922, "count": 0 },
+        { "startOffset": 23136, "endOffset": 23145, "count": 0 },
+        { "startOffset": 23302, "endOffset": 23312, "count": 0 },
+        { "startOffset": 23477, "endOffset": 23494, "count": 0 },
+        { "startOffset": 23662, "endOffset": 23674, "count": 0 },
+        { "startOffset": 23832, "endOffset": 23840, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

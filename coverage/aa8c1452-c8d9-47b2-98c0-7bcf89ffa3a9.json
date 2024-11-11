@@ -1,0 +1,56 @@
+{
+  "scriptId": "594",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/crypto_callbacks.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2936, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2935, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2871, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeAES256Hook",
+      "ranges": [{ "startOffset": 720, "endOffset": 1262, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 771, "endOffset": 1259, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "randomHook",
+      "ranges": [{ "startOffset": 1263, "endOffset": 1424, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sha256Hook",
+      "ranges": [{ "startOffset": 1425, "endOffset": 1655, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeHmacHook",
+      "ranges": [{ "startOffset": 1656, "endOffset": 1970, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1702, "endOffset": 1967, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "signRsaSha256Hook",
+      "ranges": [{ "startOffset": 1971, "endOffset": 2402, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

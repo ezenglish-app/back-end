@@ -1,0 +1,51 @@
+{
+  "scriptId": "591",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/encrypter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5186, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5185, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5121, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Encrypter",
+      "ranges": [{ "startOffset": 720, "endOffset": 2315, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getInternalClient",
+      "ranges": [{ "startOffset": 2320, "endOffset": 3579, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connectInternalClient",
+      "ranges": [{ "startOffset": 3584, "endOffset": 3900, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "closeCallback",
+      "ranges": [{ "startOffset": 3905, "endOffset": 4032, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 4037, "endOffset": 4504, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkForMongoCrypt",
+      "ranges": [{ "startOffset": 4516, "endOffset": 5048, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

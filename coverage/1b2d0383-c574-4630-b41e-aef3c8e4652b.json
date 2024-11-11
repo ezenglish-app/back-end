@@ -1,0 +1,208 @@
+{
+  "scriptId": "561",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/mongo_client.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 16065, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 16064, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 16000, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MongoClient",
+      "ranges": [
+        { "startOffset": 2159, "endOffset": 3634, "count": 1 },
+        { "startOffset": 2503, "endOffset": 2570, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2394, "endOffset": 2445, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get options",
+      "ranges": [{ "startOffset": 3121, "endOffset": 3191, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get readConcern",
+      "ranges": [{ "startOffset": 3205, "endOffset": 3291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get writeConcern",
+      "ranges": [{ "startOffset": 3305, "endOffset": 3393, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get readPreference",
+      "ranges": [{ "startOffset": 3407, "endOffset": 3499, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isMongoClient",
+      "ranges": [{ "startOffset": 3513, "endOffset": 3577, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "asyncDispose",
+      "ranges": [{ "startOffset": 3660, "endOffset": 3716, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkForNonGenuineHosts",
+      "ranges": [
+        { "startOffset": 3742, "endOffset": 4602, "count": 1 },
+        { "startOffset": 4363, "endOffset": 4445, "count": 0 },
+        { "startOffset": 4516, "endOffset": 4596, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3834, "endOffset": 3920, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4098, "endOffset": 4182, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get options",
+      "ranges": [{ "startOffset": 4636, "endOffset": 4710, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get serverApi",
+      "ranges": [{ "startOffset": 4715, "endOffset": 4829, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get monitorCommands",
+      "ranges": [{ "startOffset": 4900, "endOffset": 4976, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set monitorCommands",
+      "ranges": [{ "startOffset": 4981, "endOffset": 5063, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get autoEncrypter",
+      "ranges": [{ "startOffset": 5089, "endOffset": 5161, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get readConcern",
+      "ranges": [{ "startOffset": 5166, "endOffset": 5226, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get writeConcern",
+      "ranges": [{ "startOffset": 5231, "endOffset": 5293, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get readPreference",
+      "ranges": [{ "startOffset": 5298, "endOffset": 5364, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get bsonOptions",
+      "ranges": [{ "startOffset": 5369, "endOffset": 5429, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "connect",
+      "ranges": [
+        { "startOffset": 5560, "endOffset": 5905, "count": 1 },
+        { "startOffset": 5611, "endOffset": 5668, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_connect",
+      "ranges": [
+        { "startOffset": 6113, "endOffset": 9184, "count": 1 },
+        { "startOffset": 6158, "endOffset": 6188, "count": 0 },
+        { "startOffset": 6190, "endOffset": 6226, "count": 0 },
+        { "startOffset": 6349, "endOffset": 6444, "count": 0 },
+        { "startOffset": 6501, "endOffset": 6598, "count": 0 },
+        { "startOffset": 6666, "endOffset": 6943, "count": 0 },
+        { "startOffset": 7146, "endOffset": 7206, "count": 3 },
+        { "startOffset": 7501, "endOffset": 8152, "count": 0 },
+        { "startOffset": 8564, "endOffset": 8652, "count": 26 },
+        { "startOffset": 8940, "endOffset": 9095, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8471, "endOffset": 8500, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8602, "endOffset": 8640, "count": 73 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "topologyConnect",
+      "ranges": [
+        { "startOffset": 8685, "endOffset": 8906, "count": 1 },
+        { "startOffset": 8798, "endOffset": 8896, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 9828, "endOffset": 11692, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "db",
+      "ranges": [
+        { "startOffset": 11977, "endOffset": 12472, "count": 2 },
+        { "startOffset": 12117, "endOffset": 12170, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "connect",
+      "ranges": [{ "startOffset": 12728, "endOffset": 12849, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "startSession",
+      "ranges": [{ "startOffset": 13164, "endOffset": 13490, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 13390, "endOffset": 13458, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "withSession",
+      "ranges": [{ "startOffset": 13495, "endOffset": 14369, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "watch",
+      "ranges": [{ "startOffset": 15527, "endOffset": 15841, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

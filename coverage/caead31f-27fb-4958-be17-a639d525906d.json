@@ -1,0 +1,110 @@
+{
+  "scriptId": "634",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/memory-pager/1.5.0/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4034, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4033, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3969, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Pager",
+      "ranges": [
+        { "startOffset": 260, "endOffset": 676, "count": 12 },
+        { "startOffset": 326, "endOffset": 543, "count": 6 },
+        { "startOffset": 543, "endOffset": 550, "count": 0 },
+        { "startOffset": 577, "endOffset": 595, "count": 0 },
+        { "startOffset": 596, "endOffset": 602, "count": 6 },
+        { "startOffset": 635, "endOffset": 667, "count": 0 },
+        { "startOffset": 668, "endOffset": 674, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Pager.updated",
+      "ranges": [{ "startOffset": 704, "endOffset": 1145, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Pager.lastUpdate",
+      "ranges": [{ "startOffset": 1176, "endOffset": 1317, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Pager._array",
+      "ranges": [
+        { "startOffset": 1344, "endOffset": 1712, "count": 410 },
+        { "startOffset": 1397, "endOffset": 1447, "count": 0 },
+        { "startOffset": 1536, "endOffset": 1696, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Pager.get",
+      "ranges": [{ "startOffset": 1736, "endOffset": 2166, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Pager.set",
+      "ranges": [
+        { "startOffset": 2190, "endOffset": 2662, "count": 410 },
+        { "startOffset": 2343, "endOffset": 2356, "count": 0 },
+        { "startOffset": 2357, "endOffset": 2382, "count": 0 },
+        { "startOffset": 2385, "endOffset": 2428, "count": 0 },
+        { "startOffset": 2453, "endOffset": 2466, "count": 0 },
+        { "startOffset": 2467, "endOffset": 2498, "count": 0 },
+        { "startOffset": 2500, "endOffset": 2532, "count": 0 },
+        { "startOffset": 2610, "endOffset": 2625, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Pager.toBuffer",
+      "ranges": [{ "startOffset": 2691, "endOffset": 3018, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "grow",
+      "ranges": [{ "startOffset": 3020, "endOffset": 3223, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "truncate",
+      "ranges": [
+        { "startOffset": 3225, "endOffset": 3395, "count": 410 },
+        { "startOffset": 3292, "endOffset": 3394, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "alloc",
+      "ranges": [{ "startOffset": 3397, "endOffset": 3524, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 3526, "endOffset": 3667, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Page",
+      "ranges": [{ "startOffset": 3669, "endOffset": 3792, "count": 410 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factor",
+      "ranges": [{ "startOffset": 3794, "endOffset": 3966, "count": 410 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+[
+  {
+    "uuid": "61f55d61-0cd4-4e02-9846-d808eb376a20",
+    "english": "acting",
+    "spanish": "actuación",
+    "pronunciation": "/ˈæktɪŋ/"
+  },
+  {
+    "uuid": "3f039b43-deb3-41b2-9e2d-ae1f826004e5",
+    "english": "archery",
+    "spanish": "tiro con arco",
+    "pronunciation": "/ˈɑːrtʃəri/"
+  },
+  {
+    "uuid": "ef19af00-76cb-46eb-b13e-2978f16a2c52",
+    "english": "astrology",
+    "spanish": "astrología",
+    "pronunciation": "/əˈstrɒlədʒi/"
+  },
+  {
+    "uuid": "1f77ff2c-7a16-46ed-b785-d54eef2977e1",
+    "english": "astronomy",
+    "spanish": "astronomía",
+    "pronunciation": "/əˈstrɒnəmi/"
+  },
+  {
+    "uuid": "43619d9e-3269-434a-ab23-a3347c3edb94",
+    "english": "badminton",
+    "spanish": "bádminton",
+    "pronunciation": "/ˈbædmɪntən/"
+  },
+  {
+    "uuid": "79258375-6537-44e7-a3dc-90903c8938b4",
+    "english": "baking",
+    "spanish": "repostería",
+    "pronunciation": "/ˈbeɪkɪŋ/"
+  },
+  {
+    "uuid": "e215ae89-85f7-41ac-a962-be7601bc25b7",
+    "english": "baseball",
+    "spanish": "béisbol",
+    "pronunciation": "/ˈbeɪsbɔːl/"
+  },
+  {
+    "uuid": "1019c02b-fd32-4cb0-8e51-6f3bd1e94387",
+    "english": "basketball",
+    "spanish": "baloncesto",
+    "pronunciation": "/ˈbæskɪtbɔːl/"
+  },
+  {
+    "uuid": "4165d8ab-2dd3-4925-91e6-8d8c1badb81e",
+    "english": "birdwatching",
+    "spanish": "observación de aves",
+    "pronunciation": "/ˈbɜːrdˌwɑːtʃɪŋ/"
+  },
+  {
+    "uuid": "1b1c6bf0-181c-42ae-ad73-a1f33cfc7255",
+    "english": "board games",
+    "spanish": "juegos de mesa",
+    "pronunciation": "/bɔːrd ɡeɪmz/"
+  },
+  {
+    "uuid": "f1015700-7cc7-4ecd-9e19-3f05aca5507e",
+    "english": "bouldering",
+    "spanish": "escalada en bloque",
+    "pronunciation": "/ˈboʊldərɪŋ/"
+  },
+  {
+    "uuid": "4366121a-7570-46b7-88d6-30c06485383a",
+    "english": "bungee jumping",
+    "spanish": "puenting",
+    "pronunciation": "/ˈbʌndʒi ˈdʒʌmpɪŋ/"
+  },
+  {
+    "uuid": "a49fd14c-70cb-40c3-aa9e-a8d849c91e9b",
+    "english": "butterfly watching",
+    "spanish": "observación de mariposas",
+    "pronunciation": "/ˈbʌtərˌflaɪ ˈwɒtʃɪŋ/"
+  },
+  {
+    "uuid": "85c65dda-b83e-445e-a60a-cc3aa5a4c1a9",
+    "english": "calligraphy",
+    "spanish": "caligrafía",
+    "pronunciation": "/kəˈlɪɡrəfi/"
+  },
+  {
+    "uuid": "727b293a-2180-430a-9941-e5a11911da37",
+    "english": "camping",
+    "spanish": "acampar",
+    "pronunciation": "/ˈkæmpɪŋ/"
+  },
+  {
+    "uuid": "1daf5383-1ec7-49eb-b78b-873d648d9926",
+    "english": "canoeing",
+    "spanish": "piragüismo",
+    "pronunciation": "/kəˈnuːɪŋ/"
+  },
+  {
+    "uuid": "0e8ab5a9-8980-4817-a9c0-6a51991342c5",
+    "english": "card games",
+    "spanish": "juegos de cartas",
+    "pronunciation": "/kɑːrd ɡeɪmz/"
+  },
+  {
+    "uuid": "fae94977-22f6-4aa2-8056-6312cb85e254",
+    "english": "charity work",
+    "spanish": "trabajo de caridad",
+    "pronunciation": "/ˈtʃærɪti wɜːrk/"
+  },
+  {
+    "uuid": "9affc825-ef69-4549-ab3a-a6c0efefcd20",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "pronunciation": "/tʃɛs/"
+  },
+  {
+    "uuid": "6c0ae85f-1350-4265-99e5-a43c5daa2003",
+    "english": "collecting",
+    "spanish": "coleccionar",
+    "pronunciation": "/kəˈlɛktɪŋ/"
+  },
+  {
+    "uuid": "dbfcf7b7-06a8-47a8-8e14-28013866c07c",
+    "english": "community service",
+    "spanish": "servicio comunitario",
+    "pronunciation": "/kəˈmjuːnɪti ˈsɜːrvɪs/"
+  },
+  {
+    "uuid": "1b4156c6-0dd9-44f8-a66f-605599127f95",
+    "english": "cooking",
+    "spanish": "cocina",
+    "pronunciation": "/ˈkʊkɪŋ/"
+  },
+  {
+    "uuid": "6e757d14-2f3c-4c72-b157-328f58826d15",
+    "english": "cricket",
+    "spanish": "críquet",
+    "pronunciation": "/ˈkrɪkɪt/"
+  },
+  {
+    "uuid": "55061512-b604-4a9d-97ab-f55a78632a4f",
+    "english": "cycling",
+    "spanish": "ciclismo",
+    "pronunciation": "/ˈsaɪklɪŋ/"
+  },
+  {
+    "uuid": "16e4191e-1fc9-4307-9cf9-dd26d0b3d62b",
+    "english": "dancing",
+    "spanish": "bailar",
+    "pronunciation": "/ˈdænsɪŋ/"
+  },
+  {
+    "uuid": "3fd95222-0b65-449d-9fe8-99e86fe95db7",
+    "english": "drawing",
+    "spanish": "dibujo",
+    "pronunciation": "/ˈdrɔːɪŋ/"
+  },
+  {
+    "uuid": "d3360bba-f34f-4e07-a117-46dd32b769fc",
+    "english": "exploring",
+    "spanish": "explorar",
+    "pronunciation": "/ɪkˈsplɔːrɪŋ/"
+  },
+  {
+    "uuid": "173364e1-17d5-443f-b2fe-b7798f78a62a",
+    "english": "fencing",
+    "spanish": "esgrima",
+    "pronunciation": "/ˈfɛnsɪŋ/"
+  },
+  {
+    "uuid": "50859195-7a02-4160-9171-a7465b0e5683",
+    "english": "field hockey",
+    "spanish": "hockey sobre césped",
+    "pronunciation": "/fiːld ˈhɒki/"
+  },
+  {
+    "uuid": "4c7fe5e2-8e01-4291-be85-beed6515c79e",
+    "english": "fishing",
+    "spanish": "pesca",
+    "pronunciation": "/ˈfɪʃɪŋ/"
+  },
+  {
+    "uuid": "e32817a3-9216-4a72-b851-69a71ffcab0b",
+    "english": "football",
+    "spanish": "fútbol americano",
+    "pronunciation": "/ˈfʊtbɔːl/"
+  },
+  {
+    "uuid": "68dfbb93-61f7-42c7-9336-c5e7f4c11d87",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "pronunciation": "/ˈɡɑːrdənɪŋ/"
+  },
+  {
+    "uuid": "421d731c-eb04-42c7-a24f-8a9b8d467962",
+    "english": "geocaching",
+    "spanish": "geocaching",
+    "pronunciation": "/ˈdʒiːoʊˌkæʃɪŋ/"
+  },
+  {
+    "uuid": "a2494f84-7550-4bdd-bdc3-14c1689004fe",
+    "english": "golf",
+    "spanish": "golf",
+    "pronunciation": "/ɡɒlf/"
+  },
+  {
+    "uuid": "2df62046-8ae8-42c7-a16e-5f38c25df0d1",
+    "english": "gymnastics",
+    "spanish": "gimnasia",
+    "pronunciation": "/dʒɪmˈnæstɪks/"
+  },
+  {
+    "uuid": "07caf9c1-dbca-4d46-80be-6741ce906f8a",
+    "english": "handball",
+    "spanish": "balonmano",
+    "pronunciation": "/ˈhændbɔːl/"
+  },
+  {
+    "uuid": "bd49eff9-4349-4067-8aed-ab344a7143eb",
+    "english": "hiking",
+    "spanish": "senderismo",
+    "pronunciation": "/ˈhaɪkɪŋ/"
+  },
+  {
+    "uuid": "a54f0f32-d28d-4642-8757-8dd62b08cebb",
+    "english": "hockey",
+    "spanish": "hockey",
+    "pronunciation": "/ˈhɒki/"
+  },
+  {
+    "uuid": "316d0102-2c94-4989-b063-dda5205df864",
+    "english": "horseback riding",
+    "spanish": "equitación",
+    "pronunciation": "/ˈhɔːrsˌbæk ˈraɪdɪŋ/"
+  },
+  {
+    "uuid": "2b208f3a-2d30-43ee-8c8a-4060328ce026",
+    "english": "hot air ballooning",
+    "spanish": "paseo en globo",
+    "pronunciation": "/hɒt ɛər bəˈluːnɪŋ/"
+  },
+  {
+    "uuid": "e4e7acd3-1efb-43d0-90b8-52f973bd9f53",
+    "english": "ice hockey",
+    "spanish": "hockey sobre hielo",
+    "pronunciation": "/aɪs ˈhɒki/"
+  },
+  {
+    "uuid": "94a4a277-7666-4ed3-8b64-16c7cb8fd65e",
+    "english": "ice skating",
+    "spanish": "patinaje sobre hielo",
+    "pronunciation": "/aɪs ˈskeɪtɪŋ/"
+  },
+  {
+    "uuid": "8e7bae15-ba98-4f1f-9207-0c83b68127ea",
+    "english": "jewelry making",
+    "spanish": "fabricación de joyas",
+    "pronunciation": "/ˈdʒuːəlri ˈmeɪkɪŋ/"
+  },
+  {
+    "uuid": "e32a65e2-bc3c-4f43-9915-559ff4130967",
+    "english": "juggling",
+    "spanish": "malabarismo",
+    "pronunciation": "/ˈdʒʌɡlɪŋ/"
+  },
+  {
+    "uuid": "63bef3bc-9861-46fa-b20b-7a289678601f",
+    "english": "kayaking",
+    "spanish": "piragüismo",
+    "pronunciation": "/ˈkaɪækɪŋ/"
+  },
+  {
+    "uuid": "3e3d6e04-cec1-4a0d-adaf-fe53db6974bf",
+    "english": "kite surfing",
+    "spanish": "kitesurf",
+    "pronunciation": "/kaɪt ˈsɜːrfɪŋ/"
+  },
+  {
+    "uuid": "3352cc04-b8da-4b4b-a686-ffb06559be25",
+    "english": "knitting",
+    "spanish": "tejer",
+    "pronunciation": "/ˈnɪtɪŋ/"
+  },
+  {
+    "uuid": "4c552e7e-301f-4ec2-9639-382ae1c0ddca",
+    "english": "lacrosse",
+    "spanish": "lacrosse",
+    "pronunciation": "/ləˈkrɒs/"
+  },
+  {
+    "uuid": "59c00d91-4d33-42c3-88af-88a3e1d1f31e",
+    "english": "magic",
+    "spanish": "magia",
+    "pronunciation": "/ˈmædʒɪk/"
+  },
+  {
+    "uuid": "314094e7-7f88-4e39-8f5c-809e0f6be440",
+    "english": "martial arts",
+    "spanish": "artes marciales",
+    "pronunciation": "/ˈmɑːrʃəl ɑːrts/"
+  },
+  {
+    "uuid": "6210e53c-17c8-4c8d-8cc4-6c13d8472c8e",
+    "english": "meditation",
+    "spanish": "meditación",
+    "pronunciation": "/ˌmɛdɪˈteɪʃən/"
+  },
+  {
+    "uuid": "903ed425-b59f-4b10-bc17-ece31b3d0477",
+    "english": "metalworking",
+    "spanish": "trabajo en metal",
+    "pronunciation": "/ˈmɛtəlˌwɜːrkɪŋ/"
+  },
+  {
+    "uuid": "769466bd-6853-47e1-b984-f4d3293aff5b",
+    "english": "meteorology",
+    "spanish": "meteorología",
+    "pronunciation": "/ˌmiːtiəˈrɒlədʒi/"
+  },
+  {
+    "uuid": "ce6307e8-1fa3-4312-9883-55883eb549ae",
+    "english": "model building",
+    "spanish": "construcción de modelos",
+    "pronunciation": "/ˈmɒdəl ˈbɪldɪŋ/"
+  },
+  {
+    "uuid": "bd271ad7-b81f-4ae7-a76f-a4b4cc44684f",
+    "english": "origami",
+    "spanish": "origami",
+    "pronunciation": "/ˌɒrɪˈɡɑːmi/"
+  },
+  {
+    "uuid": "b40c88e2-3ecc-4ee2-807f-e4124c6d447f",
+    "english": "painting",
+    "spanish": "pintura",
+    "pronunciation": "/ˈpeɪntɪŋ/"
+  },
+  {
+    "uuid": "d72e8d70-31e3-42b9-9486-4a2eb11396e5",
+    "english": "paragliding",
+    "spanish": "parapente",
+    "pronunciation": "/ˈpærəˌɡlaɪdɪŋ/"
+  },
+  {
+    "uuid": "c681c4ef-fe31-4c32-8a34-22289c7cd847",
+    "english": "parkour",
+    "spanish": "parkour",
+    "pronunciation": "/pɑːrˈkʊr/"
+  },
+  {
+    "uuid": "3ef4d7c7-3fb8-4031-9e9c-309f35fd6ec9",
+    "english": "photography",
+    "spanish": "fotografía",
+    "pronunciation": "/fəˈtɒɡrəfi/"
+  },
+  {
+    "uuid": "ffb2c756-82dc-4c80-a86d-e4a626e38471",
+    "english": "playing musical instruments",
+    "spanish": "tocar instrumentos musicales",
+    "pronunciation": "/ˈpleɪɪŋ ˈmjuːzɪkəl ˈɪnstrəmənts/"
+  },
+  {
+    "uuid": "83f7f36a-bbe8-4b7f-9632-4a6095a9a6c1",
+    "english": "pottery",
+    "spanish": "cerámica",
+    "pronunciation": "/ˈpɒtəri/"
+  },
+  {
+    "uuid": "63588a8a-1576-427c-90bd-033abd3c19ae",
+    "english": "puzzles",
+    "spanish": "rompecabezas",
+    "pronunciation": "/ˈpʌzəlz/"
+  },
+  {
+    "uuid": "a2f2052f-5fce-4258-9c33-6281d6a58b89",
+    "english": "reading",
+    "spanish": "lectura",
+    "pronunciation": "/ˈriːdɪŋ/"
+  },
+  {
+    "uuid": "474f590d-ab9a-4849-a1f4-edf57d43416d",
+    "english": "rock climbing",
+    "spanish": "escalada en roca",
+    "pronunciation": "/rɒk ˈklaɪmɪŋ/"
+  },
+  {
+    "uuid": "53da1f87-9ed1-4c92-88be-fb6d386198ab",
+    "english": "roller skating",
+    "spanish": "patinaje sobre ruedas",
+    "pronunciation": "/ˈroʊlər ˈskeɪtɪŋ/"
+  },
+  {
+    "uuid": "ccc41170-8ebd-4b64-ad13-753bca8256a0",
+    "english": "rugby",
+    "spanish": "rugby",
+    "pronunciation": "/ˈrʌɡbi/"
+  },
+  {
+    "uuid": "4192bf06-a986-41e1-bde4-288b63fcc1d5",
+    "english": "running",
+    "spanish": "correr",
+    "pronunciation": "/ˈrʌnɪŋ/"
+  },
+  {
+    "uuid": "600115b4-f31d-482b-8258-ea2f3df4aba8",
+    "english": "sailing",
+    "spanish": "navegación",
+    "pronunciation": "/ˈseɪlɪŋ/"
+  },
+  {
+    "uuid": "642434d4-c3c9-4aa6-8a95-55a6bde3c5df",
+    "english": "scrapbooking",
+    "spanish": "álbum de recortes",
+    "pronunciation": "/ˈskræpbʊkɪŋ/"
+  },
+  {
+    "uuid": "acdf536a-7d58-47fd-93a7-7913c2ff4379",
+    "english": "scuba diving",
+    "spanish": "buceo",
+    "pronunciation": "/ˈskuːbə ˈdaɪvɪŋ/"
+  },
+  {
+    "uuid": "3ee51a59-4f0a-40fd-8b84-e90b2fb137f5",
+    "english": "sculpting",
+    "spanish": "escultura",
+    "pronunciation": "/ˈskʌlptɪŋ/"
+  },
+  {
+    "uuid": "d07a1e14-14c2-4103-8fef-ec32f38828e2",
+    "english": "sewing",
+    "spanish": "costura",
+    "pronunciation": "/ˈsoʊɪŋ/"
+  },
+  {
+    "uuid": "ced6b47d-2362-4e8a-934d-a3c60632f586",
+    "english": "singing",
+    "spanish": "cantar",
+    "pronunciation": "/ˈsɪŋɪŋ/"
+  },
+  {
+    "uuid": "81df9b64-2a14-4d35-a595-e36b68d90235",
+    "english": "skateboarding",
+    "spanish": "andar en patineta",
+    "pronunciation": "/ˈskeɪtbɔːrdɪŋ/"
+  },
+  {
+    "uuid": "8a34ef27-35b4-4b80-8188-69f6c71b8e35",
+    "english": "skiing",
+    "spanish": "esquí",
+    "pronunciation": "/ˈskiːɪŋ/"
+  },
+  {
+    "uuid": "518ee101-d6f2-403d-b96e-9be60430e30d",
+    "english": "skydiving",
+    "spanish": "paracaidismo",
+    "pronunciation": "/ˈskaɪˌdaɪvɪŋ/"
+  },
+  {
+    "uuid": "cbfee6ba-cc88-4618-8ba5-1635300a6676",
+    "english": "snorkeling",
+    "spanish": "buceo de superficie",
+    "pronunciation": "/ˈsnɔːrkəlɪŋ/"
+  },
+  {
+    "uuid": "e334e78b-bdbe-4ee5-8bd2-0ec229e41473",
+    "english": "snowboarding",
+    "spanish": "snowboard",
+    "pronunciation": "/ˈsnoʊbɔːrdɪŋ/"
+  },
+  {
+    "uuid": "3158f0e4-29ed-4806-9db1-3301d8d8ae3d",
+    "english": "soccer",
+    "spanish": "fútbol",
+    "pronunciation": "/ˈsɒkər/"
+  },
+  {
+    "uuid": "9c607873-dcd5-4b0f-a9c3-7c53064a39b6",
+    "english": "squash",
+    "spanish": "squash",
+    "pronunciation": "/skwɒʃ/"
+  },
+  {
+    "uuid": "795f88af-d6fb-4cba-a72f-c29750d50e65",
+    "english": "stargazing",
+    "spanish": "observación de estrellas",
+    "pronunciation": "/ˈstɑːrˌɡeɪzɪŋ/"
+  },
+  {
+    "uuid": "e0250465-f678-4315-8444-45afe4c647a7",
+    "english": "surfing",
+    "spanish": "surf",
+    "pronunciation": "/ˈsɜːrfɪŋ/"
+  },
+  {
+    "uuid": "6f69e4ef-07b8-4ac2-a0c5-978ba46a8dc7",
+    "english": "swimming",
+    "spanish": "natación",
+    "pronunciation": "/ˈswɪmɪŋ/"
+  },
+  {
+    "uuid": "63b7f477-b778-4f11-b961-e85391c491a4",
+    "english": "table tennis",
+    "spanish": "tenis de mesa",
+    "pronunciation": "/ˈteɪbəl ˈtɛnɪs/"
+  },
+  {
+    "uuid": "b382d903-0e5e-48f4-b2eb-614adc310882",
+    "english": "tennis",
+    "spanish": "tenis",
+    "pronunciation": "/ˈtɛnɪs/"
+  },
+  {
+    "uuid": "e4f1d384-a4a0-4a79-8f34-de4ab381a5e1",
+    "english": "traveling",
+    "spanish": "viajar",
+    "pronunciation": "/ˈtrævəlɪŋ/"
+  },
+  {
+    "uuid": "cf6b151e-4d26-4cf6-be77-ca55152fd38e",
+    "english": "video games",
+    "spanish": "videojuegos",
+    "pronunciation": "/ˈvɪdioʊ ɡeɪmz/"
+  },
+  {
+    "uuid": "1eed2a16-9b37-490f-8a9f-2b704d0520d5",
+    "english": "videography",
+    "spanish": "videografía",
+    "pronunciation": "/ˌvɪdiˈɒɡrəfi/"
+  },
+  {
+    "uuid": "206aa753-06e8-4c49-9e73-2cb3388ab609",
+    "english": "volleyball",
+    "spanish": "voleibol",
+    "pronunciation": "/ˈvɒlibɔːl/"
+  },
+  {
+    "uuid": "12dac579-af2c-4ddd-bf5c-5f1e739f701c",
+    "english": "volunteering",
+    "spanish": "voluntariado",
+    "pronunciation": "/ˌvɒlənˈtɪərɪŋ/"
+  },
+  {
+    "uuid": "e3b98bb2-367f-454c-800c-465d9946cd14",
+    "english": "windsurfing",
+    "spanish": "windsurf",
+    "pronunciation": "/ˈwɪndˌsɜːrfɪŋ/"
+  },
+  {
+    "uuid": "75beb83b-814e-4525-895e-fa1f36f19103",
+    "english": "woodworking",
+    "spanish": "carpintería",
+    "pronunciation": "/ˈwʊdwɜːrkɪŋ/"
+  },
+  {
+    "uuid": "396f70c2-ad71-4e8b-ab70-bc35e8b0afb6",
+    "english": "writing",
+    "spanish": "escritura",
+    "pronunciation": "/ˈraɪtɪŋ/"
+  },
+  {
+    "uuid": "df73f304-c483-4bd3-b5fb-13a7c72b753d",
+    "english": "yoga",
+    "spanish": "yoga",
+    "pronunciation": "/ˈjoʊɡə/"
+  }
+]

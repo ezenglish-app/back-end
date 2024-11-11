@@ -1,0 +1,11 @@
+{
+  "scriptId": "460",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/types.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 34, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

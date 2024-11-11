@@ -1,0 +1,458 @@
+[
+  {
+    "uuid": "39e78b7c-cbc1-4b81-8325-bfefb6502096",
+    "english": "park",
+    "spanish": "parque",
+    "pronunciation": "/pɑːrk/"
+  },
+  {
+    "uuid": "bceee27c-0de1-4f39-8f7c-77b410b1e58e",
+    "english": "school",
+    "spanish": "escuela",
+    "pronunciation": "/skuːl/"
+  },
+  {
+    "uuid": "a04fbb04-2064-4e11-8fe5-7e2eb163f5ce",
+    "english": "hospital",
+    "spanish": "hospital",
+    "pronunciation": "/ˈhɒspɪtl/"
+  },
+  {
+    "uuid": "cba8bc1f-6788-4c48-aad6-f72f91cc7085",
+    "english": "library",
+    "spanish": "biblioteca",
+    "pronunciation": "/ˈlaɪbrəri/"
+  },
+  {
+    "uuid": "34b91d8e-f722-456c-acc5-fb51448352c8",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "pronunciation": "/ˈrɛstərɒnt/"
+  },
+  {
+    "uuid": "4add8e17-70cd-4888-b2e3-da6ae2fa2543",
+    "english": "museum",
+    "spanish": "museo",
+    "pronunciation": "/mjuˈziːəm/"
+  },
+  {
+    "uuid": "d6f604e6-5bd7-4a5c-aae8-ed30f8162045",
+    "english": "theater",
+    "spanish": "teatro",
+    "pronunciation": "/ˈθiːətər/"
+  },
+  {
+    "uuid": "9b32af85-1e59-4a53-8efc-6a30ef6ecb58",
+    "english": "cinema",
+    "spanish": "cine",
+    "pronunciation": "/ˈsɪnəmə/"
+  },
+  {
+    "uuid": "d51f6771-9a08-4669-8afe-220df570c5ec",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "pronunciation": "/ˈsuːpərˌmɑːrkɪt/"
+  },
+  {
+    "uuid": "854d0777-74e5-40e8-98a1-25d89d31b26d",
+    "english": "mall",
+    "spanish": "centro comercial",
+    "pronunciation": "/mɔːl/"
+  },
+  {
+    "uuid": "a45d2014-acf6-4289-b512-08ca9ccc0911",
+    "english": "bank",
+    "spanish": "banco",
+    "pronunciation": "/bæŋk/"
+  },
+  {
+    "uuid": "340c5118-cab1-42f1-bb50-79ea4638133d",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "pronunciation": "/ˈfɑːrməsi/"
+  },
+  {
+    "uuid": "eeba1426-062a-414b-968b-39457ea66706",
+    "english": "church",
+    "spanish": "iglesia",
+    "pronunciation": "/tʃɜːrtʃ/"
+  },
+  {
+    "uuid": "3c5be384-0e14-4e95-872f-1f578bf310ec",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "pronunciation": "/mɒsk/"
+  },
+  {
+    "uuid": "a7fa42d7-6b0e-44c4-b1d7-cdf31375809c",
+    "english": "temple",
+    "spanish": "templo",
+    "pronunciation": "/ˈtɛmpl/"
+  },
+  {
+    "uuid": "6997cf05-a351-4763-b860-0c6259bcaa2a",
+    "english": "road",
+    "spanish": "carretera",
+    "pronunciation": "/roʊd/"
+  },
+  {
+    "uuid": "f63b9c45-64bd-4ca7-8953-3832dbdf0d8f",
+    "english": "street",
+    "spanish": "calle",
+    "pronunciation": "/striːt/"
+  },
+  {
+    "uuid": "fc66d99b-d71b-4e3d-bb86-5ec2065de6a0",
+    "english": "avenue",
+    "spanish": "avenida",
+    "pronunciation": "/ˈævəˌnjuː/"
+  },
+  {
+    "uuid": "587dcd59-da0d-449c-85aa-502f866ab683",
+    "english": "station",
+    "spanish": "estación",
+    "pronunciation": "/ˈsteɪʃən/"
+  },
+  {
+    "uuid": "8b81e749-aa99-4568-b370-1c312409968d",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "pronunciation": "/ˈɛərˌpɔːrt/"
+  },
+  {
+    "uuid": "a434f8f8-0786-493b-ae2a-80e7d6694bf7",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "pronunciation": "/bʌs stɒp/"
+  },
+  {
+    "uuid": "30a1193c-174f-499c-8be0-4aa2c2bfadb2",
+    "english": "train station",
+    "spanish": "estación de tren",
+    "pronunciation": "/treɪn ˈsteɪʃən/"
+  },
+  {
+    "uuid": "129dabd7-f405-4260-a0ae-b594ea35adda",
+    "english": "subway",
+    "spanish": "metro",
+    "pronunciation": "/ˈsʌbˌweɪ/"
+  },
+  {
+    "uuid": "39801803-e09e-4a86-b736-b0401623e0ed",
+    "english": "taxi stand",
+    "spanish": "parada de taxis",
+    "pronunciation": "/ˈtæksi stænd/"
+  },
+  {
+    "uuid": "43c61c38-b123-45fb-b1db-dd0c6c8d9dd9",
+    "english": "hotel",
+    "spanish": "hotel",
+    "pronunciation": "/hoʊˈtɛl/"
+  },
+  {
+    "uuid": "54a74f47-6075-4bfa-bc55-25fc3957a1fb",
+    "english": "hostel",
+    "spanish": "hostal",
+    "pronunciation": "/ˈhɒstəl/"
+  },
+  {
+    "uuid": "8ca026ed-2b9f-4de6-86ac-5574936a0eb1",
+    "english": "apartment",
+    "spanish": "apartamento",
+    "pronunciation": "/əˈpɑːrtmənt/"
+  },
+  {
+    "uuid": "b21b8f78-4017-40db-b2b9-06fbb3964a9a",
+    "english": "house",
+    "spanish": "casa",
+    "pronunciation": "/haʊs/"
+  },
+  {
+    "uuid": "2c40b3ed-e0c7-42c5-b509-f034c30daff6",
+    "english": "building",
+    "spanish": "edificio",
+    "pronunciation": "/ˈbɪldɪŋ/"
+  },
+  {
+    "uuid": "ffd87207-62f7-42c8-9d4b-c0e93d762310",
+    "english": "office",
+    "spanish": "oficina",
+    "pronunciation": "/ˈɒfɪs/"
+  },
+  {
+    "uuid": "f2f167b5-cb2a-4004-9131-4870d1e36270",
+    "english": "factory",
+    "spanish": "fábrica",
+    "pronunciation": "/ˈfæktəri/"
+  },
+  {
+    "uuid": "cf3e5ca8-a6d1-44de-9d6f-d5624d460d09",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "pronunciation": "/ˈwɛərˌhaʊs/"
+  },
+  {
+    "uuid": "3feb859d-0a92-4a8e-aebd-f066239b0dca",
+    "english": "gym",
+    "spanish": "gimnasio",
+    "pronunciation": "/dʒɪm/"
+  },
+  {
+    "uuid": "57a871ca-51bf-4a9f-bca5-aff9343c8d59",
+    "english": "stadium",
+    "spanish": "estadio",
+    "pronunciation": "/ˈsteɪdiəm/"
+  },
+  {
+    "uuid": "72823db5-40fe-48ad-ab55-100cdbd281bb",
+    "english": "arena",
+    "spanish": "arena",
+    "pronunciation": "/əˈriːnə/"
+  },
+  {
+    "uuid": "b3fd89f0-25cc-424a-b248-3c7d0a4fac9b",
+    "english": "court",
+    "spanish": "tribunal",
+    "pronunciation": "/kɔːrt/"
+  },
+  {
+    "uuid": "ca2cc6f2-7fba-4237-b66f-f8a64e11ce87",
+    "english": "police station",
+    "spanish": "comisaría",
+    "pronunciation": "/pəˈliːs ˈsteɪʃən/"
+  },
+  {
+    "uuid": "2b8c1376-b910-43f2-855b-46b80fcc6746",
+    "english": "fire station",
+    "spanish": "estación de bomberos",
+    "pronunciation": "/ˈfaɪər ˈsteɪʃən/"
+  },
+  {
+    "uuid": "131c6bdc-52ef-416a-92be-b1cb9999fc5a",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "pronunciation": "/poʊst ˈɒfɪs/"
+  },
+  {
+    "uuid": "86c76542-6f5b-4edc-8ac1-a1fade640746",
+    "english": "bakery",
+    "spanish": "panadería",
+    "pronunciation": "/ˈbeɪkəri/"
+  },
+  {
+    "uuid": "b6648c9c-ec84-4397-8efd-965c7c731038",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "pronunciation": "/ˈbʊtʃər/"
+  },
+  {
+    "uuid": "ea02c863-fb5b-4efa-8d6b-3997faa32569",
+    "english": "grocery store",
+    "spanish": "tienda de comestibles",
+    "pronunciation": "/ˈɡroʊsəri stɔːr/"
+  },
+  {
+    "uuid": "7b7b6dcd-1f6a-45ea-8ab5-83006e93bd0a",
+    "english": "market",
+    "spanish": "mercado",
+    "pronunciation": "/ˈmɑːrkɪt/"
+  },
+  {
+    "uuid": "0801bb8d-3546-4483-9f02-17332d42cf7f",
+    "english": "bar",
+    "spanish": "bar",
+    "pronunciation": "/bɑːr/"
+  },
+  {
+    "uuid": "4bcab4d4-a83a-4f26-9cff-6a34b40f47a1",
+    "english": "cafe",
+    "spanish": "cafetería",
+    "pronunciation": "/kæˈfeɪ/"
+  },
+  {
+    "uuid": "38187351-afd0-4478-9bcc-c5854fc7bcbe",
+    "english": "pub",
+    "spanish": "pub",
+    "pronunciation": "/pʌb/"
+  },
+  {
+    "uuid": "09e3b2e1-8516-49ac-b5dc-d6c14e553aac",
+    "english": "nightclub",
+    "spanish": "club nocturno",
+    "pronunciation": "/ˈnaɪtˌklʌb/"
+  },
+  {
+    "uuid": "4f929d46-c542-4596-bac9-fbbce5c88b3a",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "pronunciation": "/ˈpleɪˌɡraʊnd/"
+  },
+  {
+    "uuid": "6fe8e774-8e30-4631-9c4e-bb20af4d94f8",
+    "english": "zoo",
+    "spanish": "zoológico",
+    "pronunciation": "/zuː/"
+  },
+  {
+    "uuid": "38bd201c-12f4-495d-a2dc-c893c91d2bb6",
+    "english": "aquarium",
+    "spanish": "acuario",
+    "pronunciation": "/əˈkwɛəriəm/"
+  },
+  {
+    "uuid": "a0c72ea7-5f26-4a5c-8093-6d54fd5fc36a",
+    "english": "square",
+    "spanish": "plaza",
+    "pronunciation": "/skwɛər/"
+  },
+  {
+    "uuid": "2a1887a8-a77a-4947-bcb9-f0faa572a696",
+    "english": "statue",
+    "spanish": "estatua",
+    "pronunciation": "/ˈstætʃuː/"
+  },
+  {
+    "uuid": "0e36b17e-c78a-489b-acac-7db7c9c61f8a",
+    "english": "fountain",
+    "spanish": "fuente",
+    "pronunciation": "/ˈfaʊntən/"
+  },
+  {
+    "uuid": "326a6a0f-00e2-484f-a4fb-92f1b75b232d",
+    "english": "bridge",
+    "spanish": "puente",
+    "pronunciation": "/brɪdʒ/"
+  },
+  {
+    "uuid": "5a7542fb-a8be-4d1a-9380-753e4ded5451",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "pronunciation": "/ˈtʌnəl/"
+  },
+  {
+    "uuid": "53e89938-a39e-4e2d-a633-e2ae9305363b",
+    "english": "port",
+    "spanish": "puerto",
+    "pronunciation": "/pɔːrt/"
+  },
+  {
+    "uuid": "0aa0bedb-b2e5-4b88-ae4a-8eb7d1355358",
+    "english": "dock",
+    "spanish": "muelle",
+    "pronunciation": "/dɒk/"
+  },
+  {
+    "uuid": "d40c2231-f0bf-4172-9797-2e3a12c58367",
+    "english": "pier",
+    "spanish": "muelle",
+    "pronunciation": "/pɪər/"
+  },
+  {
+    "uuid": "c4586ac6-b646-4d68-a496-0f0722e55fcc",
+    "english": "bay",
+    "spanish": "bahía",
+    "pronunciation": "/beɪ/"
+  },
+  {
+    "uuid": "a2ce57cb-c048-4248-8ac5-861b70e22044",
+    "english": "lake",
+    "spanish": "lago",
+    "pronunciation": "/leɪk/"
+  },
+  {
+    "uuid": "66e470f1-a027-4855-b846-8257800f2f12",
+    "english": "canal",
+    "spanish": "canal",
+    "pronunciation": "/kəˈnæl/"
+  },
+  {
+    "uuid": "2f1e96fa-79de-472d-a531-06cf5b6f0edd",
+    "english": "garden",
+    "spanish": "jardín",
+    "pronunciation": "/ˈɡɑːrdən/"
+  },
+  {
+    "uuid": "1124ce31-3a8d-4963-b481-f04bf038616b",
+    "english": "monument",
+    "spanish": "monumento",
+    "pronunciation": "/ˈmɒnjumənt/"
+  },
+  {
+    "uuid": "cfd51d38-aeaf-42e8-8b1b-6ae99248c1ec",
+    "english": "tower",
+    "spanish": "torre",
+    "pronunciation": "/ˈtaʊər/"
+  },
+  {
+    "uuid": "dbab6a20-ace7-42b1-9cd0-2c44c2786a63",
+    "english": "skyscraper",
+    "spanish": "rascacielos",
+    "pronunciation": "/ˈskaɪˌskreɪpər/"
+  },
+  {
+    "uuid": "b2fd1e0e-137f-43f5-9fc7-3346beb397e9",
+    "english": "harbor",
+    "spanish": "puerto",
+    "pronunciation": "/ˈhɑːrbər/"
+  },
+  {
+    "uuid": "775daa49-81d2-42df-8ea0-4dd7613b57dc",
+    "english": "beach",
+    "spanish": "playa",
+    "pronunciation": "/biːtʃ/"
+  },
+  {
+    "uuid": "fee9b81b-8376-4315-905d-69bf0d236627",
+    "english": "coast",
+    "spanish": "costa",
+    "pronunciation": "/koʊst/"
+  },
+  {
+    "uuid": "5e1600d3-d65f-4508-b8fc-e7ce0294746f",
+    "english": "river",
+    "spanish": "río",
+    "pronunciation": "/ˈrɪvər/"
+  },
+  {
+    "uuid": "e4f5b236-6ba5-41c1-9eb8-de007dea5d85",
+    "english": "dam",
+    "spanish": "presa",
+    "pronunciation": "/dæm/"
+  },
+  {
+    "uuid": "08c6ad4a-5673-4dfd-b397-5db428f4a75a",
+    "english": "reservoir",
+    "spanish": "embalse",
+    "pronunciation": "/ˈrɛzərˌvwɑːr/"
+  },
+  {
+    "uuid": "24b01669-1191-4287-b9d2-fa98d1441ab5",
+    "english": "waterfall",
+    "spanish": "cascada",
+    "pronunciation": "/ˈwɔːtərˌfɔːl/"
+  },
+  {
+    "uuid": "f5d8b229-e982-4e92-9055-ad506a571c51",
+    "english": "mountain",
+    "spanish": "montaña",
+    "pronunciation": "/ˈmaʊntən/"
+  },
+  {
+    "uuid": "dffaef8d-519d-4eb4-9b9c-0dd1ca334bbb",
+    "english": "hill",
+    "spanish": "colina",
+    "pronunciation": "/hɪl/"
+  },
+  {
+    "uuid": "018fd9e5-e0fe-4307-a1cf-424b12b55d89",
+    "english": "valley",
+    "spanish": "valle",
+    "pronunciation": "/ˈvæli/"
+  },
+  {
+    "uuid": "5acb6cb9-f4b3-43a2-bc03-94c21978b00e",
+    "english": "forest",
+    "spanish": "bosque",
+    "pronunciation": "/ˈfɔːrɪst/"
+  }
+]

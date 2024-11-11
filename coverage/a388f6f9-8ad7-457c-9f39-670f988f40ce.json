@@ -1,0 +1,41 @@
+{
+  "scriptId": "619",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc/azure_machine_workflow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3176, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3175, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3111, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AzureMachineWorkflow",
+      "ranges": [{ "startOffset": 1248, "endOffset": 1296, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getToken",
+      "ranges": [{ "startOffset": 1360, "endOffset": 1867, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAzureTokenData",
+      "ranges": [{ "startOffset": 1980, "endOffset": 2582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isEndpointResultValid",
+      "ranges": [{ "startOffset": 2774, "endOffset": 3058, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

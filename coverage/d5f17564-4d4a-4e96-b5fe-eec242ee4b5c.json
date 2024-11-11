@@ -1,0 +1,46 @@
+{
+  "scriptId": "638",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/server_selection_events.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3477, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3476, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3412, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerSelectionEvent",
+      "ranges": [{ "startOffset": 758, "endOffset": 945, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSelectionStartedEvent",
+      "ranges": [{ "startOffset": 1182, "endOffset": 1434, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSelectionFailedEvent",
+      "ranges": [{ "startOffset": 1685, "endOffset": 1972, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSelectionSucceededEvent",
+      "ranges": [{ "startOffset": 2225, "endOffset": 2639, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "WaitingForSuitableServerEvent",
+      "ranges": [{ "startOffset": 2942, "endOffset": 3285, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

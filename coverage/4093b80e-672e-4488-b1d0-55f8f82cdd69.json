@@ -1,0 +1,14 @@
+{
+  "scriptId": "317",
+  "url": "file:///home/juanca/Projects/english-api/src/database/client.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 413, "count": 1 },
+        { "startOffset": 219, "endOffset": 311, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

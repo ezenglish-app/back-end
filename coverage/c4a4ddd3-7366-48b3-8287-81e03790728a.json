@@ -1,0 +1,116 @@
+{
+  "scriptId": "573",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/utils.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5693, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5692, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5628, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isObject",
+      "ranges": [
+        { "startOffset": 305, "endOffset": 420, "count": 23 },
+        { "startOffset": 368, "endOffset": 385, "count": 22 },
+        { "startOffset": 387, "endOffset": 417, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "define",
+      "ranges": [
+        { "startOffset": 649, "endOffset": 956, "count": 1 },
+        { "startOffset": 872, "endOffset": 950, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "newObjectInRealm",
+      "ranges": [{ "startOffset": 958, "endOffset": 1203, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1486, "endOffset": 1507, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "initCtorRegistry",
+      "ranges": [
+        { "startOffset": 1522, "endOffset": 2509, "count": 12 },
+        { "startOffset": 1612, "endOffset": 1662, "count": 11 },
+        { "startOffset": 1662, "endOffset": 2508, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getSameObject",
+      "ranges": [
+        { "startOffset": 2511, "endOffset": 2836, "count": 6 },
+        { "startOffset": 2594, "endOffset": 2652, "count": 1 },
+        { "startOffset": 2695, "endOffset": 2744, "count": 5 },
+        { "startOffset": 2744, "endOffset": 2835, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrapperForImpl",
+      "ranges": [
+        { "startOffset": 2838, "endOffset": 2915, "count": 22 },
+        { "startOffset": 2906, "endOffset": 2912, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "implForWrapper",
+      "ranges": [
+        { "startOffset": 2917, "endOffset": 3000, "count": 1 },
+        { "startOffset": 2991, "endOffset": 2997, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "tryWrapperForImpl",
+      "ranges": [
+        { "startOffset": 3002, "endOffset": 3113, "count": 22 },
+        { "startOffset": 3094, "endOffset": 3103, "count": 1 },
+        { "startOffset": 3104, "endOffset": 3110, "count": 21 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "tryImplForWrapper",
+      "ranges": [{ "startOffset": 3115, "endOffset": 3226, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isArrayIndexPropName",
+      "ranges": [{ "startOffset": 3276, "endOffset": 3509, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isArrayBuffer",
+      "ranges": [{ "startOffset": 3614, "endOffset": 3744, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iteratorResult",
+      "ranges": [
+        { "startOffset": 3746, "endOffset": 4036, "count": 9 },
+        { "startOffset": 3877, "endOffset": 3925, "count": 0 },
+        { "startOffset": 3930, "endOffset": 3989, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

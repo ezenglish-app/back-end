@@ -1,0 +1,46 @@
+{
+  "scriptId": "529",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/metrics.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2234, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2233, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2169, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolMetrics",
+      "ranges": [{ "startOffset": 404, "endOffset": 529, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "markPinned",
+      "ranges": [{ "startOffset": 611, "endOffset": 916, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "markUnpinned",
+      "ranges": [{ "startOffset": 992, "endOffset": 1299, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "info",
+      "ranges": [{ "startOffset": 1382, "endOffset": 1771, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [{ "startOffset": 1840, "endOffset": 1959, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

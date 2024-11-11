@@ -1,0 +1,39 @@
+{
+  "scriptId": "632",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@mongodb-js/saslprep/1.1.9/dist/memory-code-points.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1512, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1511, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1447, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 1 },
+        { "startOffset": 358, "endOffset": 363, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createMemoryCodePoints",
+      "ranges": [{ "startOffset": 564, "endOffset": 1341, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "read",
+      "ranges": [{ "startOffset": 628, "endOffset": 877, "count": 6 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

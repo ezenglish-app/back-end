@@ -1,0 +1,71 @@
+{
+  "scriptId": "599",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/providers/azure.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4853, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4852, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4788, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AzureCredentialCache",
+      "ranges": [{ "startOffset": 932, "endOffset": 986, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getToken",
+      "ranges": [{ "startOffset": 991, "endOffset": 1221, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "needsRefresh",
+      "ranges": [{ "startOffset": 1226, "endOffset": 1409, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resetCache",
+      "ranges": [{ "startOffset": 1457, "endOffset": 1510, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getToken",
+      "ranges": [{ "startOffset": 1558, "endOffset": 1614, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseResponse",
+      "ranges": [{ "startOffset": 1753, "endOffset": 2848, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addAzureParams",
+      "ranges": [{ "startOffset": 2901, "endOffset": 3160, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prepareRequest",
+      "ranges": [{ "startOffset": 3331, "endOffset": 3620, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchAzureKMSToken",
+      "ranges": [{ "startOffset": 4020, "endOffset": 4471, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadAzureCredentials",
+      "ranges": [{ "startOffset": 4605, "endOffset": 4752, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

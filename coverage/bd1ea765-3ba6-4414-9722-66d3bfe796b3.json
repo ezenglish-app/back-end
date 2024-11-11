@@ -1,0 +1,97 @@
+{
+  "scriptId": "588",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/handshake/client_metadata.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9280, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 9279, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 9215, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LimitedSizeDocument",
+      "ranges": [{ "startOffset": 851, "endOffset": 1025, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ifItFitsItSits",
+      "ranges": [
+        { "startOffset": 1105, "endOffset": 1613, "count": 4 },
+        { "startOffset": 1465, "endOffset": 1502, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toObject",
+      "ranges": [{ "startOffset": 1618, "endOffset": 1860, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeClientMetadata",
+      "ranges": [
+        { "startOffset": 2260, "endOffset": 4526, "count": 1 },
+        { "startOffset": 2574, "endOffset": 2638, "count": 0 },
+        { "startOffset": 2842, "endOffset": 2860, "count": 0 },
+        { "startOffset": 2909, "endOffset": 2946, "count": 0 },
+        { "startOffset": 3040, "endOffset": 3183, "count": 0 },
+        { "startOffset": 3253, "endOffset": 3312, "count": 0 },
+        { "startOffset": 3380, "endOffset": 3515, "count": 0 },
+        { "startOffset": 3845, "endOffset": 4081, "count": 0 },
+        { "startOffset": 4141, "endOffset": 4484, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getContainerMetadata",
+      "ranges": [
+        { "startOffset": 4563, "endOffset": 5053, "count": 1 },
+        { "startOffset": 4865, "endOffset": 4871, "count": 0 },
+        { "startOffset": 4907, "endOffset": 4944, "count": 0 },
+        { "startOffset": 4975, "endOffset": 5021, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addContainerMetadata",
+      "ranges": [
+        { "startOffset": 5190, "endOffset": 6121, "count": 1 },
+        { "startOffset": 5391, "endOffset": 5509, "count": 0 },
+        { "startOffset": 5606, "endOffset": 6120, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getFAASEnv",
+      "ranges": [
+        { "startOffset": 6211, "endOffset": 8432, "count": 7 },
+        { "startOffset": 7017, "endOffset": 7047, "count": 0 },
+        { "startOffset": 7049, "endOffset": 7219, "count": 0 },
+        { "startOffset": 7238, "endOffset": 7284, "count": 0 },
+        { "startOffset": 7286, "endOffset": 7677, "count": 0 },
+        { "startOffset": 7698, "endOffset": 7742, "count": 0 },
+        { "startOffset": 7744, "endOffset": 7818, "count": 0 },
+        { "startOffset": 7837, "endOffset": 7883, "count": 0 },
+        { "startOffset": 7885, "endOffset": 8413, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRuntimeInfo",
+      "ranges": [
+        { "startOffset": 8699, "endOffset": 9169, "count": 1 },
+        { "startOffset": 8845, "endOffset": 8862, "count": 0 },
+        { "startOffset": 8924, "endOffset": 9168, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

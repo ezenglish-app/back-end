@@ -1,0 +1,16 @@
+{
+  "scriptId": "457",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/isBefore.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 276, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isBefore",
+      "ranges": [{ "startOffset": 54, "endOffset": 215, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

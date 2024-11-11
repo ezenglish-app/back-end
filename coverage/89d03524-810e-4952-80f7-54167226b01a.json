@@ -1,0 +1,36 @@
+{
+  "scriptId": "549",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/search_indexes/drop.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1523, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1522, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1458, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DropSearchIndexOperation",
+      "ranges": [{ "startOffset": 533, "endOffset": 651, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 656, "endOffset": 715, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 720, "endOffset": 1360, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

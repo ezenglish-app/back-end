@@ -1,0 +1,11 @@
+{
+  "scriptId": "323",
+  "url": "file:///home/juanca/Projects/english-api/src/pkg/auth/index.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 369, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "scriptId": "376",
+  "url": "file:///home/juanca/Projects/english-api/src/pkg/auth/handler/update.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 448, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Update",
+      "ranges": [
+        { "startOffset": 147, "endOffset": 446, "count": 1 },
+        { "startOffset": 350, "endOffset": 412, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

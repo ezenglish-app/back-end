@@ -1,0 +1,554 @@
+[
+  {
+    "uuid": "de9c23a0-a6c2-4482-bab0-3b1777bccc5c",
+    "english": "airplane",
+    "spanish": "avión",
+    "pronunciation": "/ˈɛrˌpleɪn/"
+  },
+  {
+    "uuid": "bc00aa95-b85a-4394-9ce5-ea43096ef666",
+    "english": "ambulance",
+    "spanish": "ambulancia",
+    "pronunciation": "/ˈæmbjələns/"
+  },
+  {
+    "uuid": "a95a8879-e154-420e-9167-c43311875584",
+    "english": "amphibious vehicle",
+    "spanish": "vehículo anfibio",
+    "pronunciation": "/æmˈfɪbiəs ˈviːɪkl/"
+  },
+  {
+    "uuid": "5bfd1aae-a299-43b8-81b4-18532b83b42a",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "pronunciation": "/ˈbaɪsɪkl/"
+  },
+  {
+    "uuid": "bcc53872-ad32-43c0-8350-b202dff47fdb",
+    "english": "blimp",
+    "spanish": "dirigible",
+    "pronunciation": "/blɪmp/"
+  },
+  {
+    "uuid": "0840e5cd-3532-420b-99ab-098a4721d4e6",
+    "english": "boat",
+    "spanish": "barco",
+    "pronunciation": "/boʊt/"
+  },
+  {
+    "uuid": "0bc6706a-b7d6-4ecf-af52-ff07886d4955",
+    "english": "bobsleigh",
+    "spanish": "bobsleigh",
+    "pronunciation": "/ˈbɒbsleɪ/"
+  },
+  {
+    "uuid": "c99b73b4-d1f2-4c99-bd57-b1a30a034734",
+    "english": "bulldozer",
+    "spanish": "bulldozer",
+    "pronunciation": "/ˈbʊlˌdoʊzər/"
+  },
+  {
+    "uuid": "c3a7bd93-d6f3-432d-adad-ff9e68bb286a",
+    "english": "bus",
+    "spanish": "autobús",
+    "pronunciation": "/bʌs/"
+  },
+  {
+    "uuid": "5786dfd2-beb6-453f-b3ed-73ec59442c29",
+    "english": "cable car",
+    "spanish": "teleférico",
+    "pronunciation": "/ˈkeɪbəl kɑr/"
+  },
+  {
+    "uuid": "72a3a827-f593-4970-aae0-49802255ac35",
+    "english": "camel caravan",
+    "spanish": "caravana de camellos",
+    "pronunciation": "/ˈkæməl ˈkærəˌvæn/"
+  },
+  {
+    "uuid": "a52616f9-a3d8-4a8a-88ad-199c2eb14892",
+    "english": "camper",
+    "spanish": "autocaravana",
+    "pronunciation": "/ˈkæmpər/"
+  },
+  {
+    "uuid": "fc356435-3abe-47e3-95c3-d81abc87056b",
+    "english": "canoe",
+    "spanish": "canoa",
+    "pronunciation": "/kəˈnuː/"
+  },
+  {
+    "uuid": "35840ad5-74b7-4701-b751-3d849ff08ac5",
+    "english": "car",
+    "spanish": "coche",
+    "pronunciation": "/kɑːr/"
+  },
+  {
+    "uuid": "c9dbbb6f-34d0-4927-9a2c-e53721c3daba",
+    "english": "caravan",
+    "spanish": "caravana",
+    "pronunciation": "/ˈkærəˌvæn/"
+  },
+  {
+    "uuid": "13d1b56f-a8d8-46d0-b8c4-e2d9ed1c1e42",
+    "english": "carousel",
+    "spanish": "carrusel",
+    "pronunciation": "/ˌkærəˈsɛl/"
+  },
+  {
+    "uuid": "a7c93275-1742-4677-83b1-41687d17f50a",
+    "english": "chairlift",
+    "spanish": "telesilla",
+    "pronunciation": "/ˈtʃɛrˌlɪft/"
+  },
+  {
+    "uuid": "132472cc-af70-44ed-bfa2-1766c7b6695c",
+    "english": "cruise ship",
+    "spanish": "crucero",
+    "pronunciation": "/kruːz ʃɪp/"
+  },
+  {
+    "uuid": "b3a814a6-d736-4b1a-8e5c-f104a917a5d5",
+    "english": "dinghy",
+    "spanish": "bote",
+    "pronunciation": "/ˈdɪŋi/"
+  },
+  {
+    "uuid": "07d6cd01-9ae9-4443-b8d0-9ae5782338ee",
+    "english": "dog sled",
+    "spanish": "trineo de perros",
+    "pronunciation": "/dɔɡ slɛd/"
+  },
+  {
+    "uuid": "fb033a50-3763-4e4b-a461-781e370a5b45",
+    "english": "drone",
+    "spanish": "dron",
+    "pronunciation": "/droʊn/"
+  },
+  {
+    "uuid": "4e12e6f0-6922-49a9-96d0-680276008311",
+    "english": "electric bike",
+    "spanish": "bicicleta eléctrica",
+    "pronunciation": "/ɪˈlɛktrɪk baɪk/"
+  },
+  {
+    "uuid": "aaf2b162-124e-4171-9b7e-eb56f48de121",
+    "english": "electric car",
+    "spanish": "coche eléctrico",
+    "pronunciation": "/ɪˈlɛktrɪk kɑr/"
+  },
+  {
+    "uuid": "5f01fee1-7774-4363-8608-bdbe411047b7",
+    "english": "electric scooter",
+    "spanish": "scooter eléctrico",
+    "pronunciation": "/ɪˈlɛktrɪk ˈskuːtər/"
+  },
+  {
+    "uuid": "33a72dfa-008a-440b-8783-7c112ddf97d0",
+    "english": "elephant ride",
+    "spanish": "paseo en elefante",
+    "pronunciation": "/ˈɛləfənt raɪd/"
+  },
+  {
+    "uuid": "90afd01e-f1a4-4a20-bc5c-108bf9f0785a",
+    "english": "ferry",
+    "spanish": "transbordador",
+    "pronunciation": "/ˈfɛri/"
+  },
+  {
+    "uuid": "160ee335-3764-4c28-9217-2830724ba956",
+    "english": "fire truck",
+    "spanish": "camión de bomberos",
+    "pronunciation": "/ˈfaɪər trʌk/"
+  },
+  {
+    "uuid": "d6d1f0d9-cd56-4aae-b048-582011712064",
+    "english": "fishing boat",
+    "spanish": "barco de pesca",
+    "pronunciation": "/ˈfɪʃɪŋ boʊt/"
+  },
+  {
+    "uuid": "ae9c732e-630c-472e-b5c7-ebc50faa5404",
+    "english": "forklift",
+    "spanish": "montacargas",
+    "pronunciation": "/ˈfɔrklɪft/"
+  },
+  {
+    "uuid": "4b7d95c1-2309-45fe-bc5e-790a5762a5db",
+    "english": "funfair ride",
+    "spanish": "atracción de feria",
+    "pronunciation": "/ˈfʌnˌfɛr raɪd/"
+  },
+  {
+    "uuid": "0c324a55-baa5-47ac-b004-a943d61f6820",
+    "english": "funicular",
+    "spanish": "funicular",
+    "pronunciation": "/fjʊˈnɪkjʊlər/"
+  },
+  {
+    "uuid": "e4760ed1-74a2-4046-a81d-8105a1e0aba6",
+    "english": "glider",
+    "spanish": "planeador",
+    "pronunciation": "/ˈɡlaɪdər/"
+  },
+  {
+    "uuid": "2f7e3c69-dcaf-42b8-ac46-c376769dca60",
+    "english": "golf cart",
+    "spanish": "carrito de golf",
+    "pronunciation": "/ɡɔlf kɑrt/"
+  },
+  {
+    "uuid": "f9173205-c004-4012-9e92-be8ebad29856",
+    "english": "gondola",
+    "spanish": "góndola",
+    "pronunciation": "/ˈɡɒndələ/"
+  },
+  {
+    "uuid": "5fa9139c-8bdb-45c3-a78c-6ca2f5d8d00f",
+    "english": "gondola lift",
+    "spanish": "telecabina",
+    "pronunciation": "/ˈɡɒndələ lɪft/"
+  },
+  {
+    "uuid": "c628c2f6-f9db-4426-a24a-743f3d4b1ce9",
+    "english": "hang glider",
+    "spanish": "ala delta",
+    "pronunciation": "/hæŋ ˈɡlaɪdər/"
+  },
+  {
+    "uuid": "fcf004a0-fe95-4ffa-a898-65e6bd19b5d7",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "pronunciation": "/ˈhɛlɪˌkɑptər/"
+  },
+  {
+    "uuid": "5022680c-3ef2-4d3c-9693-000264d03ec3",
+    "english": "horse carriage",
+    "spanish": "carruaje de caballos",
+    "pronunciation": "/hɔrs ˈkærɪdʒ/"
+  },
+  {
+    "uuid": "80e9f6dc-00f6-49d9-83a0-7fbb6a53a953",
+    "english": "hot air balloon",
+    "spanish": "globo aerostático",
+    "pronunciation": "/hɑt ɛr bəˈlun/"
+  },
+  {
+    "uuid": "b41af535-8df2-4bd9-a74a-b72309c7a643",
+    "english": "hoverboard",
+    "spanish": "hoverboard",
+    "pronunciation": "/ˈhʌvərˌbɔrd/"
+  },
+  {
+    "uuid": "8ee6a388-251c-4513-8e56-5b82ddfe50cd",
+    "english": "hovercraft",
+    "spanish": "aerodeslizador",
+    "pronunciation": "/ˈhʌvərˌkræft/"
+  },
+  {
+    "uuid": "11a371fa-13d4-412b-a5ec-79ee53946c51",
+    "english": "hybrid car",
+    "spanish": "coche híbrido",
+    "pronunciation": "/ˈhaɪbrɪd kɑr/"
+  },
+  {
+    "uuid": "b867248d-d744-471d-baff-07046d550bd1",
+    "english": "icebreaker",
+    "spanish": "rompehielos",
+    "pronunciation": "/ˈaɪsˌbreɪkər/"
+  },
+  {
+    "uuid": "a819768d-383a-4b0e-99ec-abce7fec27b9",
+    "english": "jet",
+    "spanish": "jet",
+    "pronunciation": "/dʒɛt/"
+  },
+  {
+    "uuid": "3330e472-5b4f-49b2-ae66-634b5b25b244",
+    "english": "jet ski",
+    "spanish": "moto acuática",
+    "pronunciation": "/ˈdʒɛt ski/"
+  },
+  {
+    "uuid": "0cd0c5ab-0d8e-4310-8cb9-2e1028b203d5",
+    "english": "jetpack",
+    "spanish": "jetpack",
+    "pronunciation": "/ˈdʒɛtpæk/"
+  },
+  {
+    "uuid": "dfe855aa-35f6-4f2d-8684-175a551ddede",
+    "english": "kayak",
+    "spanish": "kayak",
+    "pronunciation": "/ˈkaɪæk/"
+  },
+  {
+    "uuid": "b709649d-1129-4107-b61b-2a46878bfb9e",
+    "english": "lifeboat",
+    "spanish": "bote salvavidas",
+    "pronunciation": "/ˈlaɪfˌboʊt/"
+  },
+  {
+    "uuid": "741a9397-41a0-4e14-8304-2bd4ef6cc834",
+    "english": "limousine",
+    "spanish": "limusina",
+    "pronunciation": "/ˈlɪməˌzin/"
+  },
+  {
+    "uuid": "60d3a5a8-df2a-4278-a5b8-751d73a43870",
+    "english": "minibus",
+    "spanish": "microbús",
+    "pronunciation": "/ˈmɪnɪˌbʌs/"
+  },
+  {
+    "uuid": "491ba5d2-26b5-44cd-aa3a-d9a506461364",
+    "english": "monorail",
+    "spanish": "monorraíl",
+    "pronunciation": "/ˈmɒnəˌreɪl/"
+  },
+  {
+    "uuid": "ddcb919a-6a12-4923-95d8-f9a9234ef071",
+    "english": "motorcycle",
+    "spanish": "motocicleta",
+    "pronunciation": "/ˈmoʊtərˌsaɪkl/"
+  },
+  {
+    "uuid": "92a14135-ecc0-4e60-af57-eaba00737d10",
+    "english": "ox cart",
+    "spanish": "carro de bueyes",
+    "pronunciation": "/ɑks kɑrt/"
+  },
+  {
+    "uuid": "0b9aff3d-9e26-46ca-a275-dd05888f1bc3",
+    "english": "paddleboat",
+    "spanish": "bote de pedales",
+    "pronunciation": "/ˈpædlˌboʊt/"
+  },
+  {
+    "uuid": "adfaea2b-23e6-4039-8860-0d8bf800819d",
+    "english": "paraglider",
+    "spanish": "parapente",
+    "pronunciation": "/ˈpærəˌɡlaɪdər/"
+  },
+  {
+    "uuid": "17d5dae8-656a-486f-b1b8-5509412f0f07",
+    "english": "police car",
+    "spanish": "coche de policía",
+    "pronunciation": "/pəˈlis kɑr/"
+  },
+  {
+    "uuid": "b78c3031-4e7d-4bf5-84df-0aa618917da3",
+    "english": "quad bike",
+    "spanish": "cuatrimoto",
+    "pronunciation": "/kwɑd baɪk/"
+  },
+  {
+    "uuid": "3993c8c9-bf41-4e97-bed4-81821c600868",
+    "english": "rickshaw",
+    "spanish": "rickshaw",
+    "pronunciation": "/ˈrɪkˌʃɔ/"
+  },
+  {
+    "uuid": "59905eab-7b1b-4ecd-ba8b-f7936e1a837a",
+    "english": "roller coaster",
+    "spanish": "montaña rusa",
+    "pronunciation": "/ˈroʊlər ˌkoʊstər/"
+  },
+  {
+    "uuid": "dcd41e1c-8d99-4575-9377-07e0f5af2be7",
+    "english": "rollerblades",
+    "spanish": "patines en línea",
+    "pronunciation": "/ˈroʊlərˌbleɪdz/"
+  },
+  {
+    "uuid": "aa21c65f-a2c9-47ec-a405-17bb4ec329e4",
+    "english": "rowing boat",
+    "spanish": "bote de remos",
+    "pronunciation": "/ˈroʊɪŋ boʊt/"
+  },
+  {
+    "uuid": "429acdf3-6fb5-44b2-ae65-b1bf87164c01",
+    "english": "sailboat",
+    "spanish": "velero",
+    "pronunciation": "/ˈseɪlˌboʊt/"
+  },
+  {
+    "uuid": "6127ecec-17c4-4311-9c41-8d5f2bf48c8d",
+    "english": "scooter",
+    "spanish": "scooter",
+    "pronunciation": "/ˈskuːtər/"
+  },
+  {
+    "uuid": "f8f54955-ee95-46b3-a554-c784591f7d9d",
+    "english": "segway",
+    "spanish": "segway",
+    "pronunciation": "/ˈsɛɡweɪ/"
+  },
+  {
+    "uuid": "a321c873-27a7-4264-abfa-31be75ee0960",
+    "english": "self-driving car",
+    "spanish": "coche autónomo",
+    "pronunciation": "/sɛlf ˈdraɪvɪŋ kɑr/"
+  },
+  {
+    "uuid": "a52fd71c-65c4-4c01-8ecd-b018b3eba176",
+    "english": "ship",
+    "spanish": "barco",
+    "pronunciation": "/ʃɪp/"
+  },
+  {
+    "uuid": "d278a4d7-e6f9-477a-b47c-7ecde570d001",
+    "english": "skateboard",
+    "spanish": "monopatín",
+    "pronunciation": "/ˈskeɪtˌbɔrd/"
+  },
+  {
+    "uuid": "6d1a0fd2-30f9-45c6-a12a-e62e5feb43d5",
+    "english": "snowcat",
+    "spanish": "máquina quitanieves",
+    "pronunciation": "/ˈsnoʊˌkæt/"
+  },
+  {
+    "uuid": "d88759e5-253a-491a-8cef-fc9e3a947057",
+    "english": "snowmobile",
+    "spanish": "moto de nieve",
+    "pronunciation": "/ˈsnoʊməˌbil/"
+  },
+  {
+    "uuid": "60ce9fc3-e746-48ba-aed7-725d1799c017",
+    "english": "snowplow",
+    "spanish": "quitanieves",
+    "pronunciation": "/ˈsnoʊˌplaʊ/"
+  },
+  {
+    "uuid": "20f807d4-366b-43bf-9c6f-3a6eaf5ed001",
+    "english": "space shuttle",
+    "spanish": "transbordador espacial",
+    "pronunciation": "/speɪs ˈʃʌtl/"
+  },
+  {
+    "uuid": "b77bc4c5-361c-48e3-9c9a-f52058930162",
+    "english": "spaceship",
+    "spanish": "nave espacial",
+    "pronunciation": "/ˈspeɪsˌʃɪp/"
+  },
+  {
+    "uuid": "e574f63a-838f-4897-8ef0-9aca1963493a",
+    "english": "speedboat",
+    "spanish": "lancha rápida",
+    "pronunciation": "/ˈspiːdˌboʊt/"
+  },
+  {
+    "uuid": "85cb623f-d59a-4127-9e38-3c3db4831ee1",
+    "english": "streetcar",
+    "spanish": "tranvía",
+    "pronunciation": "/ˈstriːtˌkɑr/"
+  },
+  {
+    "uuid": "ef0e2300-c595-489d-8909-78133c203d2b",
+    "english": "submarine",
+    "spanish": "submarino",
+    "pronunciation": "/ˌsʌbməˈrin/"
+  },
+  {
+    "uuid": "d256b517-0212-4eb1-aafb-bdef416b514f",
+    "english": "subway",
+    "spanish": "subterráneo",
+    "pronunciation": "/ˈsʌbˌweɪ/"
+  },
+  {
+    "uuid": "fa601831-8fd1-4d0d-8d6c-7a81e162f1a6",
+    "english": "tandem bicycle",
+    "spanish": "bicicleta tándem",
+    "pronunciation": "/ˈtændəm ˈbaɪsɪkl/"
+  },
+  {
+    "uuid": "1c5d119b-f815-437d-ad46-9e0983199da7",
+    "english": "tanker",
+    "spanish": "petrolero",
+    "pronunciation": "/ˈtæŋkər/"
+  },
+  {
+    "uuid": "80f0088c-3e18-43b6-97ed-95c96a1f9f83",
+    "english": "taxi",
+    "spanish": "taxi",
+    "pronunciation": "/ˈtæksi/"
+  },
+  {
+    "uuid": "9ec7b72b-feb1-44de-95c3-ae0904799a38",
+    "english": "tow truck",
+    "spanish": "grúa",
+    "pronunciation": "/toʊ trʌk/"
+  },
+  {
+    "uuid": "4f6175d1-4283-484b-ad7e-2b21f32556f3",
+    "english": "tractor",
+    "spanish": "tractor",
+    "pronunciation": "/ˈtræktər/"
+  },
+  {
+    "uuid": "eb2932a2-88a6-4cf9-b4bf-54164a1a4a7c",
+    "english": "train",
+    "spanish": "tren",
+    "pronunciation": "/treɪn/"
+  },
+  {
+    "uuid": "13e736c1-8a39-49af-81bf-dbd45f2cf19c",
+    "english": "tram",
+    "spanish": "tranvía",
+    "pronunciation": "/træm/"
+  },
+  {
+    "uuid": "9f4fe8f7-3300-4eec-b427-d68ba0346404",
+    "english": "tricycle",
+    "spanish": "triciclo",
+    "pronunciation": "/ˈtraɪsɪkl/"
+  },
+  {
+    "uuid": "0bea85a8-56da-4d7b-b62d-3499579c20ff",
+    "english": "trolley",
+    "spanish": "tranvía",
+    "pronunciation": "/ˈtrɒli/"
+  },
+  {
+    "uuid": "d187f9f9-d955-467e-8a79-23d4d01f81c0",
+    "english": "trolleybus",
+    "spanish": "trolebús",
+    "pronunciation": "/ˈtrɒlibʌs/"
+  },
+  {
+    "uuid": "e3c063be-897a-4882-b67b-39efada08e2b",
+    "english": "truck",
+    "spanish": "camión",
+    "pronunciation": "/trʌk/"
+  },
+  {
+    "uuid": "1852d6a6-ea21-40bf-99a6-4c9504324932",
+    "english": "tugboat",
+    "spanish": "remolcador",
+    "pronunciation": "/ˈtʌɡˌboʊt/"
+  },
+  {
+    "uuid": "2048705a-eb1f-4884-a4c5-52e31465a21d",
+    "english": "unicycle",
+    "spanish": "monociclo",
+    "pronunciation": "/ˈjunɪˌsaɪkl/"
+  },
+  {
+    "uuid": "4bec9271-41f9-42dc-b42b-a228eebf77e5",
+    "english": "van",
+    "spanish": "furgoneta",
+    "pronunciation": "/væn/"
+  },
+  {
+    "uuid": "579d61c6-fef6-4009-a52e-f0810cd292cd",
+    "english": "yacht",
+    "spanish": "yate",
+    "pronunciation": "/jɑt/"
+  },
+  {
+    "uuid": "bce3553e-6db4-43c8-965b-e577aeb73252",
+    "english": "zeppelin",
+    "spanish": "zéppelin",
+    "pronunciation": "/ˈzɛpəlɪn/"
+  }
+]

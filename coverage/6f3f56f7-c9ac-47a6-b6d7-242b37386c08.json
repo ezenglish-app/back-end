@@ -1,0 +1,31 @@
+{
+  "scriptId": "581",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/encoding.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 631, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 630, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 566, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "utf8Encode",
+      "ranges": [{ "startOffset": 357, "endOffset": 425, "count": 92 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "utf8DecodeWithoutBOM",
+      "ranges": [{ "startOffset": 427, "endOffset": 503, "count": 6 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "scriptId": "531",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/topology_description.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 18794, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 18793, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 18729, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TopologyDescription",
+      "ranges": [
+        { "startOffset": 1483, "endOffset": 4822, "count": 7 },
+        { "startOffset": 1666, "endOffset": 1671, "count": 1 },
+        { "startOffset": 1706, "endOffset": 1738, "count": 0 },
+        { "startOffset": 1782, "endOffset": 1794, "count": 1 },
+        { "startOffset": 1921, "endOffset": 1925, "count": 1 },
+        { "startOffset": 1984, "endOffset": 1989, "count": 1 },
+        { "startOffset": 2022, "endOffset": 2029, "count": 1 },
+        { "startOffset": 2074, "endOffset": 2081, "count": 3 },
+        { "startOffset": 2126, "endOffset": 2133, "count": 3 },
+        { "startOffset": 2186, "endOffset": 2190, "count": 2 },
+        { "startOffset": 2297, "endOffset": 3382, "count": 20 },
+        { "startOffset": 2426, "endOffset": 2504, "count": 6 },
+        { "startOffset": 2506, "endOffset": 2547, "count": 14 },
+        { "startOffset": 2547, "endOffset": 2627, "count": 6 },
+        { "startOffset": 2627, "endOffset": 2949, "count": 0 },
+        { "startOffset": 2949, "endOffset": 3029, "count": 6 },
+        { "startOffset": 3029, "endOffset": 3372, "count": 0 },
+        { "startOffset": 3903, "endOffset": 4816, "count": 20 },
+        { "startOffset": 3940, "endOffset": 4806, "count": 6 },
+        { "startOffset": 4007, "endOffset": 4225, "count": 0 },
+        { "startOffset": 4289, "endOffset": 4806, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateFromSrvPollingEvent",
+      "ranges": [{ "startOffset": 4930, "endOffset": 7104, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [
+        { "startOffset": 7223, "endOffset": 11478, "count": 5 },
+        { "startOffset": 7685, "endOffset": 7770, "count": 0 },
+        { "startOffset": 8068, "endOffset": 8446, "count": 0 },
+        { "startOffset": 8614, "endOffset": 8936, "count": 0 },
+        { "startOffset": 8997, "endOffset": 9269, "count": 0 },
+        { "startOffset": 9330, "endOffset": 9461, "count": 0 },
+        { "startOffset": 9534, "endOffset": 10304, "count": 4 },
+        { "startOffset": 9590, "endOffset": 9657, "count": 0 },
+        { "startOffset": 9720, "endOffset": 10294, "count": 2 },
+        { "startOffset": 10379, "endOffset": 11246, "count": 2 },
+        { "startOffset": 10435, "endOffset": 10570, "count": 0 },
+        { "startOffset": 10638, "endOffset": 11236, "count": 1 },
+        { "startOffset": 11135, "endOffset": 11236, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get error",
+      "ranges": [{ "startOffset": 11483, "endOffset": 11730, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasKnownServers",
+      "ranges": [{ "startOffset": 11819, "endOffset": 11952, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasDataBearingServers",
+      "ranges": [{ "startOffset": 12057, "endOffset": 12173, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasServer",
+      "ranges": [{ "startOffset": 12287, "endOffset": 12355, "count": 25 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 12562, "endOffset": 12623, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "topologyTypeForServerType",
+      "ranges": [{ "startOffset": 12677, "endOffset": 13269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateRsFromPrimary",
+      "ranges": [
+        { "startOffset": 13270, "endOffset": 17015, "count": 3 },
+        { "startOffset": 13422, "endOffset": 13450, "count": 0 },
+        { "startOffset": 13499, "endOffset": 13661, "count": 0 },
+        { "startOffset": 14012, "endOffset": 14017, "count": 1 },
+        { "startOffset": 14052, "endOffset": 14057, "count": 0 },
+        { "startOffset": 14092, "endOffset": 14147, "count": 2 },
+        { "startOffset": 14465, "endOffset": 14842, "count": 0 },
+        { "startOffset": 14848, "endOffset": 15837, "count": 0 },
+        { "startOffset": 15965, "endOffset": 16312, "count": 11 },
+        { "startOffset": 16025, "endOffset": 16072, "count": 3 },
+        { "startOffset": 16074, "endOffset": 16306, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 16408, "endOffset": 16584, "count": 9 },
+        { "startOffset": 16469, "endOffset": 16578, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 16791, "endOffset": 16839, "count": 11 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 16858, "endOffset": 16922, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateRsWithPrimaryFromMember",
+      "ranges": [
+        { "startOffset": 17016, "endOffset": 17575, "count": 1 },
+        { "startOffset": 17137, "endOffset": 17320, "count": 0 },
+        { "startOffset": 17456, "endOffset": 17525, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateRsNoPrimaryFromMember",
+      "ranges": [
+        { "startOffset": 17576, "endOffset": 18356, "count": 2 },
+        { "startOffset": 17760, "endOffset": 17788, "count": 0 },
+        { "startOffset": 17837, "endOffset": 17946, "count": 0 },
+        { "startOffset": 18249, "endOffset": 18318, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 17986, "endOffset": 18162, "count": 6 },
+        { "startOffset": 18047, "endOffset": 18156, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkHasPrimary",
+      "ranges": [
+        { "startOffset": 18357, "endOffset": 18678, "count": 4 },
+        { "startOffset": 18469, "endOffset": 18622, "count": 9 },
+        { "startOffset": 18541, "endOffset": 18616, "count": 3 },
+        { "startOffset": 18622, "endOffset": 18677, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

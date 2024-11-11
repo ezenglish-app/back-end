@@ -1,0 +1,650 @@
+[
+  {
+    "uuid": "44228b51-3786-4d06-9947-4dd2aeb51809",
+    "english": "shirt",
+    "spanish": "camisa",
+    "pronunciation": "/ʃɜːrt/"
+  },
+  {
+    "uuid": "ab562ac3-77b6-43c0-aa48-369cb60ba850",
+    "english": "pants",
+    "spanish": "pantalones",
+    "pronunciation": "/pænts/"
+  },
+  {
+    "uuid": "e6d41998-0dfd-4de1-af5a-4b41fc2f33ff",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "pronunciation": "/ˈdʒækɪt/"
+  },
+  {
+    "uuid": "cd4728cc-36ca-457e-a6ce-d0bf3dffd882",
+    "english": "hat",
+    "spanish": "sombrero",
+    "pronunciation": "/hæt/"
+  },
+  {
+    "uuid": "4b836c7b-4522-4d08-8084-577456401433",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "pronunciation": "/ʃuːz/"
+  },
+  {
+    "uuid": "6badd64b-17e2-4c5f-9888-b94bf691da71",
+    "english": "socks",
+    "spanish": "calcetines",
+    "pronunciation": "/sɒks/"
+  },
+  {
+    "uuid": "aa0c40ca-f699-4d1b-a343-78c773684ae1",
+    "english": "dress",
+    "spanish": "vestido",
+    "pronunciation": "/drɛs/"
+  },
+  {
+    "uuid": "d421aec4-4919-4ceb-9929-bd79678b9522",
+    "english": "skirt",
+    "spanish": "falda",
+    "pronunciation": "/skɜːrt/"
+  },
+  {
+    "uuid": "7f0bf36d-7932-40a8-84ca-d0bd1ee10dec",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "pronunciation": "/skɑːrf/"
+  },
+  {
+    "uuid": "b141d04a-fcff-487e-a123-383d13af001d",
+    "english": "gloves",
+    "spanish": "guantes",
+    "pronunciation": "/ɡlʌvz/"
+  },
+  {
+    "uuid": "df7b9474-cff4-4782-bf73-04be65dd676e",
+    "english": "belt",
+    "spanish": "cinturón",
+    "pronunciation": "/bɛlt/"
+  },
+  {
+    "uuid": "32993e9f-2793-4ee8-a196-a94193f94300",
+    "english": "tie",
+    "spanish": "corbata",
+    "pronunciation": "/taɪ/"
+  },
+  {
+    "uuid": "93144fd7-c320-436e-80ad-a227ee1a946e",
+    "english": "blouse",
+    "spanish": "blusa",
+    "pronunciation": "/blaʊs/"
+  },
+  {
+    "uuid": "312bd843-7779-4051-af2e-e2dbecc6a238",
+    "english": "coat",
+    "spanish": "abrigo",
+    "pronunciation": "/koʊt/"
+  },
+  {
+    "uuid": "114cabd8-fb9c-4fde-a76a-4fc64a024b45",
+    "english": "jeans",
+    "spanish": "vaqueros",
+    "pronunciation": "/dʒiːnz/"
+  },
+  {
+    "uuid": "d6d4a039-8f67-46b5-8907-96e9a7b493d4",
+    "english": "shorts",
+    "spanish": "pantalones cortos",
+    "pronunciation": "/ʃɔːrts/"
+  },
+  {
+    "uuid": "af71b16c-a882-40d4-a8f8-2c60af28804c",
+    "english": "sweater",
+    "spanish": "suéter",
+    "pronunciation": "/ˈswɛtər/"
+  },
+  {
+    "uuid": "e913c9c2-3c97-456c-9363-3d7af246bdd7",
+    "english": "t-shirt",
+    "spanish": "camiseta",
+    "pronunciation": "/ˈtiːʃɜːrt/"
+  },
+  {
+    "uuid": "f767839b-cf60-453b-b4b0-8d35adc71f7e",
+    "english": "vest",
+    "spanish": "chaleco",
+    "pronunciation": "/vɛst/"
+  },
+  {
+    "uuid": "2bbcd397-c503-47c1-90f0-3fae9318ff06",
+    "english": "swimsuit",
+    "spanish": "traje de baño",
+    "pronunciation": "/ˈswɪmsuːt/"
+  },
+  {
+    "uuid": "e71444c6-3add-4d1f-9b66-da2147f1d95d",
+    "english": "pajamas",
+    "spanish": "pijama",
+    "pronunciation": "/pəˈdʒɑːməz/"
+  },
+  {
+    "uuid": "b0b80474-f3cb-4cd9-80ca-bf6d457dc757",
+    "english": "robe",
+    "spanish": "bata",
+    "pronunciation": "/roʊb/"
+  },
+  {
+    "uuid": "a3e63b60-5dc5-46d9-b549-58bc9d609146",
+    "english": "underwear",
+    "spanish": "ropa interior",
+    "pronunciation": "/ˈʌndərˌwɛr/"
+  },
+  {
+    "uuid": "a75f3645-0780-478f-9bb4-c30d65a3a46f",
+    "english": "bra",
+    "spanish": "sujetador",
+    "pronunciation": "/brɑː/"
+  },
+  {
+    "uuid": "a77f5c16-dd66-4a30-b301-acfd203b049d",
+    "english": "panties",
+    "spanish": "bragas",
+    "pronunciation": "/ˈpæntiz/"
+  },
+  {
+    "uuid": "72ed1ba2-8520-4d3d-ac10-dd2bca112f13",
+    "english": "boxers",
+    "spanish": "calzoncillos",
+    "pronunciation": "/ˈbɒksərz/"
+  },
+  {
+    "uuid": "e19803b6-c7d6-408b-bef4-2dd585b289a9",
+    "english": "slippers",
+    "spanish": "pantuflas",
+    "pronunciation": "/ˈslɪpərz/"
+  },
+  {
+    "uuid": "ff7c6fa9-6884-4f10-b5ac-925ccf64da89",
+    "english": "sandals",
+    "spanish": "sandalias",
+    "pronunciation": "/ˈsændəlz/"
+  },
+  {
+    "uuid": "ba7bfd50-4c96-41ae-9157-2560e4fda6f4",
+    "english": "boots",
+    "spanish": "botas",
+    "pronunciation": "/buːts/"
+  },
+  {
+    "uuid": "ce191a30-17f1-4b2d-a7ce-cd8d657c017c",
+    "english": "sneakers",
+    "spanish": "zapatillas",
+    "pronunciation": "/ˈsniːkərz/"
+  },
+  {
+    "uuid": "7976f980-5113-42b4-8381-85b4d047950d",
+    "english": "cap",
+    "spanish": "gorra",
+    "pronunciation": "/kæp/"
+  },
+  {
+    "uuid": "705745d5-2392-4669-b2a1-ffa828faea6e",
+    "english": "beanie",
+    "spanish": "gorro",
+    "pronunciation": "/ˈbiːni/"
+  },
+  {
+    "uuid": "5b02b28f-85aa-400d-968c-f4ab837b6f0b",
+    "english": "mittens",
+    "spanish": "manoplas",
+    "pronunciation": "/ˈmɪtənz/"
+  },
+  {
+    "uuid": "5e04a11e-0f68-4a5b-8598-0e7e2f39a070",
+    "english": "leggings",
+    "spanish": "mallas",
+    "pronunciation": "/ˈlɛɡɪŋz/"
+  },
+  {
+    "uuid": "110211b7-1eca-42d1-bafa-ba9308a36d09",
+    "english": "tights",
+    "spanish": "medias",
+    "pronunciation": "/taɪts/"
+  },
+  {
+    "uuid": "d63962a6-d0bd-42bb-88ab-8c32a038226f",
+    "english": "overalls",
+    "spanish": "mono",
+    "pronunciation": "/ˈoʊvərˌɔːlz/"
+  },
+  {
+    "uuid": "2102e62f-c7ac-4fc2-80ee-199123d4b211",
+    "english": "cardigan",
+    "spanish": "cárdigan",
+    "pronunciation": "/ˈkɑːrdɪɡən/"
+  },
+  {
+    "uuid": "4504fb28-d14d-43e1-bdf2-8f66a62cb50f",
+    "english": "blazer",
+    "spanish": "bléiser",
+    "pronunciation": "/ˈbleɪzər/"
+  },
+  {
+    "uuid": "8650f48b-1ead-4911-88d9-9824dd291983",
+    "english": "raincoat",
+    "spanish": "impermeable",
+    "pronunciation": "/ˈreɪnˌkoʊt/"
+  },
+  {
+    "uuid": "564b9657-19a0-4889-a35a-ad07b4de1861",
+    "english": "poncho",
+    "spanish": "poncho",
+    "pronunciation": "/ˈpɑːnʧoʊ/"
+  },
+  {
+    "uuid": "32e32ff6-2744-4f6c-b99a-3bebb3246338",
+    "english": "kimono",
+    "spanish": "kimono",
+    "pronunciation": "/kɪˈmoʊnoʊ/"
+  },
+  {
+    "uuid": "40caba20-7cd5-4ea3-b3f2-bab8d7e80a2a",
+    "english": "sarong",
+    "spanish": "sarong",
+    "pronunciation": "/səˈrɒŋ/"
+  },
+  {
+    "uuid": "c4ef4834-e63b-4107-88a0-e9ae7b6c99fc",
+    "english": "tunic",
+    "spanish": "túnica",
+    "pronunciation": "/ˈtuːnɪk/"
+  },
+  {
+    "uuid": "5a20c091-b69d-4441-a925-12410d39b4ef",
+    "english": "sari",
+    "spanish": "sari",
+    "pronunciation": "/ˈsɑːri/"
+  },
+  {
+    "uuid": "1a295ab0-844c-4a33-bb3c-da83bcdfdc9f",
+    "english": "abaya",
+    "spanish": "abaya",
+    "pronunciation": "/əˈbaɪə/"
+  },
+  {
+    "uuid": "261b7da5-3260-4bc8-884d-884a0e11e539",
+    "english": "hijab",
+    "spanish": "hiyab",
+    "pronunciation": "/hɪˈdʒɑːb/"
+  },
+  {
+    "uuid": "90dd473d-7176-489b-8944-31eb3fc9ed38",
+    "english": "burqa",
+    "spanish": "burka",
+    "pronunciation": "/ˈbɜːrkə/"
+  },
+  {
+    "uuid": "8611bcc7-c103-49c8-9b76-427ba0fdb943",
+    "english": "kaftan",
+    "spanish": "caftán",
+    "pronunciation": "/ˈkæftæn/"
+  },
+  {
+    "uuid": "ab556e6b-8670-4f94-988a-9f3b866cab8d",
+    "english": "dashiki",
+    "spanish": "dashiki",
+    "pronunciation": "/dəˈʃiːki/"
+  },
+  {
+    "uuid": "d2beddea-9e36-431e-a313-b44c86cd278d",
+    "english": "toga",
+    "spanish": "toga",
+    "pronunciation": "/ˈtoʊɡə/"
+  },
+  {
+    "uuid": "2f2556d6-f3f2-45d0-b651-4d44452dd40a",
+    "english": "leotard",
+    "spanish": "leotardo",
+    "pronunciation": "/ˈliːətɑːrd/"
+  },
+  {
+    "uuid": "0c6783f2-8959-4470-94a3-26d90e8ee72e",
+    "english": "bodysuit",
+    "spanish": "body",
+    "pronunciation": "/ˈbɒdiˌsuːt/"
+  },
+  {
+    "uuid": "6c4a341d-b657-4eda-a833-b134e98d7000",
+    "english": "corset",
+    "spanish": "corsé",
+    "pronunciation": "/ˈkɔːrsɪt/"
+  },
+  {
+    "uuid": "c796758f-72e1-4925-8eb4-104118af702a",
+    "english": "gown",
+    "spanish": "bata",
+    "pronunciation": "/ɡaʊn/"
+  },
+  {
+    "uuid": "b825affb-a5db-43c0-817d-10cc64c6e60f",
+    "english": "tuxedo",
+    "spanish": "esmoquin",
+    "pronunciation": "/tʌkˈsiːdoʊ/"
+  },
+  {
+    "uuid": "fc6265dc-fada-4704-9099-2ea6dda59d00",
+    "english": "waistcoat",
+    "spanish": "chaleco",
+    "pronunciation": "/ˈweɪs(t)ˌkoʊt/"
+  },
+  {
+    "uuid": "9baf2121-66a8-4287-ba05-3a9ebec74bf2",
+    "english": "trench coat",
+    "spanish": "gabardina",
+    "pronunciation": "/trɛntʃ koʊt/"
+  },
+  {
+    "uuid": "2d1a092c-b738-4607-9873-17efcbf18af2",
+    "english": "anorak",
+    "spanish": "anorak",
+    "pronunciation": "/ˈænəræk/"
+  },
+  {
+    "uuid": "0c9174f5-2208-4354-820f-9cf3adf9fdf4",
+    "english": "parka",
+    "spanish": "parka",
+    "pronunciation": "/ˈpɑːrkə/"
+  },
+  {
+    "uuid": "9cd77960-0e46-427d-9d86-928fed66c852",
+    "english": "windbreaker",
+    "spanish": "cortavientos",
+    "pronunciation": "/ˈwɪndˌbreɪkər/"
+  },
+  {
+    "uuid": "ca5861b2-4211-46c4-b0e5-820efb5c10e1",
+    "english": "hoodie",
+    "spanish": "sudadera con capucha",
+    "pronunciation": "/ˈhʊdi/"
+  },
+  {
+    "uuid": "dfaa1ae5-3b49-40ce-9eff-32a6dff671f4",
+    "english": "tracksuit",
+    "spanish": "chándal",
+    "pronunciation": "/ˈtræksuːt/"
+  },
+  {
+    "uuid": "3d3fc2b8-e838-4053-b8a1-3c790f1aecb0",
+    "english": "jumpsuit",
+    "spanish": "mono",
+    "pronunciation": "/ˈdʒʌmpsuːt/"
+  },
+  {
+    "uuid": "27064728-7ea9-45a5-a544-f5a5654f2f40",
+    "english": "romper",
+    "spanish": "pelele",
+    "pronunciation": "/ˈrɒmpər/"
+  },
+  {
+    "uuid": "a05509c3-94d8-42a2-9166-c9831618a946",
+    "english": "onesie",
+    "spanish": "mameluco",
+    "pronunciation": "/ˈwʌnzi/"
+  },
+  {
+    "uuid": "b53f23dc-278f-4ea4-8d22-c586ef6322b6",
+    "english": "unitard",
+    "spanish": "unitard",
+    "pronunciation": "/ˈjuːnɪˌtɑːrd/"
+  },
+  {
+    "uuid": "44f0b555-b3ee-418c-950c-ca16bb502b90",
+    "english": "turtleneck",
+    "spanish": "cuello de tortuga",
+    "pronunciation": "/ˈtɜːrtəlˌnɛk/"
+  },
+  {
+    "uuid": "8b24ca34-464d-4cd7-8882-667038ba7d3d",
+    "english": "polo shirt",
+    "spanish": "camisa polo",
+    "pronunciation": "/ˈpoʊloʊ ʃɜːrt/"
+  },
+  {
+    "uuid": "68925b80-df1b-4a2a-9ec5-af887d830102",
+    "english": "henley",
+    "spanish": "henley",
+    "pronunciation": "/ˈhɛnli/"
+  },
+  {
+    "uuid": "5d353e36-6de4-40a5-95f0-874f5b7f3a68",
+    "english": "tank top",
+    "spanish": "camiseta sin mangas",
+    "pronunciation": "/tæŋk tɑːp/"
+  },
+  {
+    "uuid": "41fc160f-dccc-4198-9f1f-28efd9bbf3cf",
+    "english": "camisole",
+    "spanish": "camisola",
+    "pronunciation": "/ˈkæmɪˌsoʊl/"
+  },
+  {
+    "uuid": "6c4d9e40-43a7-48c7-9b1a-c3d1e7b784f0",
+    "english": "tube top",
+    "spanish": "top de tubo",
+    "pronunciation": "/tuːb tɑːp/"
+  },
+  {
+    "uuid": "0d5eae15-8967-4750-9662-ef591df6a220",
+    "english": "halter top",
+    "spanish": "top halter",
+    "pronunciation": "/ˈhɔːltər tɑːp/"
+  },
+  {
+    "uuid": "9a2f1f9c-84dd-4876-aea9-9da440969f8a",
+    "english": "crop top",
+    "spanish": "top corto",
+    "pronunciation": "/krɑːp tɑːp/"
+  },
+  {
+    "uuid": "93a65b4d-c697-437c-ba7f-54fd4e42e00c",
+    "english": "peacoat",
+    "spanish": "chaquetón",
+    "pronunciation": "/ˈpiːˌkoʊt/"
+  },
+  {
+    "uuid": "81af89e3-4030-4a33-9859-178f18836053",
+    "english": "bomber jacket",
+    "spanish": "chaqueta bomber",
+    "pronunciation": "/ˈbɑːmər ˌdʒækɪt/"
+  },
+  {
+    "uuid": "b00e5bf3-e136-404d-bc00-ed16d73459d9",
+    "english": "puffer jacket",
+    "spanish": "chaqueta acolchada",
+    "pronunciation": "/ˈpʌfər ˌdʒækɪt/"
+  },
+  {
+    "uuid": "386815cc-788a-4a63-900f-b60d79455ad0",
+    "english": "fleece",
+    "spanish": "forro polar",
+    "pronunciation": "/fliːs/"
+  },
+  {
+    "uuid": "2b215a55-0401-40ea-8b85-13eaee1ba1a3",
+    "english": "gilet",
+    "spanish": "chaleco",
+    "pronunciation": "/ʒɪˈleɪ/"
+  },
+  {
+    "uuid": "59a6c778-2e3d-49e8-91d6-1b87e944c6e4",
+    "english": "dungarees",
+    "spanish": "peto",
+    "pronunciation": "/ˌdʌŋɡəˈriːz/"
+  },
+  {
+    "uuid": "ba9a4f19-4a6c-46cb-a1d1-bc08d3dfabf7",
+    "english": "culottes",
+    "spanish": "culottes",
+    "pronunciation": "/kuːˈlɒts/"
+  },
+  {
+    "uuid": "6ca9b56c-ab6a-4c6f-a98c-2d00657eb5db",
+    "english": "chinos",
+    "spanish": "chinos",
+    "pronunciation": "/ˈʧiːnoʊz/"
+  },
+  {
+    "uuid": "19f60702-0e6b-41e3-bbb1-907823f61191",
+    "english": "cargo pants",
+    "spanish": "pantalones cargo",
+    "pronunciation": "/ˈkɑːrɡoʊ pænts/"
+  },
+  {
+    "uuid": "88dada18-a8e8-45b6-90bb-bbba941723d4",
+    "english": "khakis",
+    "spanish": "caquis",
+    "pronunciation": "/ˈkɑːkiz/"
+  },
+  {
+    "uuid": "edd47895-792b-4809-903a-dc0b563e69b0",
+    "english": "corduroys",
+    "spanish": "pana",
+    "pronunciation": "/ˈkɔːrdəˌrɔɪz/"
+  },
+  {
+    "uuid": "cc8188c0-9a81-4773-8308-86ceccb4dd3a",
+    "english": "sweatpants",
+    "spanish": "pantalones de chándal",
+    "pronunciation": "/ˈswɛtˌpænts/"
+  },
+  {
+    "uuid": "84a96eb1-6fbe-4d5d-83ec-fb93b9a2d541",
+    "english": "joggers",
+    "spanish": "joggers",
+    "pronunciation": "/ˈdʒɒɡərz/"
+  },
+  {
+    "uuid": "1f36f4ed-66a9-4dfe-908b-6bcb60ef1969",
+    "english": "overcoat",
+    "spanish": "sobretodo",
+    "pronunciation": "/ˈoʊvərˌkoʊt/"
+  },
+  {
+    "uuid": "17ef70c1-0f5d-4c71-aeea-dadbde42fdfc",
+    "english": "cloak",
+    "spanish": "capa",
+    "pronunciation": "/kloʊk/"
+  },
+  {
+    "uuid": "3e49a3ea-8ee4-4fec-a52f-bcf5cbe83a81",
+    "english": "cape",
+    "spanish": "capa",
+    "pronunciation": "/keɪp/"
+  },
+  {
+    "uuid": "442efd2f-9d57-429b-af08-33c8d061468c",
+    "english": "shawl",
+    "spanish": "chal",
+    "pronunciation": "/ʃɔːl/"
+  },
+  {
+    "uuid": "f9d7f0c9-d747-4a32-899d-1049431cbde0",
+    "english": "stole",
+    "spanish": "estola",
+    "pronunciation": "/stoʊl/"
+  },
+  {
+    "uuid": "f21098c2-43ee-43ca-a0b3-cc553ed166a2",
+    "english": "wrap",
+    "spanish": "chal",
+    "pronunciation": "/ræp/"
+  },
+  {
+    "uuid": "eaee9a5d-dc8c-4a5d-9378-a48534f026d2",
+    "english": "boa",
+    "spanish": "boa",
+    "pronunciation": "/ˈboʊə/"
+  },
+  {
+    "uuid": "5ea99698-cd87-4cb1-911c-f23a9e221026",
+    "english": "muffler",
+    "spanish": "bufanda",
+    "pronunciation": "/ˈmʌflər/"
+  },
+  {
+    "uuid": "c94b3de8-bbbf-4bb2-b4ce-264cbdff074a",
+    "english": "bandana",
+    "spanish": "bandana",
+    "pronunciation": "/bænˈdænə/"
+  },
+  {
+    "uuid": "9643f054-cf6c-42c8-8006-46fef0f55031",
+    "english": "headscarf",
+    "spanish": "pañuelo",
+    "pronunciation": "/ˈhɛdˌskɑːrf/"
+  },
+  {
+    "uuid": "c7b3624c-f91d-4f70-8502-dacd0d9cac1b",
+    "english": "turban",
+    "spanish": "turbante",
+    "pronunciation": "/ˈtɜːrbən/"
+  },
+  {
+    "uuid": "94f57e7c-17eb-4659-8c6e-f5bd223a4e46",
+    "english": "beret",
+    "spanish": "boina",
+    "pronunciation": "/bəˈreɪ/"
+  },
+  {
+    "uuid": "a798bb01-55b0-4be2-84bd-769ebaff2bfa",
+    "english": "visor",
+    "spanish": "visera",
+    "pronunciation": "/ˈvaɪzər/"
+  },
+  {
+    "uuid": "c1480a3d-12ad-4404-8b70-cb4d437b41c6",
+    "english": "fedora",
+    "spanish": "fedora",
+    "pronunciation": "/fəˈdɔːrə/"
+  },
+  {
+    "uuid": "b5de4912-b9a1-4c9d-bb9f-8fa6172c7b3c",
+    "english": "bowler hat",
+    "spanish": "bombín",
+    "pronunciation": "/ˈboʊlər hæt/"
+  },
+  {
+    "uuid": "5ef41bfa-db69-4087-a62b-4e5431624b1a",
+    "english": "top hat",
+    "spanish": "sombrero de copa",
+    "pronunciation": "/tɑːp hæt/"
+  },
+  {
+    "uuid": "b906aa32-27f1-477a-9013-64e33be8a3ce",
+    "english": "sunhat",
+    "spanish": "sombrero de sol",
+    "pronunciation": "/ˈsʌnˌhæt/"
+  },
+  {
+    "uuid": "16d3cf27-f7b2-4680-8be2-0c61cdefd4bf",
+    "english": "cowboy hat",
+    "spanish": "sombrero de vaquero",
+    "pronunciation": "/ˈkaʊˌbɔɪ hæt/"
+  },
+  {
+    "uuid": "6e2f3a2e-db91-488f-bcbf-ffac4c3b738a",
+    "english": "trilby",
+    "spanish": "trilby",
+    "pronunciation": "/ˈtrɪlbi/"
+  },
+  {
+    "uuid": "f390454b-3da0-455f-b7ae-b05eed31c3ad",
+    "english": "boater",
+    "spanish": "canotier",
+    "pronunciation": "/ˈboʊtər/"
+  },
+  {
+    "uuid": "d73b9ea0-8648-46ae-823a-ac94cdab288b",
+    "english": "cloche",
+    "spanish": "cloche",
+    "pronunciation": "/kloʊʃ/"
+  }
+]

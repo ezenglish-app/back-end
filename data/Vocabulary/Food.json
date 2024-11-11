@@ -1,0 +1,1454 @@
+[
+  {
+    "uuid": "d5e82e1a-eb20-4304-b374-4a666c3b9c48",
+    "english": "absinthe",
+    "spanish": "absenta",
+    "pronunciation": "/ˈæbsɪnθ/"
+  },
+  {
+    "uuid": "2f22f634-2da4-42bb-bfc7-b6264cb85889",
+    "english": "agar",
+    "spanish": "agar",
+    "pronunciation": "/ˈeɪɡɑr/"
+  },
+  {
+    "uuid": "73badeff-6f74-49d7-b9d1-933748335a51",
+    "english": "agua fresca",
+    "spanish": "agua fresca",
+    "pronunciation": "/ˈɑɡwə ˈfrɛskə/"
+  },
+  {
+    "uuid": "8ef7e58a-0b24-4203-ae08-c946c033f3d2",
+    "english": "allspice",
+    "spanish": "pimienta de Jamaica",
+    "pronunciation": "/ˈɔlˌspaɪs/"
+  },
+  {
+    "uuid": "ce366c83-7801-4c30-81b9-349bb0446edc",
+    "english": "almond milk",
+    "spanish": "leche de almendra",
+    "pronunciation": "/ˈɑːmənd mɪlk/"
+  },
+  {
+    "uuid": "0370b458-cff3-4d16-895b-30dec98d1bd7",
+    "english": "aloe vera",
+    "spanish": "aloe vera",
+    "pronunciation": "/ˈæloʊ ˈvɛrə/"
+  },
+  {
+    "uuid": "85e53cb3-d1fa-4eca-a0f1-d245bdc1fdcc",
+    "english": "amberjack",
+    "spanish": "medregal",
+    "pronunciation": "/ˈæmbərˌdʒæk/"
+  },
+  {
+    "uuid": "e6290c89-7d0d-48c7-9750-125bcb8abcec",
+    "english": "americano",
+    "spanish": "americano",
+    "pronunciation": "/əˌmɛrɪˈkɑːnoʊ/"
+  },
+  {
+    "uuid": "ad9ed905-157a-4165-9c2d-749bb14d3ca3",
+    "english": "anchovy",
+    "spanish": "anchoa",
+    "pronunciation": "/ˈænˌʧoʊvi/"
+  },
+  {
+    "uuid": "8e2616fe-d311-4f7f-8f06-0df71f600a2c",
+    "english": "anise",
+    "spanish": "anís",
+    "pronunciation": "/ˈænɪs/"
+  },
+  {
+    "uuid": "9382061e-8524-4eba-94f0-771f5207e1ff",
+    "english": "apple",
+    "spanish": "manzana",
+    "pronunciation": "/ˈæpəl/"
+  },
+  {
+    "uuid": "21e8a7cc-14c3-4064-a1dd-44af31763e5b",
+    "english": "apricot",
+    "spanish": "albaricoque",
+    "pronunciation": "/ˈæprɪˌkɑt/"
+  },
+  {
+    "uuid": "e0869d68-bed4-4b6c-a6b8-e18c798b4f7c",
+    "english": "armagnac",
+    "spanish": "armagnac",
+    "pronunciation": "/ˈɑrmənˌjæk/"
+  },
+  {
+    "uuid": "96a84670-f819-4ae7-b610-1835f8c67f23",
+    "english": "arrack",
+    "spanish": "arrack",
+    "pronunciation": "/ˈæræk/"
+  },
+  {
+    "uuid": "93beb5e2-7090-45c3-b2e9-b2f430fe598f",
+    "english": "avocado",
+    "spanish": "aguacate",
+    "pronunciation": "/ˌævəˈkɑdoʊ/"
+  },
+  {
+    "uuid": "8bb7796c-03b6-41ad-98ae-fdaca72ee3e7",
+    "english": "baijiu",
+    "spanish": "baijiu",
+    "pronunciation": "/ˈbaɪdʒu/"
+  },
+  {
+    "uuid": "1d4d84d7-bcf7-414d-becc-5033973d0daa",
+    "english": "banana",
+    "spanish": "plátano",
+    "pronunciation": "/bəˈnænə/"
+  },
+  {
+    "uuid": "120c925a-04da-405f-999a-a9c20e35ef82",
+    "english": "barracuda",
+    "spanish": "barracuda",
+    "pronunciation": "/ˌbærəˈkudə/"
+  },
+  {
+    "uuid": "f039c5cc-2a47-4f95-b190-a772f66b1365",
+    "english": "basil",
+    "spanish": "albahaca",
+    "pronunciation": "/ˈbæzəl/"
+  },
+  {
+    "uuid": "6906d465-5683-49ad-ba87-13d27c956d2d",
+    "english": "bass",
+    "spanish": "lubina",
+    "pronunciation": "/bæs/"
+  },
+  {
+    "uuid": "39458999-cd89-4500-9819-564a27ef0f0d",
+    "english": "bay leaf",
+    "spanish": "hoja de laurel",
+    "pronunciation": "/beɪ lif/"
+  },
+  {
+    "uuid": "c5320569-f371-4f02-b89d-de0161df7657",
+    "english": "beans",
+    "spanish": "frijoles",
+    "pronunciation": "/binz/"
+  },
+  {
+    "uuid": "167dd24c-bd9a-49b8-a99b-6be7268826f0",
+    "english": "beef",
+    "spanish": "carne de res",
+    "pronunciation": "/bif/"
+  },
+  {
+    "uuid": "96d1e043-b21f-4389-a7f3-7a72b92a317c",
+    "english": "beer",
+    "spanish": "cerveza",
+    "pronunciation": "/bɪr/"
+  },
+  {
+    "uuid": "bef7937c-6ea0-40f1-8b8a-f8e1d9f1ed50",
+    "english": "bell pepper",
+    "spanish": "pimiento",
+    "pronunciation": "/bɛl ˈpɛpər/"
+  },
+  {
+    "uuid": "78d2fc33-9e01-45a0-9cd1-a0701cba83a1",
+    "english": "black pepper",
+    "spanish": "pimienta negra",
+    "pronunciation": "/blæk ˈpɛpər/"
+  },
+  {
+    "uuid": "1a3cd8ab-28bf-4d3e-b435-ddc3045a0765",
+    "english": "black tea",
+    "spanish": "té negro",
+    "pronunciation": "/blæk ti/"
+  },
+  {
+    "uuid": "4a6e6905-62b1-4fa4-82c9-0c78a2642b0f",
+    "english": "bloody mary",
+    "spanish": "bloody mary",
+    "pronunciation": "/ˈblʌdi ˈmɛri/"
+  },
+  {
+    "uuid": "0da7b05c-5a98-4cbd-a35c-7cffea2d3811",
+    "english": "blueberry",
+    "spanish": "arándano",
+    "pronunciation": "/ˈbluˌbɛri/"
+  },
+  {
+    "uuid": "2a4ba24d-45cc-4d52-9b60-1dd92aa9b596",
+    "english": "bourbon",
+    "spanish": "bourbon",
+    "pronunciation": "/ˈbɜrbən/"
+  },
+  {
+    "uuid": "ba14ee63-ab23-4681-8b28-d8ca3b39ca37",
+    "english": "brandy",
+    "spanish": "brandy",
+    "pronunciation": "/ˈbrændi/"
+  },
+  {
+    "uuid": "b1064981-0c2d-4500-acbe-9dfce597bf90",
+    "english": "bread",
+    "spanish": "pan",
+    "pronunciation": "/brɛd/"
+  },
+  {
+    "uuid": "6b0192d7-612c-476d-98a3-1c205dc9a7c9",
+    "english": "broccoli",
+    "spanish": "brócoli",
+    "pronunciation": "/ˈbrɑkəli/"
+  },
+  {
+    "uuid": "3e93c313-775d-4e93-aec4-bbdc94021b1f",
+    "english": "butter",
+    "spanish": "mantequilla",
+    "pronunciation": "/ˈbʌtər/"
+  },
+  {
+    "uuid": "a7d5012d-e6b9-4b3a-9e2f-a04f045c2127",
+    "english": "buttermilk",
+    "spanish": "suero de leche",
+    "pronunciation": "/ˈbʌtərˌmɪlk/"
+  },
+  {
+    "uuid": "96f70919-50aa-4641-b207-988b5e7b984d",
+    "english": "cachaca",
+    "spanish": "cachaza",
+    "pronunciation": "/kəˈʃɑːsə/"
+  },
+  {
+    "uuid": "8335339d-ab71-4bc9-909e-5bb18f535d6d",
+    "english": "calvados",
+    "spanish": "calvados",
+    "pronunciation": "/ˈkælvəˌdoʊs/"
+  },
+  {
+    "uuid": "e3749a7c-b8da-45e5-8467-22d72b484a4d",
+    "english": "cappuccino",
+    "spanish": "capuchino",
+    "pronunciation": "/ˌkæpʊˈʧiːnoʊ/"
+  },
+  {
+    "uuid": "8e4b99c6-a03e-4ea4-876e-33528277ae3d",
+    "english": "caraway",
+    "spanish": "alcaravea",
+    "pronunciation": "/ˈkærəˌweɪ/"
+  },
+  {
+    "uuid": "34009c3f-72ed-4a49-a94c-64f37e7d758f",
+    "english": "cardamom",
+    "spanish": "cardamomo",
+    "pronunciation": "/ˈkɑrdəməm/"
+  },
+  {
+    "uuid": "3203b7a0-4062-4426-a6d4-d42bb435afb1",
+    "english": "carrot",
+    "spanish": "zanahoria",
+    "pronunciation": "/ˈkærət/"
+  },
+  {
+    "uuid": "f1dd7f15-1412-4463-a4c5-caa8eb114642",
+    "english": "cashew milk",
+    "spanish": "leche de anacardo",
+    "pronunciation": "/ˈkæʃuː mɪlk/"
+  },
+  {
+    "uuid": "74ec9e97-f509-457d-a8cf-4797fcb1caf7",
+    "english": "catfish",
+    "spanish": "bagre",
+    "pronunciation": "/ˈkætˌfɪʃ/"
+  },
+  {
+    "uuid": "e2a529cc-aa25-425a-a793-0081affa7ef6",
+    "english": "cauliflower",
+    "spanish": "coliflor",
+    "pronunciation": "/ˈkɔliˌflaʊər/"
+  },
+  {
+    "uuid": "91479917-eab1-4446-b774-f394948e3228",
+    "english": "caviar",
+    "spanish": "caviar",
+    "pronunciation": "/ˈkæviˌɑr/"
+  },
+  {
+    "uuid": "04b7ad67-dadb-4dee-b405-2206d8627bf2",
+    "english": "cayenne",
+    "spanish": "cayena",
+    "pronunciation": "/kaɪˈɛn/"
+  },
+  {
+    "uuid": "6aba9aa9-a9c9-4a82-9399-9b2bec0d1ce7",
+    "english": "chai",
+    "spanish": "chai",
+    "pronunciation": "/ʧaɪ/"
+  },
+  {
+    "uuid": "495054a4-cfc2-4804-9267-519fc0d94801",
+    "english": "champagne",
+    "spanish": "champán",
+    "pronunciation": "/ʃæmˈpeɪn/"
+  },
+  {
+    "uuid": "9aa4aabd-0fda-46d7-82e6-e47dc8974a46",
+    "english": "cheese",
+    "spanish": "queso",
+    "pronunciation": "/ʧiz/"
+  },
+  {
+    "uuid": "8dfec6ec-bcb7-4be7-86f5-154aa4e7853d",
+    "english": "cherry",
+    "spanish": "cereza",
+    "pronunciation": "/ˈʧɛri/"
+  },
+  {
+    "uuid": "d1fe43c9-508e-41f8-acfc-323d0a08ad09",
+    "english": "chicken",
+    "spanish": "pollo",
+    "pronunciation": "/ˈʧɪkən/"
+  },
+  {
+    "uuid": "1dd19643-fd2f-46f0-bd7b-e7ed0e1d5d51",
+    "english": "chickpeas",
+    "spanish": "garbanzos",
+    "pronunciation": "/ˈʧɪkˌpiz/"
+  },
+  {
+    "uuid": "b771f4ff-e1ad-44c3-a87f-94fb5ba9273a",
+    "english": "chili pepper",
+    "spanish": "chile",
+    "pronunciation": "/ˈʧɪli ˈpɛpər/"
+  },
+  {
+    "uuid": "b44dde13-18c6-4619-b5d5-88c3c5e3f7f3",
+    "english": "chives",
+    "spanish": "cebollino",
+    "pronunciation": "/ʧaɪvz/"
+  },
+  {
+    "uuid": "aa70998e-1e05-416c-9b84-34361f8e6776",
+    "english": "chlorella",
+    "spanish": "clorela",
+    "pronunciation": "/kləˈrɛlə/"
+  },
+  {
+    "uuid": "677573ff-fe6b-4491-8854-6cda914a53e2",
+    "english": "cider",
+    "spanish": "sidra",
+    "pronunciation": "/ˈsaɪdər/"
+  },
+  {
+    "uuid": "a1047585-c7f8-44f5-8826-a227f2ce84ce",
+    "english": "cilantro",
+    "spanish": "cilantro",
+    "pronunciation": "/sɪˈlæntroʊ/"
+  },
+  {
+    "uuid": "008cde1d-66da-4918-b32c-a665ba4f919c",
+    "english": "cinnamon",
+    "spanish": "canela",
+    "pronunciation": "/ˈsɪnəmən/"
+  },
+  {
+    "uuid": "1ab6947e-a215-490b-a1f2-2705324a2787",
+    "english": "clam",
+    "spanish": "almeja",
+    "pronunciation": "/klæm/"
+  },
+  {
+    "uuid": "1331edb0-9136-4ce2-8422-a23041762406",
+    "english": "clove",
+    "spanish": "clavo",
+    "pronunciation": "/kloʊv/"
+  },
+  {
+    "uuid": "74c7bd0c-1fd6-4b0d-9915-294efa06efc5",
+    "english": "coconut",
+    "spanish": "coco",
+    "pronunciation": "/ˈkoʊkəˌnʌt/"
+  },
+  {
+    "uuid": "715a64f3-09f2-437b-99fb-415d2f1f84e7",
+    "english": "coconut water",
+    "spanish": "agua de coco",
+    "pronunciation": "/ˈkoʊkəˌnʌt ˈwɔtər/"
+  },
+  {
+    "uuid": "c90241c5-b007-4ba3-83e4-03727e8d39fc",
+    "english": "cod",
+    "spanish": "bacalao",
+    "pronunciation": "/kɑd/"
+  },
+  {
+    "uuid": "a0c4b034-9104-4606-a34a-d3c65d187adc",
+    "english": "coffee",
+    "spanish": "café",
+    "pronunciation": "/ˈkɔfi/"
+  },
+  {
+    "uuid": "cc1dd67d-3d2e-4d97-af1c-b80c6310fb9e",
+    "english": "cognac",
+    "spanish": "coñac",
+    "pronunciation": "/ˈkoʊnjæk/"
+  },
+  {
+    "uuid": "293c414d-fc9e-4508-9904-0905ae504db0",
+    "english": "coriander",
+    "spanish": "cilantro",
+    "pronunciation": "/ˈkɔriˌændər/"
+  },
+  {
+    "uuid": "0c220020-1c96-4bdc-9572-0409ebb2cc11",
+    "english": "corn",
+    "spanish": "maíz",
+    "pronunciation": "/kɔrn/"
+  },
+  {
+    "uuid": "40fe7062-50b0-47ae-9d05-ad297f06175a",
+    "english": "cosmopolitan",
+    "spanish": "cosmopolitan",
+    "pronunciation": "/ˌkɑzməˈpɑlɪtən/"
+  },
+  {
+    "uuid": "64ffac04-891d-41b9-bd94-841f33b3b28f",
+    "english": "crab",
+    "spanish": "cangrejo",
+    "pronunciation": "/kræb/"
+  },
+  {
+    "uuid": "7dda073b-01f9-41fb-ae7b-7dc8cacd4775",
+    "english": "cream",
+    "spanish": "crema",
+    "pronunciation": "/krim/"
+  },
+  {
+    "uuid": "5efd9672-283c-46d6-9736-7dea9588a31d",
+    "english": "cucumber",
+    "spanish": "pepino",
+    "pronunciation": "/ˈkjukʌmbər/"
+  },
+  {
+    "uuid": "eb3e654b-932e-48c6-8e66-a5d3e74e80ab",
+    "english": "cumin",
+    "spanish": "comino",
+    "pronunciation": "/ˈkjumɪn/"
+  },
+  {
+    "uuid": "ebee17c2-3662-4ab6-9334-77783231f2d5",
+    "english": "daiquiri",
+    "spanish": "daiquiri",
+    "pronunciation": "/ˈdækəri/"
+  },
+  {
+    "uuid": "e4870ba2-3cd5-433f-86aa-4a9b0a983253",
+    "english": "dill",
+    "spanish": "eneldo",
+    "pronunciation": "/dɪl/"
+  },
+  {
+    "uuid": "ba877274-d534-42a2-b170-f5d483e61960",
+    "english": "dulse",
+    "spanish": "dulse",
+    "pronunciation": "/dʌls/"
+  },
+  {
+    "uuid": "97205239-97c5-4071-a57c-0ff8b2991c9b",
+    "english": "eel",
+    "spanish": "anguila",
+    "pronunciation": "/il/"
+  },
+  {
+    "uuid": "6584dc19-8698-425e-97b1-0593abd3c819",
+    "english": "egg",
+    "spanish": "huevo",
+    "pronunciation": "/ɛɡ/"
+  },
+  {
+    "uuid": "f6a1d568-2295-47f7-9c1d-53ab0a24106a",
+    "english": "egg nog",
+    "spanish": "rompope",
+    "pronunciation": "/ɛɡ nɔɡ/"
+  },
+  {
+    "uuid": "d3db9ffd-3552-4497-b094-0d12040d2a7c",
+    "english": "eggplant",
+    "spanish": "berenjena",
+    "pronunciation": "/ˈɛɡˌplænt/"
+  },
+  {
+    "uuid": "182cc4b9-2543-421c-a6a8-868b77ffe89d",
+    "english": "energy drink",
+    "spanish": "bebida energética",
+    "pronunciation": "/ˈɛnərdʒi drɪŋk/"
+  },
+  {
+    "uuid": "521b9c61-3da5-4cee-8f2d-5d974bddb2c9",
+    "english": "espresso",
+    "spanish": "espresso",
+    "pronunciation": "/ɛˈsprɛsoʊ/"
+  },
+  {
+    "uuid": "a3ded8dc-69ba-40c6-a239-2e448d2c5f27",
+    "english": "fennel",
+    "spanish": "hinojo",
+    "pronunciation": "/ˈfɛnəl/"
+  },
+  {
+    "uuid": "62921d42-87e0-43a9-a0a4-e498a3be1eb1",
+    "english": "fennel seed",
+    "spanish": "semilla de hinojo",
+    "pronunciation": "/ˈfɛnəl sid/"
+  },
+  {
+    "uuid": "e4e1e311-cd71-4b7e-b616-113cb0addf0d",
+    "english": "fenugreek",
+    "spanish": "fenogreco",
+    "pronunciation": "/ˈfɛnəˌɡrik/"
+  },
+  {
+    "uuid": "86585ec2-00fe-4736-b6c9-9f8347996245",
+    "english": "fish",
+    "spanish": "pescado",
+    "pronunciation": "/fɪʃ/"
+  },
+  {
+    "uuid": "0c5c537e-e049-43b5-89ec-b32037787d33",
+    "english": "flax milk",
+    "spanish": "leche de linaza",
+    "pronunciation": "/flæks mɪlk/"
+  },
+  {
+    "uuid": "cdfa9ec4-1054-40a7-bf12-38efff95f3f7",
+    "english": "flounder",
+    "spanish": "platija",
+    "pronunciation": "/ˈflaʊndər/"
+  },
+  {
+    "uuid": "cdcff807-3eec-42eb-b753-b52bdfd4d822",
+    "english": "frappuccino",
+    "spanish": "frappuccino",
+    "pronunciation": "/ˌfræpʊˈʧiːnoʊ/"
+  },
+  {
+    "uuid": "69268fea-5430-45e9-82c2-f08ff9177800",
+    "english": "galangal",
+    "spanish": "galanga",
+    "pronunciation": "/ɡəˈlæŋɡəl/"
+  },
+  {
+    "uuid": "b154d165-26b6-400e-a0f8-bfc8081a6927",
+    "english": "garlic",
+    "spanish": "ajo",
+    "pronunciation": "/ˈɡɑrlɪk/"
+  },
+  {
+    "uuid": "f9f4e269-c604-4984-8bf2-d3295129f5a2",
+    "english": "gin",
+    "spanish": "ginebra",
+    "pronunciation": "/dʒɪn/"
+  },
+  {
+    "uuid": "0ac84596-e800-4e3f-97a5-b95948eaf212",
+    "english": "ginger",
+    "spanish": "jengibre",
+    "pronunciation": "/ˈdʒɪndʒər/"
+  },
+  {
+    "uuid": "4825482d-221f-4443-b3c3-b16f3be8431e",
+    "english": "grape",
+    "spanish": "uva",
+    "pronunciation": "/ɡreɪp/"
+  },
+  {
+    "uuid": "5d3fe9a9-9af5-416e-89a4-19f7afd5411b",
+    "english": "grapefruit",
+    "spanish": "pomelo",
+    "pronunciation": "/ˈɡreɪpˌfrut/"
+  },
+  {
+    "uuid": "c119bf7e-8389-484a-8872-a57590a556eb",
+    "english": "grappa",
+    "spanish": "grappa",
+    "pronunciation": "/ˈɡræpə/"
+  },
+  {
+    "uuid": "b974d223-72f2-4942-b44c-6a83ab447ca9",
+    "english": "green peppercorn",
+    "spanish": "pimienta verde",
+    "pronunciation": "/ɡrin ˈpɛpərˌkɔrn/"
+  },
+  {
+    "uuid": "29e007bd-a56b-40c8-a9e8-4944ce27c46e",
+    "english": "green tea",
+    "spanish": "té verde",
+    "pronunciation": "/ɡrin ti/"
+  },
+  {
+    "uuid": "07378010-0586-4c9c-8945-85957f470f82",
+    "english": "grouper",
+    "spanish": "mero",
+    "pronunciation": "/ˈɡruːpər/"
+  },
+  {
+    "uuid": "7cabad04-d5c5-4b60-900c-533b8620b732",
+    "english": "habanero",
+    "spanish": "habanero",
+    "pronunciation": "/ˌhɑbəˈnɛroʊ/"
+  },
+  {
+    "uuid": "5dcdc691-6119-4ab3-9bc3-822536f2856f",
+    "english": "haddock",
+    "spanish": "eglefino",
+    "pronunciation": "/ˈhædək/"
+  },
+  {
+    "uuid": "dfa346a8-1528-4fef-9fa4-f9865902bf58",
+    "english": "halibut",
+    "spanish": "fletán",
+    "pronunciation": "/ˈhælɪbət/"
+  },
+  {
+    "uuid": "f5b9dcad-e70a-4410-bfe1-6bae05d90298",
+    "english": "hazelnut milk",
+    "spanish": "leche de avellana",
+    "pronunciation": "/ˈheɪzəlˌnʌt mɪlk/"
+  },
+  {
+    "uuid": "573be463-8f38-4ba0-a9f2-ff872a4cd1d7",
+    "english": "hemp milk",
+    "spanish": "leche de cáñamo",
+    "pronunciation": "/hɛmp mɪlk/"
+  },
+  {
+    "uuid": "0e461bf6-c95e-485c-99da-0076cbd81575",
+    "english": "herbal tea",
+    "spanish": "té de hierbas",
+    "pronunciation": "/ˈɜrbəl ti/"
+  },
+  {
+    "uuid": "5b6cd957-1508-4d66-a461-98fa7d112628",
+    "english": "herring",
+    "spanish": "arenque",
+    "pronunciation": "/ˈhɛrɪŋ/"
+  },
+  {
+    "uuid": "252f7bde-b4ca-4b14-8763-786ef466f99b",
+    "english": "horchata",
+    "spanish": "horchata",
+    "pronunciation": "/ɔrˈʧɑtə/"
+  },
+  {
+    "uuid": "4d002f48-9fcd-4871-b4d5-cf8dc8b24ac4",
+    "english": "hot chocolate",
+    "spanish": "chocolate caliente",
+    "pronunciation": "/hɑt ˈʧɑklət/"
+  },
+  {
+    "uuid": "c3416928-b187-4da3-a3d0-a4ba0c03bfa7",
+    "english": "hot toddy",
+    "spanish": "hot toddy",
+    "pronunciation": "/hɑt ˈtɑdi/"
+  },
+  {
+    "uuid": "56108215-80dd-4a4d-aece-6f41b88685ff",
+    "english": "ice cream",
+    "spanish": "helado",
+    "pronunciation": "/aɪs krim/"
+  },
+  {
+    "uuid": "3fa36580-702f-4c44-9d71-ba2d32db582e",
+    "english": "iced tea",
+    "spanish": "té helado",
+    "pronunciation": "/aɪst ti/"
+  },
+  {
+    "uuid": "d436ebbe-5c2c-4885-8f57-b0b645f069c3",
+    "english": "jalapeño",
+    "spanish": "jalapeño",
+    "pronunciation": "/ˌhɑləˈpeɪnjoʊ/"
+  },
+  {
+    "uuid": "3703a2b5-393a-4695-9482-2c176815ec5f",
+    "english": "juice",
+    "spanish": "jugo",
+    "pronunciation": "/dʒus/"
+  },
+  {
+    "uuid": "4947ac63-9953-451b-b727-3a96a05560c7",
+    "english": "kaffir lime leaves",
+    "spanish": "hojas de lima kaffir",
+    "pronunciation": "/ˈkæfər laɪm livz/"
+  },
+  {
+    "uuid": "42c8f6d5-55d7-46fd-b9f8-89262336c6d2",
+    "english": "kefir",
+    "spanish": "kéfir",
+    "pronunciation": "/ˈkɛfɪr/"
+  },
+  {
+    "uuid": "02ffe7b2-272c-4096-8ab2-817165ad548a",
+    "english": "kelp",
+    "spanish": "quelpo",
+    "pronunciation": "/kɛlp/"
+  },
+  {
+    "uuid": "46027b53-3d57-4a52-80d6-2d8dc3594869",
+    "english": "kiwi",
+    "spanish": "kiwi",
+    "pronunciation": "/ˈkiˌwi/"
+  },
+  {
+    "uuid": "fbd6d0fb-a2e7-4660-9730-9e23689bccd3",
+    "english": "kombu",
+    "spanish": "kombu",
+    "pronunciation": "/ˈkɑmbu/"
+  },
+  {
+    "uuid": "cf0f456d-188a-42f3-857f-99ee1344d977",
+    "english": "kombucha",
+    "spanish": "kombucha",
+    "pronunciation": "/kəmˈbuːʧə/"
+  },
+  {
+    "uuid": "2f5af59d-1ffe-4ec1-a6ca-fe4fce620fc8",
+    "english": "lamb",
+    "spanish": "cordero",
+    "pronunciation": "/læm/"
+  },
+  {
+    "uuid": "d7911793-65ce-4997-9889-f9519ab2c7e7",
+    "english": "latte",
+    "spanish": "latte",
+    "pronunciation": "/ˈlɑːteɪ/"
+  },
+  {
+    "uuid": "5b53fad5-e153-4d7a-ad63-7c84d300dd05",
+    "english": "lavender",
+    "spanish": "lavanda",
+    "pronunciation": "/ˈlævəndər/"
+  },
+  {
+    "uuid": "eb6859f7-5d4a-449c-83ac-f8afd637a461",
+    "english": "leek",
+    "spanish": "puerro",
+    "pronunciation": "/lik/"
+  },
+  {
+    "uuid": "d7c5bc7f-cd1c-4707-af26-5d29ca526d5a",
+    "english": "lemon",
+    "spanish": "limón",
+    "pronunciation": "/ˈlɛmən/"
+  },
+  {
+    "uuid": "722d81a0-b8be-4bf7-8de0-393e61e5e90c",
+    "english": "lemonade",
+    "spanish": "limonada",
+    "pronunciation": "/ˌlɛmənˈeɪd/"
+  },
+  {
+    "uuid": "fe487de2-d1dc-4a18-a3b7-5d743a363c98",
+    "english": "lemongrass",
+    "spanish": "hierba de limón",
+    "pronunciation": "/ˈlɛmənˌɡræs/"
+  },
+  {
+    "uuid": "5508225b-d090-44a4-91c7-5c5615fd4619",
+    "english": "lentils",
+    "spanish": "lentejas",
+    "pronunciation": "/ˈlɛntəlz/"
+  },
+  {
+    "uuid": "58b848f2-33d6-4af6-83ff-91b0a4b0cc23",
+    "english": "lettuce",
+    "spanish": "lechuga",
+    "pronunciation": "/ˈlɛtəs/"
+  },
+  {
+    "uuid": "b232dc2f-e1cc-444b-8bd3-c460f5d2c5c5",
+    "english": "lime",
+    "spanish": "lima",
+    "pronunciation": "/laɪm/"
+  },
+  {
+    "uuid": "533f77d5-147d-408b-a283-860ebdd50843",
+    "english": "lobster",
+    "spanish": "langosta",
+    "pronunciation": "/ˈlɑbstər/"
+  },
+  {
+    "uuid": "d6d202d2-da3c-452d-9744-110be26b6d93",
+    "english": "macchiato",
+    "spanish": "macchiato",
+    "pronunciation": "/ˌmɑːkiˈɑːtoʊ/"
+  },
+  {
+    "uuid": "d4acd275-e813-4690-a4e0-bcf93fa0753e",
+    "english": "mace",
+    "spanish": "macis",
+    "pronunciation": "/meɪs/"
+  },
+  {
+    "uuid": "1dcc4bfb-b75d-4399-b5b0-c8ec733360be",
+    "english": "mackerel",
+    "spanish": "caballa",
+    "pronunciation": "/ˈmækərəl/"
+  },
+  {
+    "uuid": "5cb0d56e-fc8e-4029-8588-3d17cc3f1d0b",
+    "english": "mahi-mahi",
+    "spanish": "dorado",
+    "pronunciation": "/ˈmɑˌhiˈmɑˌhi/"
+  },
+  {
+    "uuid": "6bbcf570-3f6f-4e9d-8a49-f4dee399beb9",
+    "english": "mango",
+    "spanish": "mango",
+    "pronunciation": "/ˈmæŋɡoʊ/"
+  },
+  {
+    "uuid": "da916d62-809d-47a6-9134-94087fdff1dc",
+    "english": "manhattan",
+    "spanish": "manhattan",
+    "pronunciation": "/mænˈhætən/"
+  },
+  {
+    "uuid": "036e1d8e-8dd8-454c-a8c3-1082ad40abd8",
+    "english": "margarita",
+    "spanish": "margarita",
+    "pronunciation": "/ˌmɑrɡəˈritə/"
+  },
+  {
+    "uuid": "9d03c567-2121-4a02-ab59-8c2a725d666b",
+    "english": "marjoram",
+    "spanish": "mejorana",
+    "pronunciation": "/ˈmɑrdʒərəm/"
+  },
+  {
+    "uuid": "9b39a942-7d08-4368-95fa-3d8d47697758",
+    "english": "marlin",
+    "spanish": "marlín",
+    "pronunciation": "/ˈmɑrlɪn/"
+  },
+  {
+    "uuid": "5ec7554c-e6f8-4538-83d7-222c8bd834fa",
+    "english": "martini",
+    "spanish": "martini",
+    "pronunciation": "/mɑrˈtini/"
+  },
+  {
+    "uuid": "e22a3fbe-107a-4802-a9bc-8ab098bad986",
+    "english": "matcha",
+    "spanish": "matcha",
+    "pronunciation": "/ˈmɑʧə/"
+  },
+  {
+    "uuid": "4dab2379-6762-4ebc-be3e-68c2efbc4079",
+    "english": "mead",
+    "spanish": "hidromiel",
+    "pronunciation": "/mid/"
+  },
+  {
+    "uuid": "6c156067-268a-4c4f-a87a-2e8ff8698477",
+    "english": "melon",
+    "spanish": "melón",
+    "pronunciation": "/ˈmɛlən/"
+  },
+  {
+    "uuid": "75240a5c-97bd-46df-a690-de2103733daf",
+    "english": "mezcal",
+    "spanish": "mezcal",
+    "pronunciation": "/mɛsˈkɑːl/"
+  },
+  {
+    "uuid": "11c64978-76c3-4995-94e6-ebe7ce118a11",
+    "english": "milk",
+    "spanish": "leche",
+    "pronunciation": "/mɪlk/"
+  },
+  {
+    "uuid": "a5a0f808-e828-4a73-be1c-a77a55da6727",
+    "english": "milkshake",
+    "spanish": "batido de leche",
+    "pronunciation": "/ˈmɪlkˌʃeɪk/"
+  },
+  {
+    "uuid": "f1426069-d737-4e55-afcf-82ddd8f81a24",
+    "english": "mint",
+    "spanish": "menta",
+    "pronunciation": "/mɪnt/"
+  },
+  {
+    "uuid": "6af6cac1-2982-4024-b3c0-909cd0102d6c",
+    "english": "mint julep",
+    "spanish": "mint julep",
+    "pronunciation": "/mɪnt ˈdʒuləp/"
+  },
+  {
+    "uuid": "a57c7003-ae03-434c-8231-0b2d2f9234ea",
+    "english": "mocha",
+    "spanish": "moca",
+    "pronunciation": "/ˈmoʊkə/"
+  },
+  {
+    "uuid": "aed256e9-9fb0-4e53-a109-a84d0ef134ea",
+    "english": "mojito",
+    "spanish": "mojito",
+    "pronunciation": "/moʊˈhiːtoʊ/"
+  },
+  {
+    "uuid": "7440cbe1-3a89-4138-84bf-95676cdf99f4",
+    "english": "mulled wine",
+    "spanish": "vino caliente",
+    "pronunciation": "/mʌld waɪn/"
+  },
+  {
+    "uuid": "3836a022-4f90-41cc-805c-d5be929bc8de",
+    "english": "mussel",
+    "spanish": "mejillón",
+    "pronunciation": "/ˈmʌsəl/"
+  },
+  {
+    "uuid": "a6953e90-f176-49b4-98cf-2d8e8dbd35c2",
+    "english": "mustard seed",
+    "spanish": "semilla de mostaza",
+    "pronunciation": "/ˈmʌstərd sid/"
+  },
+  {
+    "uuid": "a2e2b053-94e8-4155-9b50-b11c384bb4a5",
+    "english": "negroni",
+    "spanish": "negroni",
+    "pronunciation": "/nɪˈɡroʊni/"
+  },
+  {
+    "uuid": "e9398e6c-e77d-4774-8f60-7d7006347c33",
+    "english": "nori",
+    "spanish": "nori",
+    "pronunciation": "/ˈnɔri/"
+  },
+  {
+    "uuid": "658996d3-208f-439e-9660-2c75b02b2e7a",
+    "english": "nutmeg",
+    "spanish": "nuez moscada",
+    "pronunciation": "/ˈnʌtˌmɛɡ/"
+  },
+  {
+    "uuid": "c18d2def-0828-4a79-a8f9-3a40cf8cec9a",
+    "english": "oat milk",
+    "spanish": "leche de avena",
+    "pronunciation": "/oʊt mɪlk/"
+  },
+  {
+    "uuid": "5b417c00-18ab-4c38-af5b-65bfbf605554",
+    "english": "octopus",
+    "spanish": "pulpo",
+    "pronunciation": "/ˈɑktəˌpʊs/"
+  },
+  {
+    "uuid": "15851b44-62a6-4630-81fb-b3a7d4b5c98c",
+    "english": "old fashioned",
+    "spanish": "old fashioned",
+    "pronunciation": "/oʊld ˈfæʃənd/"
+  },
+  {
+    "uuid": "0b98748c-9e1a-422d-9e9c-071e8b13ccdc",
+    "english": "onion",
+    "spanish": "cebolla",
+    "pronunciation": "/ˈʌnjən/"
+  },
+  {
+    "uuid": "7a81bbf7-94ae-41dd-be46-44892a041e80",
+    "english": "orange",
+    "spanish": "naranja",
+    "pronunciation": "/ˈɔrɪndʒ/"
+  },
+  {
+    "uuid": "a2adc74f-1d3d-429a-a53f-d03bf5719080",
+    "english": "oregano",
+    "spanish": "orégano",
+    "pronunciation": "/əˈrɛɡəˌnoʊ/"
+  },
+  {
+    "uuid": "b7b02a94-50de-47e1-aae5-25151d3027ad",
+    "english": "ouzo",
+    "spanish": "ouzo",
+    "pronunciation": "/ˈuːzoʊ/"
+  },
+  {
+    "uuid": "a714ec2c-c1e8-4131-a172-737fcecdbdd6",
+    "english": "oyster",
+    "spanish": "ostra",
+    "pronunciation": "/ˈɔɪstər/"
+  },
+  {
+    "uuid": "04e08d21-656d-438c-95b8-a0b33d8113c7",
+    "english": "paprika",
+    "spanish": "pimentón",
+    "pronunciation": "/ˈpæprɪkə/"
+  },
+  {
+    "uuid": "184f7a4b-6b26-46cf-8d5b-2e379995931d",
+    "english": "parsley",
+    "spanish": "perejil",
+    "pronunciation": "/ˈpɑrsli/"
+  },
+  {
+    "uuid": "9fa4d0e6-a0ab-48cd-807e-d1576d50fa79",
+    "english": "pasta",
+    "spanish": "pasta",
+    "pronunciation": "/ˈpɑstə/"
+  },
+  {
+    "uuid": "c638d895-c9d7-4f5d-ac3c-630cef02c7c5",
+    "english": "peach",
+    "spanish": "durazno",
+    "pronunciation": "/pitʃ/"
+  },
+  {
+    "uuid": "d50aa47f-3f1e-4e82-b20c-640a601de0d5",
+    "english": "peanut milk",
+    "spanish": "leche de maní",
+    "pronunciation": "/ˈpiːnʌt mɪlk/"
+  },
+  {
+    "uuid": "a0de1fb3-c7be-43e1-a14b-ab27d8054825",
+    "english": "pear",
+    "spanish": "pera",
+    "pronunciation": "/pɛr/"
+  },
+  {
+    "uuid": "00f69374-59c1-4b61-932d-1ba72f1970a0",
+    "english": "peas",
+    "spanish": "guisantes",
+    "pronunciation": "/piz/"
+  },
+  {
+    "uuid": "ab444104-3461-4800-859b-c5be96bd6639",
+    "english": "pepper",
+    "spanish": "pimiento",
+    "pronunciation": "/ˈpɛpər/"
+  },
+  {
+    "uuid": "fd7710ca-3e4d-444c-8bbb-c2b152b9d95b",
+    "english": "pineapple",
+    "spanish": "piña",
+    "pronunciation": "/ˈpaɪˌnæpəl/"
+  },
+  {
+    "uuid": "bfc728f5-fc66-47c0-a82c-8ee2710ad7ea",
+    "english": "pink peppercorn",
+    "spanish": "pimienta rosa",
+    "pronunciation": "/pɪŋk ˈpɛpərˌkɔrn/"
+  },
+  {
+    "uuid": "ea7287a8-f23c-4b70-ab40-804e82ca7cef",
+    "english": "pisco",
+    "spanish": "pisco",
+    "pronunciation": "/ˈpɪskoʊ/"
+  },
+  {
+    "uuid": "fe994e07-a9cc-458a-a1f9-ad8952f556c7",
+    "english": "pistachio milk",
+    "spanish": "leche de pistacho",
+    "pronunciation": "/pɪˈstæʃioʊ mɪlk/"
+  },
+  {
+    "uuid": "97d6e60e-c89c-4a78-b6c1-119314641187",
+    "english": "piña colada",
+    "spanish": "piña colada",
+    "pronunciation": "/ˈpiːnjə koʊˈlɑːdə/"
+  },
+  {
+    "uuid": "9145de5d-007a-457f-975c-a4c6b6848386",
+    "english": "plum",
+    "spanish": "ciruela",
+    "pronunciation": "/plʌm/"
+  },
+  {
+    "uuid": "a968f73d-79c1-4e29-8fe8-1e9f2bc18bc6",
+    "english": "poblano",
+    "spanish": "poblano",
+    "pronunciation": "/poʊˈblɑnoʊ/"
+  },
+  {
+    "uuid": "c0662472-ffee-4f9b-a0d5-fd83a3aa9f91",
+    "english": "pork",
+    "spanish": "cerdo",
+    "pronunciation": "/pɔrk/"
+  },
+  {
+    "uuid": "ae4e5e20-afe6-4f61-b50d-1b3a2081b881",
+    "english": "port",
+    "spanish": "oporto",
+    "pronunciation": "/pɔrt/"
+  },
+  {
+    "uuid": "f10efadd-dae2-4eaf-80ea-07592a2c295a",
+    "english": "potato",
+    "spanish": "patata",
+    "pronunciation": "/pəˈteɪtoʊ/"
+  },
+  {
+    "uuid": "e9e240db-4218-4c05-a9a7-fa869220d008",
+    "english": "protein shake",
+    "spanish": "batido de proteínas",
+    "pronunciation": "/ˈproʊtiːn ʃeɪk/"
+  },
+  {
+    "uuid": "f0f2936c-152a-4b61-a23b-7c296fbb8f18",
+    "english": "pumpkin",
+    "spanish": "calabaza",
+    "pronunciation": "/ˈpʌmpkɪn/"
+  },
+  {
+    "uuid": "7bd239af-c6da-4b2e-b45b-bca51e23b9c7",
+    "english": "punch",
+    "spanish": "ponche",
+    "pronunciation": "/pʌnʧ/"
+  },
+  {
+    "uuid": "e60a4716-a751-423d-a40f-f9bb07b412b6",
+    "english": "rakia",
+    "spanish": "rakia",
+    "pronunciation": "/ˈrɑːkiə/"
+  },
+  {
+    "uuid": "a3d782f0-2c3a-4e54-80df-7dbe5f5e8e0e",
+    "english": "raspberry",
+    "spanish": "frambuesa",
+    "pronunciation": "/ˈræzˌbɛri/"
+  },
+  {
+    "uuid": "dd33c9a1-f669-44f2-9605-ed8e459973b3",
+    "english": "rice",
+    "spanish": "arroz",
+    "pronunciation": "/raɪs/"
+  },
+  {
+    "uuid": "1e2e7ae7-d035-4569-8a16-21293246c5e4",
+    "english": "rice milk",
+    "spanish": "leche de arroz",
+    "pronunciation": "/raɪs mɪlk/"
+  },
+  {
+    "uuid": "c944e6f9-f572-4c4b-aedd-8d670ee54181",
+    "english": "roe",
+    "spanish": "hueva",
+    "pronunciation": "/roʊ/"
+  },
+  {
+    "uuid": "e70193cb-27dd-4b16-89e6-199f5db938d1",
+    "english": "rosemary",
+    "spanish": "romero",
+    "pronunciation": "/ˈroʊzˌmɛri/"
+  },
+  {
+    "uuid": "78b7e470-3b46-4d4b-90fd-79d56be1c4d5",
+    "english": "rum",
+    "spanish": "ron",
+    "pronunciation": "/rʌm/"
+  },
+  {
+    "uuid": "fe52123f-a6c7-4d11-a5fd-19a70b09db9b",
+    "english": "rye",
+    "spanish": "centeno",
+    "pronunciation": "/raɪ/"
+  },
+  {
+    "uuid": "33c29901-76fb-4acd-9be8-469b2c3c10f7",
+    "english": "saffron",
+    "spanish": "azafrán",
+    "pronunciation": "/ˈsæfrən/"
+  },
+  {
+    "uuid": "f2b98403-590e-40eb-971c-fa242abe641f",
+    "english": "sage",
+    "spanish": "salvia",
+    "pronunciation": "/seɪdʒ/"
+  },
+  {
+    "uuid": "99f5bd55-04e1-45af-bdaf-af03693e8c23",
+    "english": "sake",
+    "spanish": "sake",
+    "pronunciation": "/ˈsɑːkeɪ/"
+  },
+  {
+    "uuid": "ff6e3f15-7731-4f40-a0a7-d2751094865a",
+    "english": "salmon",
+    "spanish": "salmón",
+    "pronunciation": "/ˈsæmən/"
+  },
+  {
+    "uuid": "2795df0b-1494-4d69-8ada-bc2b161347c2",
+    "english": "sangria",
+    "spanish": "sangría",
+    "pronunciation": "/sæŋˈɡriə/"
+  },
+  {
+    "uuid": "82f735f9-6955-4ed4-a9bf-9a3e578dec8b",
+    "english": "sardine",
+    "spanish": "sardina",
+    "pronunciation": "/sɑrˈdin/"
+  },
+  {
+    "uuid": "744b25ab-1c91-4018-9c56-818077002471",
+    "english": "scallion",
+    "spanish": "cebolleta",
+    "pronunciation": "/ˈskæljən/"
+  },
+  {
+    "uuid": "07bda0c6-947f-487e-bb22-84c106dcd3b5",
+    "english": "scallop",
+    "spanish": "vieira",
+    "pronunciation": "/ˈskæləp/"
+  },
+  {
+    "uuid": "a63173f8-ade6-4764-9c5f-c63c35b16c06",
+    "english": "scotch",
+    "spanish": "escocés",
+    "pronunciation": "/skɑʧ/"
+  },
+  {
+    "uuid": "458c0482-9f28-4e26-9494-2cdd89c6d6ba",
+    "english": "seaweed",
+    "spanish": "alga marina",
+    "pronunciation": "/ˈsiˌwid/"
+  },
+  {
+    "uuid": "640c173f-ac35-4b1c-9513-3dbc1019121a",
+    "english": "serrano",
+    "spanish": "serrano",
+    "pronunciation": "/səˈrɑnoʊ/"
+  },
+  {
+    "uuid": "e3ed74ba-8663-4914-9dea-977c085f7436",
+    "english": "shallot",
+    "spanish": "chalote",
+    "pronunciation": "/ˈʃælət/"
+  },
+  {
+    "uuid": "e276c721-4753-4ba7-a399-6e74263ce152",
+    "english": "sherry",
+    "spanish": "jerez",
+    "pronunciation": "/ˈʃɛri/"
+  },
+  {
+    "uuid": "bba09171-b118-4ad0-aaf4-cbef41fe01f6",
+    "english": "shrimp",
+    "spanish": "camarón",
+    "pronunciation": "/ʃrɪmp/"
+  },
+  {
+    "uuid": "82234f57-609a-4572-a179-4ec16ef54869",
+    "english": "smoothie",
+    "spanish": "batido",
+    "pronunciation": "/ˈsmuːði/"
+  },
+  {
+    "uuid": "05fa83bb-16f1-46a8-9c0d-924adbf7bde5",
+    "english": "snapper",
+    "spanish": "pargo",
+    "pronunciation": "/ˈsnæpər/"
+  },
+  {
+    "uuid": "0714aa3f-b120-474a-b724-7fe1acffe0d7",
+    "english": "soda",
+    "spanish": "refresco",
+    "pronunciation": "/ˈsoʊdə/"
+  },
+  {
+    "uuid": "807edbe1-135e-4ea7-b56e-f8788d63227d",
+    "english": "soju",
+    "spanish": "soju",
+    "pronunciation": "/ˈsoʊdʒu/"
+  },
+  {
+    "uuid": "26c8b188-d327-4c23-8dbb-84794e27cf3a",
+    "english": "sole",
+    "spanish": "lenguado",
+    "pronunciation": "/soʊl/"
+  },
+  {
+    "uuid": "5cd5b130-4b2f-484c-9202-ef0232745186",
+    "english": "soy milk",
+    "spanish": "leche de soja",
+    "pronunciation": "/sɔɪ mɪlk/"
+  },
+  {
+    "uuid": "f3faee79-3769-4277-bd68-b92123dd2770",
+    "english": "spinach",
+    "spanish": "espinaca",
+    "pronunciation": "/ˈspɪnɪʧ/"
+  },
+  {
+    "uuid": "7c8b72bc-0b6b-4a3d-8d9b-53b6efbca5d7",
+    "english": "spirulina",
+    "spanish": "espirulina",
+    "pronunciation": "/ˌspɪrʊˈlinə/"
+  },
+  {
+    "uuid": "cb8e5903-c884-4d98-80cf-75b202d0eb8a",
+    "english": "sports drink",
+    "spanish": "bebida deportiva",
+    "pronunciation": "/spɔrts drɪŋk/"
+  },
+  {
+    "uuid": "b4c308a7-1b6e-4b02-be02-39f2c318dbf4",
+    "english": "squid",
+    "spanish": "calamar",
+    "pronunciation": "/skwɪd/"
+  },
+  {
+    "uuid": "780cc81c-8eca-4783-a084-f1dd9abb27e2",
+    "english": "star anise",
+    "spanish": "anís estrellado",
+    "pronunciation": "/stɑr ˈænɪs/"
+  },
+  {
+    "uuid": "c290b884-78f3-4374-96b1-1bfa278ab71d",
+    "english": "strawberry",
+    "spanish": "fresa",
+    "pronunciation": "/ˈstrɔˌbɛri/"
+  },
+  {
+    "uuid": "01b115be-3713-493b-b7c4-5cc64a1b030f",
+    "english": "sweet potato",
+    "spanish": "batata",
+    "pronunciation": "/ˈswit pəˌteɪtoʊ/"
+  },
+  {
+    "uuid": "2e87bb24-a222-4f78-aca1-fbcb769e10d2",
+    "english": "swordfish",
+    "spanish": "pez espada",
+    "pronunciation": "/ˈsɔrdˌfɪʃ/"
+  },
+  {
+    "uuid": "36ff1c5c-37d7-4a43-8389-608b3dbaa720",
+    "english": "tarragon",
+    "spanish": "estragón",
+    "pronunciation": "/ˈtærəˌɡɑn/"
+  },
+  {
+    "uuid": "9bb1cf92-7418-419b-918e-e54c567fb790",
+    "english": "tea",
+    "spanish": "té",
+    "pronunciation": "/ti/"
+  },
+  {
+    "uuid": "16d92c51-d1b5-4546-ab2d-c6fda09f5a5e",
+    "english": "tequila",
+    "spanish": "tequila",
+    "pronunciation": "/təˈkiːlə/"
+  },
+  {
+    "uuid": "f69a6030-5a8f-497b-93fc-108a4ee4ce24",
+    "english": "thyme",
+    "spanish": "tomillo",
+    "pronunciation": "/taɪm/"
+  },
+  {
+    "uuid": "5d5e82c9-243f-4abf-89a0-763f3026bdaf",
+    "english": "tilapia",
+    "spanish": "tilapia",
+    "pronunciation": "/təˈlæpiə/"
+  },
+  {
+    "uuid": "fa1f226d-ca30-4f98-ae38-714cd8844d57",
+    "english": "tomato",
+    "spanish": "tomate",
+    "pronunciation": "/təˈmeɪtoʊ/"
+  },
+  {
+    "uuid": "cff63382-266f-4825-9a04-0dbfef6b9ea9",
+    "english": "trout",
+    "spanish": "trucha",
+    "pronunciation": "/traʊt/"
+  },
+  {
+    "uuid": "843792ae-f425-48a7-bb5b-f6b2d9f7d8a4",
+    "english": "tuna",
+    "spanish": "atún",
+    "pronunciation": "/ˈtunə/"
+  },
+  {
+    "uuid": "45f79099-1320-4817-a230-e15398b46ab3",
+    "english": "turmeric",
+    "spanish": "cúrcuma",
+    "pronunciation": "/ˈtɜrmərɪk/"
+  },
+  {
+    "uuid": "1abfd4f3-cc76-40d6-a5a4-00298b35baba",
+    "english": "vanilla",
+    "spanish": "vainilla",
+    "pronunciation": "/vəˈnɪlə/"
+  },
+  {
+    "uuid": "96660a8b-f6d8-4ae5-89bd-b6fc338722e1",
+    "english": "vermouth",
+    "spanish": "vermut",
+    "pronunciation": "/vərˈmuθ/"
+  },
+  {
+    "uuid": "8438cf16-fcf9-46d1-b9c8-09d1e387c2df",
+    "english": "vodka",
+    "spanish": "vodka",
+    "pronunciation": "/ˈvɑdkə/"
+  },
+  {
+    "uuid": "7949af00-0e91-4434-a2ec-4d38d3b439dc",
+    "english": "wahoo",
+    "spanish": "peto",
+    "pronunciation": "/ˈwɑˌhu/"
+  },
+  {
+    "uuid": "0ef7f808-14ac-44c8-a81a-71ae324f2cf1",
+    "english": "wakame",
+    "spanish": "wakame",
+    "pronunciation": "/ˈwɑkəˌmeɪ/"
+  },
+  {
+    "uuid": "67c76025-b3f5-42e8-9d4a-26751922b508",
+    "english": "walnut milk",
+    "spanish": "leche de nuez",
+    "pronunciation": "/ˈwɔlnʌt mɪlk/"
+  },
+  {
+    "uuid": "19719732-f28b-4b4a-b23f-e2bce5b5c34a",
+    "english": "water",
+    "spanish": "agua",
+    "pronunciation": "/ˈwɔtər/"
+  },
+  {
+    "uuid": "6eb104a3-a29e-4596-bcc7-b909f9a289dd",
+    "english": "watermelon",
+    "spanish": "sandía",
+    "pronunciation": "/ˈwɔtərˌmɛlən/"
+  },
+  {
+    "uuid": "fc32b499-17f9-4d26-b471-7aa1fe9a3cd9",
+    "english": "whiskey",
+    "spanish": "whisky",
+    "pronunciation": "/ˈwɪski/"
+  },
+  {
+    "uuid": "cc299228-aeb6-480a-bb8f-bb30870ca1e1",
+    "english": "white pepper",
+    "spanish": "pimienta blanca",
+    "pronunciation": "/waɪt ˈpɛpər/"
+  },
+  {
+    "uuid": "9880d0ec-e5bc-427d-85a0-9072265764fb",
+    "english": "wine",
+    "spanish": "vino",
+    "pronunciation": "/waɪn/"
+  },
+  {
+    "uuid": "9cf8d4bf-d347-4bbe-a54b-4ebaadba6bf1",
+    "english": "yogurt",
+    "spanish": "yogur",
+    "pronunciation": "/ˈjoʊɡərt/"
+  },
+  {
+    "uuid": "caf0384b-95d9-45be-b060-a413b0676779",
+    "english": "zucchini",
+    "spanish": "calabacín",
+    "pronunciation": "/zuˈkini/"
+  }
+]

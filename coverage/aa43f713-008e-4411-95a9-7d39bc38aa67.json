@@ -1,0 +1,203 @@
+{
+  "scriptId": "572",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/webidl-conversions/7.0.0/lib/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 13028, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 13027, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 12963, "count": 1 },
+        { "startOffset": 8555, "endOffset": 8567, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeException",
+      "ranges": [{ "startOffset": 251, "endOffset": 470, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toNumber",
+      "ranges": [{ "startOffset": 472, "endOffset": 742, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "evenRound",
+      "ranges": [{ "startOffset": 837, "endOffset": 1686, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "integerPart",
+      "ranges": [{ "startOffset": 1688, "endOffset": 1759, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sign",
+      "ranges": [{ "startOffset": 1761, "endOffset": 1806, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "modulo",
+      "ranges": [{ "startOffset": 1808, "endOffset": 2114, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "censorNegativeZero",
+      "ranges": [{ "startOffset": 2116, "endOffset": 2176, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createIntegerConversion",
+      "ranges": [
+        { "startOffset": 2178, "endOffset": 3841, "count": 6 },
+        { "startOffset": 2284, "endOffset": 2442, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2559, "endOffset": 3838, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createLongLongConversion",
+      "ranges": [
+        { "startOffset": 3843, "endOffset": 4937, "count": 2 },
+        { "startOffset": 3980, "endOffset": 3983, "count": 1 },
+        { "startOffset": 3984, "endOffset": 4009, "count": 1 },
+        { "startOffset": 4040, "endOffset": 4056, "count": 1 },
+        { "startOffset": 4057, "endOffset": 4072, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4084, "endOffset": 4934, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.any",
+      "ranges": [{ "startOffset": 4953, "endOffset": 4981, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.undefined",
+      "ranges": [{ "startOffset": 5004, "endOffset": 5033, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.boolean",
+      "ranges": [{ "startOffset": 5054, "endOffset": 5091, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.double",
+      "ranges": [{ "startOffset": 5683, "endOffset": 5881, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.unrestricted double",
+      "ranges": [{ "startOffset": 5917, "endOffset": 5996, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.float",
+      "ranges": [{ "startOffset": 6015, "endOffset": 6433, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.unrestricted float",
+      "ranges": [{ "startOffset": 6468, "endOffset": 6642, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.DOMString",
+      "ranges": [
+        { "startOffset": 6665, "endOffset": 7010, "count": 4 },
+        { "startOffset": 6729, "endOffset": 6746, "count": 0 },
+        { "startOffset": 6748, "endOffset": 6768, "count": 0 },
+        { "startOffset": 6803, "endOffset": 6907, "count": 0 },
+        { "startOffset": 6971, "endOffset": 6979, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exports.ByteString",
+      "ranges": [{ "startOffset": 7034, "endOffset": 7299, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.USVString",
+      "ranges": [
+        { "startOffset": 7322, "endOffset": 8068, "count": 4 },
+        { "startOffset": 7464, "endOffset": 8044, "count": 128 },
+        { "startOffset": 7516, "endOffset": 7529, "count": 0 },
+        { "startOffset": 7577, "endOffset": 8040, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exports.object",
+      "ranges": [{ "startOffset": 8088, "endOffset": 8288, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNonSharedArrayBuffer",
+      "ranges": [{ "startOffset": 8570, "endOffset": 8913, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isSharedArrayBuffer",
+      "ranges": [{ "startOffset": 8915, "endOffset": 9050, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isArrayBufferDetached",
+      "ranges": [{ "startOffset": 9052, "endOffset": 9218, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.ArrayBuffer",
+      "ranges": [{ "startOffset": 9242, "endOffset": 9678, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.DataView",
+      "ranges": [{ "startOffset": 9802, "endOffset": 10285, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 10781, "endOffset": 11432, "count": 9 },
+        { "startOffset": 10857, "endOffset": 10863, "count": 7 },
+        { "startOffset": 10864, "endOffset": 10869, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exports.<computed>",
+      "ranges": [{ "startOffset": 10889, "endOffset": 11429, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.ArrayBufferView",
+      "ranges": [{ "startOffset": 11485, "endOffset": 11979, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports.BufferSource",
+      "ranges": [{ "startOffset": 12005, "endOffset": 12904, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

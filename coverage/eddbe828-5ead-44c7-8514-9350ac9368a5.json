@@ -1,0 +1,16 @@
+{
+  "scriptId": "485",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/deviceTZ.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 162, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deviceTZ",
+      "ranges": [{ "startOffset": 19, "endOffset": 101, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

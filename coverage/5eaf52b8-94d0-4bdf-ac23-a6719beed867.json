@@ -1,0 +1,36 @@
+{
+  "scriptId": "538",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cursor/list_indexes_cursor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1500, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1499, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1435, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ListIndexesCursor",
+      "ranges": [{ "startOffset": 615, "endOffset": 788, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 793, "endOffset": 935, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initialize",
+      "ranges": [{ "startOffset": 961, "endOffset": 1336, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "scriptId": "601",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/state_machine.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 17625, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 17624, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 17560, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadSocks",
+      "ranges": [{ "startOffset": 658, "endOffset": 911, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "debug",
+      "ranges": [{ "startOffset": 2354, "endOffset": 2501, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "StateMachine",
+      "ranges": [{ "startOffset": 3401, "endOffset": 3563, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 3649, "endOffset": 8296, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "kmsRequest",
+      "ranges": [{ "startOffset": 8569, "endOffset": 13257, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "requests",
+      "ranges": [{ "startOffset": 13262, "endOffset": 13450, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateTlsOptions",
+      "ranges": [{ "startOffset": 13709, "endOffset": 14062, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setTlsOptions",
+      "ranges": [{ "startOffset": 14262, "endOffset": 14746, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchCollectionInfo",
+      "ranges": [{ "startOffset": 15347, "endOffset": 15788, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "markCommand",
+      "ranges": [{ "startOffset": 16232, "endOffset": 16634, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchKeys",
+      "ranges": [{ "startOffset": 17099, "endOffset": 17477, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scriptId": "547",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/rename.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1802, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1801, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1737, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RenameOperation",
+      "ranges": [{ "startOffset": 595, "endOffset": 847, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 852, "endOffset": 912, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 917, "endOffset": 1568, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

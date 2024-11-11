@@ -1,0 +1,43 @@
+{
+  "scriptId": "523",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/mongo_types.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2036, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2035, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1971, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emitAndLog",
+      "ranges": [
+        { "startOffset": 678, "endOffset": 837, "count": 56 },
+        { "startOffset": 798, "endOffset": 805, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emitAndLogHeartbeat",
+      "ranges": [
+        { "startOffset": 863, "endOffset": 1281, "count": 14 },
+        { "startOffset": 1138, "endOffset": 1145, "count": 9 },
+        { "startOffset": 1217, "endOffset": 1224, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emitAndLogCommand",
+      "ranges": [{ "startOffset": 1307, "endOffset": 1764, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

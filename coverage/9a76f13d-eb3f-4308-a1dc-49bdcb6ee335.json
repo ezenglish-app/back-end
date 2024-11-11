@@ -1,0 +1,121 @@
+{
+  "scriptId": "518",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/change_stream.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 15773, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 15772, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 15708, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "asyncDispose",
+      "ranges": [{ "startOffset": 1729, "endOffset": 1785, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ChangeStream",
+      "ranges": [{ "startOffset": 2099, "endOffset": 3743, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get cursorStream",
+      "ranges": [{ "startOffset": 3769, "endOffset": 3831, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get resumeToken",
+      "ranges": [{ "startOffset": 3935, "endOffset": 4001, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasNext",
+      "ranges": [{ "startOffset": 4085, "endOffset": 4934, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "next",
+      "ranges": [{ "startOffset": 5006, "endOffset": 5933, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tryNext",
+      "ranges": [{ "startOffset": 6072, "endOffset": 6927, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6932, "endOffset": 7473, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get closed",
+      "ranges": [{ "startOffset": 7510, "endOffset": 7582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 7666, "endOffset": 7870, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stream",
+      "ranges": [{ "startOffset": 8239, "endOffset": 8462, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_setIsEmitter",
+      "ranges": [{ "startOffset": 8488, "endOffset": 8795, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_setIsIterator",
+      "ranges": [{ "startOffset": 8821, "endOffset": 9129, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createChangeStreamCursor",
+      "ranges": [{ "startOffset": 9238, "endOffset": 10609, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_closeEmitterModeWithError",
+      "ranges": [{ "startOffset": 10635, "endOffset": 10781, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamEvents",
+      "ranges": [{ "startOffset": 10807, "endOffset": 11353, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_endStream",
+      "ranges": [{ "startOffset": 11379, "endOffset": 11668, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_processChange",
+      "ranges": [{ "startOffset": 11694, "endOffset": 12666, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_processErrorStreamMode",
+      "ranges": [{ "startOffset": 12692, "endOffset": 13589, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_processErrorIteratorMode",
+      "ranges": [{ "startOffset": 13615, "endOffset": 14787, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

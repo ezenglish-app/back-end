@@ -1,0 +1,81 @@
+{
+  "scriptId": "613",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/connection_pool_events.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6669, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6668, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 6604, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolMonitoringEvent",
+      "ranges": [{ "startOffset": 1023, "endOffset": 1117, "count": 40 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolCreatedEvent",
+      "ranges": [{ "startOffset": 1383, "endOffset": 1723, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolReadyEvent",
+      "ranges": [{ "startOffset": 1979, "endOffset": 2105, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolClosedEvent",
+      "ranges": [{ "startOffset": 2359, "endOffset": 2486, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionCreatedEvent",
+      "ranges": [{ "startOffset": 2754, "endOffset": 2932, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionReadyEvent",
+      "ranges": [{ "startOffset": 3179, "endOffset": 3458, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionClosedEvent",
+      "ranges": [{ "startOffset": 3695, "endOffset": 4000, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCheckOutStartedEvent",
+      "ranges": [{ "startOffset": 4268, "endOffset": 4401, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionCheckOutFailedEvent",
+      "ranges": [{ "startOffset": 4685, "endOffset": 4965, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCheckedOutEvent",
+      "ranges": [{ "startOffset": 5252, "endOffset": 5509, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionCheckedInEvent",
+      "ranges": [{ "startOffset": 5785, "endOffset": 5966, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolClearedEvent",
+      "ranges": [{ "startOffset": 6222, "endOffset": 6484, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "scriptId": "640",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/gridfs/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5439, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5438, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5374, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "GridFSBucket",
+      "ranges": [{ "startOffset": 791, "endOffset": 1391, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openUploadStream",
+      "ranges": [{ "startOffset": 1701, "endOffset": 1822, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openUploadStreamWithId",
+      "ranges": [{ "startOffset": 2029, "endOffset": 2171, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openDownloadStream",
+      "ranges": [{ "startOffset": 2275, "endOffset": 2472, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [{ "startOffset": 2582, "endOffset": 3090, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "find",
+      "ranges": [{ "startOffset": 3162, "endOffset": 3263, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openDownloadStreamByName",
+      "ranges": [{ "startOffset": 3634, "endOffset": 4210, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rename",
+      "ranges": [{ "startOffset": 4396, "endOffset": 4728, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "drop",
+      "ranges": [{ "startOffset": 4819, "endOffset": 4932, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

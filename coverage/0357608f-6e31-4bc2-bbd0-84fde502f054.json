@@ -1,0 +1,16 @@
+{
+  "scriptId": "464",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/diffHours.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 348, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "diffHours",
+      "ranges": [{ "startOffset": 124, "endOffset": 285, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

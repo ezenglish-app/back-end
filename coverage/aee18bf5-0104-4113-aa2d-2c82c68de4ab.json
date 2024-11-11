@@ -1,0 +1,20 @@
+{
+  "scriptId": "445",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/removeOffset.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 348, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "removeOffset",
+      "ranges": [
+        { "startOffset": 72, "endOffset": 279, "count": 1 },
+        { "startOffset": 238, "endOffset": 243, "count": 0 },
+        { "startOffset": 260, "endOffset": 265, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

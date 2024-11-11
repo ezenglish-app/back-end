@@ -1,0 +1,76 @@
+{
+  "scriptId": "537",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sort.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3025, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3024, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2960, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "prepareDirection",
+      "ranges": [{ "startOffset": 399, "endOffset": 877, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMeta",
+      "ranges": [{ "startOffset": 895, "endOffset": 1011, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPair",
+      "ranges": [{ "startOffset": 1029, "endOffset": 1258, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDeep",
+      "ranges": [{ "startOffset": 1259, "endOffset": 1333, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMap",
+      "ranges": [{ "startOffset": 1334, "endOffset": 1398, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pairToMap",
+      "ranges": [{ "startOffset": 1416, "endOffset": 1502, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deepToMap",
+      "ranges": [{ "startOffset": 1520, "endOffset": 1652, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringsToMap",
+      "ranges": [{ "startOffset": 1670, "endOffset": 1784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "objectToMap",
+      "ranges": [{ "startOffset": 1802, "endOffset": 1974, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapToMap",
+      "ranges": [{ "startOffset": 1992, "endOffset": 2157, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatSort",
+      "ranges": [{ "startOffset": 2240, "endOffset": 2925, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

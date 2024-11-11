@@ -1,0 +1,154 @@
+{
+  "scriptId": "604",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/connect.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 15281, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 15280, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 15216, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "connect",
+      "ranges": [
+        { "startOffset": 1032, "endOffset": 1379, "count": 1 },
+        { "startOffset": 1304, "endOffset": 1377, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeConnection",
+      "ranges": [
+        { "startOffset": 1380, "endOffset": 1643, "count": 7 },
+        { "startOffset": 1471, "endOffset": 1497, "count": 6 },
+        { "startOffset": 1530, "endOffset": 1593, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkSupportedServer",
+      "ranges": [
+        { "startOffset": 1644, "endOffset": 2858, "count": 7 },
+        { "startOffset": 2166, "endOffset": 2642, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "performInitialHandshake",
+      "ranges": [
+        { "startOffset": 2859, "endOffset": 6272, "count": 7 },
+        { "startOffset": 2981, "endOffset": 3313, "count": 1 },
+        { "startOffset": 3066, "endOffset": 3179, "count": 0 },
+        { "startOffset": 3181, "endOffset": 3307, "count": 0 },
+        { "startOffset": 4423, "endOffset": 4464, "count": 0 },
+        { "startOffset": 4495, "endOffset": 4724, "count": 0 },
+        { "startOffset": 5065, "endOffset": 6031, "count": 1 },
+        { "startOffset": 5397, "endOffset": 5530, "count": 0 },
+        { "startOffset": 5609, "endOffset": 6025, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "prepareHandshakeDocument",
+      "ranges": [
+        { "startOffset": 6352, "endOffset": 8097, "count": 7 },
+        { "startOffset": 6514, "endOffset": 6518, "count": 0 },
+        { "startOffset": 6674, "endOffset": 6683, "count": 0 },
+        { "startOffset": 6717, "endOffset": 6726, "count": 0 },
+        { "startOffset": 6901, "endOffset": 6950, "count": 0 },
+        { "startOffset": 7021, "endOffset": 8070, "count": 1 },
+        { "startOffset": 7417, "endOffset": 7633, "count": 0 },
+        { "startOffset": 7713, "endOffset": 8070, "count": 0 },
+        { "startOffset": 8070, "endOffset": 8096, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseConnectOptions",
+      "ranges": [
+        { "startOffset": 8648, "endOffset": 9599, "count": 7 },
+        { "startOffset": 8763, "endOffset": 8843, "count": 0 },
+        { "startOffset": 8924, "endOffset": 9020, "count": 49 },
+        { "startOffset": 8961, "endOffset": 9014, "count": 7 },
+        { "startOffset": 9073, "endOffset": 9149, "count": 0 },
+        { "startOffset": 9311, "endOffset": 9597, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseSslOptions",
+      "ranges": [
+        { "startOffset": 9600, "endOffset": 10163, "count": 7 },
+        { "startOffset": 9776, "endOffset": 9872, "count": 119 },
+        { "startOffset": 9813, "endOffset": 9866, "count": 0 },
+        { "startOffset": 9905, "endOffset": 9960, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeSocket",
+      "ranges": [
+        { "startOffset": 10164, "endOffset": 12555, "count": 7 },
+        { "startOffset": 10232, "endOffset": 10240, "count": 0 },
+        { "startOffset": 10278, "endOffset": 10285, "count": 0 },
+        { "startOffset": 10341, "endOffset": 10349, "count": 0 },
+        { "startOffset": 10453, "endOffset": 10656, "count": 0 },
+        { "startOffset": 10806, "endOffset": 10863, "count": 0 },
+        { "startOffset": 10897, "endOffset": 11268, "count": 0 },
+        { "startOffset": 11536, "endOffset": 11568, "count": 0 },
+        { "startOffset": 11634, "endOffset": 11645, "count": 0 },
+        { "startOffset": 12259, "endOffset": 12332, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11694, "endOffset": 11715, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11744, "endOffset": 11799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11830, "endOffset": 11877, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11906, "endOffset": 11951, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cancellationHandler",
+      "ranges": [{ "startOffset": 12037, "endOffset": 12083, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadSocks",
+      "ranges": [{ "startOffset": 12574, "endOffset": 12827, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeSocks5Connection",
+      "ranges": [{ "startOffset": 12828, "endOffset": 14570, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connectionFailureError",
+      "ranges": [{ "startOffset": 14571, "endOffset": 15178, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

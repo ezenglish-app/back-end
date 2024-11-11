@@ -1,0 +1,19 @@
+{
+  "scriptId": "374",
+  "url": "file:///home/juanca/Projects/english-api/src/pkg/auth/handler/signup.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 805, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SignUp",
+      "ranges": [
+        { "startOffset": 297, "endOffset": 803, "count": 1 },
+        { "startOffset": 524, "endOffset": 586, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

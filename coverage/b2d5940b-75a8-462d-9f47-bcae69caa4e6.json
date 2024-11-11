@@ -1,0 +1,79 @@
+{
+  "scriptId": "536",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/find.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5731, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5730, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5666, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FindOperation",
+      "ranges": [
+        { "startOffset": 731, "endOffset": 1263, "count": 2 },
+        { "startOffset": 979, "endOffset": 1098, "count": 0 },
+        { "startOffset": 1230, "endOffset": 1247, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 1268, "endOffset": 1316, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        { "startOffset": 1321, "endOffset": 1908, "count": 2 },
+        { "startOffset": 1522, "endOffset": 1620, "count": 0 },
+        { "startOffset": 1834, "endOffset": 1871, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeFindCommand",
+      "ranges": [
+        { "startOffset": 1950, "endOffset": 5431, "count": 2 },
+        { "startOffset": 2097, "endOffset": 2169, "count": 0 },
+        { "startOffset": 2198, "endOffset": 2587, "count": 0 },
+        { "startOffset": 2610, "endOffset": 2691, "count": 0 },
+        { "startOffset": 2734, "endOffset": 2782, "count": 0 },
+        { "startOffset": 2962, "endOffset": 3034, "count": 0 },
+        { "startOffset": 3125, "endOffset": 3395, "count": 0 },
+        { "startOffset": 3532, "endOffset": 3594, "count": 0 },
+        { "startOffset": 3757, "endOffset": 3811, "count": 0 },
+        { "startOffset": 3859, "endOffset": 3917, "count": 0 },
+        { "startOffset": 4012, "endOffset": 4075, "count": 0 },
+        { "startOffset": 4097, "endOffset": 4143, "count": 0 },
+        { "startOffset": 4165, "endOffset": 4211, "count": 0 },
+        { "startOffset": 4260, "endOffset": 4318, "count": 0 },
+        { "startOffset": 4370, "endOffset": 4434, "count": 0 },
+        { "startOffset": 4482, "endOffset": 4538, "count": 0 },
+        { "startOffset": 4589, "endOffset": 4651, "count": 0 },
+        { "startOffset": 4698, "endOffset": 4761, "count": 0 },
+        { "startOffset": 4821, "endOffset": 4891, "count": 0 },
+        { "startOffset": 4940, "endOffset": 4998, "count": 0 },
+        { "startOffset": 5057, "endOffset": 5135, "count": 0 },
+        { "startOffset": 5163, "endOffset": 5221, "count": 0 },
+        { "startOffset": 5273, "endOffset": 5337, "count": 0 },
+        { "startOffset": 5359, "endOffset": 5405, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2379, "endOffset": 2491, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "468",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/diffYears.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 246, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "diffYears",
+      "ranges": [{ "startOffset": 67, "endOffset": 183, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

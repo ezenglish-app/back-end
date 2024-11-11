@@ -1,0 +1,11 @@
+{
+  "scriptId": "369",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8107, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

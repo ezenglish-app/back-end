@@ -1,0 +1,36 @@
+{
+  "scriptId": "543",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/estimated_document_count.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1708, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1707, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1643, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "EstimatedDocumentCountOperation",
+      "ranges": [{ "startOffset": 543, "endOffset": 713, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 718, "endOffset": 767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 772, "endOffset": 1329, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

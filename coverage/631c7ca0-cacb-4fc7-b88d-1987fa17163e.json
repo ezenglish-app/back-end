@@ -1,0 +1,51 @@
+{
+  "scriptId": "620",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc/machine_workflow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4488, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4423, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MachineWorkflow",
+      "ranges": [{ "startOffset": 718, "endOffset": 896, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 995, "endOffset": 1292, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reauthenticate",
+      "ranges": [{ "startOffset": 1465, "endOffset": 2309, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "speculativeAuth",
+      "ranges": [{ "startOffset": 2393, "endOffset": 2858, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTokenFromCacheOrEnv",
+      "ranges": [{ "startOffset": 2931, "endOffset": 3436, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withLock",
+      "ranges": [{ "startOffset": 3561, "endOffset": 4331, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

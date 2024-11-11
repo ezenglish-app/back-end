@@ -1,0 +1,16 @@
+{
+  "scriptId": "418",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/addMonth.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 508, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addMonth",
+      "ranges": [{ "startOffset": 99, "endOffset": 447, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

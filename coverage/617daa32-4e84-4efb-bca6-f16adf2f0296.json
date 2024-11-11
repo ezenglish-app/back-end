@@ -1,0 +1,106 @@
+{
+  "scriptId": "520",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cursor/aggregation_cursor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5764, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5763, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5699, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AggregationCursor",
+      "ranges": [{ "startOffset": 985, "endOffset": 1170, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 1175, "endOffset": 1436, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 1441, "endOffset": 1500, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initialize",
+      "ranges": [{ "startOffset": 1526, "endOffset": 1948, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "explain",
+      "ranges": [{ "startOffset": 1999, "endOffset": 2393, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addStage",
+      "ranges": [{ "startOffset": 2398, "endOffset": 2512, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "group",
+      "ranges": [{ "startOffset": 2517, "endOffset": 2580, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "limit",
+      "ranges": [{ "startOffset": 2642, "endOffset": 2705, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "match",
+      "ranges": [{ "startOffset": 2767, "endOffset": 2830, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "out",
+      "ranges": [{ "startOffset": 2891, "endOffset": 2948, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "project",
+      "ranges": [{ "startOffset": 4770, "endOffset": 4839, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lookup",
+      "ranges": [{ "startOffset": 4902, "endOffset": 4968, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "redact",
+      "ranges": [{ "startOffset": 5031, "endOffset": 5097, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "skip",
+      "ranges": [{ "startOffset": 5158, "endOffset": 5218, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sort",
+      "ranges": [{ "startOffset": 5279, "endOffset": 5339, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unwind",
+      "ranges": [{ "startOffset": 5402, "endOffset": 5468, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "geoNear",
+      "ranges": [{ "startOffset": 5532, "endOffset": 5601, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

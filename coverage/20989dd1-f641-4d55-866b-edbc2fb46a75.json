@@ -1,0 +1,36 @@
+{
+  "scriptId": "602",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/mongocryptd_manager.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4263, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4262, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4198, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MongocryptdManager",
+      "ranges": [{ "startOffset": 497, "endOffset": 1526, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "spawn",
+      "ranges": [{ "startOffset": 1713, "endOffset": 3406, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withRespawn",
+      "ranges": [{ "startOffset": 3488, "endOffset": 4023, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

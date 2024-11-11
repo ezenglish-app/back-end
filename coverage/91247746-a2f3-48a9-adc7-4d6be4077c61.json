@@ -1,0 +1,16 @@
+{
+  "scriptId": "484",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/diffRound.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 188, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "diffRound",
+      "ranges": [{ "startOffset": 20, "endOffset": 125, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

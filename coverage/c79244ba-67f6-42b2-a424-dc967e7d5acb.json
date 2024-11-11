@@ -1,0 +1,72 @@
+{
+  "scriptId": "608",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/wire_protocol/on_data.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3830, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3829, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3765, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "onData",
+      "ranges": [{ "startOffset": 634, "endOffset": 3727, "count": 20 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "next",
+      "ranges": [
+        { "startOffset": 1552, "endOffset": 2479, "count": 20 },
+        { "startOffset": 1695, "endOffset": 1774, "count": 0 },
+        { "startOffset": 1960, "endOffset": 2129, "count": 0 },
+        { "startOffset": 2232, "endOffset": 2254, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "return",
+      "ranges": [{ "startOffset": 2489, "endOffset": 2544, "count": 17 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "throw",
+      "ranges": [{ "startOffset": 2554, "endOffset": 2677, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iterator",
+      "ranges": [{ "startOffset": 2687, "endOffset": 2748, "count": 20 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "eventHandler",
+      "ranges": [
+        { "startOffset": 2887, "endOffset": 3112, "count": 17 },
+        { "startOffset": 3051, "endOffset": 3106, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "errorHandler",
+      "ranges": [{ "startOffset": 3117, "endOffset": 3332, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "closeHandler",
+      "ranges": [
+        { "startOffset": 3337, "endOffset": 3725, "count": 17 },
+        { "startOffset": 3623, "endOffset": 3675, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "scriptId": "562",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongo_credentials.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9315, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 9314, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 9250, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getDefaultAuthMechanism",
+      "ranges": [
+        { "startOffset": 580, "endOffset": 1343, "count": 1 },
+        { "startOffset": 926, "endOffset": 974, "count": 0 },
+        { "startOffset": 1048, "endOffset": 1250, "count": 0 },
+        { "startOffset": 1256, "endOffset": 1342, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MongoCredentials",
+      "ranges": [
+        { "startOffset": 2017, "endOffset": 3469, "count": 3 },
+        { "startOffset": 2081, "endOffset": 2086, "count": 0 },
+        { "startOffset": 2193, "endOffset": 2206, "count": 0 },
+        { "startOffset": 2208, "endOffset": 2257, "count": 0 },
+        { "startOffset": 2301, "endOffset": 2345, "count": 0 },
+        { "startOffset": 2410, "endOffset": 2415, "count": 0 },
+        { "startOffset": 2467, "endOffset": 3097, "count": 0 },
+        { "startOffset": 3168, "endOffset": 3210, "count": 0 },
+        { "startOffset": 3212, "endOffset": 3385, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 3543, "endOffset": 3757, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveAuthMechanism",
+      "ranges": [
+        { "startOffset": 4000, "endOffset": 4495, "count": 1 },
+        { "startOffset": 4468, "endOffset": 4494, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validate",
+      "ranges": [
+        { "startOffset": 4500, "endOffset": 8652, "count": 1 },
+        { "startOffset": 4892, "endOffset": 4921, "count": 0 },
+        { "startOffset": 4923, "endOffset": 5049, "count": 0 },
+        { "startOffset": 5121, "endOffset": 7263, "count": 0 },
+        { "startOffset": 7338, "endOffset": 7643, "count": 0 },
+        { "startOffset": 7715, "endOffset": 7737, "count": 0 },
+        { "startOffset": 7739, "endOffset": 7927, "count": 0 },
+        { "startOffset": 7998, "endOffset": 8022, "count": 0 },
+        { "startOffset": 8024, "endOffset": 8344, "count": 0 },
+        { "startOffset": 8529, "endOffset": 8646, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "merge",
+      "ranges": [
+        { "startOffset": 8664, "endOffset": 9155, "count": 2 },
+        { "startOffset": 8765, "endOffset": 8783, "count": 1 },
+        { "startOffset": 8784, "endOffset": 8789, "count": 0 },
+        { "startOffset": 8830, "endOffset": 8848, "count": 1 },
+        { "startOffset": 8849, "endOffset": 8854, "count": 0 },
+        { "startOffset": 8905, "endOffset": 8916, "count": 1 },
+        { "startOffset": 8917, "endOffset": 8961, "count": 1 },
+        { "startOffset": 9032, "endOffset": 9053, "count": 1 },
+        { "startOffset": 9054, "endOffset": 9059, "count": 1 },
+        { "startOffset": 9096, "endOffset": 9109, "count": 1 },
+        { "startOffset": 9110, "endOffset": 9126, "count": 1 },
+        { "startOffset": 9118, "endOffset": 9126, "count": 0 },
+        { "startOffset": 9127, "endOffset": 9137, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

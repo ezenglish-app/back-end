@@ -1,0 +1,16 @@
+{
+  "scriptId": "441",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/nearestDay.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1169, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "nearestDay",
+      "ranges": [{ "startOffset": 228, "endOffset": 1104, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

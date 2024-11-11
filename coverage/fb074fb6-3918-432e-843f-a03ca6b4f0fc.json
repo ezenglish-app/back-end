@@ -1,0 +1,81 @@
+{
+  "scriptId": "612",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/timeout.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2936, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2935, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2871, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 526, "endOffset": 575, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "TimeoutError",
+      "ranges": [{ "startOffset": 580, "endOffset": 650, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "is",
+      "ranges": [{ "startOffset": 662, "endOffset": 792, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1094, "endOffset": 1161, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Timeout",
+      "ranges": [
+        { "startOffset": 1228, "endOffset": 2226, "count": 32 },
+        { "startOffset": 1336, "endOffset": 1456, "count": 0 },
+        { "startOffset": 1769, "endOffset": 2220, "count": 8 },
+        { "startOffset": 2090, "endOffset": 2210, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "executor",
+      "ranges": [{ "startOffset": 1251, "endOffset": 1261, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1471, "endOffset": 1591, "count": 32 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1818, "endOffset": 2010, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clear",
+      "ranges": [{ "startOffset": 2311, "endOffset": 2400, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "expires",
+      "ranges": [{ "startOffset": 2412, "endOffset": 2504, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "is",
+      "ranges": [{ "startOffset": 2516, "endOffset": 2804, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

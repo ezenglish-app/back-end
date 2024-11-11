@@ -1,0 +1,81 @@
+{
+  "scriptId": "615",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/mongo_client_auth_providers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4277, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4276, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4212, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1161, "endOffset": 1197, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1243, "endOffset": 1272, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1322, "endOffset": 1349, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1397, "endOffset": 1451, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1500, "endOffset": 1525, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1579, "endOffset": 1608, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "constructor",
+      "ranges": [{ "startOffset": 1664, "endOffset": 1695, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1743, "endOffset": 1766, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoClientAuthProviders",
+      "ranges": [{ "startOffset": 1938, "endOffset": 2003, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getOrCreateProvider",
+      "ranges": [
+        { "startOffset": 2426, "endOffset": 3140, "count": 2 },
+        { "startOffset": 2568, "endOffset": 2612, "count": 0 },
+        { "startOffset": 2703, "endOffset": 2810, "count": 0 },
+        { "startOffset": 2894, "endOffset": 2989, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getWorkflow",
+      "ranges": [{ "startOffset": 3220, "endOffset": 4091, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

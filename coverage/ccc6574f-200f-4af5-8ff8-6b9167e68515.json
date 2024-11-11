@@ -1,0 +1,36 @@
+{
+  "scriptId": "545",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/is_capped.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1367, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1366, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1302, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "IsCappedOperation",
+      "ranges": [{ "startOffset": 515, "endOffset": 649, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 654, "endOffset": 713, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 718, "endOffset": 1213, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

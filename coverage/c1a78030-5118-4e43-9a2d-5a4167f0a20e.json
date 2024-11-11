@@ -1,0 +1,36 @@
+{
+  "scriptId": "505",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/list_databases.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1871, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1807, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ListDatabasesOperation",
+      "ranges": [{ "startOffset": 562, "endOffset": 725, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 730, "endOffset": 787, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 792, "endOffset": 1580, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

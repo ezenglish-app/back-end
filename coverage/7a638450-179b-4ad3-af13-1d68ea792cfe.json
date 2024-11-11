@@ -1,0 +1,46 @@
+{
+  "scriptId": "598",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/aws_temporary_credentials.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6553, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6552, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 6488, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get awsSDK",
+      "ranges": [{ "startOffset": 836, "endOffset": 1002, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isAWSSDKInstalled",
+      "ranges": [{ "startOffset": 1014, "endOffset": 1120, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get provider",
+      "ranges": [{ "startOffset": 1539, "endOffset": 3951, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCredentials",
+      "ranges": [{ "startOffset": 3956, "endOffset": 4836, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCredentials",
+      "ranges": [{ "startOffset": 5233, "endOffset": 6345, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

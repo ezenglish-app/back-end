@@ -1,0 +1,36 @@
+{
+  "scriptId": "510",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/validate_collection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2028, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2027, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1963, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ValidateCollectionOperation",
+      "ranges": [{ "startOffset": 528, "endOffset": 1093, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 1098, "endOffset": 1150, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 1155, "endOffset": 1844, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

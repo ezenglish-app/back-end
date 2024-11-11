@@ -1,0 +1,36 @@
+{
+  "scriptId": "550",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/search_indexes/update.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1238, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1237, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1173, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "UpdateSearchIndexOperation",
+      "ranges": [{ "startOffset": 497, "endOffset": 665, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 670, "endOffset": 731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 736, "endOffset": 1069, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

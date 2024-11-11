@@ -1,0 +1,124 @@
+{
+  "scriptId": "516",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/update.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7944, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 7943, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 7879, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "UpdateOperation",
+      "ranges": [{ "startOffset": 857, "endOffset": 1028, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 1033, "endOffset": 1083, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get canRetryWrite",
+      "ranges": [
+        { "startOffset": 1088, "endOffset": 1280, "count": 1 },
+        { "startOffset": 1153, "endOffset": 1190, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1228, "endOffset": 1272, "count": 1 },
+        { "startOffset": 1251, "endOffset": 1272, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        { "startOffset": 1285, "endOffset": 2543, "count": 1 },
+        { "startOffset": 1355, "endOffset": 1360, "count": 0 },
+        { "startOffset": 1423, "endOffset": 1440, "count": 0 },
+        { "startOffset": 1651, "endOffset": 1743, "count": 0 },
+        { "startOffset": 1769, "endOffset": 1819, "count": 0 },
+        { "startOffset": 1994, "endOffset": 2052, "count": 0 },
+        { "startOffset": 2170, "endOffset": 2443, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2209, "endOffset": 2222, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "UpdateOneOperation",
+      "ranges": [
+        { "startOffset": 2661, "endOffset": 3002, "count": 1 },
+        { "startOffset": 2883, "endOffset": 2996, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        { "startOffset": 3007, "endOffset": 3773, "count": 1 },
+        { "startOffset": 3144, "endOffset": 3155, "count": 0 },
+        { "startOffset": 3190, "endOffset": 3230, "count": 0 },
+        { "startOffset": 3272, "endOffset": 3327, "count": 0 },
+        { "startOffset": 3440, "endOffset": 3448, "count": 0 },
+        { "startOffset": 3502, "endOffset": 3528, "count": 0 },
+        { "startOffset": 3529, "endOffset": 3550, "count": 0 },
+        { "startOffset": 3614, "endOffset": 3636, "count": 0 },
+        { "startOffset": 3637, "endOffset": 3658, "count": 0 },
+        { "startOffset": 3718, "endOffset": 3744, "count": 0 },
+        { "startOffset": 3745, "endOffset": 3748, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "UpdateManyOperation",
+      "ranges": [{ "startOffset": 3898, "endOffset": 4238, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 4243, "endOffset": 5009, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ReplaceOneOperation",
+      "ranges": [{ "startOffset": 5136, "endOffset": 5504, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 5509, "endOffset": 6275, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeUpdateStatement",
+      "ranges": [
+        { "startOffset": 6329, "endOffset": 7143, "count": 1 },
+        { "startOffset": 6439, "endOffset": 6545, "count": 0 },
+        { "startOffset": 6600, "endOffset": 6706, "count": 0 },
+        { "startOffset": 6793, "endOffset": 6836, "count": 0 },
+        { "startOffset": 6860, "endOffset": 6901, "count": 0 },
+        { "startOffset": 6924, "endOffset": 6963, "count": 0 },
+        { "startOffset": 6994, "endOffset": 7049, "count": 0 },
+        { "startOffset": 7077, "endOffset": 7126, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

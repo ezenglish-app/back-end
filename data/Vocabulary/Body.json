@@ -1,0 +1,590 @@
+[
+    {
+        "uuid": "4230ce3d-e571-4240-bde3-f0e1d4962064",
+        "english": "head",
+        "spanish": "cabeza",
+        "pronunciation": "/hɛd/"
+    },
+    {
+        "uuid": "1334c953-180c-49f4-840a-8bd86a26ed3d",
+        "english": "eye",
+        "spanish": "ojo",
+        "pronunciation": "/aɪ/"
+    },
+    {
+        "uuid": "296a21a0-906b-4692-8328-ca757b5b70cb",
+        "english": "nose",
+        "spanish": "nariz",
+        "pronunciation": "/noʊz/"
+    },
+    {
+        "uuid": "f5cc3c40-9746-449e-9df0-a46ac0e13794",
+        "english": "mouth",
+        "spanish": "boca",
+        "pronunciation": "/maʊθ/"
+    },
+    {
+        "uuid": "fb447f9f-5d69-40d5-8523-4857fa74eb74",
+        "english": "ear",
+        "spanish": "oreja",
+        "pronunciation": "/ɪr/"
+    },
+    {
+        "uuid": "018e29a2-0547-415b-a7ed-fa400f544067",
+        "english": "arm",
+        "spanish": "brazo",
+        "pronunciation": "/ɑrm/"
+    },
+    {
+        "uuid": "d58ed91d-2150-4479-bc70-373385b3ac1e",
+        "english": "hand",
+        "spanish": "mano",
+        "pronunciation": "/hænd/"
+    },
+    {
+        "uuid": "22e65284-98d0-476e-9ed7-3d865beec53f",
+        "english": "leg",
+        "spanish": "pierna",
+        "pronunciation": "/lɛɡ/"
+    },
+    {
+        "uuid": "7d66002c-5826-41aa-89cf-32b6b211047d",
+        "english": "foot",
+        "spanish": "pie",
+        "pronunciation": "/fʊt/"
+    },
+    {
+        "uuid": "0f666e9a-db77-4bce-b2a4-feb3adbf8e61",
+        "english": "knee",
+        "spanish": "rodilla",
+        "pronunciation": "/ni/"
+    },
+    {
+        "uuid": "14eb952e-4ba3-43ee-90c1-f4ce42cfd17a",
+        "english": "shoulder",
+        "spanish": "hombro",
+        "pronunciation": "/ˈʃoʊldər/"
+    },
+    {
+        "uuid": "c78de486-34d4-45ca-a72e-a15fe2401c20",
+        "english": "elbow",
+        "spanish": "codo",
+        "pronunciation": "/ˈɛlboʊ/"
+    },
+    {
+        "uuid": "48c60a7d-7578-43ed-b464-ca8c37b4c048",
+        "english": "wrist",
+        "spanish": "muñeca",
+        "pronunciation": "/rɪst/"
+    },
+    {
+        "uuid": "7fcce5ba-876b-4516-99d4-c0e478451266",
+        "english": "finger",
+        "spanish": "dedo",
+        "pronunciation": "/ˈfɪŋɡər/"
+    },
+    {
+        "uuid": "0da336fa-fdbf-4232-b943-05afa1a658ec",
+        "english": "thumb",
+        "spanish": "pulgar",
+        "pronunciation": "/θʌm/"
+    },
+    {
+        "uuid": "8d9a182f-b6ce-4a0c-aa8b-ad376c9bcb15",
+        "english": "chest",
+        "spanish": "pecho",
+        "pronunciation": "/tʃɛst/"
+    },
+    {
+        "uuid": "0e1e34bc-44d7-481b-a2dc-73a17a6049cb",
+        "english": "back",
+        "spanish": "espalda",
+        "pronunciation": "/bæk/"
+    },
+    {
+        "uuid": "334176ba-0da8-496e-927d-d8c5c893d6f8",
+        "english": "stomach",
+        "spanish": "estómago",
+        "pronunciation": "/ˈstʌmək/"
+    },
+    {
+        "uuid": "1858ea13-89bb-4fd2-bc53-6727491347f2",
+        "english": "waist",
+        "spanish": "cintura",
+        "pronunciation": "/weɪst/"
+    },
+    {
+        "uuid": "0238d3ba-87d8-4263-a556-7604453279db",
+        "english": "hip",
+        "spanish": "cadera",
+        "pronunciation": "/hɪp/"
+    },
+    {
+        "uuid": "d4767a64-1109-49f7-b89f-ef0aa1065fd6",
+        "english": "ankle",
+        "spanish": "tobillo",
+        "pronunciation": "/ˈæŋkəl/"
+    },
+    {
+        "uuid": "9ddd2dd2-fb03-496d-954a-5a192826324f",
+        "english": "toe",
+        "spanish": "dedo del pie",
+        "pronunciation": "/toʊ/"
+    },
+    {
+        "uuid": "e0990dc7-5204-4674-8542-e42f70a4ce90",
+        "english": "neck",
+        "spanish": "cuello",
+        "pronunciation": "/nɛk/"
+    },
+    {
+        "uuid": "2f841fb6-fc11-4322-97e5-20fb4d13ab35",
+        "english": "chin",
+        "spanish": "barbilla",
+        "pronunciation": "/tʃɪn/"
+    },
+    {
+        "uuid": "7f561a7e-37b7-4d1e-8bb3-f1a4a0b129e2",
+        "english": "forehead",
+        "spanish": "frente",
+        "pronunciation": "/ˈfɔrˌhɛd/"
+    },
+    {
+        "uuid": "0006ef19-6f61-4314-b2ab-d08da6bc7d94",
+        "english": "cheek",
+        "spanish": "mejilla",
+        "pronunciation": "/tʃik/"
+    },
+    {
+        "uuid": "118f2d8f-abe0-482e-ab80-454b92263e4f",
+        "english": "tongue",
+        "spanish": "lengua",
+        "pronunciation": "/tʌŋ/"
+    },
+    {
+        "uuid": "b3260a51-bed1-46bd-bda6-e1cf6008e214",
+        "english": "tooth",
+        "spanish": "diente",
+        "pronunciation": "/tuθ/"
+    },
+    {
+        "uuid": "edac51b4-4989-4d9a-9123-5b5d12d611f4",
+        "english": "lip",
+        "spanish": "labio",
+        "pronunciation": "/lɪp/"
+    },
+    {
+        "uuid": "f7dba957-59c9-4b4f-80fc-7936cb173da8",
+        "english": "eyebrow",
+        "spanish": "ceja",
+        "pronunciation": "/ˈaɪˌbraʊ/"
+    },
+    {
+        "uuid": "17dfe43a-6f2b-4b9d-83ab-71a1ddb2897b",
+        "english": "eyelash",
+        "spanish": "pestaña",
+        "pronunciation": "/ˈaɪˌlæʃ/"
+    },
+    {
+        "uuid": "263cad09-09a5-4a26-a157-827e90a1bada",
+        "english": "pupil",
+        "spanish": "pupila",
+        "pronunciation": "/ˈpjuːpəl/"
+    },
+    {
+        "uuid": "a06f4aab-d563-4e63-bdd3-34129fcc1727",
+        "english": "iris",
+        "spanish": "iris",
+        "pronunciation": "/ˈaɪrɪs/"
+    },
+    {
+        "uuid": "d862939d-cfe6-4be9-b180-18b64ff422e3",
+        "english": "nostril",
+        "spanish": "fosa nasal",
+        "pronunciation": "/ˈnɑstrəl/"
+    },
+    {
+        "uuid": "7ceaa87d-09ec-4f32-8bc6-afb3c352fa40",
+        "english": "jaw",
+        "spanish": "mandíbula",
+        "pronunciation": "/dʒɔ/"
+    },
+    {
+        "uuid": "5fc717cb-ec83-4cd7-b6ed-0e6daf81d578",
+        "english": "throat",
+        "spanish": "garganta",
+        "pronunciation": "/θroʊt/"
+    },
+    {
+        "uuid": "aae95f3f-22ea-40b7-9487-5ca232f9cab9",
+        "english": "shoulder blade",
+        "spanish": "omóplato",
+        "pronunciation": "/ˈʃoʊldər bleɪd/"
+    },
+    {
+        "uuid": "5525109a-1867-4e0e-a3b4-83e8cc83c2a3",
+        "english": "spine",
+        "spanish": "columna vertebral",
+        "pronunciation": "/spaɪn/"
+    },
+    {
+        "uuid": "07e548ec-9ea2-4d18-8c2a-1e984a44c565",
+        "english": "rib",
+        "spanish": "costilla",
+        "pronunciation": "/rɪb/"
+    },
+    {
+        "uuid": "ec01f419-38ff-41fc-95b2-bf7690aa0c63",
+        "english": "pelvis",
+        "spanish": "pelvis",
+        "pronunciation": "/ˈpɛlvɪs/"
+    },
+    {
+        "uuid": "2c65b967-affd-4837-b9e1-500145f3b59a",
+        "english": "skull",
+        "spanish": "cráneo",
+        "pronunciation": "/skʌl/"
+    },
+    {
+        "uuid": "35342497-ca84-479c-8669-fddb8dbd5c2c",
+        "english": "brain",
+        "spanish": "cerebro",
+        "pronunciation": "/breɪn/"
+    },
+    {
+        "uuid": "e6099f73-d806-417f-8288-c936fcca97e4",
+        "english": "heart",
+        "spanish": "corazón",
+        "pronunciation": "/hɑrt/"
+    },
+    {
+        "uuid": "a6435d59-5416-4f39-9444-5e4439acd1e7",
+        "english": "lung",
+        "spanish": "pulmón",
+        "pronunciation": "/lʌŋ/"
+    },
+    {
+        "uuid": "242e923f-6348-4f5a-9d16-b010f780b2cb",
+        "english": "liver",
+        "spanish": "hígado",
+        "pronunciation": "/ˈlɪvər/"
+    },
+    {
+        "uuid": "c8353b4c-1760-46e5-be58-b7dc763f63bf",
+        "english": "kidney",
+        "spanish": "riñón",
+        "pronunciation": "/ˈkɪdni/"
+    },
+    {
+        "uuid": "8d34d8d1-f2bc-4bab-a1ed-d0c1a5f5c9d0",
+        "english": "intestine",
+        "spanish": "intestino",
+        "pronunciation": "/ɪnˈtɛstɪn/"
+    },
+    {
+        "uuid": "708d9801-6bc8-41e6-9f0b-7c93ea095733",
+        "english": "bladder",
+        "spanish": "vejiga",
+        "pronunciation": "/ˈblædər/"
+    },
+    {
+        "uuid": "9190097c-2c16-4301-8e18-f2b4b004115a",
+        "english": "pancreas",
+        "spanish": "páncreas",
+        "pronunciation": "/ˈpæŋkriəs/"
+    },
+    {
+        "uuid": "36900469-f898-4f5e-99b1-8c859ddea943",
+        "english": "spleen",
+        "spanish": "bazo",
+        "pronunciation": "/splin/"
+    },
+    {
+        "uuid": "2a41d56f-abf2-4852-9397-fb9022c22fb2",
+        "english": "gallbladder",
+        "spanish": "vesícula biliar",
+        "pronunciation": "/ˈɡɔlˌblædər/"
+    },
+    {
+        "uuid": "4090fbdb-dfa7-443a-8c3c-32457af1a52b",
+        "english": "esophagus",
+        "spanish": "esófago",
+        "pronunciation": "/ɪˈsɑfəɡəs/"
+    },
+    {
+        "uuid": "8353ea0a-03eb-44df-b7ad-e89096ed80ad",
+        "english": "trachea",
+        "spanish": "tráquea",
+        "pronunciation": "/ˈtreɪkiə/"
+    },
+    {
+        "uuid": "f72bcadc-99c7-430d-aa41-7f99ed1f7fd2",
+        "english": "diaphragm",
+        "spanish": "diafragma",
+        "pronunciation": "/ˈdaɪəˌfræm/"
+    },
+    {
+        "uuid": "290795f6-42ed-4a6f-9105-dee1c67c7503",
+        "english": "vein",
+        "spanish": "vena",
+        "pronunciation": "/veɪn/"
+    },
+    {
+        "uuid": "ed1077d1-ded9-49ca-82c9-2cca18a922bd",
+        "english": "artery",
+        "spanish": "arteria",
+        "pronunciation": "/ˈɑrtəri/"
+    },
+    {
+        "uuid": "deb9a4fe-1bb3-4143-b19c-d7fcb3343501",
+        "english": "muscle",
+        "spanish": "músculo",
+        "pronunciation": "/ˈmʌsəl/"
+    },
+    {
+        "uuid": "1f6c5c7e-3b67-4ba4-b528-a6501b64a01a",
+        "english": "tendon",
+        "spanish": "tendón",
+        "pronunciation": "/ˈtɛndən/"
+    },
+    {
+        "uuid": "e3aa68b5-6b18-40ba-b9a8-6969cca43394",
+        "english": "ligament",
+        "spanish": "ligamento",
+        "pronunciation": "/ˈlɪɡəmənt/"
+    },
+    {
+        "uuid": "a5ff9e64-de19-4a2c-a8fe-50e8960a0ca8",
+        "english": "cartilage",
+        "spanish": "cartílago",
+        "pronunciation": "/ˈkɑrtɪlɪdʒ/"
+    },
+    {
+        "uuid": "bb312be8-3555-4379-8759-30bb3ac8e494",
+        "english": "bone",
+        "spanish": "hueso",
+        "pronunciation": "/boʊn/"
+    },
+    {
+        "uuid": "35300032-e930-40be-b950-5d2cec460cd0",
+        "english": "joint",
+        "spanish": "articulación",
+        "pronunciation": "/dʒɔɪnt/"
+    },
+    {
+        "uuid": "b2bd67d5-1467-4d50-8e5a-d2d856c21aa8",
+        "english": "marrow",
+        "spanish": "médula",
+        "pronunciation": "/ˈmæroʊ/"
+    },
+    {
+        "uuid": "0444aa03-2d51-40f6-83ca-a370345f6460",
+        "english": "skin",
+        "spanish": "piel",
+        "pronunciation": "/skɪn/"
+    },
+    {
+        "uuid": "a805039b-dd62-4f1f-80ca-abd7b1f65770",
+        "english": "hair",
+        "spanish": "cabello",
+        "pronunciation": "/hɛr/"
+    },
+    {
+        "uuid": "3ff78d50-7dd9-4600-a8d0-2d8977d445f5",
+        "english": "nail",
+        "spanish": "uña",
+        "pronunciation": "/neɪl/"
+    },
+    {
+        "uuid": "1e1beb34-50de-42a8-8191-4b58692a9649",
+        "english": "scalp",
+        "spanish": "cuero cabelludo",
+        "pronunciation": "/skælp/"
+    },
+    {
+        "uuid": "bee8eab3-70b7-4f4d-8a9b-0010470d9124",
+        "english": "palm",
+        "spanish": "palma",
+        "pronunciation": "/pɑm/"
+    },
+    {
+        "uuid": "dd2e3a2d-c290-4eb7-a494-36858d7ab405",
+        "english": "knuckle",
+        "spanish": "nudillo",
+        "pronunciation": "/ˈnʌkəl/"
+    },
+    {
+        "uuid": "8c3e49a6-861e-4125-8e55-6ad730a94ad7",
+        "english": "heel",
+        "spanish": "talón",
+        "pronunciation": "/hil/"
+    },
+    {
+        "uuid": "a7c04a72-103e-4e4d-812c-4e3a4ff1da33",
+        "english": "sole",
+        "spanish": "planta del pie",
+        "pronunciation": "/soʊl/"
+    },
+    {
+        "uuid": "c16d43e7-4417-4147-b82c-e4c7688d741c",
+        "english": "calf",
+        "spanish": "pantorrilla",
+        "pronunciation": "/kæf/"
+    },
+    {
+        "uuid": "a82282dc-02f0-43a0-bb9f-59d23333ef06",
+        "english": "thigh",
+        "spanish": "muslo",
+        "pronunciation": "/θaɪ/"
+    },
+    {
+        "uuid": "d5a5673e-da4c-4d58-b91a-5f928f34f131",
+        "english": "buttock",
+        "spanish": "nalga",
+        "pronunciation": "/ˈbʌtək/"
+    },
+    {
+        "uuid": "162c4507-643d-4c3c-ba9c-e4b5da19c44a",
+        "english": "groin",
+        "spanish": "ingle",
+        "pronunciation": "/ɡrɔɪn/"
+    },
+    {
+        "uuid": "7f9d4e11-8e44-4d33-a6ea-140c61525206",
+        "english": "abdomen",
+        "spanish": "abdomen",
+        "pronunciation": "/ˈæbdəmən/"
+    },
+    {
+        "uuid": "1127b7ba-e20b-4cb6-9c26-f40ae12707d0",
+        "english": "navel",
+        "spanish": "ombligo",
+        "pronunciation": "/ˈneɪvəl/"
+    },
+    {
+        "uuid": "8b674265-c33d-4ee2-9652-4112a1bc00a1",
+        "english": "armpit",
+        "spanish": "axila",
+        "pronunciation": "/ˈɑrmˌpɪt/"
+    },
+    {
+        "uuid": "1b788f26-9fb0-4d76-ba7d-5ec816a3994c",
+        "english": "bicep",
+        "spanish": "bíceps",
+        "pronunciation": "/ˈbaɪˌsɛp/"
+    },
+    {
+        "uuid": "65fe5ed1-0128-46f2-8e50-d0f7a1fd8bc1",
+        "english": "tricep",
+        "spanish": "tríceps",
+        "pronunciation": "/ˈtraɪˌsɛp/"
+    },
+    {
+        "uuid": "3fee9ebe-00de-44a2-98cf-b0b9bf5d41a8",
+        "english": "forearm",
+        "spanish": "antebrazo",
+        "pronunciation": "/ˈfɔrˌɑrm/"
+    },
+    {
+        "uuid": "8e74cf32-a5e0-4a56-8cb9-81777cfec35f",
+        "english": "shin",
+        "spanish": "espinilla",
+        "pronunciation": "/ʃɪn/"
+    },
+    {
+        "uuid": "264fcb64-22df-4574-a1ac-acb2babd9643",
+        "english": "hamstring",
+        "spanish": "tendón de la corva",
+        "pronunciation": "/ˈhæmˌstrɪŋ/"
+    },
+    {
+        "uuid": "5b827fdb-8651-44af-8a29-21aa43ad6235",
+        "english": "quadriceps",
+        "spanish": "cuádriceps",
+        "pronunciation": "/ˈkwɑdrəˌsɛps/"
+    },
+    {
+        "uuid": "a251e549-3bc2-4806-b0b8-d7c3d6de4707",
+        "english": "gluteus",
+        "spanish": "glúteo",
+        "pronunciation": "/ˈɡluːtiəs/"
+    },
+    {
+        "uuid": "37841f6c-cbe5-4582-9ac5-e06de647d0e9",
+        "english": "deltoid",
+        "spanish": "deltoides",
+        "pronunciation": "/ˈdɛlˌtɔɪd/"
+    },
+    {
+        "uuid": "72b708d2-5e5e-428c-a9c4-fc9e109328de",
+        "english": "pectoral",
+        "spanish": "pectoral",
+        "pronunciation": "/ˈpɛktərəl/"
+    },
+    {
+        "uuid": "31828591-5388-40ad-8720-b2b2ac99f37b",
+        "english": "abductor",
+        "spanish": "abductor",
+        "pronunciation": "/æbˈdʌktər/"
+    },
+    {
+        "uuid": "1442689b-d625-424b-8a66-ef2d57aa74dd",
+        "english": "adductor",
+        "spanish": "aductor",
+        "pronunciation": "/ædˈdʌktər/"
+    },
+    {
+        "uuid": "297c7a41-1583-4f75-be4e-636361d10011",
+        "english": "sternum",
+        "spanish": "esternón",
+        "pronunciation": "/ˈstɜrnəm/"
+    },
+    {
+        "uuid": "6e85b97e-0cb4-4251-9c26-ac92adcaea0d",
+        "english": "clavicle",
+        "spanish": "clavícula",
+        "pronunciation": "/ˈklævɪkəl/"
+    },
+    {
+        "uuid": "bfeaf2a9-2100-472e-8e08-1483cfb472d2",
+        "english": "scapula",
+        "spanish": "escápula",
+        "pronunciation": "/ˈskæpjələ/"
+    },
+    {
+        "uuid": "17e184b6-b612-4f9f-b417-5f1976365688",
+        "english": "humerus",
+        "spanish": "húmero",
+        "pronunciation": "/ˈhjuːmərəs/"
+    },
+    {
+        "uuid": "6d1fd60f-0149-44ae-ace4-615d6160dd60",
+        "english": "radius",
+        "spanish": "radio",
+        "pronunciation": "/ˈreɪdiəs/"
+    },
+    {
+        "uuid": "0696b2f2-1665-4a44-9a74-e4716edc4354",
+        "english": "ulna",
+        "spanish": "cúbito",
+        "pronunciation": "/ˈʌlnə/"
+    },
+    {
+        "uuid": "105ef341-7ab2-40d2-b4aa-61dbea154ac0",
+        "english": "femur",
+        "spanish": "fémur",
+        "pronunciation": "/ˈfimər/"
+    },
+    {
+        "uuid": "9ed28268-63b7-4711-a080-e984b00699dc",
+        "english": "tibia",
+        "spanish": "tibia",
+        "pronunciation": "/ˈtɪbiə/"
+    },
+    {
+        "uuid": "7bdcdab3-7a1a-4853-89c5-2a4ce28f8820",
+        "english": "fibula",
+        "spanish": "fíbula",
+        "pronunciation": "/ˈfɪbjʊlə/"
+    }
+]

@@ -1,0 +1,58 @@
+{
+  "scriptId": "589",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/wire_protocol/compression.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6119, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6118, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 6054, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadSnappy",
+      "ranges": [{ "startOffset": 1364, "endOffset": 1626, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compress",
+      "ranges": [{ "startOffset": 1690, "endOffset": 2582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decompress",
+      "ranges": [{ "startOffset": 2634, "endOffset": 3671, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadZstd",
+      "ranges": [{ "startOffset": 3724, "endOffset": 3815, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compressCommand",
+      "ranges": [{ "startOffset": 4000, "endOffset": 4482, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decompressResponse",
+      "ranges": [
+        { "startOffset": 4655, "endOffset": 6012, "count": 17 },
+        { "startOffset": 5037, "endOffset": 5063, "count": 10 },
+        { "startOffset": 5064, "endOffset": 5084, "count": 7 },
+        { "startOffset": 5228, "endOffset": 5691, "count": 0 },
+        { "startOffset": 5692, "endOffset": 5712, "count": 0 },
+        { "startOffset": 5787, "endOffset": 6011, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

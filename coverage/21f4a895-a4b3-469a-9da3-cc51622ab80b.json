@@ -1,0 +1,71 @@
+{
+  "scriptId": "488",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/admin.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4967, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4966, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4902, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Admin",
+      "ranges": [{ "startOffset": 1280, "endOffset": 1328, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "command",
+      "ranges": [{ "startOffset": 2264, "endOffset": 2598, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildInfo",
+      "ranges": [{ "startOffset": 2729, "endOffset": 2823, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serverInfo",
+      "ranges": [{ "startOffset": 2954, "endOffset": 3049, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serverStatus",
+      "ranges": [{ "startOffset": 3176, "endOffset": 3276, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ping",
+      "ranges": [{ "startOffset": 3414, "endOffset": 3498, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeUser",
+      "ranges": [{ "startOffset": 3669, "endOffset": 3887, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateCollection",
+      "ranges": [{ "startOffset": 4083, "endOffset": 4313, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listDatabases",
+      "ranges": [{ "startOffset": 4435, "endOffset": 4618, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "replSetGetStatus",
+      "ranges": [{ "startOffset": 4733, "endOffset": 4841, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

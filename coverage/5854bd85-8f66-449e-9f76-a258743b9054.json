@@ -1,0 +1,35 @@
+{
+  "scriptId": "507",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/explain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1473, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1472, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1408, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Explain",
+      "ranges": [{ "startOffset": 666, "endOffset": 974, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromOptions",
+      "ranges": [
+        { "startOffset": 986, "endOffset": 1341, "count": 3 },
+        { "startOffset": 1066, "endOffset": 1179, "count": 0 },
+        { "startOffset": 1181, "endOffset": 1340, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

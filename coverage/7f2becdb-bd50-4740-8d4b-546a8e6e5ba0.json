@@ -1,0 +1,91 @@
+{
+  "scriptId": "642",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/gridfs/upload.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11071, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 11070, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 11006, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "GridFSBucketWriteStream",
+      "ranges": [{ "startOffset": 1001, "endOffset": 2797, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_construct",
+      "ranges": [{ "startOffset": 2926, "endOffset": 3100, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_write",
+      "ranges": [{ "startOffset": 3438, "endOffset": 3529, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_final",
+      "ranges": [{ "startOffset": 3555, "endOffset": 3747, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abort",
+      "ranges": [{ "startOffset": 3909, "endOffset": 4437, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleError",
+      "ranges": [{ "startOffset": 4499, "endOffset": 4710, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createChunkDoc",
+      "ranges": [{ "startOffset": 4711, "endOffset": 4863, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkChunksIndex",
+      "ranges": [{ "startOffset": 4864, "endOffset": 5701, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkDone",
+      "ranges": [{ "startOffset": 5702, "endOffset": 6578, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkIndexes",
+      "ranges": [{ "startOffset": 6579, "endOffset": 7588, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createFilesDoc",
+      "ranges": [{ "startOffset": 7589, "endOffset": 8003, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "doWrite",
+      "ranges": [{ "startOffset": 8004, "endOffset": 9957, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeRemnant",
+      "ranges": [{ "startOffset": 9958, "endOffset": 10761, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isAborted",
+      "ranges": [{ "startOffset": 10762, "endOffset": 10969, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "scriptId": "528",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sessions.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 36153, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 36152, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 36088, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ClientSession",
+      "ranges": [
+        { "startOffset": 2292, "endOffset": 4083, "count": 7 },
+        { "startOffset": 2447, "endOffset": 2578, "count": 0 },
+        { "startOffset": 2659, "endOffset": 2796, "count": 0 },
+        { "startOffset": 2823, "endOffset": 2828, "count": 0 },
+        { "startOffset": 2869, "endOffset": 3124, "count": 0 },
+        { "startOffset": 3441, "endOffset": 3469, "count": 0 },
+        { "startOffset": 3577, "endOffset": 3605, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get id",
+      "ranges": [{ "startOffset": 4142, "endOffset": 4199, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get serverSession",
+      "ranges": [
+        { "startOffset": 4204, "endOffset": 4784, "count": 7 },
+        { "startOffset": 4344, "endOffset": 4469, "count": 0 },
+        { "startOffset": 4501, "endOffset": 4632, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get snapshotEnabled",
+      "ranges": [{ "startOffset": 4861, "endOffset": 4929, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get loadBalanced",
+      "ranges": [{ "startOffset": 4934, "endOffset": 5054, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get pinnedConnection",
+      "ranges": [{ "startOffset": 5080, "endOffset": 5150, "count": 14 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pin",
+      "ranges": [{ "startOffset": 5176, "endOffset": 5506, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unpin",
+      "ranges": [{ "startOffset": 5532, "endOffset": 5699, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isPinned",
+      "ranges": [
+        { "startOffset": 5704, "endOffset": 5816, "count": 7 },
+        { "startOffset": 5754, "endOffset": 5781, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "endSession",
+      "ranges": [
+        { "startOffset": 6113, "endOffset": 7266, "count": 9 },
+        { "startOffset": 6193, "endOffset": 6255, "count": 0 },
+        { "startOffset": 6288, "endOffset": 6987, "count": 7 },
+        { "startOffset": 7006, "endOffset": 7157, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "asyncDispose",
+      "ranges": [{ "startOffset": 7292, "endOffset": 7368, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "advanceOperationTime",
+      "ranges": [{ "startOffset": 7552, "endOffset": 7834, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "advanceClusterTime",
+      "ranges": [{ "startOffset": 8140, "endOffset": 9174, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 9308, "endOffset": 9589, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "incrementTransactionNumber",
+      "ranges": [{ "startOffset": 9958, "endOffset": 10034, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "inTransaction",
+      "ranges": [{ "startOffset": 10117, "endOffset": 10182, "count": 50 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "startTransaction",
+      "ranges": [{ "startOffset": 10586, "endOffset": 12284, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "commitTransaction",
+      "ranges": [{ "startOffset": 12370, "endOffset": 15991, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abortTransaction",
+      "ranges": [{ "startOffset": 16076, "endOffset": 18679, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toBSON",
+      "ranges": [{ "startOffset": 18778, "endOffset": 18886, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withTransaction",
+      "ranges": [{ "startOffset": 21207, "endOffset": 24493, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shouldUnpinAfterCommitError",
+      "ranges": [{ "startOffset": 24796, "endOffset": 25426, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shouldAddUnknownTransactionCommitResultLabel",
+      "ranges": [{ "startOffset": 25427, "endOffset": 25747, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isUnknownTransactionCommitResult",
+      "ranges": [{ "startOffset": 25748, "endOffset": 26234, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maybeClearPinnedConnection",
+      "ranges": [
+        { "startOffset": 26235, "endOffset": 27484, "count": 14 },
+        { "startOffset": 26450, "endOffset": 26466, "count": 0 },
+        { "startOffset": 26467, "endOffset": 26513, "count": 0 },
+        { "startOffset": 26514, "endOffset": 26595, "count": 0 },
+        { "startOffset": 26597, "endOffset": 26620, "count": 0 },
+        { "startOffset": 26834, "endOffset": 26853, "count": 0 },
+        { "startOffset": 26855, "endOffset": 27482, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isMaxTimeMSExpiredError",
+      "ranges": [{ "startOffset": 27485, "endOffset": 27783, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSession",
+      "ranges": [{ "startOffset": 28013, "endOffset": 28231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasTimedOut",
+      "ranges": [{ "startOffset": 28396, "endOffset": 28826, "count": 13 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 28985, "endOffset": 29563, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerSessionPool",
+      "ranges": [
+        { "startOffset": 29721, "endOffset": 29955, "count": 1 },
+        { "startOffset": 29771, "endOffset": 29875, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "acquire",
+      "ranges": [
+        { "startOffset": 30269, "endOffset": 30995, "count": 7 },
+        { "startOffset": 30370, "endOffset": 30375, "count": 0 },
+        { "startOffset": 30489, "endOffset": 30819, "count": 6 },
+        { "startOffset": 30911, "endOffset": 30965, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "release",
+      "ranges": [
+        { "startOffset": 31280, "endOffset": 31933, "count": 7 },
+        { "startOffset": 31388, "endOffset": 31393, "count": 0 },
+        { "startOffset": 31442, "endOffset": 31467, "count": 0 },
+        { "startOffset": 31469, "endOffset": 31524, "count": 0 },
+        { "startOffset": 31561, "endOffset": 31592, "count": 0 },
+        { "startOffset": 31769, "endOffset": 31808, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 31621, "endOffset": 31674, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applySession",
+      "ranges": [
+        { "startOffset": 32240, "endOffset": 35228, "count": 7 },
+        { "startOffset": 32317, "endOffset": 32379, "count": 0 },
+        { "startOffset": 32498, "endOffset": 32587, "count": 0 },
+        { "startOffset": 32616, "endOffset": 32619, "count": 2 },
+        { "startOffset": 32627, "endOffset": 32905, "count": 0 },
+        { "startOffset": 33242, "endOffset": 33262, "count": 5 },
+        { "startOffset": 33264, "endOffset": 33516, "count": 2 },
+        { "startOffset": 33629, "endOffset": 33724, "count": 0 },
+        { "startOffset": 33772, "endOffset": 33808, "count": 0 },
+        { "startOffset": 33809, "endOffset": 33872, "count": 0 },
+        { "startOffset": 33874, "endOffset": 34039, "count": 0 },
+        { "startOffset": 34084, "endOffset": 34364, "count": 0 },
+        { "startOffset": 34386, "endOffset": 35227, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateSessionFromResponse",
+      "ranges": [
+        { "startOffset": 35229, "endOffset": 36049, "count": 7 },
+        { "startOffset": 35316, "endOffset": 35398, "count": 6 },
+        { "startOffset": 35430, "endOffset": 35440, "count": 6 },
+        { "startOffset": 35441, "endOffset": 35478, "count": 6 },
+        { "startOffset": 35480, "endOffset": 35549, "count": 0 },
+        { "startOffset": 35581, "endOffset": 35591, "count": 0 },
+        { "startOffset": 35592, "endOffset": 35618, "count": 0 },
+        { "startOffset": 35620, "endOffset": 35696, "count": 0 },
+        { "startOffset": 35733, "endOffset": 35766, "count": 0 },
+        { "startOffset": 35768, "endOffset": 36047, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

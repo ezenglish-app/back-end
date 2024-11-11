@@ -1,0 +1,21 @@
+{
+  "scriptId": "635",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@mongodb-js/saslprep/1.1.9/dist/code-points-data.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3197, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3196, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3132, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

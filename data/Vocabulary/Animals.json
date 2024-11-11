@@ -1,0 +1,500 @@
+[
+  {
+    "uuid": "0672fe33-8ca1-4da3-8d1b-cf439477f9ab",
+    "english": "dog",
+    "spanish": "perro",
+    "pronunciation": "/dɒɡ/"
+  },
+  {
+    "uuid": "3462a616-0f9f-473c-a149-9ac8533d8821",
+    "english": "cat",
+    "spanish": "gato",
+    "pronunciation": "/kæt/"
+  },
+  {
+    "uuid": "517af7a3-564b-4cbb-bf6c-d27a31be419f",
+    "english": "bird",
+    "spanish": "pájaro",
+    "pronunciation": "/bɜːrd/"
+  },
+  {
+    "uuid": "b8255a48-c608-4f32-92e5-03c0df5847ac",
+    "english": "fish",
+    "spanish": "pez",
+    "pronunciation": "/fɪʃ/"
+  },
+  {
+    "uuid": "68d91f35-322d-4ecf-9d59-f36ca3ffdfb2",
+    "english": "horse",
+    "spanish": "caballo",
+    "pronunciation": "/hɔːrs/"
+  },
+  {
+    "uuid": "2914a9f0-8480-4645-8200-fc3b3f12d31d",
+    "english": "cow",
+    "spanish": "vaca",
+    "pronunciation": "/kaʊ/"
+  },
+  {
+    "uuid": "2bc0ce10-fc31-4a58-bf7e-2a5f269c810d",
+    "english": "sheep",
+    "spanish": "oveja",
+    "pronunciation": "/ʃiːp/"
+  },
+  {
+    "uuid": "95f9c085-faf0-47f7-b076-bfc5158a90b2",
+    "english": "goat",
+    "spanish": "cabra",
+    "pronunciation": "/ɡoʊt/"
+  },
+  {
+    "uuid": "83685163-4f04-4a39-b2d7-bd58d30b6176",
+    "english": "chicken",
+    "spanish": "pollo",
+    "pronunciation": "/ˈtʃɪkɪn/"
+  },
+  {
+    "uuid": "93edf552-cc01-406e-92fa-5da6c6bd1430",
+    "english": "duck",
+    "spanish": "pato",
+    "pronunciation": "/dʌk/"
+  },
+  {
+    "uuid": "59ac13e2-7c6f-43e6-ab53-0ed8dfe4d5eb",
+    "english": "pig",
+    "spanish": "cerdo",
+    "pronunciation": "/pɪɡ/"
+  },
+  {
+    "uuid": "8a28b9ac-a388-4271-9169-9bd75cfd9863",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "pronunciation": "/ˈræbɪt/"
+  },
+  {
+    "uuid": "bc21a1af-ba74-44c1-8cbd-3769d8fc3cc4",
+    "english": "mouse",
+    "spanish": "ratón",
+    "pronunciation": "/maʊs/"
+  },
+  {
+    "uuid": "4abab086-9fc2-43bb-ba1d-d13f4acf1ca9",
+    "english": "elephant",
+    "spanish": "elefante",
+    "pronunciation": "/ˈɛlɪfənt/"
+  },
+  {
+    "uuid": "17c8c285-45eb-4b0c-9d39-24c83ef93232",
+    "english": "lion",
+    "spanish": "león",
+    "pronunciation": "/ˈlaɪən/"
+  },
+  {
+    "uuid": "e9b55d87-18a6-4b30-be72-a397163dc27c",
+    "english": "tiger",
+    "spanish": "tigre",
+    "pronunciation": "/ˈtaɪɡər/"
+  },
+  {
+    "uuid": "03e09b84-f83a-4e5f-8b63-7a4818001f6d",
+    "english": "bear",
+    "spanish": "oso",
+    "pronunciation": "/bɛər/"
+  },
+  {
+    "uuid": "14849915-6bd3-4791-96ab-f72e51975e28",
+    "english": "wolf",
+    "spanish": "lobo",
+    "pronunciation": "/wʊlf/"
+  },
+  {
+    "uuid": "2f4b3f59-27b7-4e5f-808e-8f2f579511da",
+    "english": "fox",
+    "spanish": "zorro",
+    "pronunciation": "/fɒks/"
+  },
+  {
+    "uuid": "60389875-eb08-4c0c-8d18-3a53f81c29e3",
+    "english": "deer",
+    "spanish": "ciervo",
+    "pronunciation": "/dɪər/"
+  },
+  {
+    "uuid": "2e53e5c9-3bce-4383-bc30-69b7256fdb75",
+    "english": "monkey",
+    "spanish": "mono",
+    "pronunciation": "/ˈmʌŋki/"
+  },
+  {
+    "uuid": "7afa5f6f-5ae4-43d9-9098-e6dc68f51e67",
+    "english": "giraffe",
+    "spanish": "jirafa",
+    "pronunciation": "/dʒɪˈræf/"
+  },
+  {
+    "uuid": "8eeebd61-d114-4fa9-a8f5-22cd8c3a7d78",
+    "english": "zebra",
+    "spanish": "cebra",
+    "pronunciation": "/ˈziːbrə/"
+  },
+  {
+    "uuid": "39e31576-96e5-45e3-844d-6ac0fa99af96",
+    "english": "kangaroo",
+    "spanish": "canguro",
+    "pronunciation": "/ˌkæŋɡəˈruː/"
+  },
+  {
+    "uuid": "38ebf446-eab3-4e7b-8912-d717d646cbfa",
+    "english": "panda",
+    "spanish": "panda",
+    "pronunciation": "/ˈpændə/"
+  },
+  {
+    "uuid": "da23b07e-d9d6-489a-b7ad-8a3875a78931",
+    "english": "koala",
+    "spanish": "koala",
+    "pronunciation": "/koʊˈɑːlə/"
+  },
+  {
+    "uuid": "b870bf37-990a-4e37-88e3-b74f8a7b6081",
+    "english": "crocodile",
+    "spanish": "cocodrilo",
+    "pronunciation": "/ˈkrɒkəˌdaɪl/"
+  },
+  {
+    "uuid": "cfe1bf8c-b3e7-4f03-9bd0-5320c38a0729",
+    "english": "alligator",
+    "spanish": "caimán",
+    "pronunciation": "/ˈælɪˌɡeɪtər/"
+  },
+  {
+    "uuid": "bdec2562-4227-4f24-81c4-7f836e73c0af",
+    "english": "snake",
+    "spanish": "serpiente",
+    "pronunciation": "/sneɪk/"
+  },
+  {
+    "uuid": "f600a91f-1a50-47e2-b851-57231b0120ad",
+    "english": "frog",
+    "spanish": "rana",
+    "pronunciation": "/frɒɡ/"
+  },
+  {
+    "uuid": "a0b0ff96-5e21-437b-b1c6-e97c55171518",
+    "english": "turtle",
+    "spanish": "tortuga",
+    "pronunciation": "/ˈtɜːrtəl/"
+  },
+  {
+    "uuid": "3834883a-8e56-46e5-a8a1-a483668e51de",
+    "english": "lizard",
+    "spanish": "lagarto",
+    "pronunciation": "/ˈlɪzərd/"
+  },
+  {
+    "uuid": "d30094f5-2ce6-4cb3-925a-b5c6076d88e0",
+    "english": "bat",
+    "spanish": "murciélago",
+    "pronunciation": "/bæt/"
+  },
+  {
+    "uuid": "bbe9d6bd-8a1d-409f-bd0f-b6fc59f8d127",
+    "english": "owl",
+    "spanish": "búho",
+    "pronunciation": "/aʊl/"
+  },
+  {
+    "uuid": "3dc3aea0-3da9-4758-a771-5c4c34333e61",
+    "english": "eagle",
+    "spanish": "águila",
+    "pronunciation": "/ˈiːɡəl/"
+  },
+  {
+    "uuid": "7732e10e-f735-4cd3-93d9-09bcc39a0491",
+    "english": "hawk",
+    "spanish": "halcón",
+    "pronunciation": "/hɔːk/"
+  },
+  {
+    "uuid": "724d4991-1fce-4d32-a514-a0d23560c617",
+    "english": "parrot",
+    "spanish": "loro",
+    "pronunciation": "/ˈpærət/"
+  },
+  {
+    "uuid": "6e62afc7-4def-4e9e-ab84-5033fc6c20d0",
+    "english": "peacock",
+    "spanish": "pavo real",
+    "pronunciation": "/ˈpiːˌkɒk/"
+  },
+  {
+    "uuid": "dbfb06d0-b4f7-4707-9bde-fc44c89dde55",
+    "english": "penguin",
+    "spanish": "pingüino",
+    "pronunciation": "/ˈpɛŋɡwɪn/"
+  },
+  {
+    "uuid": "9c6e19b4-61b8-4594-9117-2cad8210ed24",
+    "english": "dolphin",
+    "spanish": "delfín",
+    "pronunciation": "/ˈdɒlfɪn/"
+  },
+  {
+    "uuid": "b052ee9c-537c-4dd7-8ef0-fe5fb88e0dd4",
+    "english": "whale",
+    "spanish": "ballena",
+    "pronunciation": "/weɪl/"
+  },
+  {
+    "uuid": "a5dcac82-6a41-4139-acb4-c936e69d0aa2",
+    "english": "shark",
+    "spanish": "tiburón",
+    "pronunciation": "/ʃɑːrk/"
+  },
+  {
+    "uuid": "10effae7-a641-42a2-b7f6-78f5581f7d5c",
+    "english": "octopus",
+    "spanish": "pulpo",
+    "pronunciation": "/ˈɒktəpəs/"
+  },
+  {
+    "uuid": "8bf6f0b9-56b2-4818-8e4d-575d8e64931d",
+    "english": "crab",
+    "spanish": "cangrejo",
+    "pronunciation": "/kræb/"
+  },
+  {
+    "uuid": "b44216a5-2b0d-452c-8672-4d00926bd7c3",
+    "english": "lobster",
+    "spanish": "langosta",
+    "pronunciation": "/ˈlɒbstər/"
+  },
+  {
+    "uuid": "6e119fb9-3d9a-4484-9886-e104c454ad42",
+    "english": "jellyfish",
+    "spanish": "medusa",
+    "pronunciation": "/ˈdʒɛliˌfɪʃ/"
+  },
+  {
+    "uuid": "11b00c44-df54-4af9-aea3-d239dce03e29",
+    "english": "starfish",
+    "spanish": "estrella de mar",
+    "pronunciation": "/ˈstɑːrˌfɪʃ/"
+  },
+  {
+    "uuid": "af148cda-65f1-4b45-9265-a1206476ad28",
+    "english": "seahorse",
+    "spanish": "caballito de mar",
+    "pronunciation": "/ˈsiːˌhɔːrs/"
+  },
+  {
+    "uuid": "9dcb26e5-fb81-47fe-97f7-afb6faddbe49",
+    "english": "seal",
+    "spanish": "foca",
+    "pronunciation": "/siːl/"
+  },
+  {
+    "uuid": "3b4100aa-f609-47bb-a799-6037d460b3cb",
+    "english": "walrus",
+    "spanish": "morsa",
+    "pronunciation": "/ˈwɔːlrəs/"
+  },
+  {
+    "uuid": "651a65fa-f521-46e4-a6ad-bd27eab4535c",
+    "english": "polar bear",
+    "spanish": "oso polar",
+    "pronunciation": "/ˈpoʊlər bɛər/"
+  },
+  {
+    "uuid": "b3bc4070-7dfd-4c03-826b-a4618d6dfcf6",
+    "english": "camel",
+    "spanish": "camello",
+    "pronunciation": "/ˈkæməl/"
+  },
+  {
+    "uuid": "3ce54f75-6460-4d8a-833b-7d1b00dfa6bb",
+    "english": "donkey",
+    "spanish": "burro",
+    "pronunciation": "/ˈdɒŋki/"
+  },
+  {
+    "uuid": "4938ebc3-7407-4af9-8fbc-09e6c4158a9a",
+    "english": "buffalo",
+    "spanish": "búfalo",
+    "pronunciation": "/ˈbʌfəˌloʊ/"
+  },
+  {
+    "uuid": "ddfa1c0b-b433-49fb-b2ed-111bc1cd49bc",
+    "english": "rhinoceros",
+    "spanish": "rinoceronte",
+    "pronunciation": "/raɪˈnɒsərəs/"
+  },
+  {
+    "uuid": "b50cb40a-7148-4241-a348-af072d08c4f2",
+    "english": "hippopotamus",
+    "spanish": "hipopótamo",
+    "pronunciation": "/ˌhɪpəˈpɒtəməs/"
+  },
+  {
+    "uuid": "38940c83-bb9c-4ad6-982b-68af5280113f",
+    "english": "cheetah",
+    "spanish": "guepardo",
+    "pronunciation": "/ˈtʃiːtə/"
+  },
+  {
+    "uuid": "2700e7f6-0241-48d0-aa4c-4f746407c854",
+    "english": "leopard",
+    "spanish": "leopardo",
+    "pronunciation": "/ˈlɛpərd/"
+  },
+  {
+    "uuid": "58d47029-9520-4c06-96fe-1be2ca26ef14",
+    "english": "hyena",
+    "spanish": "hiena",
+    "pronunciation": "/haɪˈiːnə/"
+  },
+  {
+    "uuid": "71db01e3-d573-46f6-8a74-049ccbe77bee",
+    "english": "gorilla",
+    "spanish": "gorila",
+    "pronunciation": "/ɡəˈrɪlə/"
+  },
+  {
+    "uuid": "64ae164d-26aa-4304-b674-b0b8e54931fa",
+    "english": "chimpanzee",
+    "spanish": "chimpancé",
+    "pronunciation": "/ˌtʃɪmpænˈziː/"
+  },
+  {
+    "uuid": "a1e7eca3-60dc-4bee-8cfc-57d20a83773f",
+    "english": "orangutan",
+    "spanish": "orangután",
+    "pronunciation": "/əˈræŋuˌtæn/"
+  },
+  {
+    "uuid": "fc2c3ec0-6f20-411d-a4c8-3116d263ba8c",
+    "english": "lemur",
+    "spanish": "lémur",
+    "pronunciation": "/ˈliːmər/"
+  },
+  {
+    "uuid": "e9dd7155-21e3-4978-a071-94c768012460",
+    "english": "meerkat",
+    "spanish": "suricata",
+    "pronunciation": "/ˈmɪərˌkæt/"
+  },
+  {
+    "uuid": "734d489c-7662-4763-a96b-7a3d195298ec",
+    "english": "anteater",
+    "spanish": "oso hormiguero",
+    "pronunciation": "/ˈæntˌiːtər/"
+  },
+  {
+    "uuid": "b839ae15-0d35-443e-966c-d1cb2925a225",
+    "english": "armadillo",
+    "spanish": "armadillo",
+    "pronunciation": "/ˌɑːrməˈdɪloʊ/"
+  },
+  {
+    "uuid": "59982dff-e0b5-4932-b256-ede5fec63136",
+    "english": "sloth",
+    "spanish": "perezoso",
+    "pronunciation": "/sloʊθ/"
+  },
+  {
+    "uuid": "354bef3d-9941-4667-a438-442b90069365",
+    "english": "porcupine",
+    "spanish": "puercoespín",
+    "pronunciation": "/ˈpɔːrkjəˌpaɪn/"
+  },
+  {
+    "uuid": "31d1838c-5cc1-454c-8ab4-eb3d6a7a3e1c",
+    "english": "hedgehog",
+    "spanish": "erizo",
+    "pronunciation": "/ˈhɛdʒˌhɒɡ/"
+  },
+  {
+    "uuid": "852afbe4-6dc0-4d6f-a7c9-5290be58aaf0",
+    "english": "skunk",
+    "spanish": "mofeta",
+    "pronunciation": "/skʌŋk/"
+  },
+  {
+    "uuid": "d4cff75a-07ce-4088-be2e-5db8bd145f3b",
+    "english": "raccoon",
+    "spanish": "mapache",
+    "pronunciation": "/ræˈkuːn/"
+  },
+  {
+    "uuid": "51fa8812-37c1-4498-acb2-e7877757433d",
+    "english": "beaver",
+    "spanish": "castor",
+    "pronunciation": "/ˈbiːvər/"
+  },
+  {
+    "uuid": "3470640a-3e27-4626-8879-d49aa4ebdd76",
+    "english": "otter",
+    "spanish": "nutria",
+    "pronunciation": "/ˈɒtər/"
+  },
+  {
+    "uuid": "60323976-414c-414c-aa3f-a13ac0e7eecb",
+    "english": "badger",
+    "spanish": "tejón",
+    "pronunciation": "/ˈbædʒər/"
+  },
+  {
+    "uuid": "5997a2f7-64d7-4224-a210-6e18c05a715d",
+    "english": "squirrel",
+    "spanish": "ardilla",
+    "pronunciation": "/ˈskwɜːrəl/"
+  },
+  {
+    "uuid": "59e060e4-85d5-46ca-9f07-720eb5905143",
+    "english": "chipmunk",
+    "spanish": "ardilla listada",
+    "pronunciation": "/ˈtʃɪpˌmʌŋk/"
+  },
+  {
+    "uuid": "bb26106b-e0a7-4aa8-906d-049e3ea0c7e2",
+    "english": "mole",
+    "spanish": "topo",
+    "pronunciation": "/moʊl/"
+  },
+  {
+    "uuid": "713ea5ee-0563-4846-9de5-7d787e2638c3",
+    "english": "hamster",
+    "spanish": "hámster",
+    "pronunciation": "/ˈhæmstər/"
+  },
+  {
+    "uuid": "0558773b-3081-47bb-a8cf-832c126125cb",
+    "english": "guinea pig",
+    "spanish": "cobaya",
+    "pronunciation": "/ˈɡɪni pɪɡ/"
+  },
+  {
+    "uuid": "b94179c9-c9f5-412c-9124-037e7cac544d",
+    "english": "ferret",
+    "spanish": "hurón",
+    "pronunciation": "/ˈfɛrɪt/"
+  },
+  {
+    "uuid": "cab3ef7f-60a2-4f17-833e-9900ec5e80d2",
+    "english": "weasel",
+    "spanish": "comadreja",
+    "pronunciation": "/ˈwiːzəl/"
+  },
+  {
+    "uuid": "1922910d-60ae-4ae0-9da8-49c0d2951d13",
+    "english": "mink",
+    "spanish": "visón",
+    "pronunciation": "/mɪŋk/"
+  },
+  {
+    "uuid": "f0a471ff-1866-4310-83ed-9f79aabba70a",
+    "english": "platypus",
+    "spanish": "ornitorrinco",
+    "pronunciation": "/ˈplætɪpəs/"
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "scriptId": "534",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cursor/find_cursor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 15216, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 15215, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 15151, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FindCursor",
+      "ranges": [
+        { "startOffset": 1018, "endOffset": 1373, "count": 2 },
+        { "startOffset": 1282, "endOffset": 1367, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 1378, "endOffset": 1631, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 1636, "endOffset": 1695, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initialize",
+      "ranges": [{ "startOffset": 1721, "endOffset": 2286, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMore",
+      "ranges": [{ "startOffset": 2312, "endOffset": 4026, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "count",
+      "ranges": [{ "startOffset": 4195, "endOffset": 4872, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "explain",
+      "ranges": [{ "startOffset": 4923, "endOffset": 5306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "filter",
+      "ranges": [{ "startOffset": 5343, "endOffset": 5457, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hint",
+      "ranges": [{ "startOffset": 5618, "endOffset": 5730, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "min",
+      "ranges": [{ "startOffset": 6006, "endOffset": 6114, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "max",
+      "ranges": [{ "startOffset": 6390, "endOffset": 6498, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "returnKey",
+      "ranges": [{ "startOffset": 6880, "endOffset": 7004, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "showRecordId",
+      "ranges": [{ "startOffset": 7377, "endOffset": 7507, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addQueryModifier",
+      "ranges": [{ "startOffset": 7707, "endOffset": 9221, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "comment",
+      "ranges": [{ "startOffset": 9394, "endOffset": 9514, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maxAwaitTimeMS",
+      "ranges": [{ "startOffset": 9809, "endOffset": 10099, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maxTimeMS",
+      "ranges": [{ "startOffset": 10337, "endOffset": 10612, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "project",
+      "ranges": [{ "startOffset": 12253, "endOffset": 12376, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sort",
+      "ranges": [{ "startOffset": 12573, "endOffset": 12882, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "allowDiskUse",
+      "ranges": [{ "startOffset": 13165, "endOffset": 13662, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "collation",
+      "ranges": [{ "startOffset": 13890, "endOffset": 14014, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "limit",
+      "ranges": [
+        { "startOffset": 14133, "endOffset": 14547, "count": 2 },
+        { "startOffset": 14222, "endOffset": 14331, "count": 0 },
+        { "startOffset": 14371, "endOffset": 14480, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "skip",
+      "ranges": [{ "startOffset": 14664, "endOffset": 15074, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

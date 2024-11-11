@@ -1,0 +1,46 @@
+{
+  "scriptId": "631",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@mongodb-js/saslprep/1.1.9/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3300, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3299, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3235, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCodePoint",
+      "ranges": [{ "startOffset": 271, "endOffset": 310, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "first",
+      "ranges": [{ "startOffset": 326, "endOffset": 337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "last",
+      "ranges": [{ "startOffset": 352, "endOffset": 374, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toCodePoints",
+      "ranges": [{ "startOffset": 376, "endOffset": 942, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "saslprep",
+      "ranges": [{ "startOffset": 943, "endOffset": 3113, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

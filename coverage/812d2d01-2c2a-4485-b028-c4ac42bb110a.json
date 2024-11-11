@@ -1,0 +1,16 @@
+{
+  "scriptId": "426",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/tzDate.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 300, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "tzDate",
+      "ranges": [{ "startOffset": 140, "endOffset": 243, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "423",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/ap.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 745, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ap",
+      "ranges": [{ "startOffset": 77, "endOffset": 696, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

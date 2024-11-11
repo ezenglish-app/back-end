@@ -1,0 +1,46 @@
+{
+  "scriptId": "521",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/aggregate.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4370, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4369, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4305, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AggregateOperation",
+      "ranges": [{ "startOffset": 927, "endOffset": 2313, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 2318, "endOffset": 2371, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get canRetryRead",
+      "ranges": [{ "startOffset": 2376, "endOffset": 2438, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addToPipeline",
+      "ranges": [{ "startOffset": 2443, "endOffset": 2506, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 2511, "endOffset": 4009, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

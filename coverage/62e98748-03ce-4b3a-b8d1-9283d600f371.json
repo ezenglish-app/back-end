@@ -1,0 +1,162 @@
+{
+  "scriptId": "629",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/scram.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10055, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 10054, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 9990, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ScramSHA",
+      "ranges": [
+        { "startOffset": 721, "endOffset": 823, "count": 2 },
+        { "startOffset": 807, "endOffset": 816, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "prepare",
+      "ranges": [
+        { "startOffset": 828, "endOffset": 1503, "count": 1 },
+        { "startOffset": 998, "endOffset": 1110, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "auth",
+      "ranges": [
+        { "startOffset": 1508, "endOffset": 1864, "count": 1 },
+        { "startOffset": 1640, "endOffset": 1660, "count": 0 },
+        { "startOffset": 1662, "endOffset": 1791, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cleanUsername",
+      "ranges": [{ "startOffset": 1867, "endOffset": 1964, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clientFirstMessageBare",
+      "ranges": [{ "startOffset": 1965, "endOffset": 2377, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeFirstMessage",
+      "ranges": [
+        { "startOffset": 2378, "endOffset": 3057, "count": 2 },
+        { "startOffset": 2544, "endOffset": 2590, "count": 1 },
+        { "startOffset": 2591, "endOffset": 2639, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "executeScram",
+      "ranges": [
+        { "startOffset": 3058, "endOffset": 3762, "count": 1 },
+        { "startOffset": 3190, "endOffset": 3294, "count": 0 },
+        { "startOffset": 3323, "endOffset": 3434, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "continueScramConversation",
+      "ranges": [
+        { "startOffset": 3763, "endOffset": 6761, "count": 1 },
+        { "startOffset": 3961, "endOffset": 4065, "count": 0 },
+        { "startOffset": 4094, "endOffset": 4202, "count": 0 },
+        { "startOffset": 4432, "endOffset": 4468, "count": 0 },
+        { "startOffset": 4569, "endOffset": 4606, "count": 0 },
+        { "startOffset": 4761, "endOffset": 4900, "count": 0 },
+        { "startOffset": 4989, "endOffset": 5115, "count": 0 },
+        { "startOffset": 6314, "endOffset": 6406, "count": 0 },
+        { "startOffset": 6523, "endOffset": 6760, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parsePayload",
+      "ranges": [
+        { "startOffset": 6762, "endOffset": 7098, "count": 2 },
+        { "startOffset": 6949, "endOffset": 7079, "count": 4 },
+        { "startOffset": 7012, "endOffset": 7017, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "passwordDigest",
+      "ranges": [
+        { "startOffset": 7099, "endOffset": 8050, "count": 1 },
+        { "startOffset": 7183, "endOffset": 7272, "count": 0 },
+        { "startOffset": 7311, "endOffset": 7400, "count": 0 },
+        { "startOffset": 7432, "endOffset": 7520, "count": 0 },
+        { "startOffset": 7594, "endOffset": 7961, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "xor",
+      "ranges": [
+        { "startOffset": 8070, "endOffset": 8418, "count": 1 },
+        { "startOffset": 8120, "endOffset": 8155, "count": 0 },
+        { "startOffset": 8185, "endOffset": 8220, "count": 0 },
+        { "startOffset": 8330, "endOffset": 8368, "count": 20 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "H",
+      "ranges": [{ "startOffset": 8419, "endOffset": 8507, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "HMAC",
+      "ranges": [{ "startOffset": 8508, "endOffset": 8609, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_hiCachePurge",
+      "ranges": [{ "startOffset": 8652, "endOffset": 8722, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "HI",
+      "ranges": [
+        { "startOffset": 8777, "endOffset": 9370, "count": 1 },
+        { "startOffset": 8973, "endOffset": 9010, "count": 0 },
+        { "startOffset": 9257, "endOffset": 9289, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareDigest",
+      "ranges": [
+        { "startOffset": 9371, "endOffset": 9712, "count": 1 },
+        { "startOffset": 9441, "endOffset": 9470, "count": 0 },
+        { "startOffset": 9581, "endOffset": 9711, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ScramSHA1",
+      "ranges": [{ "startOffset": 9752, "endOffset": 9796, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ScramSHA256",
+      "ranges": [{ "startOffset": 9871, "endOffset": 9917, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

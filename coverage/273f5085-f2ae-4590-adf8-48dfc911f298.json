@@ -1,0 +1,36 @@
+{
+  "scriptId": "526",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/kill_cursors.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1987, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1986, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1922, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "KillCursorsOperation",
+      "ranges": [{ "startOffset": 541, "endOffset": 701, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 706, "endOffset": 761, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 766, "endOffset": 1724, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

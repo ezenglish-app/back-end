@@ -1,0 +1,193 @@
+{
+  "scriptId": "590",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/commands.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 21942, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 21941, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 21877, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpQueryRequest",
+      "ranges": [
+        { "startOffset": 1159, "endOffset": 3305, "count": 7 },
+        { "startOffset": 1469, "endOffset": 1575, "count": 0 },
+        { "startOffset": 1674, "endOffset": 1758, "count": 0 },
+        { "startOffset": 1870, "endOffset": 2040, "count": 0 },
+        { "startOffset": 2226, "endOffset": 2230, "count": 0 },
+        { "startOffset": 2621, "endOffset": 2649, "count": 0 },
+        { "startOffset": 2747, "endOffset": 2772, "count": 0 },
+        { "startOffset": 2934, "endOffset": 2941, "count": 0 },
+        { "startOffset": 3127, "endOffset": 3134, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "incRequestId",
+      "ranges": [{ "startOffset": 3345, "endOffset": 3406, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nextRequestId",
+      "ranges": [{ "startOffset": 3444, "endOffset": 3498, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getRequestId",
+      "ranges": [{ "startOffset": 3560, "endOffset": 3611, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toBin",
+      "ranges": [
+        { "startOffset": 3708, "endOffset": 8002, "count": 7 },
+        { "startOffset": 3855, "endOffset": 3909, "count": 0 },
+        { "startOffset": 3940, "endOffset": 3988, "count": 0 },
+        { "startOffset": 4019, "endOffset": 4070, "count": 0 },
+        { "startOffset": 4105, "endOffset": 4161, "count": 0 },
+        { "startOffset": 4190, "endOffset": 4239, "count": 0 },
+        { "startOffset": 4266, "endOffset": 4312, "count": 0 },
+        { "startOffset": 4339, "endOffset": 4385, "count": 0 },
+        { "startOffset": 4510, "endOffset": 4547, "count": 0 },
+        { "startOffset": 5220, "endOffset": 5271, "count": 0 },
+        { "startOffset": 5273, "endOffset": 5652, "count": 0 },
+        { "startOffset": 5754, "endOffset": 5773, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpReply",
+      "ranges": [
+        { "startOffset": 8083, "endOffset": 9403, "count": 7 },
+        { "startOffset": 8940, "endOffset": 8947, "count": 0 },
+        { "startOffset": 9046, "endOffset": 9052, "count": 0 },
+        { "startOffset": 9166, "endOffset": 9172, "count": 0 },
+        { "startOffset": 9289, "endOffset": 9296, "count": 0 },
+        { "startOffset": 9389, "endOffset": 9396, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isParsed",
+      "ranges": [{ "startOffset": 9408, "endOffset": 9454, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 9459, "endOffset": 11137, "count": 7 },
+        { "startOffset": 9549, "endOffset": 9573, "count": 0 },
+        { "startOffset": 10125, "endOffset": 10247, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DocumentSequence",
+      "ranges": [{ "startOffset": 11326, "endOffset": 11392, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "OpMsgRequest",
+      "ranges": [
+        { "startOffset": 11482, "endOffset": 12757, "count": 13 },
+        { "startOffset": 11723, "endOffset": 11813, "count": 0 },
+        { "startOffset": 11943, "endOffset": 11948, "count": 0 },
+        { "startOffset": 12023, "endOffset": 12042, "count": 0 },
+        { "startOffset": 12200, "endOffset": 12228, "count": 7 },
+        { "startOffset": 12229, "endOffset": 12236, "count": 6 },
+        { "startOffset": 12326, "endOffset": 12351, "count": 7 },
+        { "startOffset": 12352, "endOffset": 12359, "count": 6 },
+        { "startOffset": 12445, "endOffset": 12452, "count": 0 },
+        { "startOffset": 12718, "endOffset": 12742, "count": 3 },
+        { "startOffset": 12743, "endOffset": 12750, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toBin",
+      "ranges": [
+        { "startOffset": 12762, "endOffset": 13653, "count": 13 },
+        { "startOffset": 12857, "endOffset": 12912, "count": 0 },
+        { "startOffset": 12942, "endOffset": 12993, "count": 0 },
+        { "startOffset": 13027, "endOffset": 13081, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeSections",
+      "ranges": [{ "startOffset": 13754, "endOffset": 14298, "count": 13 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extractDocumentSequences",
+      "ranges": [
+        { "startOffset": 14501, "endOffset": 16477, "count": 13 },
+        { "startOffset": 14717, "endOffset": 16238, "count": 78 },
+        { "startOffset": 14770, "endOffset": 16228, "count": 0 },
+        { "startOffset": 16270, "endOffset": 16323, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serializeBson",
+      "ranges": [{ "startOffset": 16482, "endOffset": 16713, "count": 13 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRequestId",
+      "ranges": [{ "startOffset": 16725, "endOffset": 16826, "count": 13 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpMsgResponse",
+      "ranges": [
+        { "startOffset": 16909, "endOffset": 18443, "count": 10 },
+        { "startOffset": 17980, "endOffset": 17987, "count": 0 },
+        { "startOffset": 18086, "endOffset": 18092, "count": 0 },
+        { "startOffset": 18206, "endOffset": 18212, "count": 0 },
+        { "startOffset": 18329, "endOffset": 18336, "count": 0 },
+        { "startOffset": 18429, "endOffset": 18436, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isParsed",
+      "ranges": [{ "startOffset": 18448, "endOffset": 18494, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 18499, "endOffset": 19425, "count": 10 },
+        { "startOffset": 18589, "endOffset": 18613, "count": 0 },
+        { "startOffset": 19036, "endOffset": 19348, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpCompressedRequest",
+      "ranges": [{ "startOffset": 19714, "endOffset": 19815, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "canCompress",
+      "ranges": [{ "startOffset": 19975, "endOffset": 20224, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toBin",
+      "ranges": [{ "startOffset": 20229, "endOffset": 21785, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

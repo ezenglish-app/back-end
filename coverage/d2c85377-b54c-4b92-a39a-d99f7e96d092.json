@@ -1,0 +1,51 @@
+{
+  "scriptId": "509",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/run_command.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1920, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1919, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1855, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RunCommandOperation",
+      "ranges": [{ "startOffset": 554, "endOffset": 748, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 753, "endOffset": 807, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 812, "endOffset": 1103, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RunAdminCommandOperation",
+      "ranges": [{ "startOffset": 1232, "endOffset": 1422, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 1427, "endOffset": 1481, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 1486, "endOffset": 1750, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

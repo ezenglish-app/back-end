@@ -1,0 +1,36 @@
+{
+  "scriptId": "636",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/x509.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1720, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1719, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1655, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "prepare",
+      "ranges": [{ "startOffset": 522, "endOffset": 853, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "auth",
+      "ranges": [{ "startOffset": 858, "endOffset": 1376, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "x509AuthenticateCommand",
+      "ranges": [{ "startOffset": 1400, "endOffset": 1620, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

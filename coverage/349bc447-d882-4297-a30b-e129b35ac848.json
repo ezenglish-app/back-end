@@ -1,0 +1,16 @@
+{
+  "scriptId": "432",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/formatStr.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 446, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatStr",
+      "ranges": [{ "startOffset": 102, "endOffset": 383, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

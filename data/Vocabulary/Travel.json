@@ -1,0 +1,542 @@
+[
+  {
+    "uuid": "66578728-ba39-488e-8355-e2998763164a",
+    "english": "adventure",
+    "spanish": "aventura",
+    "pronunciation": "/ədˈvɛntʃər/"
+  },
+  {
+    "uuid": "3b8e0a5c-0674-4026-97e1-9226895de130",
+    "english": "airfare",
+    "spanish": "tarifa aérea",
+    "pronunciation": "/ˈɛrˌfɛr/"
+  },
+  {
+    "uuid": "86fbd3f2-7244-49a5-9528-accef38f0002",
+    "english": "airline",
+    "spanish": "aerolínea",
+    "pronunciation": "/ˈɛrˌlaɪn/"
+  },
+  {
+    "uuid": "cd5acf72-7e36-46d7-b3aa-20f1a335a27e",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "pronunciation": "/ˈerˌpɔrt/"
+  },
+  {
+    "uuid": "0b16a22a-5a40-486b-ada8-96b7e9b06c6a",
+    "english": "arrival",
+    "spanish": "llegada",
+    "pronunciation": "/əˈraɪvəl/"
+  },
+  {
+    "uuid": "4233cfd8-3887-492b-923d-91e8c64f1105",
+    "english": "attraction",
+    "spanish": "atracción",
+    "pronunciation": "/əˈtrækʃən/"
+  },
+  {
+    "uuid": "9178270d-b2b7-41f3-87f9-3dcadd8fa5ff",
+    "english": "backpack",
+    "spanish": "mochila",
+    "pronunciation": "/ˈbækˌpæk/"
+  },
+  {
+    "uuid": "1a47adf7-7e7d-45a2-8cdb-82ca5494c588",
+    "english": "baggage",
+    "spanish": "equipaje",
+    "pronunciation": "/ˈbæɡɪdʒ/"
+  },
+  {
+    "uuid": "16eeca3a-73fe-443d-9dcd-4549147a15e4",
+    "english": "baggage claim",
+    "spanish": "reclamo de equipaje",
+    "pronunciation": "/ˈbæɡɪdʒ kleɪm/"
+  },
+  {
+    "uuid": "862b9111-b1cf-4132-be42-86bcc950d4dc",
+    "english": "beach",
+    "spanish": "playa",
+    "pronunciation": "/bitʃ/"
+  },
+  {
+    "uuid": "e853ed61-f5d2-40c9-94a3-8b7affbae067",
+    "english": "boarding gate",
+    "spanish": "puerta de embarque",
+    "pronunciation": "/ˈbɔrdɪŋ ɡeɪt/"
+  },
+  {
+    "uuid": "e2145712-2243-4bb6-902e-dc608cfbd9ec",
+    "english": "boarding pass",
+    "spanish": "tarjeta de embarque",
+    "pronunciation": "/ˈbɔrdɪŋ pæs/"
+  },
+  {
+    "uuid": "1e706079-ee7d-4883-986f-d0b25386baa7",
+    "english": "bus",
+    "spanish": "autobús",
+    "pronunciation": "/bʌs/"
+  },
+  {
+    "uuid": "a268e61b-9045-4a52-9e34-b863dee416b2",
+    "english": "cabin",
+    "spanish": "cabaña",
+    "pronunciation": "/ˈkæbɪn/"
+  },
+  {
+    "uuid": "6b62767f-f8ee-4cb4-9bbb-2840e85a816c",
+    "english": "campsite",
+    "spanish": "campamento",
+    "pronunciation": "/ˈkæmpˌsaɪt/"
+  },
+  {
+    "uuid": "907cff03-1142-45fe-82e7-60e884a1c351",
+    "english": "car rental",
+    "spanish": "alquiler de coches",
+    "pronunciation": "/kɑr ˈrɛntəl/"
+  },
+  {
+    "uuid": "4e01edba-2841-48db-b491-e3ca184cc91e",
+    "english": "caravan",
+    "spanish": "caravana",
+    "pronunciation": "/ˈkærəˌvæn/"
+  },
+  {
+    "uuid": "8ccd6a43-7c41-42ad-9c05-14e4a9812d2b",
+    "english": "check-in",
+    "spanish": "registro",
+    "pronunciation": "/ˈtʃɛkˌɪn/"
+  },
+  {
+    "uuid": "fecf5f4d-acf0-432c-81ab-bed321c63f84",
+    "english": "compass",
+    "spanish": "brújula",
+    "pronunciation": "/ˈkʌmpəs/"
+  },
+  {
+    "uuid": "7b3411cc-7e0f-4be0-874b-871f07e5434e",
+    "english": "cruise",
+    "spanish": "crucero",
+    "pronunciation": "/kruz/"
+  },
+  {
+    "uuid": "a062bf81-8cef-47b7-b82f-f7d7dc1abd21",
+    "english": "cruise ship",
+    "spanish": "crucero",
+    "pronunciation": "/kruz ʃɪp/"
+  },
+  {
+    "uuid": "4a182486-e21b-4a8b-b6d8-3f0d3d7da93c",
+    "english": "currency",
+    "spanish": "moneda",
+    "pronunciation": "/ˈkɜrənsi/"
+  },
+  {
+    "uuid": "ead26ee5-4047-47d2-bce0-6b18f7b0ede8",
+    "english": "currency exchange",
+    "spanish": "cambio de moneda",
+    "pronunciation": "/ˈkɜrənsi ɪksˈtʃeɪndʒ/"
+  },
+  {
+    "uuid": "5aed412f-1bb4-40b7-a2fb-cac688339853",
+    "english": "customs",
+    "spanish": "aduana",
+    "pronunciation": "/ˈkʌstəmz/"
+  },
+  {
+    "uuid": "0dee31ff-39e9-4045-baea-d526c8dc3783",
+    "english": "departure",
+    "spanish": "salida",
+    "pronunciation": "/dɪˈpɑrtʃər/"
+  },
+  {
+    "uuid": "5ae673d1-bdcf-484a-85b1-2b5cc9f47062",
+    "english": "departure lounge",
+    "spanish": "sala de embarque",
+    "pronunciation": "/dɪˈpɑrtʃər laʊndʒ/"
+  },
+  {
+    "uuid": "4943df7a-67b4-4ef1-94ce-e4a331057b09",
+    "english": "destination",
+    "spanish": "destino",
+    "pronunciation": "/ˌdɛstəˈneɪʃən/"
+  },
+  {
+    "uuid": "faddd4c9-87c7-44ca-a6a3-b86973ae9e15",
+    "english": "embassy",
+    "spanish": "embajada",
+    "pronunciation": "/ˈɛmbəsi/"
+  },
+  {
+    "uuid": "10b07117-483b-45e1-bed6-3463c9dc1f99",
+    "english": "excursion",
+    "spanish": "excursión",
+    "pronunciation": "/ɪkˈskɜrʒən/"
+  },
+  {
+    "uuid": "5e70133b-ce6c-4434-b866-d4e30a03fc6e",
+    "english": "ferry",
+    "spanish": "transbordador",
+    "pronunciation": "/ˈfɛri/"
+  },
+  {
+    "uuid": "42c1132d-2f61-4c51-8ced-68a6d34d22cf",
+    "english": "ferry terminal",
+    "spanish": "terminal de ferry",
+    "pronunciation": "/ˈfɛri ˈtɜrmɪnəl/"
+  },
+  {
+    "uuid": "dc0d23b4-c1ba-4de1-905d-bcc92584a614",
+    "english": "flight",
+    "spanish": "vuelo",
+    "pronunciation": "/flaɪt/"
+  },
+  {
+    "uuid": "6b469c54-1288-4932-a41e-e75da8ccf305",
+    "english": "globetrotter",
+    "spanish": "trotamundos",
+    "pronunciation": "/ˈɡloʊbˌtrɑtər/"
+  },
+  {
+    "uuid": "3566bbc6-59ae-42e0-b8f6-95cea5794314",
+    "english": "guidebook",
+    "spanish": "guía",
+    "pronunciation": "/ˈɡaɪdˌbʊk/"
+  },
+  {
+    "uuid": "6f883d37-221a-48e4-ace0-dc8ae16ed22b",
+    "english": "hiking",
+    "spanish": "senderismo",
+    "pronunciation": "/ˈhaɪkɪŋ/"
+  },
+  {
+    "uuid": "985738e2-4cf9-48cb-88bd-acfeb1cd9bdd",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "pronunciation": "/ˈhɑləˌdeɪ/"
+  },
+  {
+    "uuid": "e51cd6dd-c3b3-46ee-aa44-f46ddde59fc3",
+    "english": "hostel",
+    "spanish": "hostal",
+    "pronunciation": "/ˈhɑstəl/"
+  },
+  {
+    "uuid": "5dbf77f2-b263-4dda-ad3b-ce5a49e01dbe",
+    "english": "hotel",
+    "spanish": "hotel",
+    "pronunciation": "/hoʊˈtɛl/"
+  },
+  {
+    "uuid": "6175ea07-e47f-4298-b0c7-4321d29e8a89",
+    "english": "inn",
+    "spanish": "posada",
+    "pronunciation": "/ɪn/"
+  },
+  {
+    "uuid": "dd350630-7938-4759-84c9-34c3aa341e8c",
+    "english": "itinerary",
+    "spanish": "itinerario",
+    "pronunciation": "/aɪˈtɪnəˌrɛri/"
+  },
+  {
+    "uuid": "30432a64-df72-4577-9f4c-d16f1f698cf2",
+    "english": "jet lag",
+    "spanish": "descompensación horaria",
+    "pronunciation": "/dʒɛt læɡ/"
+  },
+  {
+    "uuid": "c9f26880-9367-475c-b6e9-82b9e0ac35b0",
+    "english": "journey",
+    "spanish": "viaje",
+    "pronunciation": "/ˈdʒɜrni/"
+  },
+  {
+    "uuid": "7632b1f6-d8f6-49fe-a98d-a1b5c266003f",
+    "english": "landmark",
+    "spanish": "monumento",
+    "pronunciation": "/ˈlændˌmɑrk/"
+  },
+  {
+    "uuid": "8eae35b9-7fb2-48aa-90ae-3d3dc96342df",
+    "english": "landscape",
+    "spanish": "paisaje",
+    "pronunciation": "/ˈlændˌskeɪp/"
+  },
+  {
+    "uuid": "b25b917d-d07f-48fb-9c24-1bc15df06fb8",
+    "english": "layover",
+    "spanish": "escala",
+    "pronunciation": "/ˈleɪˌoʊvər/"
+  },
+  {
+    "uuid": "f0b2b6ed-292b-4f03-b61e-97cdd32f557e",
+    "english": "lodge",
+    "spanish": "alojamiento",
+    "pronunciation": "/lɑdʒ/"
+  },
+  {
+    "uuid": "89069e99-5d57-4e20-80ff-891f13db000a",
+    "english": "luggage",
+    "spanish": "equipaje",
+    "pronunciation": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "uuid": "14d4249f-42a4-4304-b042-00365f738282",
+    "english": "luggage cart",
+    "spanish": "carrito de equipaje",
+    "pronunciation": "/ˈlʌɡɪdʒ kɑrt/"
+  },
+  {
+    "uuid": "59ebff13-59f5-40c8-9dc6-91f193687c77",
+    "english": "map",
+    "spanish": "mapa",
+    "pronunciation": "/mæp/"
+  },
+  {
+    "uuid": "3dbc7f2e-2a31-4fe1-8abb-1262cf0cf625",
+    "english": "motel",
+    "spanish": "motel",
+    "pronunciation": "/moʊˈtɛl/"
+  },
+  {
+    "uuid": "ffce62f9-558d-4b17-87fd-bf15fc852795",
+    "english": "museum",
+    "spanish": "museo",
+    "pronunciation": "/mjuˈziəm/"
+  },
+  {
+    "uuid": "5e4e78dd-fb20-45e8-88cf-241163f7c8c3",
+    "english": "navigation",
+    "spanish": "navegación",
+    "pronunciation": "/ˌnævɪˈɡeɪʃən/"
+  },
+  {
+    "uuid": "9faf3946-b6a1-467a-b6bc-352a51b8b769",
+    "english": "paradise",
+    "spanish": "paraíso",
+    "pronunciation": "/ˈpærəˌdaɪs/"
+  },
+  {
+    "uuid": "68723ac9-ed81-4b67-b696-4b56c5234b23",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "pronunciation": "/ˈpæspɔrt/"
+  },
+  {
+    "uuid": "89c5f158-1053-4ba9-93cd-0d7cd210b424",
+    "english": "passport control",
+    "spanish": "control de pasaportes",
+    "pronunciation": "/ˈpæspɔrt kənˈtroʊl/"
+  },
+  {
+    "uuid": "f6c4acb0-cab0-4509-b639-e259ebbe2253",
+    "english": "passport photo",
+    "spanish": "foto de pasaporte",
+    "pronunciation": "/ˈpæspɔrt ˈfoʊtoʊ/"
+  },
+  {
+    "uuid": "fe5314c2-13e3-45fb-a497-e3d680bc8348",
+    "english": "postcard",
+    "spanish": "postal",
+    "pronunciation": "/ˈpoʊstˌkɑrd/"
+  },
+  {
+    "uuid": "3c3ec29a-e21a-4fec-8a42-bf8890cd5a6c",
+    "english": "reservation",
+    "spanish": "reserva",
+    "pronunciation": "/ˌrɛzərˈveɪʃən/"
+  },
+  {
+    "uuid": "63f9cd56-b60f-483d-b105-b28f23496c2c",
+    "english": "resort",
+    "spanish": "resort",
+    "pronunciation": "/rɪˈzɔrt/"
+  },
+  {
+    "uuid": "49587f20-c102-4f1a-869b-279bd0d0aa22",
+    "english": "road trip",
+    "spanish": "viaje por carretera",
+    "pronunciation": "/roʊd trɪp/"
+  },
+  {
+    "uuid": "d881faf1-14ba-4799-9254-2776147e3718",
+    "english": "safari",
+    "spanish": "safari",
+    "pronunciation": "/səˈfɑri/"
+  },
+  {
+    "uuid": "f9ebcfb3-f130-47b7-9e29-a5772c3b660d",
+    "english": "scenery",
+    "spanish": "paisaje",
+    "pronunciation": "/ˈsinəri/"
+  },
+  {
+    "uuid": "46fd3869-a28f-4ec3-ae8c-d4379bd21396",
+    "english": "seaside",
+    "spanish": "costa",
+    "pronunciation": "/ˈsiˌsaɪd/"
+  },
+  {
+    "uuid": "8c4ec389-66cc-43cb-85ee-8d2b44d29bb6",
+    "english": "sightseeing",
+    "spanish": "turismo",
+    "pronunciation": "/ˈsaɪtˌsiɪŋ/"
+  },
+  {
+    "uuid": "92ab603a-483c-44a2-8719-4c65bccea321",
+    "english": "souvenir",
+    "spanish": "recuerdo",
+    "pronunciation": "/ˌsuvəˈnɪr/"
+  },
+  {
+    "uuid": "68b15543-d80b-493e-b39d-3cfc67b591d4",
+    "english": "subway",
+    "spanish": "metro",
+    "pronunciation": "/ˈsʌbˌweɪ/"
+  },
+  {
+    "uuid": "6b657a21-1d9a-4f6d-a898-e717d17770a5",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "pronunciation": "/ˈsutˌkeɪs/"
+  },
+  {
+    "uuid": "d45e6354-a01f-4d8d-93c1-04216d492e45",
+    "english": "taxi",
+    "spanish": "taxi",
+    "pronunciation": "/ˈtæksi/"
+  },
+  {
+    "uuid": "61b6f8a3-e04c-408d-945c-90117b1b1a18",
+    "english": "ticket",
+    "spanish": "boleto",
+    "pronunciation": "/ˈtɪkɪt/"
+  },
+  {
+    "uuid": "d7ba3755-85bf-4bc5-93d3-3c8d853bcd61",
+    "english": "tour",
+    "spanish": "tour",
+    "pronunciation": "/tʊr/"
+  },
+  {
+    "uuid": "21292219-4c5c-464e-add3-92aa31f6db5b",
+    "english": "tour guide",
+    "spanish": "guía turístico",
+    "pronunciation": "/tʊr ɡaɪd/"
+  },
+  {
+    "uuid": "c92c137e-7ccd-4edd-9589-ce1e7b12f968",
+    "english": "tourism",
+    "spanish": "turismo",
+    "pronunciation": "/ˈtʊrɪzəm/"
+  },
+  {
+    "uuid": "f2eba2d2-4853-407d-9ffb-f798213d5678",
+    "english": "tourist",
+    "spanish": "turista",
+    "pronunciation": "/ˈtʊrɪst/"
+  },
+  {
+    "uuid": "161bbac3-d89a-4def-afe5-4519322eed01",
+    "english": "tourist attraction",
+    "spanish": "atracción turística",
+    "pronunciation": "/ˈtʊrɪst əˈtrækʃən/"
+  },
+  {
+    "uuid": "6ba0e1fe-b85e-4a74-8874-b133bb89bd72",
+    "english": "train",
+    "spanish": "tren",
+    "pronunciation": "/treɪn/"
+  },
+  {
+    "uuid": "0b3db95b-5054-4282-9570-afe9c3ac298d",
+    "english": "travel",
+    "spanish": "viajar",
+    "pronunciation": "/ˈtrævəl/"
+  },
+  {
+    "uuid": "c3df8f0c-31d1-4e1a-ad03-59710fa467f9",
+    "english": "travel agency",
+    "spanish": "agencia de viajes",
+    "pronunciation": "/ˈtrævəl ˈeɪdʒənsi/"
+  },
+  {
+    "uuid": "921cb3b5-a934-4dd4-92c5-a0f409a78b5e",
+    "english": "travel insurance",
+    "spanish": "seguro de viaje",
+    "pronunciation": "/ˈtrævəl ɪnˈʃʊrəns/"
+  },
+  {
+    "uuid": "f5ca93b2-fa28-4744-a8cc-0b02d6964c75",
+    "english": "travel itinerary",
+    "spanish": "itinerario de viaje",
+    "pronunciation": "/ˈtrævəl aɪˈtɪnəˌrɛri/"
+  },
+  {
+    "uuid": "93b5d8eb-40f2-4086-b5d6-d030e418765e",
+    "english": "traveler",
+    "spanish": "viajero",
+    "pronunciation": "/ˈtrævələr/"
+  },
+  {
+    "uuid": "2766949c-93ce-41b4-a37d-d430d5210ec9",
+    "english": "trip",
+    "spanish": "viaje",
+    "pronunciation": "/trɪp/"
+  },
+  {
+    "uuid": "73f90849-81f3-439d-9efc-dab7be2cf9a1",
+    "english": "trolley",
+    "spanish": "tranvía",
+    "pronunciation": "/ˈtrɑli/"
+  },
+  {
+    "uuid": "ef072043-e0b7-4130-bf29-5be40d76fdd0",
+    "english": "vacation",
+    "spanish": "vacaciones",
+    "pronunciation": "/veɪˈkeɪʃən/"
+  },
+  {
+    "uuid": "410a0c93-18f2-4e78-844a-d744c0c74a24",
+    "english": "vacation package",
+    "spanish": "paquete de vacaciones",
+    "pronunciation": "/veɪˈkeɪʃən ˈpækɪdʒ/"
+  },
+  {
+    "uuid": "14ab763b-0643-48a1-b645-16eb576486a5",
+    "english": "visa",
+    "spanish": "visa",
+    "pronunciation": "/ˈvizə/"
+  },
+  {
+    "uuid": "9630275b-852c-44c8-8c43-d2fa976fbc2e",
+    "english": "visa application",
+    "spanish": "solicitud de visa",
+    "pronunciation": "/ˈvizə ˌæplɪˈkeɪʃən/"
+  },
+  {
+    "uuid": "31539e83-dd95-45f4-bb5b-c79cb6bd8abc",
+    "english": "voyage",
+    "spanish": "viaje",
+    "pronunciation": "/ˈvɔɪɪdʒ/"
+  },
+  {
+    "uuid": "185a5afa-41b4-4e28-a247-73f1a29149cb",
+    "english": "weekend getaway",
+    "spanish": "escapada de fin de semana",
+    "pronunciation": "/ˈwikˌɛnd ˈɡɛtəˌweɪ/"
+  },
+  {
+    "uuid": "beb74508-dba4-46ff-b57b-0d0d9cfcbf65",
+    "english": "world map",
+    "spanish": "mapa mundial",
+    "pronunciation": "/wɜrld mæp/"
+  },
+  {
+    "uuid": "ad86b8de-f885-4282-89f9-88b58f441be1",
+    "english": "youth hostel",
+    "spanish": "albergue juvenil",
+    "pronunciation": "/juθ ˈhɑstəl/"
+  }
+]

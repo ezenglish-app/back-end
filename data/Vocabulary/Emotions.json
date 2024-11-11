@@ -1,0 +1,410 @@
+[
+  {
+    "uuid": "cd0fc7a4-fb0e-4d55-970a-dbe62bae2207",
+    "english": "angry",
+    "spanish": "enojado",
+    "pronunciation": "/ˈæŋɡri/"
+  },
+  {
+    "uuid": "ccb972e4-985e-4483-a7f4-a86d779399af",
+    "english": "anxious",
+    "spanish": "ansioso",
+    "pronunciation": "/ˈæŋkʃəs/"
+  },
+  {
+    "uuid": "70d35869-0514-4adf-8ebd-2f2023258167",
+    "english": "apathetic",
+    "spanish": "apático",
+    "pronunciation": "/ˌæpəˈθɛtɪk/"
+  },
+  {
+    "uuid": "9eda406b-86aa-4149-86e6-9ff3ea413caa",
+    "english": "ashamed",
+    "spanish": "avergonzado",
+    "pronunciation": "/əˈʃeɪmd/"
+  },
+  {
+    "uuid": "befe6321-e9db-4b51-ba48-537828ebe793",
+    "english": "bored",
+    "spanish": "aburrido",
+    "pronunciation": "/bɔrd/"
+  },
+  {
+    "uuid": "955a8d73-6d20-445d-be02-ce74c3cd7196",
+    "english": "calm",
+    "spanish": "calmado",
+    "pronunciation": "/kɑm/"
+  },
+  {
+    "uuid": "c93e4ed3-6e1c-4e21-8257-ea7294f0a162",
+    "english": "compassionate",
+    "spanish": "compasivo",
+    "pronunciation": "/kəmˈpæʃənɪt/"
+  },
+  {
+    "uuid": "b48a6bb5-c1f8-4190-b0e7-2b8d099aa146",
+    "english": "confused",
+    "spanish": "confundido",
+    "pronunciation": "/kənˈfjuzd/"
+  },
+  {
+    "uuid": "47374c82-1d60-45b8-8d57-d8302725b8f2",
+    "english": "content",
+    "spanish": "contento",
+    "pronunciation": "/kənˈtɛnt/"
+  },
+  {
+    "uuid": "1443790f-14ba-49a9-a82c-c32570eafb99",
+    "english": "curious",
+    "spanish": "curioso",
+    "pronunciation": "/ˈkjʊriəs/"
+  },
+  {
+    "uuid": "9389baae-350c-4469-8212-066fb4d25267",
+    "english": "devastated",
+    "spanish": "devastado",
+    "pronunciation": "/ˈdɛvəˌsteɪtɪd/"
+  },
+  {
+    "uuid": "38e9fa1c-a08e-4455-acf9-e6178a229310",
+    "english": "disappointed",
+    "spanish": "decepcionado",
+    "pronunciation": "/ˌdɪsəˈpɔɪntɪd/"
+  },
+  {
+    "uuid": "c2e1be07-9d14-45ee-bc74-3b119cd9665a",
+    "english": "disgusted",
+    "spanish": "disgustado",
+    "pronunciation": "/dɪsˈɡʌstɪd/"
+  },
+  {
+    "uuid": "8218d364-d62b-4b03-95f4-ed19d489a24f",
+    "english": "ecstatic",
+    "spanish": "extático",
+    "pronunciation": "/ɪkˈstætɪk/"
+  },
+  {
+    "uuid": "444dddf2-7615-4ca2-b1a1-b852c8a297b5",
+    "english": "elated",
+    "spanish": "eufórico",
+    "pronunciation": "/ɪˈleɪtɪd/"
+  },
+  {
+    "uuid": "f5f6f3d3-3cae-4145-a693-167aa9c93930",
+    "english": "embarrassed",
+    "spanish": "avergonzado",
+    "pronunciation": "/ɪmˈbærəst/"
+  },
+  {
+    "uuid": "0546e4f1-b4d6-4d7f-9018-e5627a295494",
+    "english": "enthusiastic",
+    "spanish": "entusiasta",
+    "pronunciation": "/ɪnˌθuziˈæstɪk/"
+  },
+  {
+    "uuid": "8be8ed05-ffca-4093-9eae-9121cd8a5a0e",
+    "english": "envious",
+    "spanish": "envidioso",
+    "pronunciation": "/ˈɛnviəs/"
+  },
+  {
+    "uuid": "a7b15732-451b-43cf-8565-1417fb234fcb",
+    "english": "excited",
+    "spanish": "emocionado",
+    "pronunciation": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "uuid": "0a287121-0a49-4c08-9c2d-e68137590bc3",
+    "english": "frustrated",
+    "spanish": "frustrado",
+    "pronunciation": "/ˈfrʌstreɪtɪd/"
+  },
+  {
+    "uuid": "6a34daeb-0b21-4341-80d0-252d3d20f6e5",
+    "english": "furious",
+    "spanish": "furioso",
+    "pronunciation": "/ˈfjʊriəs/"
+  },
+  {
+    "uuid": "86ac7d27-f678-414c-9af1-bde0486ee1f6",
+    "english": "grateful",
+    "spanish": "agradecido",
+    "pronunciation": "/ˈɡreɪtfəl/"
+  },
+  {
+    "uuid": "15d253ee-8a4d-485f-a2fc-650122b87639",
+    "english": "grumpy",
+    "spanish": "gruñón",
+    "pronunciation": "/ˈɡrʌmpi/"
+  },
+  {
+    "uuid": "a6e4d403-b5ea-44d9-9262-29c9e6a50488",
+    "english": "guilty",
+    "spanish": "culpable",
+    "pronunciation": "/ˈɡɪlti/"
+  },
+  {
+    "uuid": "279df8c5-c4fd-4cfa-b0a6-60c2c50fe1be",
+    "english": "happy",
+    "spanish": "feliz",
+    "pronunciation": "/ˈhæpi/"
+  },
+  {
+    "uuid": "d3df8378-3425-4107-82b5-96b7397cc03d",
+    "english": "hopeful",
+    "spanish": "esperanzado",
+    "pronunciation": "/ˈhoʊpfəl/"
+  },
+  {
+    "uuid": "09e38b8f-4256-44a9-bf34-7d7d3330b626",
+    "english": "humiliated",
+    "spanish": "humillado",
+    "pronunciation": "/hjuˈmɪliˌeɪtɪd/"
+  },
+  {
+    "uuid": "875575b1-2930-4f4d-8aa9-2aaf7319c8b3",
+    "english": "hysterical",
+    "spanish": "histérico",
+    "pronunciation": "/hɪˈstɛrɪkəl/"
+  },
+  {
+    "uuid": "d39e3e8d-c71e-4736-8989-b26cea7788a4",
+    "english": "indifferent",
+    "spanish": "indiferente",
+    "pronunciation": "/ɪnˈdɪfərənt/"
+  },
+  {
+    "uuid": "dd130a88-8b24-4503-a75a-4b89f747108b",
+    "english": "insecure",
+    "spanish": "inseguro",
+    "pronunciation": "/ˌɪnsɪˈkjʊr/"
+  },
+  {
+    "uuid": "d7e8d4e1-817a-4522-b723-acb9207ff116",
+    "english": "inspired",
+    "spanish": "inspirado",
+    "pronunciation": "/ɪnˈspaɪərd/"
+  },
+  {
+    "uuid": "688fee52-0c9e-486f-88e6-72fc38b3d42b",
+    "english": "irritated",
+    "spanish": "irritado",
+    "pronunciation": "/ˈɪrɪˌteɪtɪd/"
+  },
+  {
+    "uuid": "14e997c1-eda1-4b27-bdb8-ee535037aa3e",
+    "english": "jealous",
+    "spanish": "celoso",
+    "pronunciation": "/ˈdʒɛləs/"
+  },
+  {
+    "uuid": "99531a6a-3abf-4a14-bb5c-a506e35b9ad8",
+    "english": "jubilant",
+    "spanish": "júbilo",
+    "pronunciation": "/ˈdʒubɪlənt/"
+  },
+  {
+    "uuid": "5619e6fd-35fe-4543-97f2-809cc8444e88",
+    "english": "lethargic",
+    "spanish": "letárgico",
+    "pronunciation": "/ləˈθɑrdʒɪk/"
+  },
+  {
+    "uuid": "5f630d29-1063-4bb6-8635-70e5e617ef71",
+    "english": "lonely",
+    "spanish": "solitario",
+    "pronunciation": "/ˈloʊnli/"
+  },
+  {
+    "uuid": "8070cb01-07e8-4820-a6e0-875954aa8ba0",
+    "english": "melancholic",
+    "spanish": "melancólico",
+    "pronunciation": "/ˌmɛlənˈkɑlɪk/"
+  },
+  {
+    "uuid": "54869c95-49e4-4151-89d9-6d58889723a4",
+    "english": "miserable",
+    "spanish": "miserable",
+    "pronunciation": "/ˈmɪzərəbəl/"
+  },
+  {
+    "uuid": "2c9ae8de-df52-4083-bd56-6f1ff8a30911",
+    "english": "motivated",
+    "spanish": "motivado",
+    "pronunciation": "/ˈmoʊtəˌveɪtɪd/"
+  },
+  {
+    "uuid": "dbe772cc-9664-4f62-9051-433148309a4d",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "pronunciation": "/ˈnɜrvəs/"
+  },
+  {
+    "uuid": "a2827e7e-d304-4b09-873e-19821175e3c7",
+    "english": "nostalgic",
+    "spanish": "nostálgico",
+    "pronunciation": "/nəˈstældʒɪk/"
+  },
+  {
+    "uuid": "a528bf0f-957c-4ac1-a060-c60ca951c645",
+    "english": "optimistic",
+    "spanish": "optimista",
+    "pronunciation": "/ˌɑptəˈmɪstɪk/"
+  },
+  {
+    "uuid": "991cfc48-a0db-4bd5-a8e6-2663bdfc7c6f",
+    "english": "overjoyed",
+    "spanish": "rebosante de alegría",
+    "pronunciation": "/ˌoʊvərˈdʒɔɪd/"
+  },
+  {
+    "uuid": "0f23daea-78e0-4e21-a7f7-2df7ef6f7c1a",
+    "english": "overwhelmed",
+    "spanish": "abrumado",
+    "pronunciation": "/ˌoʊvərˈwɛlmd/"
+  },
+  {
+    "uuid": "5a1263be-fcb9-486c-a4e3-93cad343223c",
+    "english": "panicked",
+    "spanish": "aterrorizado",
+    "pronunciation": "/ˈpænɪkt/"
+  },
+  {
+    "uuid": "70d52f10-7ad4-4009-887d-b8533732fa9f",
+    "english": "passionate",
+    "spanish": "apasionado",
+    "pronunciation": "/ˈpæʃənɪt/"
+  },
+  {
+    "uuid": "3438d119-201e-4b16-9aec-7c273bde9b8c",
+    "english": "peaceful",
+    "spanish": "pacífico",
+    "pronunciation": "/ˈpisfəl/"
+  },
+  {
+    "uuid": "dfbf283d-442a-4342-be94-7b43c0641f2d",
+    "english": "pessimistic",
+    "spanish": "pesimista",
+    "pronunciation": "/ˌpɛsəˈmɪstɪk/"
+  },
+  {
+    "uuid": "e8ac44d2-5f55-45d7-a401-ad33751e937f",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "pronunciation": "/praʊd/"
+  },
+  {
+    "uuid": "e4eb8c5e-bd2d-48d8-ac96-921f3069d981",
+    "english": "puzzled",
+    "spanish": "perplejo",
+    "pronunciation": "/ˈpʌzəld/"
+  },
+  {
+    "uuid": "56ed091b-99bd-404d-a223-a26815b9f91f",
+    "english": "regretful",
+    "spanish": "arrepentido",
+    "pronunciation": "/rɪˈɡrɛtfəl/"
+  },
+  {
+    "uuid": "db3b3f39-107d-4087-addb-5cfcbfe5db08",
+    "english": "relaxed",
+    "spanish": "relajado",
+    "pronunciation": "/rɪˈlækst/"
+  },
+  {
+    "uuid": "5125e997-f424-4109-aaf1-5f063c69a031",
+    "english": "relieved",
+    "spanish": "aliviado",
+    "pronunciation": "/rɪˈlivd/"
+  },
+  {
+    "uuid": "3963f5f1-da40-49f4-bb48-ac9348333a98",
+    "english": "resentful",
+    "spanish": "resentido",
+    "pronunciation": "/rɪˈzɛntfəl/"
+  },
+  {
+    "uuid": "2c08a0f0-3fca-4e7d-8355-21a325fad3d7",
+    "english": "sad",
+    "spanish": "triste",
+    "pronunciation": "/sæd/"
+  },
+  {
+    "uuid": "9c3313c1-2433-4582-88a1-434a3edfec33",
+    "english": "satisfied",
+    "spanish": "satisfecho",
+    "pronunciation": "/ˈsætɪsˌfaɪd/"
+  },
+  {
+    "uuid": "25afa392-31be-4a30-b0b2-855263ebbd77",
+    "english": "scared",
+    "spanish": "asustado",
+    "pronunciation": "/skɛrd/"
+  },
+  {
+    "uuid": "e043cfde-5347-4dcb-8bdc-013413616e2b",
+    "english": "shocked",
+    "spanish": "conmocionado",
+    "pronunciation": "/ʃɑkt/"
+  },
+  {
+    "uuid": "3e116ec4-ca42-4b7f-8f43-2a225f76fb30",
+    "english": "stressed",
+    "spanish": "estresado",
+    "pronunciation": "/strɛst/"
+  },
+  {
+    "uuid": "e3138b71-2b39-4528-aa01-c8ae90ebad53",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "pronunciation": "/sərˈpraɪzd/"
+  },
+  {
+    "uuid": "bbce1ae5-67b1-4437-b80f-55cc964dc69a",
+    "english": "sympathetic",
+    "spanish": "simpático",
+    "pronunciation": "/ˌsɪmpəˈθɛtɪk/"
+  },
+  {
+    "uuid": "94b8c85e-7741-4529-99f5-72999c720c2b",
+    "english": "terrified",
+    "spanish": "aterrorizado",
+    "pronunciation": "/ˈtɛrəˌfaɪd/"
+  },
+  {
+    "uuid": "b99bbb4a-f0e5-4492-b9df-c3fcc5e17d8c",
+    "english": "thrilled",
+    "spanish": "emocionado",
+    "pronunciation": "/θrɪld/"
+  },
+  {
+    "uuid": "8cbe9ced-629e-4925-8a5e-1155ae4c7ca2",
+    "english": "touched",
+    "spanish": "conmovido",
+    "pronunciation": "/tʌtʃt/"
+  },
+  {
+    "uuid": "43a654db-c225-4615-9981-a56093b6d7bf",
+    "english": "uncomfortable",
+    "spanish": "incómodo",
+    "pronunciation": "/ʌnˈkʌmftərbəl/"
+  },
+  {
+    "uuid": "5e505bff-d865-4256-a262-557fa2865c84",
+    "english": "vulnerable",
+    "spanish": "vulnerable",
+    "pronunciation": "/ˈvʌlnərəbəl/"
+  },
+  {
+    "uuid": "e2e03969-7dfd-4cfd-a95d-2adb87c7cea7",
+    "english": "worried",
+    "spanish": "preocupado",
+    "pronunciation": "/ˈwɜrid/"
+  },
+  {
+    "uuid": "f9683637-be62-462a-b049-a08362007907",
+    "english": "zealous",
+    "spanish": "celoso",
+    "pronunciation": "/ˈzɛləs/"
+  }
+]

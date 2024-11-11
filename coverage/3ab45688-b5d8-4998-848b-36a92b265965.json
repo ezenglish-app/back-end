@@ -1,0 +1,295 @@
+{
+  "scriptId": "611",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/connection_pool.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 24858, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 24857, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 24793, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPool",
+      "ranges": [
+        { "startOffset": 2022, "endOffset": 3789, "count": 6 },
+        { "startOffset": 2231, "endOffset": 2237, "count": 0 },
+        { "startOffset": 2284, "endOffset": 2288, "count": 0 },
+        { "startOffset": 2339, "endOffset": 2343, "count": 0 },
+        { "startOffset": 2394, "endOffset": 2398, "count": 0 },
+        { "startOffset": 2459, "endOffset": 2463, "count": 0 },
+        { "startOffset": 2676, "endOffset": 2819, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3632, "endOffset": 3781, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get address",
+      "ranges": [{ "startOffset": 3858, "endOffset": 3931, "count": 40 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get closed",
+      "ranges": [{ "startOffset": 4082, "endOffset": 4164, "count": 11 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get generation",
+      "ranges": [{ "startOffset": 4236, "endOffset": 4294, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get totalConnectionCount",
+      "ranges": [{ "startOffset": 4413, "endOffset": 4555, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get availableConnectionCount",
+      "ranges": [{ "startOffset": 4651, "endOffset": 4731, "count": 9 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get pendingConnectionCount",
+      "ranges": [{ "startOffset": 4736, "endOffset": 4803, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get currentCheckedOutCount",
+      "ranges": [{ "startOffset": 4808, "endOffset": 4883, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get waitQueueSize",
+      "ranges": [{ "startOffset": 4888, "endOffset": 4955, "count": 48 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get loadBalanced",
+      "ranges": [{ "startOffset": 4960, "endOffset": 5028, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get serviceGenerations",
+      "ranges": [{ "startOffset": 5033, "endOffset": 5107, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get serverError",
+      "ranges": [{ "startOffset": 5112, "endOffset": 5185, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get checkedOutConnections",
+      "ranges": [{ "startOffset": 5424, "endOffset": 5493, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "waitQueueErrorMetrics",
+      "ranges": [{ "startOffset": 5596, "endOffset": 5689, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ready",
+      "ranges": [
+        { "startOffset": 5747, "endOffset": 6124, "count": 5 },
+        { "startOffset": 5816, "endOffset": 5847, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkOut",
+      "ranges": [
+        { "startOffset": 6412, "endOffset": 7869, "count": 8 },
+        { "startOffset": 7182, "endOffset": 7863, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7043, "endOffset": 7072, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkIn",
+      "ranges": [
+        { "startOffset": 7992, "endOffset": 8827, "count": 8 },
+        { "startOffset": 8062, "endOffset": 8093, "count": 0 },
+        { "startOffset": 8603, "endOffset": 8764, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8790, "endOffset": 8819, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clear",
+      "ranges": [{ "startOffset": 9062, "endOffset": 10961, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "interruptInUseConnections",
+      "ranges": [{ "startOffset": 11171, "endOffset": 11479, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        { "startOffset": 11510, "endOffset": 12374, "count": 3 },
+        { "startOffset": 11545, "endOffset": 11576, "count": 0 },
+        { "startOffset": 12026, "endOffset": 12206, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reauthenticate",
+      "ranges": [{ "startOffset": 12447, "endOffset": 13368, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clearMinPoolSizeTimer",
+      "ranges": [
+        { "startOffset": 13414, "endOffset": 13603, "count": 3 },
+        { "startOffset": 13528, "endOffset": 13597, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "destroyConnection",
+      "ranges": [{ "startOffset": 13608, "endOffset": 13854, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connectionIsStale",
+      "ranges": [
+        { "startOffset": 13859, "endOffset": 14231, "count": 15 },
+        { "startOffset": 13969, "endOffset": 13981, "count": 0 },
+        { "startOffset": 13983, "endOffset": 14165, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "connectionIsIdle",
+      "ranges": [
+        { "startOffset": 14236, "endOffset": 14371, "count": 7 },
+        { "startOffset": 14312, "endOffset": 14363, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "destroyConnectionIfPerished",
+      "ranges": [
+        { "startOffset": 14534, "endOffset": 14946, "count": 7 },
+        { "startOffset": 14786, "endOffset": 14837, "count": 0 },
+        { "startOffset": 14838, "endOffset": 14866, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createConnection",
+      "ranges": [{ "startOffset": 14951, "endOffset": 18018, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "then.emitAndLog.connection_pool_events_1.ConnectionClosedEvent.id",
+      "ranges": [
+        { "startOffset": 15691, "endOffset": 17411, "count": 1 },
+        { "startOffset": 15858, "endOffset": 16083, "count": 0 },
+        { "startOffset": 16258, "endOffset": 16339, "count": 4 },
+        { "startOffset": 16375, "endOffset": 17132, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 16297, "endOffset": 16323, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 16439, "endOffset": 16484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 16551, "endOffset": 16598, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 17413, "endOffset": 18010, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ensureMinPoolSize",
+      "ranges": [
+        { "startOffset": 18023, "endOffset": 19550, "count": 5 },
+        { "startOffset": 18209, "endOffset": 18427, "count": 0 },
+        { "startOffset": 18429, "endOffset": 19544, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 18243, "endOffset": 18301, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 18680, "endOffset": 19304, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 19460, "endOffset": 19490, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processWaitQueue",
+      "ranges": [
+        { "startOffset": 19555, "endOffset": 23001, "count": 20 },
+        { "startOffset": 19616, "endOffset": 19647, "count": 0 },
+        { "startOffset": 19726, "endOffset": 21337, "count": 8 },
+        { "startOffset": 19824, "endOffset": 19907, "count": 0 },
+        { "startOffset": 19953, "endOffset": 20036, "count": 0 },
+        { "startOffset": 20099, "endOffset": 20663, "count": 0 },
+        { "startOffset": 20712, "endOffset": 20750, "count": 1 },
+        { "startOffset": 20750, "endOffset": 20839, "count": 7 },
+        { "startOffset": 20839, "endOffset": 20877, "count": 0 },
+        { "startOffset": 20877, "endOffset": 21327, "count": 7 },
+        { "startOffset": 21437, "endOffset": 21495, "count": 1 },
+        { "startOffset": 21496, "endOffset": 21573, "count": 1 },
+        { "startOffset": 21575, "endOffset": 22951, "count": 1 },
+        { "startOffset": 21704, "endOffset": 21745, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 21780, "endOffset": 22939, "count": 1 },
+        { "startOffset": 21852, "endOffset": 22000, "count": 0 },
+        { "startOffset": 22053, "endOffset": 22420, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 22894, "endOffset": 22923, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

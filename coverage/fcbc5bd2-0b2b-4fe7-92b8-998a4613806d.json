@@ -1,0 +1,66 @@
+{
+  "scriptId": "623",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_oidc/token_cache.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1805, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1804, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1740, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get hasAccessToken",
+      "ranges": [{ "startOffset": 483, "endOffset": 546, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasRefreshToken",
+      "ranges": [{ "startOffset": 551, "endOffset": 616, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasIdpInfo",
+      "ranges": [{ "startOffset": 621, "endOffset": 676, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAccessToken",
+      "ranges": [{ "startOffset": 681, "endOffset": 873, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getRefreshToken",
+      "ranges": [{ "startOffset": 878, "endOffset": 1073, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getIdpInfo",
+      "ranges": [{ "startOffset": 1078, "endOffset": 1258, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "put",
+      "ranges": [{ "startOffset": 1263, "endOffset": 1521, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeAccessToken",
+      "ranges": [{ "startOffset": 1526, "endOffset": 1591, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeRefreshToken",
+      "ranges": [{ "startOffset": 1596, "endOffset": 1663, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "358",
+  "url": "file:///home/juanca/Projects/english-api/src/middleware/index.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 63, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

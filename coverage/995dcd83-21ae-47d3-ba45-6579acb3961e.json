@@ -1,0 +1,41 @@
+{
+  "scriptId": "617",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/mongodb_aws.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6541, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6540, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 6476, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MongoDBAWS",
+      "ranges": [{ "startOffset": 956, "endOffset": 1263, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "auth",
+      "ranges": [{ "startOffset": 1268, "endOffset": 5333, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeTempCredentials",
+      "ranges": [{ "startOffset": 5369, "endOffset": 6254, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deriveRegion",
+      "ranges": [{ "startOffset": 6255, "endOffset": 6434, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

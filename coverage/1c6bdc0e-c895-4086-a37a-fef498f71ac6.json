@@ -1,0 +1,36 @@
+{
+  "scriptId": "541",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/distinct.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2654, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2653, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DistinctOperation",
+      "ranges": [{ "startOffset": 1018, "endOffset": 1234, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 1239, "endOffset": 1291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 1296, "endOffset": 2351, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

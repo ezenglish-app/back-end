@@ -1,0 +1,36 @@
+{
+  "scriptId": "525",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/get_more.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2976, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2975, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2911, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "GetMoreOperation",
+      "ranges": [{ "startOffset": 614, "endOffset": 806, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 811, "endOffset": 862, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 1044, "endOffset": 2694, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

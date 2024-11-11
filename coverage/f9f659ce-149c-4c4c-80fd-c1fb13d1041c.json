@@ -1,0 +1,178 @@
+{
+  "scriptId": "610",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/server.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 15086, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 15085, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 15021, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Server",
+      "ranges": [
+        { "startOffset": 1484, "endOffset": 3265, "count": 6 },
+        { "startOffset": 2017, "endOffset": 2089, "count": 84 },
+        { "startOffset": 2264, "endOffset": 2389, "count": 0 },
+        { "startOffset": 2546, "endOffset": 2621, "count": 18 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2051, "endOffset": 2077, "count": 40 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2158, "endOffset": 2230, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2583, "endOffset": 2609, "count": 14 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2661, "endOffset": 2702, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2764, "endOffset": 3257, "count": 5 },
+        { "startOffset": 3118, "endOffset": 3247, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get clusterTime",
+      "ranges": [{ "startOffset": 3270, "endOffset": 3337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set clusterTime",
+      "ranges": [{ "startOffset": 3342, "endOffset": 3427, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get description",
+      "ranges": [{ "startOffset": 3432, "endOffset": 3492, "count": 63 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 3497, "endOffset": 3558, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get autoEncrypter",
+      "ranges": [{ "startOffset": 3563, "endOffset": 3727, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get loadBalanced",
+      "ranges": [{ "startOffset": 3732, "endOffset": 3844, "count": 49 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "connect",
+      "ranges": [
+        { "startOffset": 3896, "endOffset": 4436, "count": 6 },
+        { "startOffset": 3960, "endOffset": 3991, "count": 0 },
+        { "startOffset": 4299, "endOffset": 4430, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "destroy",
+      "ranges": [
+        { "startOffset": 4482, "endOffset": 4827, "count": 3 },
+        { "startOffset": 4546, "endOffset": 4577, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "requestCheck",
+      "ranges": [{ "startOffset": 4971, "endOffset": 5079, "count": 14 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "command",
+      "ranges": [
+        { "startOffset": 5084, "endOffset": 8042, "count": 8 },
+        { "startOffset": 5185, "endOffset": 5287, "count": 0 },
+        { "startOffset": 5383, "endOffset": 5450, "count": 0 },
+        { "startOffset": 6058, "endOffset": 6117, "count": 0 },
+        { "startOffset": 6190, "endOffset": 6208, "count": 7 },
+        { "startOffset": 6385, "endOffset": 6419, "count": 0 },
+        { "startOffset": 6421, "endOffset": 6480, "count": 0 },
+        { "startOffset": 6507, "endOffset": 6757, "count": 0 },
+        { "startOffset": 7007, "endOffset": 7131, "count": 0 },
+        { "startOffset": 7150, "endOffset": 7864, "count": 0 },
+        { "startOffset": 7941, "endOffset": 7959, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "handleError",
+      "ranges": [{ "startOffset": 8105, "endOffset": 10122, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decorateCommandError",
+      "ranges": [{ "startOffset": 10253, "endOffset": 12462, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decrementOperationCount",
+      "ranges": [{ "startOffset": 12546, "endOffset": 12624, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "incrementOperationCount",
+      "ranges": [{ "startOffset": 12708, "endOffset": 12786, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "markServerUnknown",
+      "ranges": [{ "startOffset": 13302, "endOffset": 13751, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPinnableCommand",
+      "ranges": [{ "startOffset": 13752, "endOffset": 14131, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connectionIsStale",
+      "ranges": [{ "startOffset": 14132, "endOffset": 14380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shouldHandleStateChangeError",
+      "ranges": [{ "startOffset": 14381, "endOffset": 14599, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inActiveTransaction",
+      "ranges": [{ "startOffset": 14600, "endOffset": 14743, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isRetryableWritesEnabled",
+      "ranges": [{ "startOffset": 14884, "endOffset": 14984, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

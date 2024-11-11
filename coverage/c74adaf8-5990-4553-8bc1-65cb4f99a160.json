@@ -1,0 +1,16 @@
+{
+  "scriptId": "429",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/dayStart.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 211, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dayStart",
+      "ranges": [{ "startOffset": 54, "endOffset": 150, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

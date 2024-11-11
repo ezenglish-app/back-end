@@ -1,0 +1,31 @@
+{
+  "scriptId": "596",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/providers/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1886, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1885, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1821, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isEmptyCredentials",
+      "ranges": [{ "startOffset": 769, "endOffset": 1012, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "refreshKMSCredentials",
+      "ranges": [{ "startOffset": 1230, "endOffset": 1785, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

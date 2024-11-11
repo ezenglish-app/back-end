@@ -1,0 +1,81 @@
+{
+  "scriptId": "577",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/punycode/2.3.1/punycode.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 13014, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 13013, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 12949, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "error",
+      "ranges": [{ "startOffset": 1366, "endOffset": 1427, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 1705, "endOffset": 1869, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapDomain",
+      "ranges": [{ "startOffset": 2214, "endOffset": 2730, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ucs2decode",
+      "ranges": [{ "startOffset": 3283, "endOffset": 4007, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ucs2encode",
+      "ranges": [{ "startOffset": 4288, "endOffset": 4337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "basicToDigit",
+      "ranges": [{ "startOffset": 4714, "endOffset": 4986, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "digitToBasic",
+      "ranges": [{ "startOffset": 5508, "endOffset": 5660, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "adapt",
+      "ranges": [{ "startOffset": 5808, "endOffset": 6139, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [{ "startOffset": 6404, "endOffset": 8529, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encode",
+      "ranges": [{ "startOffset": 8821, "endOffset": 11000, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toUnicode",
+      "ranges": [{ "startOffset": 11475, "endOffset": 11635, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toASCII",
+      "ranges": [{ "startOffset": 12111, "endOffset": 12257, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

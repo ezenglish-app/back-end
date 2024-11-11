@@ -1,0 +1,26 @@
+{
+  "scriptId": "628",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/plain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1300, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1299, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1235, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "auth",
+      "ranges": [{ "startOffset": 562, "endOffset": 1174, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

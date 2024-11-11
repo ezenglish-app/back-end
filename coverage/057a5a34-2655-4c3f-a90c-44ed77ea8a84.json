@@ -1,0 +1,36 @@
+{
+  "scriptId": "527",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/resource_management.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2852, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2851, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2787, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "configureResourceManagement",
+      "ranges": [{ "startOffset": 480, "endOffset": 827, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "asyncDispose",
+      "ranges": [{ "startOffset": 634, "endOffset": 722, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "configureExplicitResourceManagement",
+      "ranges": [{ "startOffset": 1593, "endOffset": 2737, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

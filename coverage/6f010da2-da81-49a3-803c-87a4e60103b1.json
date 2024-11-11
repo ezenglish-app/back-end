@@ -1,0 +1,66 @@
+{
+  "scriptId": "513",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/delete.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4523, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4522, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4458, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DeleteOperation",
+      "ranges": [{ "startOffset": 658, "endOffset": 829, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 834, "endOffset": 884, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get canRetryWrite",
+      "ranges": [{ "startOffset": 889, "endOffset": 1083, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 1088, "endOffset": 2186, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DeleteOneOperation",
+      "ranges": [{ "startOffset": 2287, "endOffset": 2440, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 2445, "endOffset": 2877, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DeleteManyOperation",
+      "ranges": [{ "startOffset": 2985, "endOffset": 3121, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 3126, "endOffset": 3558, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeDeleteStatement",
+      "ranges": [{ "startOffset": 3612, "endOffset": 3927, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

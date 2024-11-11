@@ -1,0 +1,980 @@
+[
+  {
+    "uuid": "e514606f-c6df-4e56-96e9-f059d7b46691",
+    "english": "air conditioner",
+    "spanish": "aire acondicionado",
+    "pronunciation": "/ˈɛr kənˌdɪʃənər/"
+  },
+  {
+    "uuid": "eef11d52-830a-4097-b73c-b169cc70b70e",
+    "english": "alarm clock",
+    "spanish": "despertador",
+    "pronunciation": "/əˈlɑːrm klɑːk/"
+  },
+  {
+    "uuid": "536c3fb5-5579-4064-a4ef-e6273573faa2",
+    "english": "attic",
+    "spanish": "ático",
+    "pronunciation": "/ˈætɪk/"
+  },
+  {
+    "uuid": "26f47aa0-ba2a-4a87-a7c8-42a8ec1f687c",
+    "english": "balcony",
+    "spanish": "balcón",
+    "pronunciation": "/ˈbælkəni/"
+  },
+  {
+    "uuid": "ec1bec71-c689-4f30-8c6b-2ee8cda3a6d3",
+    "english": "bandage",
+    "spanish": "vendaje",
+    "pronunciation": "/ˈbændɪdʒ/"
+  },
+  {
+    "uuid": "52bb2d4b-d648-4676-9487-885264de1d1b",
+    "english": "bar",
+    "spanish": "bar",
+    "pronunciation": "/bɑːr/"
+  },
+  {
+    "uuid": "e4a65a79-b38c-4967-9980-201617e95e16",
+    "english": "basement",
+    "spanish": "sótano",
+    "pronunciation": "/ˈbeɪsmənt/"
+  },
+  {
+    "uuid": "21c2083d-9d72-49f5-8083-317c6baaa58a",
+    "english": "bathroom",
+    "spanish": "baño",
+    "pronunciation": "/ˈbæθˌruːm/"
+  },
+  {
+    "uuid": "7cbf7a9d-66f8-410c-b1b2-b4ac96d96c11",
+    "english": "battery",
+    "spanish": "batería",
+    "pronunciation": "/ˈbætəri/"
+  },
+  {
+    "uuid": "f772c96b-7082-4af3-a98d-35e99eecefb0",
+    "english": "bed",
+    "spanish": "cama",
+    "pronunciation": "/bɛd/"
+  },
+  {
+    "uuid": "301ea3d1-dce5-4588-89bd-86558af475c3",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "pronunciation": "/ˈbɛdˌruːm/"
+  },
+  {
+    "uuid": "967f9dad-0bbd-45da-9e31-4c34f9a61429",
+    "english": "billiard room",
+    "spanish": "sala de billar",
+    "pronunciation": "/ˈbɪljərd ruːm/"
+  },
+  {
+    "uuid": "dbe7b4ae-d876-4bec-ab7a-9af78f346396",
+    "english": "binder",
+    "spanish": "carpeta de anillas",
+    "pronunciation": "/ˈbaɪndər/"
+  },
+  {
+    "uuid": "10100040-e8c5-47d5-bbe4-ba6f46ee8fa1",
+    "english": "blanket",
+    "spanish": "manta",
+    "pronunciation": "/ˈblæŋkɪt/"
+  },
+  {
+    "uuid": "4c2c446a-460f-45fb-9a99-f188a1edc4bc",
+    "english": "blender",
+    "spanish": "licuadora",
+    "pronunciation": "/ˈblɛndər/"
+  },
+  {
+    "uuid": "addbed6b-7fdb-48ef-98b1-be575c4d216a",
+    "english": "book",
+    "spanish": "libro",
+    "pronunciation": "/bʊk/"
+  },
+  {
+    "uuid": "36105913-d655-4c6e-b22b-61016bfb8afe",
+    "english": "breakfast nook",
+    "spanish": "rincón de desayuno",
+    "pronunciation": "/ˈbrɛkfəst nʊk/"
+  },
+  {
+    "uuid": "7c0e4f49-dedd-4432-b7cf-fc3b5d4a15f6",
+    "english": "broom",
+    "spanish": "escoba",
+    "pronunciation": "/bruːm/"
+  },
+  {
+    "uuid": "67663116-b5d6-4906-8af6-8354d7429b5c",
+    "english": "brush",
+    "spanish": "cepillo",
+    "pronunciation": "/brʌʃ/"
+  },
+  {
+    "uuid": "f3500958-ca6c-4690-b3dc-81c8c41913cf",
+    "english": "bucket",
+    "spanish": "cubo",
+    "pronunciation": "/ˈbʌkɪt/"
+  },
+  {
+    "uuid": "2edc6515-7367-4e98-a088-83e5edcfaeb9",
+    "english": "butler's pantry",
+    "spanish": "despensa del mayordomo",
+    "pronunciation": "/ˈbʌtlərz ˈpæntri/"
+  },
+  {
+    "uuid": "069fdb7d-abbf-408b-a603-d840093382fb",
+    "english": "cabinet",
+    "spanish": "gabinete",
+    "pronunciation": "/ˈkæbɪnɪt/"
+  },
+  {
+    "uuid": "076430ef-01d6-4ec0-aa78-a1e1a7b4c2e0",
+    "english": "calendar",
+    "spanish": "calendario",
+    "pronunciation": "/ˈkælənˌdɛr/"
+  },
+  {
+    "uuid": "be578b18-eb21-4a7a-8f3e-0c565f331c45",
+    "english": "candle",
+    "spanish": "vela",
+    "pronunciation": "/ˈkændəl/"
+  },
+  {
+    "uuid": "3e093368-e142-46cd-96c4-5b5e1732bf7a",
+    "english": "carport",
+    "spanish": "cochera",
+    "pronunciation": "/ˈkɑːrˌpɔːrt/"
+  },
+  {
+    "uuid": "d4bc9958-f59f-4e15-98c2-7b12559847b3",
+    "english": "ceiling",
+    "spanish": "techo",
+    "pronunciation": "/ˈsiːlɪŋ/"
+  },
+  {
+    "uuid": "a2fc7b98-a526-4e75-adac-5b17b66dc549",
+    "english": "cellar",
+    "spanish": "bodega",
+    "pronunciation": "/ˈsɛlər/"
+  },
+  {
+    "uuid": "56f92487-3c7b-41df-ad12-ed707795426c",
+    "english": "chair",
+    "spanish": "silla",
+    "pronunciation": "/tʃɛər/"
+  },
+  {
+    "uuid": "d9827723-cc97-4caa-9218-828b5b6253e4",
+    "english": "charger",
+    "spanish": "cargador",
+    "pronunciation": "/ˈtʃɑːrdʒər/"
+  },
+  {
+    "uuid": "59cf055e-26b5-4799-beb7-5d1aff96eb5b",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "pronunciation": "/ˈtʃɪmni/"
+  },
+  {
+    "uuid": "88d2f0e2-fc2a-4a49-8365-527bbde957fe",
+    "english": "clock",
+    "spanish": "reloj",
+    "pronunciation": "/klɑːk/"
+  },
+  {
+    "uuid": "69d16b0e-99dc-4a5d-95f3-afcd97354d60",
+    "english": "closet",
+    "spanish": "armario",
+    "pronunciation": "/ˈklɑːzɪt/"
+  },
+  {
+    "uuid": "42d155f7-af38-452a-806e-245332b47b1f",
+    "english": "comb",
+    "spanish": "peine",
+    "pronunciation": "/koʊm/"
+  },
+  {
+    "uuid": "36661bee-a65b-4143-9760-ae99276931d7",
+    "english": "computer",
+    "spanish": "computadora",
+    "pronunciation": "/kəmˈpjuːtər/"
+  },
+  {
+    "uuid": "148a1089-143d-4993-9b1e-1a0af251d03c",
+    "english": "conditioner",
+    "spanish": "acondicionador",
+    "pronunciation": "/kənˈdɪʃənər/"
+  },
+  {
+    "uuid": "0ab8ecda-2df4-49d1-b829-81ccd4f9956d",
+    "english": "conservatory",
+    "spanish": "invernadero",
+    "pronunciation": "/kənˈsɜːrvətɔːri/"
+  },
+  {
+    "uuid": "40527da2-1e93-498c-82a6-800d99ef652a",
+    "english": "courtyard",
+    "spanish": "patio",
+    "pronunciation": "/ˈkɔːrtˌjɑːrd/"
+  },
+  {
+    "uuid": "363aa99e-7ebe-41cc-878f-688bdd2533af",
+    "english": "craft room",
+    "spanish": "sala de manualidades",
+    "pronunciation": "/kræft ruːm/"
+  },
+  {
+    "uuid": "467b977c-6507-48e5-b239-1f5d57d2dda1",
+    "english": "crawl space",
+    "spanish": "espacio de rastreo",
+    "pronunciation": "/krɔːl speɪs/"
+  },
+  {
+    "uuid": "138b451c-b3fc-464a-a3e1-ee051451720b",
+    "english": "curtain",
+    "spanish": "cortina",
+    "pronunciation": "/ˈkɜːrtən/"
+  },
+  {
+    "uuid": "ea67970a-6c2e-4232-87f2-0b04257ea7db",
+    "english": "deck",
+    "spanish": "cubierta",
+    "pronunciation": "/dɛk/"
+  },
+  {
+    "uuid": "8bd9717f-adb1-4758-b385-3d0a1325a1ee",
+    "english": "dining room",
+    "spanish": "comedor",
+    "pronunciation": "/ˈdaɪnɪŋ ruːm/"
+  },
+  {
+    "uuid": "cbe80d91-8b4b-4c4e-9586-503c204c4adc",
+    "english": "dishwasher",
+    "spanish": "lavavajillas",
+    "pronunciation": "/ˈdɪʃˌwɑːʃər/"
+  },
+  {
+    "uuid": "b7fa48ed-4187-4454-aca1-e22ca960e823",
+    "english": "door",
+    "spanish": "puerta",
+    "pronunciation": "/dɔːr/"
+  },
+  {
+    "uuid": "1bdbca03-c80c-4405-98a2-edc1150cafef",
+    "english": "drawer",
+    "spanish": "cajón",
+    "pronunciation": "/drɔːr/"
+  },
+  {
+    "uuid": "af2b4620-6d23-45a7-88d1-ea4cf3194a75",
+    "english": "driveway",
+    "spanish": "entrada de coches",
+    "pronunciation": "/ˈdraɪvˌweɪ/"
+  },
+  {
+    "uuid": "6fca9667-c562-4548-a320-9f02422232b7",
+    "english": "dryer",
+    "spanish": "secadora",
+    "pronunciation": "/ˈdraɪər/"
+  },
+  {
+    "uuid": "1af60138-626a-46d6-a51f-8659a98e5704",
+    "english": "entryway",
+    "spanish": "entrada",
+    "pronunciation": "/ˈɛntriˌweɪ/"
+  },
+  {
+    "uuid": "7b372036-f15d-4c2e-b18d-ac4efd226406",
+    "english": "envelope",
+    "spanish": "sobre",
+    "pronunciation": "/ˈɛnvəˌloʊp/"
+  },
+  {
+    "uuid": "aa3b714b-4b31-4500-b5f3-14eac4935409",
+    "english": "exercise room",
+    "spanish": "sala de ejercicios",
+    "pronunciation": "/ˈɛksərˌsaɪz ruːm/"
+  },
+  {
+    "uuid": "683062e0-126e-4293-b8d3-9a4db0435e21",
+    "english": "extension cord",
+    "spanish": "cable de extensión",
+    "pronunciation": "/ɪkˈstɛnʃən kɔːrd/"
+  },
+  {
+    "uuid": "829f3a1a-d54d-4974-85c8-e6ab036cd019",
+    "english": "family room",
+    "spanish": "sala familiar",
+    "pronunciation": "/ˈfæmɪli ruːm/"
+  },
+  {
+    "uuid": "79791492-a518-4169-8bd1-50d4db9a8aa0",
+    "english": "fan",
+    "spanish": "ventilador",
+    "pronunciation": "/fæn/"
+  },
+  {
+    "uuid": "18306c65-8ccf-4f71-87d1-c10d070e3499",
+    "english": "fence",
+    "spanish": "cerca",
+    "pronunciation": "/fɛns/"
+  },
+  {
+    "uuid": "9befd9e2-4f51-43c9-b072-e38598446caf",
+    "english": "fire extinguisher",
+    "spanish": "extintor",
+    "pronunciation": "/ˈfaɪər ɪkˈstɪŋɡwɪʃər/"
+  },
+  {
+    "uuid": "e8738b2e-3098-4faf-b8ba-c527b7730251",
+    "english": "fireplace",
+    "spanish": "chimenea",
+    "pronunciation": "/ˈfaɪərˌpleɪs/"
+  },
+  {
+    "uuid": "9154029c-3776-410b-a7d7-2402b6ab3f9d",
+    "english": "first aid kit",
+    "spanish": "botiquín de primeros auxilios",
+    "pronunciation": "/fɜːrst eɪd kɪt/"
+  },
+  {
+    "uuid": "09807d55-42b8-4afa-98d4-def07dd5d788",
+    "english": "flashlight",
+    "spanish": "linterna",
+    "pronunciation": "/ˈflæʃˌlaɪt/"
+  },
+  {
+    "uuid": "c012df83-da7f-42e7-8fdc-8f1d41e64059",
+    "english": "floor",
+    "spanish": "suelo",
+    "pronunciation": "/flɔːr/"
+  },
+  {
+    "uuid": "b2dabe9b-f2aa-457c-8ffc-ec0f8c344a3d",
+    "english": "flower",
+    "spanish": "flor",
+    "pronunciation": "/ˈflaʊər/"
+  },
+  {
+    "uuid": "f5044a65-ef15-4bfb-ac9a-0e511b835c1c",
+    "english": "folder",
+    "spanish": "carpeta",
+    "pronunciation": "/ˈfoʊldər/"
+  },
+  {
+    "uuid": "6bcd8c99-7cf6-43a1-b5e3-2cb664ab64f8",
+    "english": "foyer",
+    "spanish": "vestíbulo",
+    "pronunciation": "/ˈfɔɪər/"
+  },
+  {
+    "uuid": "d1b09a28-0304-494d-a330-f689da5b5298",
+    "english": "game room",
+    "spanish": "sala de juegos",
+    "pronunciation": "/ɡeɪm ruːm/"
+  },
+  {
+    "uuid": "b198b871-6bf9-4c14-a675-182492b76a3c",
+    "english": "garage",
+    "spanish": "garaje",
+    "pronunciation": "/ɡəˈrɑːʒ/"
+  },
+  {
+    "uuid": "684d5074-0d44-464d-93fb-23fb6753694c",
+    "english": "garden",
+    "spanish": "jardín",
+    "pronunciation": "/ˈɡɑːrdən/"
+  },
+  {
+    "uuid": "33c5efab-cf4e-4630-8714-30ec68dfd2cc",
+    "english": "gate",
+    "spanish": "portón",
+    "pronunciation": "/ɡeɪt/"
+  },
+  {
+    "uuid": "079fffa2-6e81-49ae-9e24-38e822b1318c",
+    "english": "gazebo",
+    "spanish": "mirador",
+    "pronunciation": "/ɡəˈziːboʊ/"
+  },
+  {
+    "uuid": "4a079901-0a6d-4c45-82ca-d98d7ac62c23",
+    "english": "glue",
+    "spanish": "pegamento",
+    "pronunciation": "/ɡluː/"
+  },
+  {
+    "uuid": "45a961c4-c327-46b1-8e73-be63425f7218",
+    "english": "greenhouse",
+    "spanish": "invernadero",
+    "pronunciation": "/ˈɡriːnˌhaʊs/"
+  },
+  {
+    "uuid": "2d2cc982-545b-447b-9fa2-36072d1ab360",
+    "english": "guest room",
+    "spanish": "habitación de invitados",
+    "pronunciation": "/ɡɛst ruːm/"
+  },
+  {
+    "uuid": "a160cd74-1577-43eb-9ab4-b5815091b718",
+    "english": "gym",
+    "spanish": "gimnasio",
+    "pronunciation": "/dʒɪm/"
+  },
+  {
+    "uuid": "9381a969-549d-47ad-867c-5df6726e4728",
+    "english": "hair dryer",
+    "spanish": "secador de pelo",
+    "pronunciation": "/ˈhɛər ˌdraɪər/"
+  },
+  {
+    "uuid": "a029571d-d40e-43c8-a764-7ac2b4733ce5",
+    "english": "hallway",
+    "spanish": "pasillo",
+    "pronunciation": "/ˈhɔːlweɪ/"
+  },
+  {
+    "uuid": "b2c3846f-3aa7-4701-95cd-2c63b01c2bf6",
+    "english": "heater",
+    "spanish": "calentador",
+    "pronunciation": "/ˈhiːtər/"
+  },
+  {
+    "uuid": "42bbc1f3-14fc-4735-89f1-4f71b6d8e2aa",
+    "english": "home theater",
+    "spanish": "cine en casa",
+    "pronunciation": "/hoʊm ˈθiːətər/"
+  },
+  {
+    "uuid": "6dafedd3-821e-44d7-9a26-ebd59c4553ae",
+    "english": "hot tub",
+    "spanish": "jacuzzi",
+    "pronunciation": "/hɑt tʌb/"
+  },
+  {
+    "uuid": "5042dc7e-4101-4aaf-b177-1af6cde9ad69",
+    "english": "iron",
+    "spanish": "plancha",
+    "pronunciation": "/ˈaɪərn/"
+  },
+  {
+    "uuid": "8dd84db8-f564-448b-b6f4-a4fc0e2cfbff",
+    "english": "ironing board",
+    "spanish": "tabla de planchar",
+    "pronunciation": "/ˈaɪərnɪŋ bɔːrd/"
+  },
+  {
+    "uuid": "09f3c925-50df-4cf3-b4c7-a4867625f390",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "pronunciation": "/ˈkɪtʃɪn/"
+  },
+  {
+    "uuid": "43dc300d-efd6-4041-9f7c-b9634935e98e",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "pronunciation": "/læmp/"
+  },
+  {
+    "uuid": "78a4d236-49f9-4420-b19d-60c0eeee4933",
+    "english": "landing",
+    "spanish": "rellano",
+    "pronunciation": "/ˈlændɪŋ/"
+  },
+  {
+    "uuid": "3c80cb61-5e59-4291-a072-cbaad6d66798",
+    "english": "laptop",
+    "spanish": "portátil",
+    "pronunciation": "/ˈlæpˌtɑːp/"
+  },
+  {
+    "uuid": "523cb3fc-33db-440e-afc0-ac8d4159b1eb",
+    "english": "laundry room",
+    "spanish": "lavadero",
+    "pronunciation": "/ˈlɔːndri ruːm/"
+  },
+  {
+    "uuid": "e5bcf494-c320-475f-a04d-a980332ef69e",
+    "english": "library",
+    "spanish": "biblioteca",
+    "pronunciation": "/ˈlaɪˌbrɛri/"
+  },
+  {
+    "uuid": "4304dda5-61a2-4a0d-9342-8392dd38e944",
+    "english": "light bulb",
+    "spanish": "bombilla",
+    "pronunciation": "/ˈlaɪt bʌlb/"
+  },
+  {
+    "uuid": "0e1407cf-4178-4556-88bb-cd71142d8349",
+    "english": "lighter",
+    "spanish": "encendedor",
+    "pronunciation": "/ˈlaɪtər/"
+  },
+  {
+    "uuid": "8ddf15c9-01f0-486f-9f20-2da8336b6f93",
+    "english": "living room",
+    "spanish": "sala de estar",
+    "pronunciation": "/ˈlɪvɪŋ ruːm/"
+  },
+  {
+    "uuid": "5c2e3648-c6a1-4364-8e8a-38c6458dca88",
+    "english": "loft",
+    "spanish": "desván",
+    "pronunciation": "/lɔːft/"
+  },
+  {
+    "uuid": "9c84dee6-5fba-46bd-b688-744bec0432a8",
+    "english": "magazine",
+    "spanish": "revista",
+    "pronunciation": "/ˈmæɡəˌziːn/"
+  },
+  {
+    "uuid": "56252f7e-b521-4ebd-a3cb-39062b9bbe09",
+    "english": "match",
+    "spanish": "cerilla",
+    "pronunciation": "/mætʃ/"
+  },
+  {
+    "uuid": "7ec7a81a-1963-4847-adfa-40ee0a170809",
+    "english": "media room",
+    "spanish": "sala de medios",
+    "pronunciation": "/ˈmiːdiə ruːm/"
+  },
+  {
+    "uuid": "a9bd6f42-122c-4ae3-9eaf-e4cdc1a7f1b9",
+    "english": "medicine",
+    "spanish": "medicina",
+    "pronunciation": "/ˈmɛdɪsɪn/"
+  },
+  {
+    "uuid": "59aef20b-2e85-4904-b0fc-29c59c7536b8",
+    "english": "mezzanine",
+    "spanish": "entresuelo",
+    "pronunciation": "/ˈmɛzəˌniːn/"
+  },
+  {
+    "uuid": "3118f175-66cb-477a-b631-7db3825fcde6",
+    "english": "microwave",
+    "spanish": "microondas",
+    "pronunciation": "/ˈmaɪkrəˌweɪv/"
+  },
+  {
+    "uuid": "69d2111a-a5d1-45b0-aebf-e22d4ee56c23",
+    "english": "mirror",
+    "spanish": "espejo",
+    "pronunciation": "/ˈmɪrər/"
+  },
+  {
+    "uuid": "d2e37e33-ac00-4b40-a489-549ee701ea47",
+    "english": "mop",
+    "spanish": "mopa",
+    "pronunciation": "/mɑːp/"
+  },
+  {
+    "uuid": "4d1b73f1-2b9d-46a0-9c28-e8fa155deff7",
+    "english": "mudroom",
+    "spanish": "sala de barro",
+    "pronunciation": "/ˈmʌdˌruːm/"
+  },
+  {
+    "uuid": "09c44f51-b8fe-4cf5-a630-a8f18fc9cd9e",
+    "english": "music room",
+    "spanish": "sala de música",
+    "pronunciation": "/ˈmjuːzɪk ruːm/"
+  },
+  {
+    "uuid": "c3408ce7-7bfb-4917-a543-a68f45bf1d9a",
+    "english": "nail clipper",
+    "spanish": "cortaúñas",
+    "pronunciation": "/neɪl ˈklɪpər/"
+  },
+  {
+    "uuid": "bf201b7b-ecca-4be9-938f-becb9b093ede",
+    "english": "newspaper",
+    "spanish": "periódico",
+    "pronunciation": "/ˈnuːzˌpeɪpər/"
+  },
+  {
+    "uuid": "c44f7cbd-ccb3-4de8-a503-696d17db31f4",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "pronunciation": "/ˈnoʊtˌbʊk/"
+  },
+  {
+    "uuid": "7913f1ca-e8cc-45c1-98ba-b434a49030ea",
+    "english": "nursery",
+    "spanish": "guardería",
+    "pronunciation": "/ˈnɜːrsəri/"
+  },
+  {
+    "uuid": "7c2a6135-883b-4ede-807a-c87f960cbdbb",
+    "english": "office",
+    "spanish": "oficina",
+    "pronunciation": "/ˈɔːfɪs/"
+  },
+  {
+    "uuid": "34a1f0cf-fa94-410c-9ea9-0124b19253f2",
+    "english": "outlet",
+    "spanish": "enchufe",
+    "pronunciation": "/ˈaʊtˌlɛt/"
+  },
+  {
+    "uuid": "ecf07066-012b-4c30-94f0-e61aeba24e32",
+    "english": "oven",
+    "spanish": "horno",
+    "pronunciation": "/ˈʌvən/"
+  },
+  {
+    "uuid": "d5761db4-7326-44f6-804c-01c951bd821d",
+    "english": "pantry",
+    "spanish": "despensa",
+    "pronunciation": "/ˈpæntri/"
+  },
+  {
+    "uuid": "466516b1-3c61-4ec9-8fa6-08c6298188fd",
+    "english": "paper",
+    "spanish": "papel",
+    "pronunciation": "/ˈpeɪpər/"
+  },
+  {
+    "uuid": "92b7d37c-cc8b-4278-8f41-82d14c0fc174",
+    "english": "patio",
+    "spanish": "patio",
+    "pronunciation": "/ˈpætiˌoʊ/"
+  },
+  {
+    "uuid": "493fad6c-c731-4a45-934d-6f1688cc28cb",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "pronunciation": "/pɛn/"
+  },
+  {
+    "uuid": "b8f6c1f7-e369-48dd-bf04-91c2e49c1c2c",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "pronunciation": "/ˈpɛnsəl/"
+  },
+  {
+    "uuid": "21cc7379-57e1-40e0-8b94-3aa8f5c70dd4",
+    "english": "phone",
+    "spanish": "teléfono",
+    "pronunciation": "/foʊn/"
+  },
+  {
+    "uuid": "2909269c-62d7-409b-a68b-a9e9d38444c4",
+    "english": "picture frame",
+    "spanish": "marco de fotos",
+    "pronunciation": "/ˈpɪktʃər freɪm/"
+  },
+  {
+    "uuid": "9cfad6dd-4863-4e32-a0e5-fb7224b6303b",
+    "english": "pillow",
+    "spanish": "almohada",
+    "pronunciation": "/ˈpɪloʊ/"
+  },
+  {
+    "uuid": "97f2f582-8b36-4e91-8f5c-241a18d17883",
+    "english": "plant",
+    "spanish": "planta",
+    "pronunciation": "/plænt/"
+  },
+  {
+    "uuid": "af78c182-6ed8-43f2-b66f-8792091825bc",
+    "english": "playroom",
+    "spanish": "sala de juegos",
+    "pronunciation": "/ˈpleɪˌruːm/"
+  },
+  {
+    "uuid": "7a87421f-073e-41b3-beb5-654c25d2ab88",
+    "english": "pool",
+    "spanish": "piscina",
+    "pronunciation": "/puːl/"
+  },
+  {
+    "uuid": "7a9f1983-1506-4807-ad11-dcb5d4622c17",
+    "english": "porch",
+    "spanish": "porche",
+    "pronunciation": "/pɔːrtʃ/"
+  },
+  {
+    "uuid": "ecce7edc-05f6-4ac1-8aba-d3044effba29",
+    "english": "razor",
+    "spanish": "maquinilla de afeitar",
+    "pronunciation": "/ˈreɪzər/"
+  },
+  {
+    "uuid": "faf7381d-71d4-4592-8ab3-b329f2984bb0",
+    "english": "recycling bin",
+    "spanish": "cubo de reciclaje",
+    "pronunciation": "/rɪˈsaɪklɪŋ bɪn/"
+  },
+  {
+    "uuid": "266ceedc-aa6f-4e4f-af75-129eb34e6929",
+    "english": "refrigerator",
+    "spanish": "refrigerador",
+    "pronunciation": "/rɪˈfrɪdʒəˌreɪtər/"
+  },
+  {
+    "uuid": "35ac31c6-3b54-47b5-ad85-c71749aa21a4",
+    "english": "remote control",
+    "spanish": "control remoto",
+    "pronunciation": "/rɪˈmoʊt kənˈtroʊl/"
+  },
+  {
+    "uuid": "b2d169da-10a2-43ff-8033-0eb1034cb78e",
+    "english": "roof",
+    "spanish": "techo",
+    "pronunciation": "/ruːf/"
+  },
+  {
+    "uuid": "a44561aa-c3bd-4d36-aa66-20beec4d1aef",
+    "english": "rug",
+    "spanish": "alfombra",
+    "pronunciation": "/rʌɡ/"
+  },
+  {
+    "uuid": "36e7a057-b3aa-4d3a-a345-c6598d9fa2e1",
+    "english": "sauna",
+    "spanish": "sauna",
+    "pronunciation": "/ˈsɔːnə/"
+  },
+  {
+    "uuid": "8cb56b2d-9e27-4917-adfa-a855a76f3cca",
+    "english": "scales",
+    "spanish": "balanza",
+    "pronunciation": "/skeɪlz/"
+  },
+  {
+    "uuid": "701fdd7d-8c54-4a05-9001-af8f9677583b",
+    "english": "scissors",
+    "spanish": "tijeras",
+    "pronunciation": "/ˈsɪzərz/"
+  },
+  {
+    "uuid": "5be6ae9f-5580-4dc5-b2b5-80a4b586b9fa",
+    "english": "sewing room",
+    "spanish": "sala de costura",
+    "pronunciation": "/ˈsoʊɪŋ ruːm/"
+  },
+  {
+    "uuid": "ce29bbc2-6446-4f5f-8e0c-0f1459ac34fe",
+    "english": "shampoo",
+    "spanish": "champú",
+    "pronunciation": "/ʃæmˈpuː/"
+  },
+  {
+    "uuid": "f65687a1-206e-427f-a56c-f225f05b398b",
+    "english": "shaving cream",
+    "spanish": "crema de afeitar",
+    "pronunciation": "/ˈʃeɪvɪŋ kriːm/"
+  },
+  {
+    "uuid": "494e66cb-8ecb-4dd3-b02e-4d11e4d5f46f",
+    "english": "shed",
+    "spanish": "cobertizo",
+    "pronunciation": "/ʃɛd/"
+  },
+  {
+    "uuid": "3b3631fe-dcad-4990-8c0e-1e0941fb53b9",
+    "english": "shelf",
+    "spanish": "estante",
+    "pronunciation": "/ʃɛlf/"
+  },
+  {
+    "uuid": "c228c62c-2db0-46b4-834c-99330de2f101",
+    "english": "sink",
+    "spanish": "fregadero",
+    "pronunciation": "/sɪŋk/"
+  },
+  {
+    "uuid": "a786b064-d70c-4a6e-a3cb-e6f7671f2bea",
+    "english": "soap",
+    "spanish": "jabón",
+    "pronunciation": "/soʊp/"
+  },
+  {
+    "uuid": "66f8833a-af59-4b0b-9c12-63a35c5baa95",
+    "english": "sofa",
+    "spanish": "sofá",
+    "pronunciation": "/ˈsoʊfə/"
+  },
+  {
+    "uuid": "1cfdc4fa-3604-4cec-b551-ece42b5bdb2f",
+    "english": "stairs",
+    "spanish": "escaleras",
+    "pronunciation": "/stɛərz/"
+  },
+  {
+    "uuid": "3242c403-c7f9-485b-abbb-12bbfdfb2a0d",
+    "english": "stapler",
+    "spanish": "engrapadora",
+    "pronunciation": "/ˈsteɪplər/"
+  },
+  {
+    "uuid": "cfaaf4ab-28e1-40f3-b6d5-9b5b0aaa8d56",
+    "english": "stove",
+    "spanish": "estufa",
+    "pronunciation": "/stoʊv/"
+  },
+  {
+    "uuid": "2fc4f714-5547-45cc-a246-18890a643f8f",
+    "english": "studio",
+    "spanish": "estudio",
+    "pronunciation": "/ˈstuːdiˌoʊ/"
+  },
+  {
+    "uuid": "38522734-f34f-49da-af63-27c308d2dc38",
+    "english": "study",
+    "spanish": "estudio",
+    "pronunciation": "/ˈstʌdi/"
+  },
+  {
+    "uuid": "4fa3f2cf-8757-410b-9790-b3dec9eeb249",
+    "english": "sunroom",
+    "spanish": "solárium",
+    "pronunciation": "/ˈsʌnˌruːm/"
+  },
+  {
+    "uuid": "854fca7a-3205-4dcf-a900-bfa332a3c4fe",
+    "english": "switch",
+    "spanish": "interruptor",
+    "pronunciation": "/swɪtʃ/"
+  },
+  {
+    "uuid": "3f70aa65-9b40-4e0e-98eb-a200ea15e037",
+    "english": "table",
+    "spanish": "mesa",
+    "pronunciation": "/ˈteɪbəl/"
+  },
+  {
+    "uuid": "77b94ac2-8c25-42be-bc67-bbefe88f88c6",
+    "english": "tablet",
+    "spanish": "tableta",
+    "pronunciation": "/ˈtæblɪt/"
+  },
+  {
+    "uuid": "e1783ee4-a3a5-422a-b2db-b7a07d1eed37",
+    "english": "tape",
+    "spanish": "cinta",
+    "pronunciation": "/teɪp/"
+  },
+  {
+    "uuid": "254c7ad0-f83d-48b0-8ee6-c465c35a7760",
+    "english": "television",
+    "spanish": "televisión",
+    "pronunciation": "/ˈtɛləˌvɪʒən/"
+  },
+  {
+    "uuid": "dc532d3f-ecc1-422c-8db6-df68c0ae9137",
+    "english": "terrace",
+    "spanish": "terraza",
+    "pronunciation": "/ˈtɛrəs/"
+  },
+  {
+    "uuid": "a57d070c-0359-4b5b-a196-2aa2224bbb08",
+    "english": "thermometer",
+    "spanish": "termómetro",
+    "pronunciation": "/θərˈmɑːmɪtər/"
+  },
+  {
+    "uuid": "3edab1ed-dcfd-40ed-8263-3440e7a0e9a3",
+    "english": "toaster",
+    "spanish": "tostadora",
+    "pronunciation": "/ˈtoʊstər/"
+  },
+  {
+    "uuid": "29e2da48-8e7c-4b67-9f2d-e4e5cdff0677",
+    "english": "toothbrush",
+    "spanish": "cepillo de dientes",
+    "pronunciation": "/ˈtuːθˌbrʌʃ/"
+  },
+  {
+    "uuid": "bc4d29de-e6e0-4be3-8a67-f78ab99db9a1",
+    "english": "toothpaste",
+    "spanish": "pasta de dientes",
+    "pronunciation": "/ˈtuːθˌpeɪst/"
+  },
+  {
+    "uuid": "a826aa9f-199b-4700-a6c4-9a2f8f135183",
+    "english": "towel",
+    "spanish": "toalla",
+    "pronunciation": "/ˈtaʊəl/"
+  },
+  {
+    "uuid": "7ab86174-e60a-4cb6-900c-48116c03f320",
+    "english": "trash can",
+    "spanish": "basurero",
+    "pronunciation": "/ˈtræʃ kæn/"
+  },
+  {
+    "uuid": "90e804fa-029b-497e-9089-7cf4b4fcee7b",
+    "english": "tweezers",
+    "spanish": "pinzas",
+    "pronunciation": "/ˈtwiːzərz/"
+  },
+  {
+    "uuid": "8a1e1c2a-8612-4ec8-86b3-d8a372f3f543",
+    "english": "utility room",
+    "spanish": "cuarto de servicio",
+    "pronunciation": "/juːˈtɪləti ruːm/"
+  },
+  {
+    "uuid": "9b8452d8-cf57-4676-ba13-10fe6f0e86d3",
+    "english": "vacuum cleaner",
+    "spanish": "aspiradora",
+    "pronunciation": "/ˈvækjuːm ˈkliːnər/"
+  },
+  {
+    "uuid": "b77051e4-a149-4e70-8aa8-3ba7f5538737",
+    "english": "vase",
+    "spanish": "jarrón",
+    "pronunciation": "/veɪs/"
+  },
+  {
+    "uuid": "5d6a260e-5e23-4472-9d07-bc0c9475dfc3",
+    "english": "veranda",
+    "spanish": "veranda",
+    "pronunciation": "/vəˈrændə/"
+  },
+  {
+    "uuid": "ac9be15f-c8f3-4329-ab45-261bdd10932f",
+    "english": "wall",
+    "spanish": "pared",
+    "pronunciation": "/wɔːl/"
+  },
+  {
+    "uuid": "482c5af8-23b5-4f87-9beb-9dcc7e352a83",
+    "english": "washing machine",
+    "spanish": "lavadora",
+    "pronunciation": "/ˈwɑːʃɪŋ məˌʃiːn/"
+  },
+  {
+    "uuid": "d003348d-3be3-4d18-aa92-8469ebf423e8",
+    "english": "window",
+    "spanish": "ventana",
+    "pronunciation": "/ˈwɪndoʊ/"
+  },
+  {
+    "uuid": "fd272e5c-90ad-4f7a-96a5-f31ccdbb81a8",
+    "english": "wine cellar",
+    "spanish": "bodega de vinos",
+    "pronunciation": "/waɪn ˈsɛlər/"
+  },
+  {
+    "uuid": "bfd1e482-825a-4aa1-9cd2-6b9f0f9b2e75",
+    "english": "wine room",
+    "spanish": "sala de vinos",
+    "pronunciation": "/waɪn ruːm/"
+  },
+  {
+    "uuid": "e6e9ec04-0773-4b3a-bb8c-65d7446496d9",
+    "english": "workshop",
+    "spanish": "taller",
+    "pronunciation": "/ˈwɜːrkˌʃɑːp/"
+  }
+]

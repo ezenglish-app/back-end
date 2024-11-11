@@ -1,0 +1,36 @@
+{
+  "scriptId": "548",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/search_indexes/create.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1303, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1302, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1238, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CreateSearchIndexesOperation",
+      "ranges": [{ "startOffset": 501, "endOffset": 643, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 648, "endOffset": 711, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 716, "endOffset": 1130, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

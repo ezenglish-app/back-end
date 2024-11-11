@@ -1,0 +1,54 @@
+{
+  "scriptId": "607",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/stream_description.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2894, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2893, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2829, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StreamDescription",
+      "ranges": [
+        { "startOffset": 726, "endOffset": 1426, "count": 7 },
+        { "startOffset": 1375, "endOffset": 1379, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "receiveResponse",
+      "ranges": [
+        { "startOffset": 1431, "endOffset": 2327, "count": 7 },
+        { "startOffset": 1489, "endOffset": 1520, "count": 0 },
+        { "startOffset": 1767, "endOffset": 1836, "count": 0 },
+        { "startOffset": 1882, "endOffset": 2177, "count": 42 },
+        { "startOffset": 2070, "endOffset": 2167, "count": 0 },
+        { "startOffset": 2212, "endOffset": 2321, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2268, "endOffset": 2306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseServerConnectionID",
+      "ranges": [
+        { "startOffset": 2352, "endOffset": 2731, "count": 7 },
+        { "startOffset": 2583, "endOffset": 2614, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

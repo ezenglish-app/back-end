@@ -1,0 +1,36 @@
+{
+  "scriptId": "496",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/common.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2068, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2067, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2003, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "drainTimerQueue",
+      "ranges": [{ "startOffset": 1490, "endOffset": 1586, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_advanceClusterTime",
+      "ranges": [
+        { "startOffset": 1667, "endOffset": 1966, "count": 11 },
+        { "startOffset": 1756, "endOffset": 1806, "count": 7 },
+        { "startOffset": 1806, "endOffset": 1964, "count": 4 },
+        { "startOffset": 1900, "endOffset": 1958, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

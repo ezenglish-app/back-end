@@ -1,0 +1,76 @@
+{
+  "scriptId": "555",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cursor/run_command_cursor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4269, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4268, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4204, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setComment",
+      "ranges": [{ "startOffset": 912, "endOffset": 1007, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setMaxTimeMS",
+      "ranges": [{ "startOffset": 1190, "endOffset": 1298, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setBatchSize",
+      "ranges": [{ "startOffset": 1441, "endOffset": 1544, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 1593, "endOffset": 1718, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withReadConcern",
+      "ranges": [{ "startOffset": 1828, "endOffset": 1989, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addCursorFlag",
+      "ranges": [{ "startOffset": 2108, "endOffset": 2275, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maxTimeMS",
+      "ranges": [{ "startOffset": 2383, "endOffset": 2567, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "batchSize",
+      "ranges": [{ "startOffset": 2675, "endOffset": 2859, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RunCommandCursor",
+      "ranges": [{ "startOffset": 2885, "endOffset": 3107, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initialize",
+      "ranges": [{ "startOffset": 3133, "endOffset": 3655, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getMore",
+      "ranges": [{ "startOffset": 3681, "endOffset": 4108, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

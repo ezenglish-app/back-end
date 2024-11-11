@@ -1,0 +1,71 @@
+{
+  "scriptId": "563",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cmap/auth/gssapi.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6059, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6058, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5994, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "externalCommand",
+      "ranges": [{ "startOffset": 878, "endOffset": 1045, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "auth",
+      "ranges": [{ "startOffset": 1111, "endOffset": 2106, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeKerberosClient",
+      "ranges": [{ "startOffset": 2134, "endOffset": 3429, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "saslStart",
+      "ranges": [{ "startOffset": 3430, "endOffset": 3574, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "saslContinue",
+      "ranges": [{ "startOffset": 3575, "endOffset": 3710, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "negotiate",
+      "ranges": [{ "startOffset": 3711, "endOffset": 4119, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalize",
+      "ranges": [{ "startOffset": 4120, "endOffset": 4302, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "performGSSAPICanonicalizeHostName",
+      "ranges": [{ "startOffset": 4303, "endOffset": 5540, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveCname",
+      "ranges": [{ "startOffset": 5541, "endOffset": 5833, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadKrb",
+      "ranges": [{ "startOffset": 5872, "endOffset": 5957, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

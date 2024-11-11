@@ -1,0 +1,66 @@
+{
+  "scriptId": "592",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/client-side-encryption/auto_encrypter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11935, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 11934, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 11870, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMongoCrypt",
+      "ranges": [{ "startOffset": 1337, "endOffset": 1564, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AutoEncrypter",
+      "ranges": [{ "startOffset": 3583, "endOffset": 7773, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "init",
+      "ranges": [{ "startOffset": 7980, "endOffset": 9168, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "teardown",
+      "ranges": [{ "startOffset": 9244, "endOffset": 9326, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encrypt",
+      "ranges": [{ "startOffset": 9395, "endOffset": 10408, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decrypt",
+      "ranges": [{ "startOffset": 10463, "endOffset": 10971, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "askForKMSCredentials",
+      "ranges": [{ "startOffset": 11221, "endOffset": 11338, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get cryptSharedLibVersionInfo",
+      "ranges": [{ "startOffset": 11539, "endOffset": 11637, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get libmongocryptVersion",
+      "ranges": [{ "startOffset": 11649, "endOffset": 11750, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

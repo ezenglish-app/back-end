@@ -1,0 +1,21 @@
+{
+  "scriptId": "443",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/parse.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4962, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [{ "startOffset": 406, "endOffset": 3646, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseParts",
+      "ranges": [{ "startOffset": 3647, "endOffset": 4893, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

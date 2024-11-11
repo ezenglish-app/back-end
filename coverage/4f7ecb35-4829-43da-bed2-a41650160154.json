@@ -1,0 +1,112 @@
+{
+  "scriptId": "495",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/server_selection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10686, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 10685, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 10621, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "writableServerSelector",
+      "ranges": [{ "startOffset": 1017, "endOffset": 1223, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sameServerSelector",
+      "ranges": [{ "startOffset": 1360, "endOffset": 1787, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "secondaryWritableServerSelector",
+      "ranges": [{ "startOffset": 1915, "endOffset": 2479, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maxStalenessReducer",
+      "ranges": [{ "startOffset": 2973, "endOffset": 5199, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tagSetMatch",
+      "ranges": [{ "startOffset": 5366, "endOffset": 5715, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tagSetReducer",
+      "ranges": [{ "startOffset": 6012, "endOffset": 6647, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "latencyWindowReducer",
+      "ranges": [{ "startOffset": 7107, "endOffset": 7516, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "primaryFilter",
+      "ranges": [{ "startOffset": 7528, "endOffset": 7620, "count": 38 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "secondaryFilter",
+      "ranges": [{ "startOffset": 7621, "endOffset": 7717, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nearestFilter",
+      "ranges": [{ "startOffset": 7718, "endOffset": 7861, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "knownFilter",
+      "ranges": [{ "startOffset": 7862, "endOffset": 7950, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadBalancerFilter",
+      "ranges": [{ "startOffset": 7951, "endOffset": 8051, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readPreferenceServerSelector",
+      "ranges": [
+        { "startOffset": 8205, "endOffset": 10574, "count": 8 },
+        { "startOffset": 8296, "endOffset": 8393, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readPreferenceServers",
+      "ranges": [
+        { "startOffset": 8405, "endOffset": 10571, "count": 12 },
+        { "startOffset": 8591, "endOffset": 8635, "count": 0 },
+        { "startOffset": 8636, "endOffset": 8700, "count": 0 },
+        { "startOffset": 8702, "endOffset": 8870, "count": 0 },
+        { "startOffset": 8948, "endOffset": 9014, "count": 0 },
+        { "startOffset": 9087, "endOffset": 9121, "count": 0 },
+        { "startOffset": 9193, "endOffset": 9295, "count": 0 },
+        { "startOffset": 9368, "endOffset": 9680, "count": 0 },
+        { "startOffset": 9847, "endOffset": 10157, "count": 0 },
+        { "startOffset": 10158, "endOffset": 10175, "count": 0 },
+        { "startOffset": 10439, "endOffset": 10470, "count": 0 },
+        { "startOffset": 10472, "endOffset": 10570, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 9414, "endOffset": 9495, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

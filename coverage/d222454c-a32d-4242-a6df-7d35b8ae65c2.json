@@ -1,0 +1,16 @@
+{
+  "scriptId": "465",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/diffDays.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 340, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "diffDays",
+      "ranges": [{ "startOffset": 123, "endOffset": 279, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

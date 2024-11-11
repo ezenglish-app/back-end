@@ -1,0 +1,66 @@
+{
+  "scriptId": "551",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/cursor/change_stream_cursor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4416, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4415, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4351, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ChangeStreamCursor",
+      "ranges": [{ "startOffset": 758, "endOffset": 1257, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set resumeToken",
+      "ranges": [{ "startOffset": 1262, "endOffset": 1404, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get resumeToken",
+      "ranges": [{ "startOffset": 1409, "endOffset": 1468, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get resumeOptions",
+      "ranges": [{ "startOffset": 1473, "endOffset": 2206, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cacheResumeToken",
+      "ranges": [{ "startOffset": 2211, "endOffset": 2489, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_processBatch",
+      "ranges": [{ "startOffset": 2494, "endOffset": 2799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 2804, "endOffset": 2949, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initialize",
+      "ranges": [{ "startOffset": 2954, "endOffset": 3898, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getMore",
+      "ranges": [{ "startOffset": 3903, "endOffset": 4249, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

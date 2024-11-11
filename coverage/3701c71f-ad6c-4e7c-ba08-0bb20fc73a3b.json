@@ -1,0 +1,25 @@
+{
+  "scriptId": "425",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/date.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 648, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalize",
+      "ranges": [{ "startOffset": 70, "endOffset": 251, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "date",
+      "ranges": [
+        { "startOffset": 252, "endOffset": 595, "count": 4 },
+        { "startOffset": 289, "endOffset": 334, "count": 0 },
+        { "startOffset": 440, "endOffset": 594, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

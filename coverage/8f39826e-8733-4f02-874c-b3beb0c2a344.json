@@ -1,0 +1,16 @@
+{
+  "scriptId": "483",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/@formkit/tempo/0.1.2/dist/deviceLocale.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 176, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deviceLocale",
+      "ranges": [{ "startOffset": 23, "endOffset": 107, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

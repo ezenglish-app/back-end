@@ -1,0 +1,64 @@
+{
+  "scriptId": "506",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/command.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3738, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3737, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 3673, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CommandOperation",
+      "ranges": [
+        { "startOffset": 759, "endOffset": 1890, "count": 6 },
+        { "startOffset": 845, "endOffset": 850, "count": 0 },
+        { "startOffset": 1159, "endOffset": 1246, "count": 0 },
+        { "startOffset": 1307, "endOffset": 1350, "count": 2 },
+        { "startOffset": 1367, "endOffset": 1414, "count": 4 },
+        { "startOffset": 1641, "endOffset": 1884, "count": 3 },
+        { "startOffset": 1763, "endOffset": 1884, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get canRetryWrite",
+      "ranges": [
+        { "startOffset": 1895, "endOffset": 2071, "count": 6 },
+        { "startOffset": 1977, "endOffset": 2070, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "executeCommand",
+      "ranges": [
+        { "startOffset": 2076, "endOffset": 3588, "count": 4 },
+        { "startOffset": 2447, "endOffset": 2478, "count": 1 },
+        { "startOffset": 2509, "endOffset": 2556, "count": 0 },
+        { "startOffset": 2557, "endOffset": 2574, "count": 0 },
+        { "startOffset": 2576, "endOffset": 2654, "count": 0 },
+        { "startOffset": 2690, "endOffset": 2764, "count": 0 },
+        { "startOffset": 2766, "endOffset": 2824, "count": 0 },
+        { "startOffset": 2855, "endOffset": 2908, "count": 3 },
+        { "startOffset": 2909, "endOffset": 2926, "count": 2 },
+        { "startOffset": 2928, "endOffset": 3011, "count": 2 },
+        { "startOffset": 3042, "endOffset": 3094, "count": 0 },
+        { "startOffset": 3095, "endOffset": 3160, "count": 0 },
+        { "startOffset": 3162, "endOffset": 3239, "count": 0 },
+        { "startOffset": 3291, "endOffset": 3349, "count": 0 },
+        { "startOffset": 3409, "endOffset": 3424, "count": 1 },
+        { "startOffset": 3426, "endOffset": 3508, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

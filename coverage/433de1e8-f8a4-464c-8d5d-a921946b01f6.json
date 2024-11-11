@@ -1,0 +1,36 @@
+{
+  "scriptId": "556",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/operations/collections.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1501, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1500, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1436, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CollectionsOperation",
+      "ranges": [{ "startOffset": 531, "endOffset": 641, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [{ "startOffset": 646, "endOffset": 705, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [{ "startOffset": 710, "endOffset": 1339, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

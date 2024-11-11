@@ -1,0 +1,26 @@
+{
+  "scriptId": "322",
+  "url": "file:///home/juanca/Projects/english-api/src/router/vocabulary.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1181, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 76, "endOffset": 325, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 350, "endOffset": 619, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 635, "endOffset": 1158, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

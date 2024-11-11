@@ -1,0 +1,69 @@
+{
+  "scriptId": "609",
+  "url": "file:///home/juanca/.cache/deno/npm/registry.npmjs.org/mongodb/6.9.0/lib/sdam/events.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4838, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4837, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4773, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerDescriptionChangedEvent",
+      "ranges": [{ "startOffset": 867, "endOffset": 1176, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerOpeningEvent",
+      "ranges": [{ "startOffset": 1379, "endOffset": 1562, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerClosedEvent",
+      "ranges": [{ "startOffset": 1737, "endOffset": 1919, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TopologyDescriptionChangedEvent",
+      "ranges": [{ "startOffset": 2118, "endOffset": 2413, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TopologyOpeningEvent",
+      "ranges": [{ "startOffset": 2624, "endOffset": 2768, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TopologyClosedEvent",
+      "ranges": [{ "startOffset": 2951, "endOffset": 3094, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerHeartbeatStartedEvent",
+      "ranges": [{ "startOffset": 3409, "endOffset": 3608, "count": 9 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerHeartbeatSucceededEvent",
+      "ranges": [
+        { "startOffset": 3832, "endOffset": 4118, "count": 5 },
+        { "startOffset": 4074, "endOffset": 4079, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerHeartbeatFailedEvent",
+      "ranges": [{ "startOffset": 4386, "endOffset": 4669, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
